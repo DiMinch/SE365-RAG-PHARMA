@@ -1,0 +1,10 @@
+[project]
+name = "pharma-rag"
+version = "0.1.0"
+description = "Vietnamese Pharmaceutical RAG & Verification System"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "ignore::urllib3.exceptions.InsecureRequestWarning",
+]

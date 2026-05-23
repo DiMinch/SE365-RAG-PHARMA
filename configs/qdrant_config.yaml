@@ -1,0 +1,14 @@
+# Qdrant connection parameters
+connection:
+  host: "localhost"
+  port: 6333
+  grpc_port: 6334
+  prefer_grpc: false
+  timeout: 10.0
+
+collection:
+  name: "pharma_corpus"
+  vector_size: 384  # Must match the embedding model dimension
+  distance: "Cosine"
+  hnsw_m: 16
+  hnsw_ef: 64

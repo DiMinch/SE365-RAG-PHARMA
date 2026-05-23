@@ -1,0 +1,12 @@
+# Base configurations for chunking, embedding model, and retrieval
+embedding:
+  model_name: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  dimension: 384
+
+chunking:
+  chunk_size: 500
+  chunk_overlap: 50
+
+retrieval:
+  top_k: 5
+  score_threshold: 0.65
