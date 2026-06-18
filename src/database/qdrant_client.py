@@ -1,5 +1,6 @@
 import uuid
 import hashlib
+import logging
 from typing import List, Dict, Any, Optional, Literal
 from qdrant_client import QdrantClient
 from qdrant_client.http import models as rest_models
@@ -8,6 +9,8 @@ from sentence_transformers import SentenceTransformer
 from src.models.drug import Drug
 from src.utils.config import get_base_config, get_qdrant_config
 from src.database.bm25_index import BM25Index
+
+logger = logging.getLogger("PharmaQdrantClient")
 
 class PharmaQdrantClient:
     """
@@ -231,7 +234,7 @@ class PharmaQdrantClient:
                 collection_name=self.collection_name,
                 points=points
             )
-            print(f"[Qdrant Client] Successfully upserted {len(points)} chunks for drug: {drug.metadata.name}")
+            logger.info("[Qdrant Client] Successfully upserted %d chunks for drug: %s", len(points), drug.metadata.name)
             
         return len(points)
 

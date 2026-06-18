@@ -213,9 +213,14 @@ class DataPipeline:
         for fpath in files:
             try:
                 with open(fpath, encoding="utf-8") as f:
-                    raw = json.load(f)
-                self.stats["crawled"] += 1
-                self._process(raw, normalizer)
+                    data = json.load(f)
+                if isinstance(data, list):
+                    for item in data:
+                        self.stats["crawled"] += 1
+                        self._process(item, normalizer)
+                else:
+                    self.stats["crawled"] += 1
+                    self._process(data, normalizer)
             except Exception as exc:
                 logger.error("[Pipeline] Failed to load %s: %s", fpath, exc)
                 self.stats["errors"] += 1
@@ -225,10 +230,14 @@ class DataPipeline:
     def _process(self, raw: Dict[str, Any], normalizer) -> bool:
         """Normalize, optionally validate, then upsert a single raw drug record."""
         try:
-            drug = normalizer(raw)
+            if "metadata" in raw and "sections" in raw:
+                drug = Drug.model_validate(raw)
+            else:
+                drug = normalizer(raw)
             self.stats["normalized"] += 1
         except Exception as exc:
-            logger.error("[Pipeline] Normalization failed for %s: %s", raw.get("name"), exc)
+            name = raw.get("name") or raw.get("metadata", {}).get("name") or "Unknown"
+            logger.error("[Pipeline] Normalization failed for %s: %s", name, exc)
             self.stats["errors"] += 1
             return False
 
