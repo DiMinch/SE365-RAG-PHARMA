@@ -86,6 +86,7 @@ class DAVValidator:
                     "active_ingredient": raw_ingredients,
                     "registration_no": sdk,
                     "dosage": basic_info.get("hamLuong"),
+                    "issue_date": ngay_cap,
                 }
         return None
 
@@ -210,6 +211,7 @@ class DAVValidator:
                         "active_ingredient": raw_ingredients,
                         "registration_no": sdk,
                         "dosage": basic_info.get("hamLuong"),
+                        "issue_date": reg_info.get("ngayCapSoDangKy"),
                     }
                     
         except Exception as e:

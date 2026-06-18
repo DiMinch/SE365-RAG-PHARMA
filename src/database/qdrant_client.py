@@ -1,12 +1,13 @@
 import uuid
 import hashlib
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any, Optional, Literal
 from qdrant_client import QdrantClient
 from qdrant_client.http import models as rest_models
 from sentence_transformers import SentenceTransformer
 
 from src.models.drug import Drug
 from src.utils.config import get_base_config, get_qdrant_config
+from src.database.bm25_index import BM25Index
 
 class PharmaQdrantClient:
     """
@@ -33,6 +34,9 @@ class PharmaQdrantClient:
         # Lazy load embedding model to save memory during initialization
         self._model = None
         self.collection_name = self.qdrant_cfg["collection"]["name"]
+        
+        # Lazy BM25 index — built on first hybrid query
+        self._bm25: Optional[BM25Index] = None
         
     @property
     def model(self):
@@ -180,8 +184,10 @@ class PharmaQdrantClient:
                     "id": drug.metadata.id,
                     "name": drug.metadata.name,
                     "registration_number": drug.metadata.registration_number,
+                    "drug_type": drug.metadata.drug_type,
                     "drug_group_id": drug.metadata.drug_group_id,
                     "active_ingredient_list": [ai.model_dump() for ai in drug.metadata.active_ingredient_list],
+                    "herbal_ingredient_list": [hi.model_dump() for hi in drug.metadata.herbal_ingredient_list],
                     "strength": drug.metadata.strength,
                     "route_id": drug.metadata.route_id,
                     "prescription_status": drug.metadata.prescription_status,
@@ -199,7 +205,11 @@ class PharmaQdrantClient:
                     # Backward-compatibility fallback keys:
                     "drug_name": drug.metadata.name,
                     "registration_no": drug.metadata.registration_number,
-                    "active_ingredient": ", ".join([ai.name for ai in drug.metadata.active_ingredient_list]),
+                    "active_ingredient": (
+                        ", ".join([hi.name for hi in drug.metadata.herbal_ingredient_list])
+                        if drug.metadata.drug_type == "TRADITIONAL_MEDICINE"
+                        else ", ".join([ai.name for ai in drug.metadata.active_ingredient_list])
+                    ),
                     "dosage_form": drug.metadata.packagings[0].unit_name if drug.metadata.packagings else None,
                 }
                 
@@ -230,21 +240,30 @@ class PharmaQdrantClient:
         query: str, 
         top_k: Optional[int] = None, 
         section_filter: Optional[str] = None,
-        registration_no_filter: Optional[str] = None
+        registration_no_filter: Optional[str] = None,
+        drug_type_filter: Optional[str] = None,
+        retrieval_mode: Literal["dense", "bm25", "hybrid"] = "hybrid",
     ) -> List[Dict[str, Any]]:
         """
-        Query Qdrant for matches, returning scores and payloads.
-        Supports filtering by section name or registration number.
+        Query for matches using dense, BM25, or hybrid (RRF-fused) retrieval.
+
+        Args:
+            query: Natural language query string.
+            top_k: Number of results to return.
+            section_filter: Optionally restrict to a specific section name.
+            registration_no_filter: Optionally restrict to a specific drug SDK.
+            drug_type_filter: 'WESTERN_MEDICINE' | 'TRADITIONAL_MEDICINE' | None.
+            retrieval_mode: 'dense' | 'bm25' | 'hybrid'.
+
+        Returns:
+            List of dicts with keys 'id', 'score', 'payload'.
         """
         top_k = top_k or self.base_cfg["retrieval"]["top_k"]
         score_threshold = self.base_cfg["retrieval"]["score_threshold"]
-        
-        # Generate query embedding
-        query_vector = self.model.encode(query).tolist()
-        
-        # Build filter conditions
+
+        # ── Build Qdrant filter ────────────────────────────────────────
         must_filters = []
-        
+
         if section_filter:
             must_filters.append(
                 rest_models.FieldCondition(
@@ -252,7 +271,7 @@ class PharmaQdrantClient:
                     match=rest_models.MatchValue(value=section_filter)
                 )
             )
-            
+
         if registration_no_filter:
             must_filters.append(
                 rest_models.Filter(
@@ -268,24 +287,107 @@ class PharmaQdrantClient:
                     ]
                 )
             )
-            
+
+        if drug_type_filter:
+            must_filters.append(
+                rest_models.FieldCondition(
+                    key="drug_type",
+                    match=rest_models.MatchValue(value=drug_type_filter)
+                )
+            )
+
         qdrant_filter = rest_models.Filter(must=must_filters) if must_filters else None
-        
-        # Search Qdrant
-        results = self.client.search(
-            collection_name=self.collection_name,
-            query_vector=query_vector,
-            query_filter=qdrant_filter,
-            limit=top_k,
-            score_threshold=score_threshold
-        )
-        
-        formatted_results = []
-        for res in results:
-            formatted_results.append({
-                "id": res.id,
-                "score": res.score,
-                "payload": res.payload
-            })
-            
-        return formatted_results
+
+        # ── Dense retrieval ────────────────────────────────────────────
+        dense_results: List[Dict[str, Any]] = []
+        if retrieval_mode in ("dense", "hybrid"):
+            query_vector = self.model.encode(query).tolist()
+            raw = self.client.search(
+                collection_name=self.collection_name,
+                query_vector=query_vector,
+                query_filter=qdrant_filter,
+                limit=top_k * 3 if retrieval_mode == "hybrid" else top_k,
+                score_threshold=score_threshold if retrieval_mode == "dense" else 0.0,
+            )
+            dense_results = [{"id": r.id, "score": r.score, "payload": r.payload} for r in raw]
+
+        # ── BM25 retrieval ─────────────────────────────────────────────
+        bm25_results: List[Dict[str, Any]] = []
+        if retrieval_mode in ("bm25", "hybrid"):
+            self._ensure_bm25_built()
+            if self._bm25 and self._bm25.is_built():
+                bm25_results = self._bm25.search(query, top_k=top_k * 3)
+
+        # ── Reciprocal Rank Fusion (RRF) ───────────────────────────────
+        if retrieval_mode == "hybrid" and bm25_results:
+            return self._rrf_fuse(dense_results, bm25_results, top_k=top_k)
+        elif retrieval_mode == "bm25":
+            return bm25_results[:top_k]
+        else:
+            return dense_results[:top_k]
+
+    # ──────────────────────────────────────────────────────────────────
+    # Hybrid Helpers
+    # ──────────────────────────────────────────────────────────────────
+
+    def _rrf_fuse(
+        self,
+        dense: List[Dict[str, Any]],
+        bm25: List[Dict[str, Any]],
+        top_k: int,
+        k: int = 60,
+    ) -> List[Dict[str, Any]]:
+        """
+        Reciprocal Rank Fusion.
+        score_rrf(doc) = Σ 1 / (k + rank_i(doc))  for each ranking list i
+        """
+        scores: Dict[str, float] = {}
+        payloads: Dict[str, Dict] = {}
+
+        for rank, item in enumerate(dense):
+            doc_id = str(item["id"])
+            scores[doc_id] = scores.get(doc_id, 0.0) + 1.0 / (k + rank + 1)
+            payloads[doc_id] = item["payload"]
+
+        for rank, item in enumerate(bm25):
+            doc_id = str(item["id"])
+            scores[doc_id] = scores.get(doc_id, 0.0) + 1.0 / (k + rank + 1)
+            if doc_id not in payloads:
+                payloads[doc_id] = item["payload"]
+
+        sorted_ids = sorted(scores, key=lambda x: scores[x], reverse=True)[:top_k]
+        return [
+            {"id": doc_id, "score": scores[doc_id], "payload": payloads[doc_id]}
+            for doc_id in sorted_ids
+        ]
+
+    def _ensure_bm25_built(self) -> None:
+        """Build BM25 index from all Qdrant chunks if not already built."""
+        if self._bm25 and self._bm25.is_built():
+            return
+
+        print("[Qdrant Client] Building BM25 index from Qdrant collection...")
+        try:
+            all_docs = []
+            offset = None
+            while True:
+                result, offset = self.client.scroll(
+                    collection_name=self.collection_name,
+                    limit=500,
+                    offset=offset,
+                    with_payload=True,
+                    with_vectors=False,
+                )
+                if not result:
+                    break
+                for point in result:
+                    payload = point.payload or {}
+                    payload["id"] = str(point.id)
+                    all_docs.append(payload)
+                if offset is None:
+                    break
+
+            self._bm25 = BM25Index()
+            self._bm25.build(all_docs)
+        except Exception as exc:
+            print(f"[Qdrant Client] BM25 index build failed: {exc}")

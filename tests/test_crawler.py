@@ -1,5 +1,6 @@
 import pytest
 from src.crawler.dav_validator import DAVValidator
+from src.crawler.ydct_validator import YDCTValidator
 
 def test_normalization():
     validator = DAVValidator()
@@ -32,3 +33,23 @@ def test_invalid_validation():
     res = validator.validate("INVALID-SDK-12345")
     # Should not find a match
     assert res is None
+
+def test_ydct_normalization():
+    validator = YDCTValidator()
+    assert validator.normalize_reg_no("V246-H01-13") == "V246H0113"
+    assert validator.normalize_reg_no("VNB-1234-20") == "VNB123420"
+    assert validator.normalize_reg_no(None) == ""
+
+def test_ydct_invalid_validation():
+    validator = YDCTValidator()
+    res = validator.validate("INVALID-YDCT-999")
+    assert res is None
+
+def test_ydct_real_validation():
+    validator = YDCTValidator()
+    res = validator.validate("TCT-00289-25")
+    assert res is not None
+    assert res["valid"] is True
+    assert "B GIANG" in res["name"].upper() or "BÀ GIẰNG" in res["name"].upper()
+    assert len(res["herbal_ingredient_list"]) > 0
+

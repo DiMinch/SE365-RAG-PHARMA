@@ -6,6 +6,11 @@ class ActiveIngredient(BaseModel):
     name: str = Field(..., description="Tên hoạt chất")
     is_main_active_ingredient: bool = Field(True, description="Có phải hoạt chất chính không")
 
+class HerbalIngredient(BaseModel):
+    name: str = Field(..., description="Tên vị thuốc / thảo dược (VD: Cam thảo, Tri mẫu)")
+    amount: Optional[str] = Field(None, description="Hàm lượng / Khối lượng (VD: 0.5g, 10ml)")
+    role: Optional[str] = Field(None, description="Vai trò trong bài thuốc (VD: Quân / Thần / Tá / Sứ / chính / phụ)")
+
 class Manufacturer(BaseModel):
     id: Optional[str] = Field(None, description="Mã nhà sản xuất")
     name: str = Field(..., description="Tên nhà sản xuất")
@@ -22,9 +27,16 @@ class DrugMetadata(BaseModel):
     id: Optional[str] = Field(None, description="Mã định danh thuốc")
     name: str = Field(..., description="Tên thuốc")
     registration_number: str = Field(..., description="Số giấy phép lưu hành / Số đăng ký")
+    drug_type: str = Field("WESTERN_MEDICINE", description="Loại thuốc: WESTERN_MEDICINE hoặc TRADITIONAL_MEDICINE")
     drug_group_id: Optional[str] = Field(None, description="Mã nhóm thuốc")
+    
+    # Western medicine specific
     active_ingredient_list: List[ActiveIngredient] = Field(default_factory=list, description="Danh sách các hoạt chất")
     strength: Optional[str] = Field(None, description="Hàm lượng")
+    
+    # Traditional medicine specific
+    herbal_ingredient_list: List[HerbalIngredient] = Field(default_factory=list, description="Danh sách các vị thuốc thảo dược")
+    
     route_id: Optional[str] = Field(None, description="Mã đường dùng")
     prescription_status: int = Field(0, description="Phân loại thuốc kê đơn (0: không kê đơn, 1: kê đơn)")
     special_control_type: int = Field(0, description="Phân loại thuốc kiểm soát đặc biệt (0: không, 1-6: gây nghiện, hướng thần...)")
@@ -32,7 +44,6 @@ class DrugMetadata(BaseModel):
     manufacturer: Manufacturer = Field(..., description="Thông tin nhà sản xuất")
     approval_date: Optional[str] = Field(None, description="Ngày cấp số giấy phép lưu hành")
     expiry_date: Optional[str] = Field(None, description="Ngày hết hiệu lực lưu hành")
-    # Trường mở rộng
     registrant: Optional[str] = Field(None, description="Cơ sở đăng ký")
 
 class DosageContent(BaseModel):
@@ -46,9 +57,10 @@ class DrugSections(BaseModel):
     side_effects: Optional[str] = Field(None, description="Tác dụng phụ")
     interactions: Optional[str] = Field(None, description="Tương tác thuốc")
     warnings: Optional[str] = Field(None, description="Thận trọng / Cảnh báo")
-    pharmacology: Optional[str] = Field(None, description="Dược lực học")
+    pharmacology: Optional[str] = Field(None, description="Dược lực học / Tính vị quy kinh")
     pharmacokinetics: Optional[str] = Field(None, description="Dược động học")
 
 class Drug(BaseModel):
     metadata: DrugMetadata
     sections: DrugSections
+

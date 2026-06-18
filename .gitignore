@@ -44,7 +44,5 @@ ENV/bin/
 .env.local
 
 # Project specific data directories
-data/raw/
-data/processed/
-data/qdrant_storage/
+data/
 scratch/

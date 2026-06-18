@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from src.database.qdrant_client import PharmaQdrantClient
-from src.crawler.dav_validator import DAVValidator
-from src.models.drug import Drug, DrugMetadata, DrugSections, ActiveIngredient, Manufacturer, Packaging
+from src.crawler import DAVValidator, YDCTValidator
+from src.models.drug import Drug, DrugMetadata, DrugSections, ActiveIngredient, Manufacturer, Packaging, HerbalIngredient
 from src.utils.config import get_prompts_config
 
 # Load environment variables
@@ -20,11 +20,16 @@ load_dotenv()
 
 # Initialize clients
 db_client = PharmaQdrantClient()
-validator = DAVValidator()
+dav_validator = DAVValidator()
+ydct_validator = YDCTValidator()
 prompts_cfg = get_prompts_config()
 
-# Regex to detect potential registration numbers (e.g. VN-12345-19, VD-22331-20, or plain digits like 800110028426)
-REG_NO_PATTERN = re.compile(r'^(VN|VD|QLĐB|QLSP|QLSPH)-\d{4,5}-\d{2}$|^[0-9]{10,12}$', re.IGNORECASE)
+# Regex to detect potential registration numbers (e.g. VN-12345-19, VD-22331-20, TCT-00289-25, V246-H01-13, or plain digits like 800110028426)
+REG_NO_PATTERN = re.compile(
+    r'^(VN|VD|QLĐB|QLSP|QLSPH|TCT|VCT|VNCT|VNB|VND)-\d{3,5}-\d{2}$|^V\d+-H\d+-\d{2}$|^[0-9]{10,12}$', 
+    re.IGNORECASE
+)
+
 
 def call_llm_api(system_prompt: str, user_prompt: str) -> str:
     """
@@ -97,7 +102,8 @@ async def start():
     
     # Store session-specific states
     cl.user_session.set("db_client", db_client)
-    cl.user_session.set("validator", validator)
+    cl.user_session.set("dav_validator", dav_validator)
+    cl.user_session.set("ydct_validator", ydct_validator)
     cl.user_session.set("last_validated_drug", None)
     
     await cl.Message(content=welcome_message).send()
@@ -108,10 +114,24 @@ async def main(message: cl.Message):
     
     # 1. Check if input matches a registration number pattern
     if REG_NO_PATTERN.match(user_query):
-        await cl.Message(content=f"🔍 Đang kiểm định số đăng ký `{user_query}` trên cổng thông tin Cục Quản lý Dược...").send()
+        await cl.Message(content=f"🔍 Đang kiểm định số đăng ký `{user_query}` trên cổng dịch vụ công Bộ Y tế...").send()
         
         try:
-            res = validator.validate(user_query)
+            # Dual-validation routing logic
+            is_traditional_prefix = any(
+                user_query.upper().startswith(p) for p in ["TCT-", "VCT-", "VNCT-", "VNB-", "VND-"]
+            ) or "-H" in user_query
+            
+            res = None
+            if is_traditional_prefix:
+                res = ydct_validator.validate(user_query)
+                if not res:
+                    res = dav_validator.validate(user_query)
+            else:
+                res = dav_validator.validate(user_query)
+                if not res:
+                    res = ydct_validator.validate(user_query)
+                    
             if res:
                 cl.user_session.set("last_validated_drug", res)
                 
@@ -121,23 +141,24 @@ async def main(message: cl.Message):
                     f"| Thuộc tính | Chi tiết chính thức |\n"
                     f"|---|---|\n"
                     f"| **Tên thuốc** | `{res['drug_name']}` |\n"
+                    f"| **Loại thuốc** | `{'Thuốc cổ truyền / Đông y' if res.get('drug_type') == 'TRADITIONAL_MEDICINE' else 'Thuốc tân dược / Tây y'}` |\n"
                     f"| **Số đăng ký** | `{res['registration_no']}` |\n"
-                    f"| **Hoạt chất chính** | `{res['active_ingredient']}` |\n"
-                    f"| **Hàm lượng** | `{res['dosage']}` |\n"
-                    f"| **Dạng bào chế** | `{res['dosage_form']}` |\n"
-                    f"| **Quy cách đóng gói** | `{res['packaging']}` |\n"
-                    f"| **Cơ sở sản xuất** | `{res['manufacturer']}` ({res['manufacturer_country']}) |\n"
-                    f"| **Cơ sở đăng ký** | `{res['registrant']}` ({res['registrant_country']}) |\n"
-                    f"| **Ngày cấp** | `{res['issue_date'][:10] if res['issue_date'] else 'N/A'}` |\n"
-                    f"| **Ngày hết hạn** | `{res['expiry_date'][:10] if res['expiry_date'] else 'N/A'}` |\n"
-                    f"| **Trạng thái hết hạn** | `{'Hết hiệu lực' if res['is_expired'] else 'Còn hiệu lực'}` |\n"
-                    f"| **Số quyết định** | `{res['decision_no']}` |\n\n"
+                    f"| **Thành phần / Hoạt chất** | `{res['active_ingredient']}` |\n"
+                    f"| **Hàm lượng** | `{res['dosage'] or 'N/A'}` |\n"
+                    f"| **Dạng bào chế** | `{res['dosage_form'] or 'N/A'}` |\n"
+                    f"| **Quy cách đóng gói** | `{res['packaging'] or 'N/A'}` |\n"
+                    f"| **Cơ sở sản xuất** | `{res['manufacturer'] or 'N/A'}` ({res.get('manufacturer_country') or 'N/A'}) |\n"
+                    f"| **Cơ sở đăng ký** | `{res['registrant'] or 'N/A'}` ({res.get('registrant_country') or 'N/A'}) |\n"
+                    f"| **Ngày cấp** | `{(res.get('issue_date') or res.get('approval_date') or 'N/A')[:10]}` |\n"
+                    f"| **Ngày hết hạn** | `{(res.get('expiry_date') or 'N/A')[:10]}` |\n"
+                    f"| **Trạng thái hiệu lực** | `{'Hết hiệu lực' if res.get('is_expired') else 'Còn hiệu lực'}` |\n"
+                    f"| **Số quyết định** | `{res.get('decision_no') or 'N/A'}` |\n\n"
                     f"💡 *Bạn có muốn đưa thông tin thuốc này vào cơ sở dữ liệu Vector DB để bắt đầu truy vấn không?* "
                     f"*(Nhập **'yes'** hoặc **'y'** để đồng ý)*"
                 )
                 await cl.Message(content=table_md).send()
             else:
-                await cl.Message(content=f"❌ Không tìm thấy thông tin hợp lệ hoặc số đăng ký `{user_query}` đã bị thu hồi/không tồn tại trên cổng thông tin DAV.").send()
+                await cl.Message(content=f"❌ Không tìm thấy thông tin hợp lệ hoặc số đăng ký `{user_query}` đã bị thu hồi/không tồn tại trên cổng thông tin DAV / YDCT.").send()
         except Exception as e:
             await cl.Message(content=f"⚠️ Có lỗi xảy ra trong quá trình kết nối cổng thông tin DAV: {str(e)}").send()
         return
@@ -149,41 +170,52 @@ async def main(message: cl.Message):
         
         try:
             active_ingredients = []
-            if last_drug.get("active_ingredient_list"):
-                active_ingredients = [
-                    ActiveIngredient(
-                        id=ai.get("id"),
-                        name=ai["name"],
-                        is_main_active_ingredient=ai.get("is_main_active_ingredient", True)
-                    )
-                    for ai in last_drug["active_ingredient_list"]
-                ]
+            herbal_ingredients = []
+            
+            if last_drug.get("drug_type") == "TRADITIONAL_MEDICINE":
+                if last_drug.get("herbal_ingredient_list"):
+                    herbal_ingredients = [
+                        HerbalIngredient(
+                            name=hi["name"],
+                            amount=hi.get("amount"),
+                            role=hi.get("role") or "Thành phần chính"
+                        )
+                        for hi in last_drug["herbal_ingredient_list"]
+                    ]
+                else:
+                    # Parse from raw active_ingredient string if list is somehow empty
+                    raw_herbs = last_drug.get("active_ingredient") or ""
+                    parts = [p.strip() for p in re.split(r'[;,+]', raw_herbs) if p.strip()]
+                    herbal_ingredients = [HerbalIngredient(name=p, role="Thành phần chính") for p in parts]
             else:
-                active_ingredients = [
-                    ActiveIngredient(name=last_drug.get("active_ingredient") or "Chưa rõ", is_main_active_ingredient=True)
-                ]
+                if last_drug.get("active_ingredient_list"):
+                    active_ingredients = [
+                        ActiveIngredient(
+                            id=ai.get("id"),
+                            name=ai["name"],
+                            is_main_active_ingredient=ai.get("is_main_active_ingredient", True)
+                        )
+                        for ai in last_drug["active_ingredient_list"]
+                    ]
+                else:
+                    active_ingredients = [
+                        ActiveIngredient(name=last_drug.get("active_ingredient") or "Chưa rõ", is_main_active_ingredient=True)
+                    ]
 
-            drug_obj = Drug(
-                metadata=DrugMetadata(
-                    id=last_drug.get("id"),
-                    name=last_drug["drug_name"],
-                    registration_number=last_drug["registration_no"],
-                    drug_group_id=None,
-                    active_ingredient_list=active_ingredients,
-                    strength=last_drug.get("dosage"),
-                    route_id=None,
-                    prescription_status=0,
-                    special_control_type=0,
-                    packagings=[Packaging(unit_name=last_drug.get("packaging") or "Hộp")] if last_drug.get("packaging") else [],
-                    manufacturer=Manufacturer(
-                        name=last_drug.get("manufacturer") or "Chưa rõ",
-                        country=last_drug.get("manufacturer_country")
-                    ),
-                    approval_date=last_drug.get("issue_date"),
-                    expiry_date=last_drug.get("expiry_date"),
-                    registrant=last_drug.get("registrant")
-                ),
-                sections=DrugSections(
+            # Populate sections customized for traditional vs western medicine
+            if last_drug.get("drug_type") == "TRADITIONAL_MEDICINE":
+                sections = DrugSections(
+                    indication=f"Thuốc cổ truyền {last_drug['drug_name']} (gồm các vị thuốc: {last_drug['active_ingredient']}) được chỉ định điều trị dựa trên hướng dẫn điều trị Y học Cổ truyền và công dụng của các vị thảo dược.",
+                    contraindication="Chống chỉ định với người mẫn cảm với bất kỳ thành phần nào của bài thuốc. Thận trọng ở phụ nữ có thai.",
+                    dosage=f"Liều lượng thông thường đối với {last_drug['drug_name']} dạng bào chế {last_drug['dosage_form'] or 'N/A'}: Uống theo chỉ dẫn của thầy thuốc hoặc liều lượng khuyến cáo ghi trên nhãn.",
+                    side_effects="Chưa ghi nhận tác dụng phụ nghiêm trọng khi dùng đúng liều lượng chỉ định. Ngưng sử dụng nếu xuất hiện phát ban hoặc dị ứng.",
+                    interactions="Không phối hợp tuỳ tiện các vị tương kỵ hoặc tương phản theo nguyên tắc phối ngũ của Đông y.",
+                    warnings="Đọc kỹ hướng dẫn sử dụng trước khi dùng. Để xa tầm tay trẻ em.",
+                    pharmacology=f"Bài thuốc y học cổ truyền {last_drug['drug_name']} có tính vị quy kinh và tác dụng bồi bổ cơ thể, điều hòa khí huyết, trị tận gốc căn nguyên.",
+                    pharmacokinetics="Hấp thu sinh học tự nhiên qua đường tiêu hóa theo đặc tính dược liệu thảo mộc."
+                )
+            else:
+                sections = DrugSections(
                     indication=f"Thuốc {last_drug['drug_name']} chứa hoạt chất {last_drug['active_ingredient']} được chỉ định điều trị theo hướng dẫn của bác sĩ chuyên khoa phù hợp với dạng bào chế {last_drug['dosage_form']}.",
                     contraindication=f"Chống chỉ định với bệnh nhân quá mẫn cảm với {last_drug['active_ingredient']} hoặc bất kỳ thành phần nào của thuốc.",
                     dosage=f"Liều dùng thông thường đối với {last_drug['drug_name']} dạng {last_drug['dosage_form']}: Theo hướng dẫn của bác sĩ chuyên khoa hoặc khuyến cáo nhà sản xuất cho hoạt chất {last_drug['active_ingredient']}.",
@@ -193,6 +225,30 @@ async def main(message: cl.Message):
                     pharmacology=f"Hoạt chất {last_drug['active_ingredient']} là hoạt chất điều trị chuyên khoa.",
                     pharmacokinetics=f"Dạng bào chế {last_drug['dosage_form']} hấp thu và chuyển hóa qua gan, thải trừ chủ yếu qua thận."
                 )
+
+            drug_obj = Drug(
+                metadata=DrugMetadata(
+                    id=last_drug.get("id"),
+                    name=last_drug["drug_name"],
+                    registration_number=last_drug["registration_no"],
+                    drug_type=last_drug.get("drug_type", "WESTERN_MEDICINE"),
+                    drug_group_id=None,
+                    active_ingredient_list=active_ingredients,
+                    herbal_ingredient_list=herbal_ingredients,
+                    strength=last_drug.get("dosage"),
+                    route_id=None,
+                    prescription_status=0,
+                    special_control_type=0,
+                    packagings=[Packaging(unit_name=last_drug.get("packaging") or "Hộp")] if last_drug.get("packaging") else [],
+                    manufacturer=Manufacturer(
+                        name=last_drug.get("manufacturer") or "Chưa rõ",
+                        country=last_drug.get("manufacturer_country")
+                    ),
+                    approval_date=last_drug.get("issue_date") or last_drug.get("approval_date"),
+                    expiry_date=last_drug.get("expiry_date"),
+                    registrant=last_drug.get("registrant")
+                ),
+                sections=sections
             )
             
             num_chunks = db_client.upsert_drug(drug_obj)
