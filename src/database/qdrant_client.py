@@ -9,6 +9,7 @@ from sentence_transformers import SentenceTransformer
 from src.models.drug import Drug
 from src.utils.config import get_base_config, get_qdrant_config
 from src.database.bm25_index import BM25Index
+from src.utils.drug_synonym_resolver import get_synonym_resolver
 
 logger = logging.getLogger("PharmaQdrantClient")
 
@@ -22,24 +23,43 @@ class PharmaQdrantClient:
         # Load configurations
         self.base_cfg = get_base_config()
         self.qdrant_cfg = get_qdrant_config()
-        
-        # Override connection params if provided
-        host = host or self.qdrant_cfg["connection"]["host"]
-        port = port or self.qdrant_cfg["connection"]["port"]
-        
-        # Initialize clients
-        self.client = QdrantClient(
-            host=host,
-            port=port,
-            timeout=self.qdrant_cfg["connection"]["timeout"]
-        )
-        
+        conn = self.qdrant_cfg["connection"]
+
+        # ── Auto-select connection mode ────────────────────────────────
+        if host or port:
+            # Explicit override (e.g. in tests)
+            self.client = QdrantClient(
+                host=host or conn.get("host", "localhost"),
+                port=port or conn.get("port", 6333),
+                timeout=conn.get("timeout", 10.0),
+            )
+            logger.info("[Qdrant] LOCAL mode: %s:%s", host, port)
+        elif "url" in conn and "api_key" in conn:
+            # Qdrant Cloud mode
+            self.client = QdrantClient(
+                url=conn["url"],
+                api_key=conn["api_key"],
+                timeout=conn.get("timeout", 30.0),
+            )
+            logger.info("[Qdrant] CLOUD mode: %s", conn["url"])
+        else:
+            # Local Docker default
+            self.client = QdrantClient(
+                host=conn.get("host", "localhost"),
+                port=conn.get("port", 6333),
+                timeout=conn.get("timeout", 10.0),
+            )
+            logger.info("[Qdrant] LOCAL mode: %s:%s", conn.get("host"), conn.get("port"))
+
         # Lazy load embedding model to save memory during initialization
         self._model = None
         self.collection_name = self.qdrant_cfg["collection"]["name"]
-        
+
         # Lazy BM25 index — built on first hybrid query
         self._bm25: Optional[BM25Index] = None
+
+        # Lazy synonym resolver for query expansion
+        self._synonym_resolver = None
         
     @property
     def model(self):
@@ -299,27 +319,43 @@ class PharmaQdrantClient:
                 )
             )
 
+        query_vector = self.model.encode(query).tolist()
+
         qdrant_filter = rest_models.Filter(must=must_filters) if must_filters else None
 
+        # ── Query expansion via synonym resolver ─────────────────────
+        expanded_query = query
+        try:
+            if self._synonym_resolver is None:
+                self._synonym_resolver = get_synonym_resolver()
+            expanded_query = self._synonym_resolver.expand_query(query)
+        except Exception as exc:
+            logger.debug("Synonym expansion skipped: %s", exc)
+
+        # Use expanded query for BM25, original embedding for dense
+        # (embedding model handles semantic similarity already)
+
         # ── Dense retrieval ────────────────────────────────────────────
+        # qdrant-client >= 1.10: search() is replaced by query_points()
         dense_results: List[Dict[str, Any]] = []
         if retrieval_mode in ("dense", "hybrid"):
-            query_vector = self.model.encode(query).tolist()
-            raw = self.client.search(
+            response = self.client.query_points(
                 collection_name=self.collection_name,
-                query_vector=query_vector,
+                query=query_vector,
                 query_filter=qdrant_filter,
                 limit=top_k * 3 if retrieval_mode == "hybrid" else top_k,
                 score_threshold=score_threshold if retrieval_mode == "dense" else 0.0,
+                with_payload=True,
             )
-            dense_results = [{"id": r.id, "score": r.score, "payload": r.payload} for r in raw]
+            dense_results = [{"id": r.id, "score": r.score, "payload": r.payload} for r in response.points]
 
         # ── BM25 retrieval ─────────────────────────────────────────────
         bm25_results: List[Dict[str, Any]] = []
         if retrieval_mode in ("bm25", "hybrid"):
             self._ensure_bm25_built()
             if self._bm25 and self._bm25.is_built():
-                bm25_results = self._bm25.search(query, top_k=top_k * 3)
+                # Use expanded query for BM25 (keyword matching benefits from synonyms)
+                bm25_results = self._bm25.search(expanded_query, top_k=top_k * 3)
 
         # ── Reciprocal Rank Fusion (RRF) ───────────────────────────────
         if retrieval_mode == "hybrid" and bm25_results:
