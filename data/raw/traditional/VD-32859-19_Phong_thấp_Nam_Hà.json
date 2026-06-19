@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57752/phong-thap-nam-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong thấp Nam Hà",
+  "registration_number": "VD-32859-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "300 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Ngũ gia bì chân chim",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    }
+  ],
+  "sections": {}
+}

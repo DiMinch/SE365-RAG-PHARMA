@@ -1,0 +1,51 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-45111/hepa-world.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepa-World Samik Pharm",
+  "registration_number": "VN-17498-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Samik Pharma Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    },
+    {
+      "name": "Vitamin PP",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-801/vitamin-pp.aspx"
+    },
+    {
+      "name": "Vitamin B2",
+      "amount": "4mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
+    },
+    {
+      "name": "Pyridoxine",
+      "amount": "4mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2198/pyridoxine.aspx"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-225/cyanocobalamin.aspx"
+    },
+    {
+      "name": "Vitamin B1",
+      "amount": "4mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn tiêu hóa, kém ăn, suy nhược cơ thể... Bảo vệ tế bào gan trong các trường hợp sử dụng: Hóa chất, thuốc chữa bệnh... Bệnh nhân trong thời kỳ dưỡng bệnh, sau phẫu thuật, nhiễm trùng hoặc ốm kéo dài. Hỗ trợ điều trị trong viêm dây thần kinh, viêm đa dây thần kinh Tăng cường chức năng giải độc gan, hỗ trợ điều trị các trường hợp: trứng cá, mụn nhọt, dị ứng mãn tính... Rối loạn chức năng gan: Viêm gan, viêm gan virus, gan nhiễm mỡ, xơ gan.",
+    "contraindication": "Liều thường dùng: mỗi lần 1 viên, ngày 2 lần; Rối loạn chức năng gan: Ngày 3 lần, mỗi lần 1 viên."
+  }
+}

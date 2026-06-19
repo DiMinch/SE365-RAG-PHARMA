@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54470/an-than-hoa-linh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần hoa linh",
+  "registration_number": "VD-28434-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Hoa linh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tâm sen Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    }
+  ],
+  "sections": {}
+}

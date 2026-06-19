@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12363/bo-huyet-duong-than.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ huyết dưỡng thận",
+  "registration_number": "VD-0010-06",
+  "dosage_form": "Thuốc thang",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW2",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "164g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Ích trí nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2676/ich-tri-nhan.aspx"
+    },
+    {
+      "name": "Thỏ ty tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57753/phong-thap-vai-gay-phuoc-sanh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong thấp vai gáy phước sanh",
+  "registration_number": "VD-28578-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Khương hoàng Chính",
+      "amount": "167mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2548/khuong-hoang.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "167mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "63mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "167mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    }
+  ],
+  "sections": {}
+}

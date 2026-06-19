@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-23097/sonrimin-soft-capsule.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sonrimin Soft capsule",
+  "registration_number": "VN-4675-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Young IL Pharm Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Fursultiamine Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2213/fursultiamine.aspx"
+    },
+    {
+      "name": "Vitamin PP",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-801/vitamin-pp.aspx"
+    },
+    {
+      "name": "Vitamin B6",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-907/vitamin-b6.aspx"
+    },
+    {
+      "name": "Inositol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2239/inositol.aspx"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-225/cyanocobalamin.aspx"
+    },
+    {
+      "name": "Vitamin B2",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
+    }
+  ],
+  "sections": {}
+}

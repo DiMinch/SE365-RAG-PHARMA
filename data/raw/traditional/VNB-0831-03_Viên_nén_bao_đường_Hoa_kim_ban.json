@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3783/vien-nen-bao-duong-hoa-kim-ban.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên nén bao đường Hoa kim ban",
+  "registration_number": "VNB-0831-03",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10090/hepranyl.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepranyl",
+  "registration_number": "VNA-2404-04",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược và vật tư Y tế Cà Mau",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Làm giảm men gan & phục hồi chức năng gan. Dùng trong viêm gan siêu virus B mạn tính, mụn nhọt, mẫn ngứa.",
+    "contraindication": "Phụ nữ có thai. Ngưởi đang có bệnh chảy máu.",
+    "dosage": "- Người lớn: 2 - 3 viên, ngày 3 lần.\n- Trẻ em: dùng nửa liều người lớn."
+  }
+}

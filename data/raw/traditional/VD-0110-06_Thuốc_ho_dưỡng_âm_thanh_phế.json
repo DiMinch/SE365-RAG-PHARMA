@@ -1,0 +1,59 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19643/thuoc-ho-duong-am-thanh-phe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho dưỡng âm thanh phế",
+  "registration_number": "VD-0110-06",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Nhân Hòa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sinh địa Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Xuyên bối mẫu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2521/xuyen-boi-mau.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dưỡng âm nhuận phế. Chữa ho khan đờm đặc, rát cổ, phế nhiệt. Viêm amiđan, viêm họng mãn tính.",
+    "contraindication": "- Không dùng cho trẻ em dưới 1 tuổi, trường hợp tỳ vị hư hàn, ỉa chảy, ho do hàn.\n\n - Lời khuyến cáo :\n\n         + Đọc kỹ hướng dẫn sử dụng trước khi dùng\n\n         + nếu cần thông tin xin hỏi ý kiến bác sĩ",
+    "dosage": "Ngày uống 3 lần\n - Người lớn : Mỗi lần 20ml\n - Trẻ em :\n           + Từ 1 - 3 tuổi mỗi lần 5ml\n           + Từ 4 - 8 tuổi mỗi lần 10ml\n           + Từ 9 - 15 tuổi mỗi lần 15ml",
+    "side_effects": "Để trong lọ kín.Nơi khô ráo, thoáng mát."
+  }
+}

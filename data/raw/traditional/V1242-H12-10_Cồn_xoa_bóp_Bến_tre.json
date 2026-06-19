@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35347/con-xoa-bop-ben-tre.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cồn xoa bóp Bến tre",
+  "registration_number": "V1242-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Bến Tre Bepharco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "methyl salicylate Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

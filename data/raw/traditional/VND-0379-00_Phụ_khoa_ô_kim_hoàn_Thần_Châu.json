@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10669/phu-khoa-o-kim-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phụ khoa ô kim hoàn Thần Châu",
+  "registration_number": "VND-0379-00",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Cơ sở Thần Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ðương quy Chính",
+      "amount": "7g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ích mẫu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4840/hameselaphin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hameselaphin",
+  "registration_number": "VD-3174-07",
+  "dosage_form": "Kem bôi da",
+  "manufacturer": "Công ty cổ phần Dược phẩm Quảng Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diếp cá Chính",
+      "amount": "20g, 200g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2485/diep-ca.aspx"
+    },
+    {
+      "name": "Hoa hòe",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Bạch hoa xà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2356/bach-hoa-xa.aspx"
+    }
+  ],
+  "sections": {}
+}

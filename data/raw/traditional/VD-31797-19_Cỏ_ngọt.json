@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62823/co-ngot.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cỏ ngọt",
+  "registration_number": "VD-31797-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cỏ ngọt Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2470/co-ngot.aspx"
+    }
+  ],
+  "sections": {}
+}

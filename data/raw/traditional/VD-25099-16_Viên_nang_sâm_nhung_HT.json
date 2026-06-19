@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53102/vien-nang-sam-nhung-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên nang sâm nhung HT",
+  "registration_number": "VD-25099-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "20mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng: Thuốc bổ khí huyết. Chỉ định: Dùng trong các trường hợp khí huyết hư, suy nhược cơ thể, kém ăn, mệt mỏi, làm việc quá sức, người già, người mới ốm dậy.",
+    "side_effects": "Phụ nữ có thai và cho con bú. Người quá mẫn với bất cứ thành phần nào của thuốc.",
+    "interactions": "Mỗi lần uống 1 viên,  ngày  dùng 2 - 3 lần."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20301/cam-tich-tan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cam tích tán",
+  "registration_number": "VND-0472-00",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Cơ sở Sùng Nguyên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Binh lang Chính",
+      "amount": "0,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2391/binh-lang.aspx"
+    },
+    {
+      "name": "Thiên hoa phấn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2580/thien-hoa-phan.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14287/ong-hit-sao-vang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ông hít Sao vàng",
+  "registration_number": "VNB-2756-05",
+  "dosage_form": "Ống hít",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long Não Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "Tinh dầu quế",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu Hương Nhu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2374/tinh-dau-huong-nhu.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

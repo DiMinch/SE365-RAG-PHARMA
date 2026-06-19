@@ -1,0 +1,72 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9325/hoat-huyet-cm9.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết CM9",
+  "registration_number": "VD-0743-06",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty CP Dược thảo Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đào Nhân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2537/dao-nhan.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Chỉ xác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    }
+  ],
+  "sections": {}
+}

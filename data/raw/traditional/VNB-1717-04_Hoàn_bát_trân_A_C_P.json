@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9222/hoan-bat-tran-acp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn bát trân A.C.P",
+  "registration_number": "VNB-1717-04",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

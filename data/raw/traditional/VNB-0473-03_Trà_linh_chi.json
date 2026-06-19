@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4688/tra-linh-chi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà linh chi",
+  "registration_number": "VNB-0473-03",
+  "dosage_form": "Chè túi lọc",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Lá vông Chính",
+      "amount": "1,2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

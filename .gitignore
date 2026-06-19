@@ -44,5 +44,8 @@ ENV/bin/
 .env.local
 
 # Project specific data directories
-data/
+data/*
+!data/raw/
+data/raw/*
+!data/raw/traditional/
 scratch/

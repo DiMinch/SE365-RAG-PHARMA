@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9178/giang-chi-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Giáng chỉ hoàn",
+  "registration_number": "VNA-3937-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược Ninh Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    }
+  ],
+  "sections": {}
+}

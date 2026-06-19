@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12333/hoan-quy-ty.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn quy tỳ",
+  "registration_number": "VNB-1033-01",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty Cổ phần Dược phẩm Thiên Thảo",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long nhãn Chính",
+      "amount": "8g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    }
+  ],
+  "sections": {}
+}

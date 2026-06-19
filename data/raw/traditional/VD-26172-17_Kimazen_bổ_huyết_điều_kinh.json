@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54133/kimazen-bo-huyet-dieu-kinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kimazen bổ huyết điều kinh",
+  "registration_number": "VD-26172-17",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ích mẫu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    }
+  ],
+  "sections": {}
+}

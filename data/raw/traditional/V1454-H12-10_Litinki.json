@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34664/litinki.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Litinki",
+  "registration_number": "V1454-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở sản xuất thuốc thành phẩm YHCT dược thảo Nhất Nhất",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch mao căn Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2393/bach-mao-can.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Kim tiền thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {}
+}

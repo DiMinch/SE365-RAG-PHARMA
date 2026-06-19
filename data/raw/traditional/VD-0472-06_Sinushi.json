@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20592/sinushi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sinushi",
+  "registration_number": "VD-0472-06",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16364/thuoc-bo-phong-thap-don-hieu-song-long.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc bổ Phong thấp đơn hiệu Song Long",
+  "registration_number": "VND-2906-05",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Song Long",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Tần giao",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2466/tan-giao.aspx"
+    },
+    {
+      "name": "Phòng kỷ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2503/phong-ky.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

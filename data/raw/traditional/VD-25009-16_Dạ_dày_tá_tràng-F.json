@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52999/da-day-ta-trang-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dạ dày tá tràng-F",
+  "registration_number": "VD-25009-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phèn chua Chính",
+      "amount": "500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Chỉ định: Đau nhói dạ dày do khí trệ huyết ứ. Chứng ợ hơi và ăn lâu tiêu. Loét dạ dày và tá tràng. Viêm dạ dày mãn tính. Công năng: Hành khí, hoạt huyết, hòa vị, chỉ thống.",
+    "side_effects": "Liều dùng: 3 viên x 3-4 lần."
+  }
+}

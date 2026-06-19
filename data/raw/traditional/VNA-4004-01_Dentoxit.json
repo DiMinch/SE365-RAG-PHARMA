@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-8982/dentoxit.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dentoxit",
+  "registration_number": "VNA-4004-01",
+  "dosage_form": "Dung dịch chấm răng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW2",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu Hương Nhu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2374/tinh-dau-huong-nhu.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

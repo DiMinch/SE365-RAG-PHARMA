@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4842/tieu-thuc-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu Thực hoàn",
+  "registration_number": "VNA-3666-00",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

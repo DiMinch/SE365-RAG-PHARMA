@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15291/bac-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạc hà",
+  "registration_number": "VNB-1787-04",
+  "dosage_form": "Viên nén ngậm",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

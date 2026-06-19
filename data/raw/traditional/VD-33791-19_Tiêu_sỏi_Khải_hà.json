@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65399/tieu-soi-khai-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu sỏi Khải hà",
+  "registration_number": "VD-33791-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "3000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

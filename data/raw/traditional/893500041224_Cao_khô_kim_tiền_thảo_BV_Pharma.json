@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13494/cao-kho-kim-tien-thao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô kim tiền thảo BV Pharma",
+  "registration_number": "893500041224",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "5kg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

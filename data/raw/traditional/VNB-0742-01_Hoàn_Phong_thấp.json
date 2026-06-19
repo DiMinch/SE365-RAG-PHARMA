@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12694/hoan-phong-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn Phong thấp",
+  "registration_number": "VNB-0742-01",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    }
+  ],
+  "sections": {}
+}

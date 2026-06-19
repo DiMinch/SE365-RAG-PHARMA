@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63522/vi-nang-tam-that-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vi nang Tam thất - HT",
+  "registration_number": "VD-32494-19",
+  "dosage_form": "Viên nang cứng (dưới dạng hạt vi nang);",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

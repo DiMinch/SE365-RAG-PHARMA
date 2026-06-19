@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12973/hoan-bo-huyet-dieu-kinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn bổ huyết điều kinh",
+  "registration_number": "VNB-0583-00",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Xuân Thuỷ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "90g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Kinh nguyệt không đều, đau bụng khi hành kinh, khí hư bạch đới, rối loạn kinh nguyệt. \n- Phục hồi tử cung sau khi sinh, giúp lưu thông khí huyết, da dẻ mịn màng, tươi mát.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "Uống 1-2 viên/lần, 3 lần/ngày Bệnh nặng dùng liều gấp đôi."
+  }
+}

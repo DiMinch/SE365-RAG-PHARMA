@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-41758/hucefa.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hucefa",
+  "registration_number": "VN-14701-12",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Chung Gei Pharma Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị mất trí nhớ ngăn hạn, suy giảm tinh thần, thiếu nhạy bén, thiếu minh mẫn, trầm cảm, khó khăn tập trung học tập, làm việc. Điều trị các rối loạn chức năng cơ hữu của não kèm sa sút trí tuệ. Điều trị hội chứng khập khiễng gián cách, bệnh về võng mạc, các bệnh về tai (ù tai, lãng tai,…). Di chứng sau tai nạn huyết mạch, chấn thương sọ não. Điều trị bệnh Alzheimer, chứng bất lực. Điều trị chứng bệnh giòn mao mạch. Điều trị hội chứng tiền kinh nguyệt, đau nhức đầu,…",
+    "contraindication": "Cách dùng Uống trong bữa ăn. Nuốt trọn cả viên thuốc không bẻ không nhai. Liều dùng Cho người lớn và trẻ trên 12 tuổi: mỗi lần uống 1 viên, ngày uống 3 lần. Không dùng thuốc cho trẻ em dưới 12 tuổi.",
+    "interactions": "Sau khi uống thuốc người bệnh có thể bị rối loạn tiêu hóa, phát ban, nhức đầu nhưng rất hiếm gặp."
+  }
+}

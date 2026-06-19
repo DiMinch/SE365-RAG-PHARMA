@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10348/hac-tat-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hạc tất phong",
+  "registration_number": "V34-H12-13",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty TNHH Thương mại và sản xuất Dược phẩm Bình Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tần giao Chính",
+      "amount": "9,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2466/tan-giao.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

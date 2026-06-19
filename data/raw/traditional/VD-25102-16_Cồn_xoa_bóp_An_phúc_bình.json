@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53105/con-xoa-bop-an-phuc-binh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cồn xoa bóp An phúc bình",
+  "registration_number": "VD-25102-16",
+  "dosage_form": "Cồn xoa bóp",
+  "manufacturer": "Công ty cổ phần dược Nature Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đại hồi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2566/dai-hoi.aspx"
+    },
+    {
+      "name": "Tinh dầu quế",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Nghệ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Nhũ hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2483/nhu-huong.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    },
+    {
+      "name": "Tinh dầu long não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2376/tinh-dau-long-nao.aspx"
+    }
+  ],
+  "sections": {}
+}

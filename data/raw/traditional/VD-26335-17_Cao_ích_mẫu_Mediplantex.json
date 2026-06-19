@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54296/cao-ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao ích mẫu Mediplantex",
+  "registration_number": "VD-26335-17",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "80g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "20g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

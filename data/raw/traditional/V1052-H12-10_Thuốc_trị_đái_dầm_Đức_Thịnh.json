@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34559/thuoc-tri-dai-dam-duc-thinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc trị đái dầm Đức Thịnh",
+  "registration_number": "V1052-H12-10",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Đức Thịnh Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    }
+  ],
+  "sections": {}
+}

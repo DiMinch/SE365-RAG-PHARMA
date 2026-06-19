@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16501/to-hiep-hoan-quang-duc-te.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tô hiệp hoàn Quảng đức tế",
+  "registration_number": "VND-2202-04",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Cơ sở Quảng Đức Tế",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhũ hương Chính",
+      "amount": "3,7g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2483/nhu-huong.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Bạch đậu khấu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2351/bach-dau-khau.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    }
+  ],
+  "sections": {}
+}

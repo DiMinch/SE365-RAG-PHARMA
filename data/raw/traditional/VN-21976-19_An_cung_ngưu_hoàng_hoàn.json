@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63952/an-cung-nguu-hoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An cung ngưu hoàng hoàn",
+  "registration_number": "VN-21976-19",
+  "dosage_form": "Viên hoàn",
+  "manufacturer": "Yunnan Tengyao Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu hoàng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2539/nguu-hoang.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61940/tinh-than-don.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tinh thận đơn",
+  "registration_number": "VD-31290-18",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thỏ ty tử Chính",
+      "amount": "870mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
+    },
+    {
+      "name": "Phúc bồn tử",
+      "amount": "435mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2465/phuc-bon-tu.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "109mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

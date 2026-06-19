@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4522/silyvercell.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Silyvercell 200mg Phil Inter Pharma",
+  "registration_number": "VD-35770-22",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty TNHH Phil Inter Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Suy gan, bảo vệ tế bào gan khi phải dùng những chất độc với gan. Viêm gan cấp, mãn tính & viêm gan kéo dài; xơ gan.",
+    "contraindication": "Quá mẫn với thành phần thuốc.",
+    "dosage": "Người lớn: 1 - 2 viên x 3 lần/ngày. Có thể tăng hoặc giảm liều theo triệu chứng & tuổi."
+  }
+}

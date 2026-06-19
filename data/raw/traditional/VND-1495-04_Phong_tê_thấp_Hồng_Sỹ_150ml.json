@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16898/phong-te-thap-hong-sy-150ml.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong tê thấp Hồng Sỹ 150ml",
+  "registration_number": "VND-1495-04",
+  "dosage_form": "Cồn thuốc xịt",
+  "manufacturer": "Cơ sở sản xuất kinh doanh thuốc Y học Cổ truyền Hồng Sỹ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mã tiền Chính",
+      "amount": "150ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2517/ma-tien.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Nga truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2464/nga-truat.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    },
+    {
+      "name": "Thiên niên kiện",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    }
+  ],
+  "sections": {}
+}

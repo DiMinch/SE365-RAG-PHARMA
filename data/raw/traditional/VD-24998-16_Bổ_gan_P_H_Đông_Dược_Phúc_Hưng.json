@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52988/bo-gan-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan P/H Đông Dược Phúc Hưng",
+  "registration_number": "VD-24998-16",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "125mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "25mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bệnh nhân có loét dạ dày-tá tràng lành tính. Bệnh nhân mắc hội chứng dạ dày thực quản trào ngược, hội chứng Zollinger-Ellison. Các trường hợp dự phòng khi hít phải axit trong quá trình gây mê. Chỉ định dùng phối hợp với kháng sinh để diệt vi khuẩn Helicobacter pylori để làm lành ổ loét.",
+    "contraindication": "Quá mẫn với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Cách dùng: - Tiêm tĩnh mạch: Pha lọ bột đông khô pha tiêm 40 mg  với 10 ml dung dịch NaCl 0,9% tiêm tĩnh mạch chậm ít nhất 2 phút. - Truyền tĩnh mạch: Pha lọ bột đông khô pha tiêm 40 mg với 100 ml dung dịch NaCl 0,9%, hoặc dextran 5% hoặc dung dịch Ringer Lactat. Dung dịch pha nên được tiêm truyền tĩnh mạch trong khoảng 15 phút. - Dung dịch đã pha không nên pha trộn hoặc dùng chung bộ dây truyền với các thuốc khác. - Dung dịch thuốc nên dùng trong vòng 12 giờ sau khi pha và tốt nhất dùng ngay sau khi pha để đảm bảo về mặt vi sinh. - Nên dùng nửa thể tích pha tiêm nếu chỉ cần dùng 20 mg, bỏ đi phần dung dịch không sử dụng. Liều dùng: Các bệnh nhân loét dạ dày-tá tràng thường: Dùng 40mg/lần/ngày vào buổi sáng. Nếu bệnh nhân loét dạ dày, duy trì thuốc từ 4-8 tuần, bệnh nhân loét tá tràng thì kéo dài thuốc từ 2-4 tuần. Những bệnh nhân loét dạ dày-tá tràng, có nhiễm vi khuẩn Helicobacter pylori cần được điều trị theo phác đồ kết hợp kháng sinh: Phác đồ 1:  Mỗi liều gồm 40mg Pantoprazole, 1g Amoxicillin, 500mg Clarithromycin. Mỗi ngày dùng 2 lần, duy trì kéo dài từ 7-10 ngày. Phác đồ 2: Mỗi liều gồm 40mg Pantoprazole, 500mg Metronidazole, 500mg Clarithromycin. Liều dùng 2 lần mỗi ngày, kéo dài từ 7-10 ngày. Phác đồ 3: Mỗi liều gôm 40mg Pantoprazole, 1g Amoxicillin, 500mg Metronidazole. Ngày dùng 2 liều, kéo dài từ 7-10 ngày."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14143/linh-chi-tao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Linh chi táo",
+  "registration_number": "VNB-1794-04",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "500ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    }
+  ],
+  "sections": {}
+}

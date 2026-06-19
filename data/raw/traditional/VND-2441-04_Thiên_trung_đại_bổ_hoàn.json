@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15890/thien-trung-dai-bo-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thiên trung đại bổ hoàn",
+  "registration_number": "VND-2441-04",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Ðông Nam Dược Thiên Trung",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mộc hương Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Phục thần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2478/phuc-than.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

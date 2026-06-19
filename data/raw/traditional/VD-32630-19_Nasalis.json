@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68334/nasalis.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nasalis",
+  "registration_number": "VD-32630-19",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "150 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "120 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "120 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "120 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Địa hoàng",
+      "amount": "150 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2540/dia-hoang.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "120 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    }
+  ],
+  "sections": {}
+}

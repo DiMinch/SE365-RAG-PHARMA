@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62936/tran-bi-vi-sao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trần bì vi sao",
+  "registration_number": "VD-31910-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Trần bì Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

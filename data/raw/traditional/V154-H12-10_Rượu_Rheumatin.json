@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32407/ruou-rheumatin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu Rheumatin",
+  "registration_number": "V154-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

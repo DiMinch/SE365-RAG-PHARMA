@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53101/sirnakarang-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sirnakarang F",
+  "registration_number": "VD-25098-16",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

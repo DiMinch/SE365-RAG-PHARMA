@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34686/kim-nguyen-thanh-nhiet-to.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim nguyên thanh nhiệt tố",
+  "registration_number": "V798-H12-10",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Kim Nguyên Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Ké đầu ngựa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2526/ke-dau-ngua.aspx"
+    }
+  ],
+  "sections": {}
+}

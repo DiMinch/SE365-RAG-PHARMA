@@ -1,0 +1,72 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34608/phong-te-thap-khop-kien-khang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong tê thấp khớp kiện khang",
+  "registration_number": "V1053-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở Phước Dân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Thương truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Độc Hoạt",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2462/doc-hoat.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {}
+}

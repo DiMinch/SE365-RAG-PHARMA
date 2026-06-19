@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52492/tieu-dao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu dao Fito Pharma",
+  "registration_number": "VD-24527-16",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "257mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "52mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "166mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "217mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

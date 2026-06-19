@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19145/rutin-nguyen-lieu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rutin Nguyên liệu",
+  "registration_number": "VNA-4219-01",
+  "dosage_form": "Nguyên liệu",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW2",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "5kg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

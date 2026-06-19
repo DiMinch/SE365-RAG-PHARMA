@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46657/thuoc-ho-bao-phuong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho Bảo Phương",
+  "registration_number": "V1-H12-16",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học cổ truyền Bảo Phương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bọ mắm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2428/bo-mam.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    }
+  ],
+  "sections": {}
+}

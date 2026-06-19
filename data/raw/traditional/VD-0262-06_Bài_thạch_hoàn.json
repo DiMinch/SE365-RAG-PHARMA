@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4293/bai-thach-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bài thạch hoàn",
+  "registration_number": "VD-0262-06",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH Đông Nam Dược Bảo Long",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Mộc thông",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2454/moc-thong.aspx"
+    },
+    {
+      "name": "Nhũ hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2483/nhu-huong.aspx"
+    },
+    {
+      "name": "Kim tiền thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

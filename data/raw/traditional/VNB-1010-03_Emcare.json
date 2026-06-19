@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11161/emcare.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Emcare",
+  "registration_number": "VNB-1010-03",
+  "dosage_form": "Dung dịch dùng ngoài",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW2",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "5ml, 10ml, 15ml, 20m",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {}
+}

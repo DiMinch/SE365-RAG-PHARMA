@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56029/duong-qui-duong-huyet-cao-xuan-quang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đương qui dưỡng huyết cao Xuân Quang",
+  "registration_number": "VD-29439-18",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty TNHH Ðông Dược Xuân Quang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Đại hoàng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2516/dai-hoang.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {}
+}

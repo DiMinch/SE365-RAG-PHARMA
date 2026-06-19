@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32167/circuton.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Circuton Phil Inter Pharma",
+  "registration_number": "VD-33108-19",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH Phil Inter Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

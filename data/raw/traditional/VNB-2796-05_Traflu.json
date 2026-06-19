@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22978/traflu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Traflu",
+  "registration_number": "VNB-2796-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Cát căn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    },
+    {
+      "name": "Tía tô",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2442/tia-to.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4971/hoan-an-thai-acp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn an Thai A.C.P",
+  "registration_number": "VNB-2459-04",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    }
+  ],
+  "sections": {}
+}

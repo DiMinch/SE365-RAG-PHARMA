@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16516/tinh-sam-nhung.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tinh sâm nhung",
+  "registration_number": "VNB-3450-05",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Ðảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

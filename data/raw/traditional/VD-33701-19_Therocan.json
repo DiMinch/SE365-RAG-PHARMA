@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12673/therocan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Therocan",
+  "registration_number": "VD-33701-19",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Huyền sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bách bộ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Bạch tật lê",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2486/bach-tat-le.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

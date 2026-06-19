@@ -1,0 +1,84 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19661/thien-vuong-bo-tam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thiên vương bổ tâm BV Pharma",
+  "registration_number": "V218-H12-13",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sinh địa Chính",
+      "amount": "280ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    }
+  ],
+  "sections": {}
+}

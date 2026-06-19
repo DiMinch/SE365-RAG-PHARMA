@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34752/thuoc-ho-tieu-dam-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho tiêu đàm thuỷ",
+  "registration_number": "V1064-H12-10",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở sản xuất và kinh doanh thuốc YHCT Đức Thọ Sanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cát cánh Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Bán hạ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Chỉ xác",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

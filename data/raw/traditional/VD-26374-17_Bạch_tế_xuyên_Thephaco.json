@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54335/bach-te-xuyen.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạch tế xuyên Thephaco",
+  "registration_number": "VD-26374-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "20mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "20mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

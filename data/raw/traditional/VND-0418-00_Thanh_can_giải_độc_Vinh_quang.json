@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14266/thanh-can-giai-doc-vinh-quang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh can giải độc Vinh quang",
+  "registration_number": "VND-0418-00",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Thái Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mộc thông Chính",
+      "amount": "7g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2454/moc-thong.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    }
+  ],
+  "sections": {}
+}

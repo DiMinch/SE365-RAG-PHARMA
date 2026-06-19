@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34698/song-long-tieu-ban-lo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Song long tiêu ban lộ",
+  "registration_number": "V1347-H12-10",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở Song Long",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng Cầm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Tri mẫu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2581/tri-mau.aspx"
+    },
+    {
+      "name": "Cát căn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Thiên hoa phấn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2580/thien-hoa-phan.aspx"
+    }
+  ],
+  "sections": {}
+}

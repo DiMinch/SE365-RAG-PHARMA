@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35503/binh-vi-hoan-akhang-cong-ty-dk-cong-ty-cp-y-duoc-pham-vimedimex.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bình vị hoàn Akhang (Công ty ĐK: Công ty CP. Y Dược phẩm Vimedimex)",
+  "registration_number": "V1241-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thương truật Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    }
+  ],
+  "sections": {}
+}

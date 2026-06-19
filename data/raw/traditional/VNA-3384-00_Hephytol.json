@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1087/hephytol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hephytol",
+  "registration_number": "VNA-3384-00",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17832/tra-phan-ta-diep.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà phan tả diệp",
+  "registration_number": "VNB-1559-04",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW2",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "1,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

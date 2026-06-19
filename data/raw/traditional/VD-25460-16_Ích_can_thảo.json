@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53465/ich-can-thao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích can thảo",
+  "registration_number": "VD-25460-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Hoa linh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Chi tử Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {}
+}

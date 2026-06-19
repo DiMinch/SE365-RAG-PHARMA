@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64222/hoang-ba.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàng bá",
+  "registration_number": "VD-32862-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng bá Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    }
+  ],
+  "sections": {}
+}

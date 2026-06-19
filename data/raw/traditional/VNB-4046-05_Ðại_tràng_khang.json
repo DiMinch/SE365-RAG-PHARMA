@@ -1,0 +1,72 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3172/dai-trang-khang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðại tràng khang",
+  "registration_number": "VNB-4046-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Mạch nha",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2406/mach-nha.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Ðảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {}
+}

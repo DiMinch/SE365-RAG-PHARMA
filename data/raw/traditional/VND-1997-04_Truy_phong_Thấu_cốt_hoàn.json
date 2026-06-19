@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10335/truy-phong-thau-cot-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Truy phong Thấu cốt hoàn",
+  "registration_number": "VND-1997-04",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Vạn Xương Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Khương hoạt Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

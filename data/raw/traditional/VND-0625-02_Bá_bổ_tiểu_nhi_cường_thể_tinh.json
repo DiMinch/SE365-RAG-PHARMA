@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9234/ba-bo-tieu-nhi-cuong-the-tinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bá bổ tiểu nhi cường thể tinh",
+  "registration_number": "VND-0625-02",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở Thiên Thi",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "90ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Binh lang",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2391/binh-lang.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    }
+  ],
+  "sections": {}
+}

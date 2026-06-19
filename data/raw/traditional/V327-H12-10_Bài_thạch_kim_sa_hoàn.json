@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13510/bai-thach-kim-sa-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bài thạch kim sa hoàn",
+  "registration_number": "V327-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Vạn An Dược Hãng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

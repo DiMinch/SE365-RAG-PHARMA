@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56965/luong-huyet-tieu-doc-gan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Lương huyết tiêu độc gan dạng viên nang cứng",
+  "registration_number": "VD-28577-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "190mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Đại hoàng",
+      "amount": "190mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2516/dai-hoang.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

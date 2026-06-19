@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10086/hepaphyl.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepaphyl 400 TW25",
+  "registration_number": "VD-14446-11",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Làm giảm men gan & phục hồi chức năng gan. Dùng trong viêm gan siêu virus B mạn tính, mụn nhọt, mẫn ngứa.",
+    "contraindication": "Phụ nữ có thai. Ngưởi đang có bệnh chảy máu.",
+    "dosage": "- Người lớn: 2 - 3 viên, ngày 3 lần. - Trẻ em: dùng nửa liều người lớn."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-7535/tieu-phong-thuan-khi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu phong Thuận khí",
+  "registration_number": "VNB-0962-03",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Chỉ xác Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

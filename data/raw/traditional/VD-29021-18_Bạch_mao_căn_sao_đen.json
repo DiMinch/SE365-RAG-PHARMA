@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55028/bach-mao-can-sao-den.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạch mao căn sao đen",
+  "registration_number": "VD-29021-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch mao căn Chính",
+      "amount": "sao đen",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2393/bach-mao-can.aspx"
+    }
+  ],
+  "sections": {}
+}

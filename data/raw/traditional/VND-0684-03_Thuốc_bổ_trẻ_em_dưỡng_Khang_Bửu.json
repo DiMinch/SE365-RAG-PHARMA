@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9297/thuoc-bo-tre-em-duong-khang-buu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc bổ trẻ em dưỡng Khang Bửu",
+  "registration_number": "VND-0684-03",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở Thiên Hoà Ðường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn tra Chính",
+      "amount": "150ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Kim ngân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    }
+  ],
+  "sections": {}
+}

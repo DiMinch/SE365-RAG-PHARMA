@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55903/diep-ha-chau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Diệp hạ châu",
+  "registration_number": "VD-27126-17",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

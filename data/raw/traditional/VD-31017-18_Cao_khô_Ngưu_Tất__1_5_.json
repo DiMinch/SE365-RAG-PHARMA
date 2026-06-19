@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61668/cao-kho-nguu-tat-15.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô Ngưu Tất (1:5)",
+  "registration_number": "VD-31017-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    }
+  ],
+  "sections": {}
+}

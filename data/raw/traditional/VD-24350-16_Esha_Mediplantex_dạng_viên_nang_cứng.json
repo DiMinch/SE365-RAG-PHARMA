@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52314/esha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Esha Mediplantex dạng viên nang cứng",
+  "registration_number": "VD-24350-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "620mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "120mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "350mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

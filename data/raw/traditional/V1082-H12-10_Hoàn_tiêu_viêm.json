@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32331/fexofenadin-60.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn tiêu viêm",
+  "registration_number": "V1082-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Trung tâm ứng dụng KHCN đông Y đông Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cỏ nhọ nồi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    },
+    {
+      "name": "Lá lốt",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2561/la-lot.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Hoàng đằng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2434/hoang-dang.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Sâm đại hành",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2480/sam-dai-hanh.aspx"
+    },
+    {
+      "name": "Mã đề",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2523/ma-de.aspx"
+    },
+    {
+      "name": "Diếp cá",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2485/diep-ca.aspx"
+    }
+  ],
+  "sections": {}
+}

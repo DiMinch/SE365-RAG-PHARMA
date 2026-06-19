@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63402/tam-tam-xoang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tâm tâm xoang",
+  "registration_number": "VD-32374-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "120mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "350mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

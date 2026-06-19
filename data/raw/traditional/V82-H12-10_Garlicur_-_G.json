@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35267/garlicur-g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Garlicur - G",
+  "registration_number": "V82-H12-10",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "-Tăng cường hệ miễn dịch. -Phòng bệnh ung thư, xơ vữa động mạch, huyết áp cao, giãn tĩnh mạch, nhồi máu cơ tim, tiểu đường, cholesterol cao, phong thấp, huyết khối. -Điều trị các bệnh nhiễm trùng, đường huyết cao, lỵ, cảm mạo.",
+    "contraindication": "-Phụ nữ mang thai.\n-Thuốc không có chỉ định dùng cho trẻ em.",
+    "dosage": "Người lớn : Uống 2 viên mỗi ngày. Mỗi lần uống 1 viên trước bữa ăn hoặc theo toa bác sĩ."
+  }
+}

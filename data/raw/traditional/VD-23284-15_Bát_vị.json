@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-50422/bat-vi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bát vị",
+  "registration_number": "VD-23284-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "344mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "244mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "344mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    }
+  ],
+  "sections": {}
+}

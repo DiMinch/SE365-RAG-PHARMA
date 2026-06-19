@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-67016/giadogane.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Giadogane",
+  "registration_number": "VD-34325-20",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "5mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

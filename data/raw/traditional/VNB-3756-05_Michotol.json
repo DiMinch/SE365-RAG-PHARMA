@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4576/michotol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Michotol",
+  "registration_number": "VNB-3756-05",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bảo vệ gan & thông mật trong các bệnh rối loạn chức năng gan, viêm túi mật, nổi mề đay.\n- Lợi tiểu.\n- Trị các rối loạn tiêu hóa như ăn chậm tiêu, ợ chua, đầy hơi, buồn nôn.",
+    "contraindication": "Suy tế bào gan, nghẽn mật.",
+    "dosage": "Uống trước các bữa ăn.\n- Người lớn: 6 - 9 viên/ngày, chia làm 3 lần.\n- Trẻ em: 3 - 6 viên/ngày, chia làm 3 lần."
+  }
+}

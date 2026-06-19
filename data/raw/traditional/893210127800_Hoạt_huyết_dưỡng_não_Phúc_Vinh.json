@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4498/hoat-huyet-duong-nao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết dưỡng não Phúc Vinh",
+  "registration_number": "893210127800",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty CP Dược thảo Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

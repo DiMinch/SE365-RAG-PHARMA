@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4513/ulcegast.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ulcegast",
+  "registration_number": "V1144-H12-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm An Giang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Calcium Carbonate Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-981/calcium-carbonate.aspx"
+    },
+    {
+      "name": "Magnesium hydroxide",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-903/magnesium-hydroxide.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61610/boganic-fort.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Boganic Fort",
+  "registration_number": "VD-19791-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

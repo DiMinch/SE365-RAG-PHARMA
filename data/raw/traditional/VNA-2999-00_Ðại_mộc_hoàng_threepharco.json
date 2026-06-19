@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-7537/dai-moc-hoang-threepharco.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðại mộc hoàng threepharco",
+  "registration_number": "VNA-2999-00",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Q.3",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vàng đắng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2621/vang-dang.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {}
+}

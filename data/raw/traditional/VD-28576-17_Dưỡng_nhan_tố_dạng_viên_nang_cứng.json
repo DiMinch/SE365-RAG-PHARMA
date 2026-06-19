@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56028/duong-nhan-to.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng nhan tố dạng viên nang cứng",
+  "registration_number": "VD-28576-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "90mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "180mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "180 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "120mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    }
+  ],
+  "sections": {}
+}

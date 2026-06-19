@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-39342/hepasyzin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepasyzin",
+  "registration_number": "VN-12230-11",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Dongbang Future Tech & Life Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    },
+    {
+      "name": "Vitamin PP",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-801/vitamin-pp.aspx"
+    },
+    {
+      "name": "Vitamin B6",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-907/vitamin-b6.aspx"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-225/cyanocobalamin.aspx"
+    },
+    {
+      "name": "Vitamin B1",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {}
+}

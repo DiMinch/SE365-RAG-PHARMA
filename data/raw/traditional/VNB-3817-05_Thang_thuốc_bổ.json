@@ -1,0 +1,66 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3066/thang-thuoc-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thang thuốc bổ",
+  "registration_number": "VNB-3817-05",
+  "dosage_form": "Thuốc thang",
+  "manufacturer": "Công ty cổ phần Dược phẩm Thiên Tân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "400g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hà thủ ô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Cốt toái bổ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2527/cot-toai-bo.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

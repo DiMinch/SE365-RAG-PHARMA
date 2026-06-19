@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62186/synatura-syrup.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Synatura Syrup",
+  "registration_number": "VN-21576-18",
+  "dosage_form": "Siro",
+  "manufacturer": "AhnGook Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá Ivy Chính",
+      "amount": "Cao khô lá Ivy 30% 262,5mg; Cao khô Coptis Rhizoma 87,5mg trong 100ml siro",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2437/cao-kho-la-ivy.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-37095/nam-duoc-bai-thach.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nam Dược Bài Thạch",
+  "registration_number": "8388/2008/YT-CNTC",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "180mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Ngọc mễ tu",
+      "amount": "120mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2500/ngoc-me-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

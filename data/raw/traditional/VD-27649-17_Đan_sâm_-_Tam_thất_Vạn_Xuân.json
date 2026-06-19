@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55766/dan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đan sâm - Tam thất Vạn Xuân",
+  "registration_number": "VD-27649-17",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Vạn Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "70mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

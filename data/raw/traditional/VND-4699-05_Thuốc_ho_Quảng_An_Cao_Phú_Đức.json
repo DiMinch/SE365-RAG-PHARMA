@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22956/thuoc-ho-quang-an-cao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho Quảng An Cao Phú Đức",
+  "registration_number": "VND-4699-05",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học dân tộc Phú Đức",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên bối mẫu Chính",
+      "amount": "85ml, 120ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2521/xuyen-boi-mau.aspx"
+    },
+    {
+      "name": "Cát căn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Tía tô",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2442/tia-to.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

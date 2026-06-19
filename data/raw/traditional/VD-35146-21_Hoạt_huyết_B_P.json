@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-67571/hoat-huyet-bp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết B/P",
+  "registration_number": "VD-35146-21",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học cổ truyền Bảo Phương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xích thược Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Địa long",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2463/dia-long.aspx"
+    },
+    {
+      "name": "Đào Nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2537/dao-nhan.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

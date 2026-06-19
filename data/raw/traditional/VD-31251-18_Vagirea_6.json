@@ -1,0 +1,66 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61902/vagirea-6.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vagirea 6",
+  "registration_number": "VD-31251-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Táo nhân Chính",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Khiếm thực",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    }
+  ],
+  "sections": {}
+}

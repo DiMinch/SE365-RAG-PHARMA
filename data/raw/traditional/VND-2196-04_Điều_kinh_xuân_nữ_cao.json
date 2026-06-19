@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10674/dieu-kinh-xuan-nu-cao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Điều kinh xuân nữ cao",
+  "registration_number": "VND-2196-04",
+  "dosage_form": "Thuốc nước uống",
+  "manufacturer": "Cơ sở sản xuất và kinh doanh thuốc YHCT Đức Thọ Sanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

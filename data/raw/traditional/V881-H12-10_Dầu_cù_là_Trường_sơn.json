@@ -1,0 +1,60 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31868/dau-cu-la-truong-son.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu cù là Trường sơn",
+  "registration_number": "V881-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty TNHH Ðông Nam Dược Trường Sơn",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh dầu quế",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "Tinh dầu đinh hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2339/tinh-dau-dinh-huong.aspx"
+    },
+    {
+      "name": "Tinh dầu Khuynh Diệp",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2340/tinh-dau-khuynh-diep.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Tinh dầu Hương Nhu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2374/tinh-dau-huong-nhu.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

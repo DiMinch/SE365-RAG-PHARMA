@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52487/at-can-ninh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ất can ninh",
+  "registration_number": "VD-24523-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "165mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "137mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "137mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "137mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "137mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {}
+}

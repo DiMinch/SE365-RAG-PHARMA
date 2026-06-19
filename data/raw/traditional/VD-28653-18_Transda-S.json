@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58594/transda-s.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Transda-S",
+  "registration_number": "VD-28653-18",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rotundin Chính",
+      "amount": "15mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1134/rotundin.aspx"
+    },
+    {
+      "name": "Lá vông",
+      "amount": "1 g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {}
+}

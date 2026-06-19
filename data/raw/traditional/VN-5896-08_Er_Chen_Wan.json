@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27095/er-chen-wan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Er Chen Wan",
+  "registration_number": "VN-5896-08",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Lanzhou Foci Pharma Factory",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Trần bì Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Sinh khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2411/sinh-khuong.aspx"
+    },
+    {
+      "name": "Bán hạ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19195/thanh-nhiet-tieu-doc-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh nhiệt tiêu độc-F Fito Pharma",
+  "registration_number": "VD-20536-14",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kinh giới Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

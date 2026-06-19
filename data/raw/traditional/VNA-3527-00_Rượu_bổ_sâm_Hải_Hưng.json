@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9300/ruou-bo-sam-hai-hung.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu bổ sâm Hải Hưng",
+  "registration_number": "VNA-3527-00",
+  "dosage_form": "Dung dịch",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ðảng sâm Chính",
+      "amount": "650ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    }
+  ],
+  "sections": {}
+}

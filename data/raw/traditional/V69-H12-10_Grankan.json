@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35001/grankan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Grankan",
+  "registration_number": "V69-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

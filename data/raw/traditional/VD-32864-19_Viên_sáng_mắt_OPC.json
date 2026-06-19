@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64224/vien-sang-mat-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sáng mắt OPC",
+  "registration_number": "VD-32864-19",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cúc hoa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "39mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Bạch tật lê",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2486/bach-tat-le.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các bệnh về mắt do can thận âm hư, huyết hư: - Mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng. - Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ. - Thị lực giảm.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc.",
+    "dosage": "Viên nang cứng: * Người lớn: uống 4 viên/lần x 2-3 lần/ngày. * Trẻ em: Dùng 1/2 liều người lớn. Viên hoàn cứng: * Người lớn: Ngày uống 2-3 lần, mỗi lần 1 gói với nước chín. * Trẻ em: Dùng 1/2 liều người lớn. Mỗi một hộp thuốc tương đương một thang thuốc vì vậy mỗi đợt nên dùng từ 10 - 20 hộp. Viên nang mềm: * Người lớn: uống 2-3 viên/lần x 2-3 lần/ngày. * Trẻ em: uống 1 viên/lần x 2-3 lần/ngày."
+  }
+}

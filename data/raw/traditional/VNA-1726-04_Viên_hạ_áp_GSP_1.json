@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4751/vien-ha-ap-gsp-1.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên hạ áp GSP 1",
+  "registration_number": "VNA-1726-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoa hòe Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    }
+  ],
+  "sections": {}
+}

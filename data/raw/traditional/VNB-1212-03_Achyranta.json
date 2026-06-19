@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16357/achyranta.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Achyranta",
+  "registration_number": "VNB-1212-03",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Vạn Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31492/bai-soi-va.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bài sỏi V-A",
+  "registration_number": "V139-H12-18",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở Đông Dược Vĩnh An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Tỳ giải",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2578/ty-giai.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Mộc thông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2454/moc-thong.aspx"
+    },
+    {
+      "name": "Bạch mao căn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2393/bach-mao-can.aspx"
+    }
+  ],
+  "sections": {}
+}

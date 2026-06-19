@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13529/kim-tien-thao-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim tiền thảo hoàn",
+  "registration_number": "VND-0999-03",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Hải Thượng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "40g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Cát căn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    },
+    {
+      "name": "Râu mèo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    },
+    {
+      "name": "Ngọc mễ tu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2500/ngoc-me-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

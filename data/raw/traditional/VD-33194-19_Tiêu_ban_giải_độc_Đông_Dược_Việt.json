@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64802/tieu-ban-giai-doc-dong-duoc-viet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu ban giải độc Đông Dược Việt",
+  "registration_number": "VD-33194-19",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Địa hoàng Chính",
+      "amount": "900mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2540/dia-hoang.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "900mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Hạ khô thảo",
+      "amount": "900mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2484/ha-kho-thao.aspx"
+    },
+    {
+      "name": "Ké đầu ngựa",
+      "amount": "900mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2526/ke-dau-ngua.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "900mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

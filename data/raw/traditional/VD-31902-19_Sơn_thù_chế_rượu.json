@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62928/son-thu-che-ruou.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sơn thù chế rượu",
+  "registration_number": "VD-31902-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn thù Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    }
+  ],
+  "sections": {}
+}

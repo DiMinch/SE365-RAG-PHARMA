@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4613/protecliv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Protecliv",
+  "registration_number": "VD-11174-10",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân trần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    },
+    {
+      "name": "Spirulina",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-685/spirulina.aspx"
+    }
+  ],
+  "sections": {}
+}

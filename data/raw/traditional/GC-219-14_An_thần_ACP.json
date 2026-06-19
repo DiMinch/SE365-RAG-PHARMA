@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46154/an-than-acp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần ACP",
+  "registration_number": "GC-219-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá vông Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    }
+  ],
+  "sections": {}
+}

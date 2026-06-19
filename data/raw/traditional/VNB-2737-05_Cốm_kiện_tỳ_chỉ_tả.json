@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9260/com-kien-ty-chi-ta.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốm kiện tỳ chỉ tả",
+  "registration_number": "VNB-2737-05",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Khiếm thực",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    }
+  ],
+  "sections": {}
+}

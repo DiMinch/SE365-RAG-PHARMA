@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53918/hoat-huyet-nhat-nhat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết nhất nhất",
+  "registration_number": "VD-25956-16",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "1500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "1500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "750mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "750mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "1500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    }
+  ],
+  "sections": {}
+}

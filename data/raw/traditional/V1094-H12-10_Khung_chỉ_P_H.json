@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31764/khung-chi-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Khung chỉ P/H",
+  "registration_number": "V1094-H12-10",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

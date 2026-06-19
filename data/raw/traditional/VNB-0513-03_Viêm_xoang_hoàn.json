@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19636/viem-xoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viêm xoang hoàn",
+  "registration_number": "VNB-0513-03",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sinh địa Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Kim ngân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

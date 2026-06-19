@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19141/rutin-50mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rutin 50mg",
+  "registration_number": "V1372-H12-06",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty đầu tư Miền Ðông (XNDP 30)-Bộ Quốc Phòng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20026/on-ty-tieu-thuc-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ôn tỳ Tiêu Thực hoàn",
+  "registration_number": "VND-1252-03",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Ích Thế",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn tra Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

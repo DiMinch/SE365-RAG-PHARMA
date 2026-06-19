@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14227/yunnan-baiyao-aerosol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Yunnan Baiyao Aerosol",
+  "registration_number": "VN-8590-04",
+  "dosage_form": "Thuốc xịt",
+  "manufacturer": "Yunnan Baiyao Group Co., Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Câu đằng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2380/cau-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

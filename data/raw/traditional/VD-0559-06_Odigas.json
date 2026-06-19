@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20024/odigas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Odigas",
+  "registration_number": "VD-0559-06",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn tra Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Chỉ thực",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2379/chi-thuc.aspx"
+    }
+  ],
+  "sections": {}
+}

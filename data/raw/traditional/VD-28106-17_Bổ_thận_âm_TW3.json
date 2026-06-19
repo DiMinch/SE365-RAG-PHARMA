@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55203/bo-than-am-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ thận âm TW3",
+  "registration_number": "VD-28106-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "160mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "160mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Tỳ giải",
+      "amount": "120mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2578/ty-giai.aspx"
+    },
+    {
+      "name": "Khiếm thực",
+      "amount": "180mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    }
+  ],
+  "sections": {}
+}

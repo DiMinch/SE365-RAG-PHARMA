@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57127/melyptol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Melyptol",
+  "registration_number": "VD-27741-17",
+  "dosage_form": "Dung dịch xông mũi, họng",
+  "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {}
+}

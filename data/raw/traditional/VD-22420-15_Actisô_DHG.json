@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49671/actiso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Actisô DHG",
+  "registration_number": "VD-22420-15",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "280 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

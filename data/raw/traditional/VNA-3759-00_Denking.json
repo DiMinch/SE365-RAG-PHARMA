@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20827/denking.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Denking",
+  "registration_number": "VNA-3759-00",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ba kích Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Khiếm thực",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64262/an-thao-trung-uong-i.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thảo trung ương I",
+  "registration_number": "VD-32902-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương qui Chính",
+      "amount": "500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    }
+  ],
+  "sections": {}
+}

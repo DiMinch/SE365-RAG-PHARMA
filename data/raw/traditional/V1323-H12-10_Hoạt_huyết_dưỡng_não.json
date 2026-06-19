@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-36247/hoat-huyet-duong-nao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết dưỡng não",
+  "registration_number": "V1323-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

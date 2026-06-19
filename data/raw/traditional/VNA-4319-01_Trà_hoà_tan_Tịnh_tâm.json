@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20549/tra-hoa-tan-tinh-tam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà hoà tan Tịnh tâm",
+  "registration_number": "VNA-4319-01",
+  "dosage_form": "Trà hòa tan",
+  "manufacturer": "Công ty cổ phần LD dược phẩm Medipharco-Tenamyd BR s.r.l",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tâm sen Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    }
+  ],
+  "sections": {}
+}

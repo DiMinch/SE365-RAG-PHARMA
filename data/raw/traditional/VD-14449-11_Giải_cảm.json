@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40348/giai-cam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Giải cảm",
+  "registration_number": "VD-14449-11",
+  "dosage_form": "Hộp 5 vỉ, 10 vỉ x 10 viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm Yên Bái",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

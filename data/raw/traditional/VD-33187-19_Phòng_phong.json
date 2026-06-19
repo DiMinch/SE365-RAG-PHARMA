@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64795/phong-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phòng phong",
+  "registration_number": "VD-33187-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

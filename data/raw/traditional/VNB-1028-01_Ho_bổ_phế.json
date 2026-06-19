@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3008/ho-bo-phe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ho bổ phế",
+  "registration_number": "VNB-1028-01",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty TNHH Ðông Nam Dược Thanh Thảo",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bổ phổi, tiêu đờm, thông hơi thở\n- Chống viêm nhiễm cơ quan hô hấp\n- Chữa ho gió, ho khan, ho có đờm, ho do cảm, do dị ứng, do viêm họng – viêm phế quản.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Ngày uống 2-3 lần.\n- Người lớn: 15ml (1 thìa canh)/lần\n- Trẻ em: 1-3 tuổi: 5ml (1 thìa cà phê)/lần. 5-7 tuổi: 10ml (2 thìa cà phê)/lần\nMỗi đợt dùng từ 7 -10 ngày, nếu ho lâu ngày, mãn tính có thể dùng trên 1 tháng.\nBệnh nặng có thể dùng liều gấp đôi",
+    "side_effects": "Trong bao gói kín, ở nhiệt độ dưới 30oC."
+  }
+}

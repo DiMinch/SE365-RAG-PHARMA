@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11165/eucatusdine.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Eucatusdine",
+  "registration_number": "VD-3441-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trà Vinh TV PHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    },
+    {
+      "name": "Tinh Dầu Tần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2373/tinh-dau-tan.aspx"
+    }
+  ],
+  "sections": {}
+}

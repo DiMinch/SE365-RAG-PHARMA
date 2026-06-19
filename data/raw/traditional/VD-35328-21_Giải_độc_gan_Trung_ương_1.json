@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-67688/giai-doc-gan-trung-uong-1.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Giải độc gan Trung ương 1",
+  "registration_number": "VD-35328-21",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

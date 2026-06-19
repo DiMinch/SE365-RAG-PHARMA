@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12974/cao-ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao ích mẫu",
+  "registration_number": "VND-0448-00",
+  "dosage_form": "Cao thuốc",
+  "manufacturer": "Nhà bào chế Ðông Dược Minh Thành",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "200ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21659/siro-ho-vinh-quang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Siro ho Vĩnh Quang",
+  "registration_number": "VND-0644-02",
+  "dosage_form": "Si rô",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Trần bì Chính",
+      "amount": "280ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Bán hạ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Tía tô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2442/tia-to.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-45418/seirogan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Seirogan",
+  "registration_number": "VN-17576-13",
+  "dosage_form": "Viên hoàn",
+  "manufacturer": "Taiko Pharmaceutical Co., Ltd",
+  "manufacturer_country": "Japan",
+  "herbal_ingredients": [
+    {
+      "name": "Câu đằng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2380/cau-dang.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

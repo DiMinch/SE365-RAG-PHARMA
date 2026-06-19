@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13568/bot-da-day.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bột dạ dày",
+  "registration_number": "VNB-1465-04",
+  "dosage_form": "Bột thuốc",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bồ công anh Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

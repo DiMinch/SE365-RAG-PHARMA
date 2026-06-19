@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68366/gadoman-g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gadoman - G",
+  "registration_number": "VD-32662-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "Rhizoma et Radix Ginseng",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Lộc nhung",
+      "amount": "Cornu cervi Pantotrichum",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
+    }
+  ],
+  "sections": {}
+}

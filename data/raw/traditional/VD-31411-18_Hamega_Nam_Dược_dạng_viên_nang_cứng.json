@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10080/hamega.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hamega Nam Dược dạng viên nang cứng",
+  "registration_number": "VD-31411-18",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

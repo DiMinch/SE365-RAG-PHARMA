@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54337/hometex.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hometex",
+  "registration_number": "VD-10605-10",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "2000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

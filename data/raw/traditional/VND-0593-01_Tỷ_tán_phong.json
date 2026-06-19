@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13478/ty-tan-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tỷ tán phong",
+  "registration_number": "VND-0593-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở bào chế Ðông Dược Vĩnh Thanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Liên kiều",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
+    }
+  ],
+  "sections": {}
+}

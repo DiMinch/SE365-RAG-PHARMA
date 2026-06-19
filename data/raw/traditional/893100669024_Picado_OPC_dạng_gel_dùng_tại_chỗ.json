@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48809/picado.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Picado OPC dạng gel dùng tại chỗ",
+  "registration_number": "893100669024",
+  "dosage_form": "Gel dùng tại chỗ",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Salicylic acid Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-186/salicylic-acid.aspx"
+    }
+  ],
+  "sections": {}
+}

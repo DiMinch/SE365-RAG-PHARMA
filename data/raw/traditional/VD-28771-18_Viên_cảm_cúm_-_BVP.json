@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58813/vien-cam-cum-bvp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên cảm cúm - BVP",
+  "registration_number": "VD-28771-18",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Tía tô",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2442/tia-to.aspx"
+    }
+  ],
+  "sections": {}
+}

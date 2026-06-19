@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10093/phyllantol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phyllantol",
+  "registration_number": "VNB-4658-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Vạn Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Hoàng bá",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    }
+  ],
+  "sections": {}
+}

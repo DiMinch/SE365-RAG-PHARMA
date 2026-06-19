@@ -1,0 +1,41 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-59571/bo-phe-chi-khai-dhd.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ phế chỉ khái DHĐ",
+  "registration_number": "VD-30642-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bổ phổi, tiêu đờm, thông hơi thở - Chống viêm nhiễm cơ quan hô hấp - Chữa ho gió, ho khan, ho có đờm, ho do cảm, do dị ứng, do viêm họng - viêm phế quản.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Ngày uống 2-3 lần. - Người lớn: 1 viên /lần - Mỗi đợt dùng từ 7 -10 ngày, nếu ho lâu ngày, mãn tính có thể dùng trên 1 tháng. - Bệnh nặng có thể dùng liều gấp đôi",
+    "side_effects": "Trong bao gói kín, ở nhiệt độ dưới 30oC."
+  }
+}

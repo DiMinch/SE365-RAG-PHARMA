@@ -1,0 +1,96 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-69001/dai-tan-giao-vcp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "ĐẠI TẦN GIAO VCP",
+  "registration_number": "TCT-00001-20",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần dược phẩm VCP",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tần giao Chính",
+      "amount": "Radix Gentianae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2466/tan-giao.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "Radix Rehmanniae glutinosae praeparata",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "Radix Glycyrrhizae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "Rhizoma Atractylodis  macrocephalae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "Radix Angelicae sinensis",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "Rhizoma Ligustici wallichii",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "Radix Rehmanniae glutinosae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "Radix Paeoniae lactiflorae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "Radix Saposhnikoviae divaricatae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Độc Hoạt",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2462/doc-hoat.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "Radix et Rhizoma Asari",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "Rhizoma et Radix Notopterygii",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    }
+  ],
+  "sections": {}
+}

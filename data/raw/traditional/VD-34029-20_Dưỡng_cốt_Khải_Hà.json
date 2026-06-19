@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68730/duong-cot-khai-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng cốt Khải Hà",
+  "registration_number": "VD-34029-20",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng bá Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Tri mẫu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2581/tri-mau.aspx"
+    }
+  ],
+  "sections": {}
+}

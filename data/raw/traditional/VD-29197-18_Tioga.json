@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4455/tioga.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tioga",
+  "registration_number": "VD-29197-18",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Hạ khô thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2484/ha-kho-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

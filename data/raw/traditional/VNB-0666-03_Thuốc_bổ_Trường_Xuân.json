@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12420/thuoc-bo-truong-xuan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc bổ Trường Xuân",
+  "registration_number": "VNB-0666-03",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty TNHH Ðông Nam Dược Trường Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Liên nhục Chính",
+      "amount": "20g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    }
+  ],
+  "sections": {}
+}

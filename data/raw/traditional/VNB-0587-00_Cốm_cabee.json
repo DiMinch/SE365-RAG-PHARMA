@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17830/com-cabee.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốm cabee",
+  "registration_number": "VNB-0587-00",
+  "dosage_form": "Cốm",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Glucose Chính",
+      "amount": "1,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-829/glucose.aspx"
+    }
+  ],
+  "sections": {}
+}

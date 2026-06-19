@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54506/tung-loc-dieu-kinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tùng lộc điều kinh",
+  "registration_number": "VD-26545-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty Cổ phần Dược Quốc tế Tùng Lộc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4837/betasiphon.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Betasiphon Nadyphar",
+  "registration_number": "VD-25104-16",
+  "dosage_form": "Thuốc uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "5ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Sorbitol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-207/sorbitol.aspx"
+    }
+  ],
+  "sections": {}
+}

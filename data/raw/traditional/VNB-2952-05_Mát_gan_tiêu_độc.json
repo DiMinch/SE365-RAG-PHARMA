@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10091/mat-gan-tieu-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mát gan tiêu độc",
+  "registration_number": "VNB-2952-05",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Cỏ nhọ nồi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    }
+  ],
+  "sections": {}
+}

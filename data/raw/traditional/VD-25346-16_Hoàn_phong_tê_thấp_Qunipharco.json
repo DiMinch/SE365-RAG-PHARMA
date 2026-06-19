@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53349/hoan-phong-te-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn phong tê thấp Qunipharco",
+  "registration_number": "VD-25346-16",
+  "dosage_form": "Viên hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược & trang thiết bị Y tế Quảng Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì chân chim Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Trừ phong thấp. Chỉ định: Dùng khi người ê ẩm, chân tay bải hoải, co duỗi khó khăn, đau lưng, mỏi gối, tê bại toàn thân.",
+    "side_effects": "- Mẫn cảm với thành phần của thuốc. - Phụ nữ có thai.",
+    "interactions": "Theo chỉ định của bác sĩ;"
+  }
+}

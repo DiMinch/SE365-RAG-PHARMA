@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21178/dau-lung-bo-than-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðau lưng bổ Thận hoàn",
+  "registration_number": "VND-0942-03",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Cơ sở sản xuất và kinh doanh thuốc YHCT Đức Thọ Sanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Lộc nhung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {}
+}

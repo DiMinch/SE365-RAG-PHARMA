@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13523/kimaraso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kimaraso",
+  "registration_number": "V402-H12-06",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Râu mèo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    }
+  ],
+  "sections": {}
+}

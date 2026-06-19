@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68745/livermarin-140.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Livermarin 140",
+  "registration_number": "VD-34044-20",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH BRV Healthcare (Cty BRV)",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Silymarin Chính",
+      "amount": "dưới dạng cao khô Silybum marianum 311,1mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-680/silymarin.aspx"
+    }
+  ],
+  "sections": {}
+}

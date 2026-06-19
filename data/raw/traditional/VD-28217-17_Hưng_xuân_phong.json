@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56566/hung-xuan-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hưng xuân phong",
+  "registration_number": "VD-28217-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược & trang thiết bị Y tế Quảng Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "8mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Dâm dương hoắc",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2506/dam-duong-hoac.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    }
+  ],
+  "sections": {}
+}

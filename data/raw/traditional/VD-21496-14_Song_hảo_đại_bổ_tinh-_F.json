@@ -1,0 +1,77 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48115/song-hao-dai-bo-tinh-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Song hảo đại bổ tinh- F",
+  "registration_number": "VD-21496-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "190mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Nhục thung dung",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2388/nhuc-thung-dung.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "105mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "– Điều trị chứng chán ăn, tiêu hóa kém – Chứng lãnh cảm ở nữ giới – Hỗ trợ điều trị nhức mỏi, đau lưng, đau nhức xương khớp",
+    "contraindication": "– Mẫn cảm với thành phần của thuốc\n– Trẻ dưới 15 tuổi, phụ nữ mang thai",
+    "dosage": "– Người lớn: Ngày 1-2 viên x 2-3 lần – Dùng thuốc sau khi ăn",
+    "side_effects": "– Buồn nôn, chóng mặt, chán ăn\n– Dị ứng, phát ban"
+  }
+}

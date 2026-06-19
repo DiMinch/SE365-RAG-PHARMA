@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21089/phong-thap-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong thấp Thuỷ",
+  "registration_number": "VNB-1012-03",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "85ml, 170ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    },
+    {
+      "name": "Tần giao",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2466/tan-giao.aspx"
+    },
+    {
+      "name": "Phòng kỷ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2503/phong-ky.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    }
+  ],
+  "sections": {}
+}

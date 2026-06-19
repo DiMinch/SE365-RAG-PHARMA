@@ -1,0 +1,84 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53468/xuong-khop-nhat-nhat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Xương khớp nhất nhất",
+  "registration_number": "VD-25463-16",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đỗ trọng Chính",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Tục đoạn",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "black cohosh",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2697/black-cohosh.aspx"
+    },
+    {
+      "name": "Độc Hoạt",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2462/doc-hoat.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Cốt toái bổ",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2527/cot-toai-bo.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Thông thảo",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2544/thong-thao.aspx"
+    },
+    {
+      "name": "Uy linh tiên",
+      "amount": "450mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2545/uy-linh-tien.aspx"
+    },
+    {
+      "name": "Cầu tích",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2542/cau-tich.aspx"
+    }
+  ],
+  "sections": {}
+}

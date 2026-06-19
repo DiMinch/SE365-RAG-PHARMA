@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14091/hoan-bo-tam-an-than.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn bổ tâm an Thần",
+  "registration_number": "VNB-0905-01",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tâm sen Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    }
+  ],
+  "sections": {}
+}

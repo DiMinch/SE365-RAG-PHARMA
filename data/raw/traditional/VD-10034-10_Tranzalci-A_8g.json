@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35206/tranzalci-a-8g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tranzalci-A 8g",
+  "registration_number": "VD-10034-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược Minh Hải",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Dexamethasone Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-252/dexamethasone.aspx"
+    }
+  ],
+  "sections": {}
+}

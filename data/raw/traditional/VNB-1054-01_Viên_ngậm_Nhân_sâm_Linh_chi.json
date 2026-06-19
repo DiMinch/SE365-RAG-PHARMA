@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16425/vien-ngam-nhan-sam-linh-chi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên ngậm Nhân sâm Linh chi",
+  "registration_number": "VNB-1054-01",
+  "dosage_form": "Viên ngậm",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Linh chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

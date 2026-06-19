@@ -1,0 +1,29 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57807/pomitagen.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Pomitagen",
+  "registration_number": "VD-27172-17",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Quế nhục Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ điều trị suy tủy. Hỗ trợ điều trị thiếu máu. Hỗ trợ điều trị triệu chứng loạn sản tụy. Hỗ trợ điều trị giảm tiểu cầu, bạch cầu. Hỗ trợ điều trị tổn thương tủy do xạ trị và hóa trị.",
+    "contraindication": "Không dùng cho phụ nữ có thai, người thể nhiệt, âm hư, người tiểu đường. Không dùng cho người có mẫn cảm với bất kì thành phần nào của thuốc.",
+    "dosage": "Người lớn: mỗi lần 3-5 viên x 3 lần/ngày uống sau bữa ăn. Trẻ em: mỗi lần 2-3 viên x 3 lần/ngày uống sau bữa ăn.",
+    "side_effects": "Không uống thuốc chung với nước chè. Ngoài ra chưa có báo cáo về tương tác với các sản phẩm khác."
+  }
+}

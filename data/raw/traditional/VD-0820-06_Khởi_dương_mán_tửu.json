@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21237/khoi-duong-man-tuu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Khởi dương mán tửu",
+  "registration_number": "VD-0820-06",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Cơ sở sản xuất thuốc thành phẩm Y học Cổ truyền",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Bạch quả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Dâm dương hoắc",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2506/dam-duong-hoac.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    }
+  ],
+  "sections": {}
+}

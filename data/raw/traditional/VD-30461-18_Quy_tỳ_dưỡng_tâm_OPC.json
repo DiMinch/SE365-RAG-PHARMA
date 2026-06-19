@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-59390/quy-ty-duong-tam-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Quy tỳ dưỡng tâm OPC",
+  "registration_number": "VD-30461-18",
+  "dosage_form": "Thuốc hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "64mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "64mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "16mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "64mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kiện tỳ, dưỡng huyết, ích khí, an thần. Chủ trị tâm tỳ đều hư, hơi thở ngắn, tim đập mạnh, mất ngủ, ngủ hay mê, chóng mặt, chán ăn, mệt mỏi, đại tiểu tiện ra máu, suy nhược thần kinh, thiếu máu, kinh nguyệt không đều.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc.",
+    "dosage": "Người lớn: Mỗi ngày uống 2 lần, mỗi lần 10 viên hoàn. Trẻ em: Liều dùng bằng 1/2 liều người lớn Uống với nước ấm hoặc nước gừng"
+  }
+}

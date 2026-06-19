@@ -1,0 +1,69 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64790/vien-sang-mat-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sáng mắt TW3",
+  "registration_number": "VD-33182-19",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị nhức mắt, mờ mắt, teo dây thần kinh mắt, viêm võng mạc, viêm tuyến lệ.",
+    "contraindication": "- Người lớn: ngày uống 2-3 lần, mỗi lần 1 gói với nước chín. \n- Trẻ em dùng 1/2 liều người lớn."
+  }
+}

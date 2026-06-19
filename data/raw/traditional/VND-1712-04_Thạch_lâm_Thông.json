@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12386/thach-lam-thong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thạch lâm Thông",
+  "registration_number": "VND-1712-04",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Hòa Thuận Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "40g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

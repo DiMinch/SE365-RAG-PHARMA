@@ -1,0 +1,54 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-42829/yangzheng-xiaoji-capsules.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Yangzheng Xiaoji Capsules",
+  "registration_number": "VN-15631-12",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Shijiazhuang Yiling Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "China",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": ".",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bán chi liên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2329/ban-chi-lien.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Linh chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    },
+    {
+      "name": "Nga truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2464/nga-truat.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

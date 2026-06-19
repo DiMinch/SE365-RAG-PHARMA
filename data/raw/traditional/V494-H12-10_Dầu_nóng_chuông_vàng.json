@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15328/dau-nong-chuong-vang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu nóng chuông vàng",
+  "registration_number": "V494-H12-10",
+  "dosage_form": "Dung dịch dầu",
+  "manufacturer": "Công ty TNHH sản xuất & Thương mại Kim Chuông",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "10ml, 18ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Tinh dầu Khuynh Diệp",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2340/tinh-dau-khuynh-diep.aspx"
+    }
+  ],
+  "sections": {}
+}

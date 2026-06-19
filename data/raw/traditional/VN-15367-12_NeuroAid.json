@@ -1,0 +1,83 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-42883/neuroaid.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "NeuroAid",
+  "registration_number": "VN-15367-12",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Tianjin Shitan Pharmaceutical Co., Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": ".",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Thạch xương bồ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2445/thach-xuong-bo.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Đào Nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2537/dao-nhan.aspx"
+    },
+    {
+      "name": "Toàn Yết",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2538/toan-yet.aspx"
+    },
+    {
+      "name": "Ngưu hoàng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2539/nguu-hoang.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ điều trị các chứng đột quỵ, tai biến mạch máu não Hỗ trợ giúp phục hồi chức năng sau các chứng đột quỵ",
+    "contraindication": "Những người không nên dùng thuốc:\n\nMẫn cảm với thành phần của thuốc\nTăng áp lực nội sọ, suy gan thận nặng\nPhụ nữ mang thai và cho con bú",
+    "dosage": "Liều dùng và cách sử dụng nên tham khảo ý kiến của bác sĩ, tránh việc tự ý dùng thuốc hoặc lạm dụng thuốc mà gây ra những hậu quả không lường trước. Đề xuất của thuốc: Người lớn: Ngày 1 viên x 1-2 lần Dùng thuốc sau khi ăn",
+    "side_effects": "Buồn nôn, tiêu chảy, đau bụng\nDị ứng, phát ban\nChóng mặt, nhức đầu, mất ngủ, ngủ gà\nKhi có những dấu hiệu của tác dụng phụ nên đến ngay bệnh viện để chữa trị kịp thời, tránh để lâu gây ra hậu quả nghiêm trọng."
+  }
+}

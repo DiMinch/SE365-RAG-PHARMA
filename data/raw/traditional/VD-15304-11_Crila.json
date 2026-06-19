@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-43841/crila.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Crila",
+  "registration_number": "VD-15304-11",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Thiên Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Trinh nữ hoàng cung Chính",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2322/trinh-nu-hoang-cung.aspx"
+    }
+  ],
+  "sections": {}
+}

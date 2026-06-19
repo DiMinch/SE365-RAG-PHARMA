@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-2999/cao-bach-bo-dy-100ml.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao bách bộ Ð/Y 100ml",
+  "registration_number": "VNB-2439-04",
+  "dosage_form": "Cao thuốc",
+  "manufacturer": "Công ty TNHH Dược phẩm Ðại Y",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị ho do hư lao, thường dùng trong trị lao phổi, khí quản viêm mạn tính, ho gà, giun đũa, giun kim.",
+    "contraindication": "Tỳ hư, tiêu chảy: không dùng.",
+    "dosage": "Liều dùng từ  4 - 20 g."
+  }
+}

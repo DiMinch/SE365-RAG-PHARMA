@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3969/hai-ma-nhan-sam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hải mã nhân sâm TW3",
+  "registration_number": "V1368-H12-10",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

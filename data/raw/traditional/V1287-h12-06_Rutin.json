@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19140/rutin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rutin",
+  "registration_number": "V1287-h12-06",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

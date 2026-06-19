@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64803/giai-cam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Giải cảm",
+  "registration_number": "VD-33195-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Yên Bái",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "tương đương 0,17g Hương phụ",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10085/hepalivo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepalivo",
+  "registration_number": "VD-2540-07",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    },
+    {
+      "name": "Cỏ nhọ nồi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    }
+  ],
+  "sections": {}
+}

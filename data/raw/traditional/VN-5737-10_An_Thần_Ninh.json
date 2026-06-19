@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34453/an-than-ninh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An Thần Ninh",
+  "registration_number": "VN-5737-10",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Yanan Changtai Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "China",
+  "herbal_ingredients": [
+    {
+      "name": "Đại táo Chính",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

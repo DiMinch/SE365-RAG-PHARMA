@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13585/an-than-thang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần thang",
+  "registration_number": "VNB-0678-00",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá vông Chính",
+      "amount": "25g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Tâm sen",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

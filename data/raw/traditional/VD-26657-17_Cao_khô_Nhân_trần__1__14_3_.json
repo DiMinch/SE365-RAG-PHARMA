@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55327/cao-kho-nhan-tran-1-143.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô Nhân trần (1: 14,3)",
+  "registration_number": "VD-26657-17",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân trần Chính",
+      "amount": "tương đương 14,3g Nhân trần",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {}
+}

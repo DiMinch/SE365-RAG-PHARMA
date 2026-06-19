@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21432/safecaps.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Safecaps",
+  "registration_number": "VD-2449-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm IMEXPHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu quế Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    },
+    {
+      "name": "Tinh dầu hồi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2335/tinh-dau-hoi.aspx"
+    }
+  ],
+  "sections": {}
+}

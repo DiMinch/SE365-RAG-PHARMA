@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64151/at-cam-xuyen-huong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "A.T Cảm xuyên hương",
+  "registration_number": "VD-32791-19",
+  "dosage_form": "Siro thuốc",
+  "manufacturer": "Công ty Cổ phần Dược phẩm An Thiên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "132mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "5mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "6mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị các trường hợp cảm lạnh, cảm cúm, hắt hơi, sổ mũi, ngạt mũi. Trị các chứngho do lạnh, ho đờm nhiều.",
+    "contraindication": "Phụ nữ có thai, người cao huyết áp, ở trạng thái nhiệt, táo bón do nhiệt.",
+    "dosage": "Liều dùng: Ngày uống 2 đến 3 lần. Trẻ sơ sinh - dưới 3 tuổi 3ml/lần Trẻ em từ 3 - 7 tuổi 5ml/lần Trẻ em từ 7 - 12 tuổi 7,5ml/lần Từ 12 tuổi trở lên 10ml/lần",
+    "side_effects": "Chưa có tài liệu báo cáo."
+  }
+}

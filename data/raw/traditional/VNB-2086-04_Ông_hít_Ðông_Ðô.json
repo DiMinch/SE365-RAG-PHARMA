@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4344/ong-hit-dong-do.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ông hít Ðông Ðô",
+  "registration_number": "VNB-2086-04",
+  "dosage_form": "Ống hít",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Nhân Hòa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Camphor Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

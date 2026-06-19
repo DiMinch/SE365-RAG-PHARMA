@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-24752/memedeep.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Memedeep",
+  "registration_number": "VD-4857-08",
+  "dosage_form": "Gel bôi da",
+  "manufacturer": "Công ty cổ phần LD dược phẩm Medipharco-Tenamyd BR s.r.l",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "methyl salicylate Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

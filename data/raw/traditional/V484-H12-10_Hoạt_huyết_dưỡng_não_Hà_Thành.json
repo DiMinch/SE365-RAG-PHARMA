@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4497/hoat-huyet-duong-nao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết dưỡng não Hà Thành",
+  "registration_number": "V484-H12-10",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty TNHH Dược phẩm Hà Thành",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

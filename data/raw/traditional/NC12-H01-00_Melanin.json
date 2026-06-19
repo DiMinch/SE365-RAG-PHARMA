@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16337/melanin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Melanin",
+  "registration_number": "NC12-H01-00",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Viện Y Dược học dân tộc thành phố Hồ Chí Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

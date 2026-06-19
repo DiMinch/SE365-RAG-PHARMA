@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63548/binh-can.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bình can",
+  "registration_number": "VD-32521-19",
+  "dosage_form": "Viên nang cứng (xanh lá cây)",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân trần Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "1g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    }
+  ],
+  "sections": {}
+}

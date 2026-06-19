@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54050/ziber.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ziber",
+  "registration_number": "VD-26089-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu gừng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    }
+  ],
+  "sections": {}
+}

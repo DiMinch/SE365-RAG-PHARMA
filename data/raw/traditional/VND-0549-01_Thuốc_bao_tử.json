@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21303/thuoc-bao-tu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc bao tử",
+  "registration_number": "VND-0549-01",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Bá Phước",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thương truật Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    },
+    {
+      "name": "Ngô thù du",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2499/ngo-thu-du.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {}
+}

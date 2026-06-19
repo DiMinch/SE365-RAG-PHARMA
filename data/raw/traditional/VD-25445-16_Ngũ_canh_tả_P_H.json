@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53448/ngu-canh-ta-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ngũ canh tả P/H",
+  "registration_number": "VD-25445-16",
+  "dosage_form": "Viên hoàn mềm",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn thù Chính",
+      "amount": "13mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "6mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Thỏ ty tử",
+      "amount": "13mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    }
+  ],
+  "sections": {}
+}

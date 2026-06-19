@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63720/siang-pure-oil-formula-i.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Siang Pure Oil Formula I",
+  "registration_number": "VN-21743-19",
+  "dosage_form": "Dầu bôi ngoài da",
+  "manufacturer": "Bertram Chemical (1982) Co., Ltd.",
+  "manufacturer_country": "THAILAND",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

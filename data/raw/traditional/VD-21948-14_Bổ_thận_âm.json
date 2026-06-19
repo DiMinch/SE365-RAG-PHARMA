@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48567/bo-than-am.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ thận âm",
+  "registration_number": "VD-21948-14",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "480 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "480 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "360 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "360 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "360 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "960 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng cho người tinh huyết suy kém, thắt lưng đầu gối mỏi yếu, hoa mắt, chóng mặt, ù tai, nước tiểu vàng da hấp nóng, mồ hôi trộm, di tinh.",
+    "contraindication": "Không dùng cho người ăn không tiêu, đại tiện lỏng, do hư hàn hoặc cảm sốt.\n\nKhông dùng cho người mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Nhai hoặc uống với nước chín vào buổi sáng và tối. - Người lớn: ngày uống 2 lần, mỗi lần 5 - 10 gam. - Trẻ em    : ngày uống 2 lần, mỗi lần 2 – 5 gam."
+  }
+}

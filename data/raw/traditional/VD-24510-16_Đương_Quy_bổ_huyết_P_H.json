@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52474/duong-quy-bo-huyet-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đương Quy bổ huyết P/H",
+  "registration_number": "VD-24510-16",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "150 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

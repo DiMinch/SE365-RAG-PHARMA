@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68332/vien-duong-nao-opbrain-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên dưỡng não OP.Brain F",
+  "registration_number": "VD-32628-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đinh lăng Chính",
+      "amount": "1500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2559/dinh-lang.aspx"
+    },
+    {
+      "name": "Bạch quả",
+      "amount": "24mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

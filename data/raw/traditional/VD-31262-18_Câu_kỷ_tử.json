@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61913/cau-ky-tu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Câu kỷ tử",
+  "registration_number": "VD-31262-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Câu kỷ tử Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

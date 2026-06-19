@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10089/bobina.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bobina",
+  "registration_number": "VD-0741-06",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty CP Dược thảo Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

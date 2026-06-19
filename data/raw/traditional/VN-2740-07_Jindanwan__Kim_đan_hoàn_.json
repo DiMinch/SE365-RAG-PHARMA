@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14238/jindanwan-kim-dan-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Jindanwan (Kim đan hoàn)",
+  "registration_number": "VN-2740-07",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Kỳ Tinh Quảng Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lộc nhung Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Khương hoàng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2548/khuong-hoang.aspx"
+    },
+    {
+      "name": "Nhục thung dung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2388/nhuc-thung-dung.aspx"
+    }
+  ],
+  "sections": {}
+}

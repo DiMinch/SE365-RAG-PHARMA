@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62889/chi-thuc-phien.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chỉ thực phiến",
+  "registration_number": "VD-31863-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Chỉ thực Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2379/chi-thuc.aspx"
+    }
+  ],
+  "sections": {}
+}

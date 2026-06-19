@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4303/kim-xiem-don.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim xiềm đơn",
+  "registration_number": "VD-3499-07",
+  "dosage_form": "Viên nang",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Kim ngân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    }
+  ],
+  "sections": {}
+}

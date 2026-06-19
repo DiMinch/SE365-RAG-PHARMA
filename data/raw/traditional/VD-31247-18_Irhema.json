@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61898/irhema.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Irhema",
+  "registration_number": "VD-31247-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "240mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Tục đoạn",
+      "amount": "160mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
+    }
+  ],
+  "sections": {}
+}

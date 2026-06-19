@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4741/cuc-thanh-minh-muc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cúc thanh minh mục",
+  "registration_number": "VD-0604-06",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cúc hoa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Nhục thung dung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2388/nhuc-thung-dung.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

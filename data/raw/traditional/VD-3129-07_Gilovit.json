@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4693/gilovit.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gilovit",
+  "registration_number": "VD-3129-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin A Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-314/vitamin-a.aspx"
+    }
+  ],
+  "sections": {}
+}

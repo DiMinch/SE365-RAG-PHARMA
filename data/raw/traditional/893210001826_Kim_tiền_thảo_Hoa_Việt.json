@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56740/kim-tien-thao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim tiền thảo Hoa Việt",
+  "registration_number": "893210001826",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần dược phẩm Hoa Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "tương đương 2,0g dược liệu Kim tiền thảo",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62931/te-tan-re-va-than-re.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tế tân (Rễ và Thân rễ)",
+  "registration_number": "VD-31905-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tế tân Chính",
+      "amount": "Rễ và thân rễ",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    }
+  ],
+  "sections": {}
+}

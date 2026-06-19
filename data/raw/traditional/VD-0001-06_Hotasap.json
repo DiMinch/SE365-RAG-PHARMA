@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4838/hotasap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hotasap",
+  "registration_number": "VD-0001-06",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty đầu tư Miền Ðông (XNDP 30)-Bộ Quốc Phòng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

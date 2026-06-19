@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4382/ong-hit-con-voi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ông hít Con voi",
+  "registration_number": "VNB-0609-00",
+  "dosage_form": "Ống hít",
+  "manufacturer": "Công ty TNHH Dược phẩm Thảo Mộc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Camphor Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

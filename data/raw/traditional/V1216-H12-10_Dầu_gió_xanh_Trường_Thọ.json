@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31479/dau-gio-xanh-truong-tho.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu gió xanh Trường Thọ",
+  "registration_number": "V1216-H12-10",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-28088/cholapan-vien-da-day.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cholapan Viên dạ dày",
+  "registration_number": "VD-5451-08",
+  "dosage_form": "Công dụng Cholapan Viên dạ dày Dùng trong các chứng đau gan, mật kém, đau dạ dày. Trị các chứng: Đau vùng thượng vị, ợ chua nóng rát vùng thượng vị, ăn uống khó tiêu, đầy hơi, sình bụng. Cải thiện tốt triệu chứng táo bón, chán ăn.",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các chứng đau gan, mật kém, đau dạ dày. Trị các chứng: Đau vùng thượng vị, ợ chua nóng rát vùng thượng vị, ăn uống khó tiêu, đầy hơi, sình bụng. Cải thiện tốt triệu chứng táo bón, chán ăn.",
+    "contraindication": "Không dùng cho phụ nữ có thai.\nKhông dùng cho trẻ em dưới 5 tuổi do dạng bào chế không thích hợp.\nKhông dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Uống trước bữa ăn chính. Người lớn: 2 viên x 2 lần /ngày. Trẻ em từ 5 tuổi đến dưới 15 tuổi: Uống mỗi lần 1 viên, ngày 2 lần. Trường hợp đau nhiều, uống gấp đôi."
+  }
+}

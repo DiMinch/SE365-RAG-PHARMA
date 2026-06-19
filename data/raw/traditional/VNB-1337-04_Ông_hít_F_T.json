@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4398/ong-hit-ft.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ông hít F.T",
+  "registration_number": "VNB-1337-04",
+  "dosage_form": "Ống hít",
+  "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Camphor Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

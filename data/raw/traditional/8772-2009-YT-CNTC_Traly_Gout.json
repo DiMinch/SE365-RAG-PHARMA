@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30614/traly-gout.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Traly Gout",
+  "registration_number": "8772/2009/YT-CNTC",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH TM Dược phẩm Trang Ly",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Tỳ giải",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2578/ty-giai.aspx"
+    },
+    {
+      "name": "Hoàng bá",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    },
+    {
+      "name": "Đào Nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2537/dao-nhan.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    }
+  ],
+  "sections": {}
+}

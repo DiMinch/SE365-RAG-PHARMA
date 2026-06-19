@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49666/mat-gan-giai-doc-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mát gan giải độc - HT",
+  "registration_number": "VD-22760-15",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Nghệ",
+      "amount": "240mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Ngọc mễ tu",
+      "amount": "1 g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2500/ngoc-me-tu.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {}
+}

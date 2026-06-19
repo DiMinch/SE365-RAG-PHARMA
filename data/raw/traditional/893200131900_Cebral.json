@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4733/cebral.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cebral",
+  "registration_number": "893200131900",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch quả Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

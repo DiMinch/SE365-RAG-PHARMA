@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4729/bo-gan-thong-mat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan thông mật",
+  "registration_number": "VNB-1501-04",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Biển súc",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {}
+}

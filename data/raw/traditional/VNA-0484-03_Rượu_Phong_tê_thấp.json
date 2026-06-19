@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4708/ruou-phong-te-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu Phong tê thấp",
+  "registration_number": "VNA-0484-03",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty cổ phần Dược Thái Nguyên Thaphaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "650ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53798/thuoc-tieu-tri-tomoko.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc tiêu trĩ Tomoko",
+  "registration_number": "VD-25841-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Chỉ xác",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "TÁC DỤNG: Tomoko có tác dụng thanh trường, sơ phong nhiệt, lương huyết, làm bền vững thành mạch chống chảy máu, giảm đau rát, co búi trĩ. CHỈ ĐỊNH: Điều trị trĩ, đi ngoài ra máu, đại tràng táo nhiệt.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "– Uống mỗi lần 2 viên x 3 lần/ ngày. – Mỗi đợt điều trị nên kéo dài 1-2 tháng. Nên uống nhiều nước, từ 1,5 – 2 lít nước/ngày, không ăn đồ ăn cay, nóng, không uống rượu, bia, cafe."
+  }
+}

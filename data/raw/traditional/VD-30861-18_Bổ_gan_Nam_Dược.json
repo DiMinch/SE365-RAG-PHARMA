@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-59790/bo-gan-nam-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan Nam Dược",
+  "registration_number": "VD-30861-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "1200 g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60785/ginkgo-40.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkgo 40",
+  "registration_number": "VD-19080-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,51 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-50428/thuoc-ho-bo-phe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho bổ phế",
+  "registration_number": "VD-23290-15",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Trần bì Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    },
+    {
+      "name": "Khương hoàng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2548/khuong-hoang.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Thuốc có tác dụng giảm ho, long đàm. Dùng trong các trường hợp: Ho do cảm cúm, viêm nhiễm nhẹ đường hô hấp trên khi chưa cần dùng đến kháng sinh.",
+    "contraindication": "Cách dùng Thuốc dùng uống. Lắc trước khi dùng. Liều dùng Người lớn: Mỗi lần 15 ml, ngày 3 lần. Trẻ em: Từ 3 – 7 tuổi: Mỗi lần 5 ml, ngày 3 lần. Từ 8 – 12 tuổi: Mỗi lần 10 ml, ngày 3 lần. Hoặc theo chỉ dẫn của thầy thuốc."
+  }
+}

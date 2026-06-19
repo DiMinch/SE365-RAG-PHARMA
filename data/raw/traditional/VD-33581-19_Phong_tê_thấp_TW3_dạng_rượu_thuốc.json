@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-24717/phong-te-thap-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong tê thấp TW3 dạng rượu thuốc",
+  "registration_number": "VD-33581-19",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Thiên niên kiện",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Phòng kỷ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2503/phong-ky.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

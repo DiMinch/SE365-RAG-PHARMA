@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61666/cao-kho-co-nho-noi-111.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô cỏ nhọ nồi (1:11)",
+  "registration_number": "VD-31015-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cỏ nhọ nồi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    }
+  ],
+  "sections": {}
+}

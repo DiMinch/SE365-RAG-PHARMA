@@ -1,0 +1,39 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31425/dau-kim-long.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu Kim Long",
+  "registration_number": "V192-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở Anh Đào",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu đinh hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2339/tinh-dau-dinh-huong.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "-Trị cảm cúm,nhức đầu,chóng mặt,sổ mũi,say sóng xe tàu. -Tạo cảm giác sảng khoái khi thời tiết thay đổi.",
+    "contraindication": "-Không dùng cho trẻ em sơ sinh và ba mẹ cho con bú. \n-Để ngòai tâm tay trẻ em. \n-Đọc kỹ huóung dẫn sử dụng trước khi dùng."
+  }
+}

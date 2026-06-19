@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3062/bach-lien-thao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà bạch liên thảo Hồng Phúc",
+  "registration_number": "V1460-H12-10",
+  "dosage_form": "Trà hòa tan dạng cốm",
+  "manufacturer": "Cơ sở sản xuất kinh doanh thuốc Y học Cổ truyền Ðại Hồng Phúc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Cỏ nhọ nồi",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    },
+    {
+      "name": "Dừa cạn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2472/dua-can.aspx"
+    }
+  ],
+  "sections": {}
+}

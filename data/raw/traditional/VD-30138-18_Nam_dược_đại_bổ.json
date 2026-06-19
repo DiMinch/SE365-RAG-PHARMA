@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57330/nam-duoc-dai-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nam dược đại bổ",
+  "registration_number": "VD-30138-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

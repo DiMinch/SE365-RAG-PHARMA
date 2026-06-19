@@ -1,0 +1,72 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63577/da-day-dong-duoc-viet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dạ dày đông dược việt",
+  "registration_number": "VD-32550-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hậu phác Chính",
+      "amount": "192mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "72mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "60mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "72mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "144mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "192mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "144mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "36mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Ô dược",
+      "amount": "72mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2504/o-duoc.aspx"
+    },
+    {
+      "name": "Thương truật",
+      "amount": "180mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

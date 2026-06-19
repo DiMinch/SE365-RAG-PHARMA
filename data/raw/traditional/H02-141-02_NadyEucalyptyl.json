@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11143/nadyeucalyptyl.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "NadyEucalyptyl",
+  "registration_number": "H02-141-02",
+  "dosage_form": "Thuốc tiêm",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "2ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    }
+  ],
+  "sections": {}
+}

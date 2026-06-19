@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-42515/huyet-thai.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Huyết thái",
+  "registration_number": "VN-15321-12",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Taizhou Nanfeng Pharmaceutical Co.,Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Đan sâm Chính",
+      "amount": "450mg; 141mg; 8mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

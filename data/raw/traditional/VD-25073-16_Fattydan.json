@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53076/fattydan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Fattydan",
+  "registration_number": "VD-25073-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "890mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "440mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "440mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sinh khương",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2411/sinh-khuong.aspx"
+    },
+    {
+      "name": "Hậu phác nam",
+      "amount": "330mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2412/hau-phac-nam.aspx"
+    },
+    {
+      "name": "Ngũ gia bì chân chim",
+      "amount": "440mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    }
+  ],
+  "sections": {}
+}

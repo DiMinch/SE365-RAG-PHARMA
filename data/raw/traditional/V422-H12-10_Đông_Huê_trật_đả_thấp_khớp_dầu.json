@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18563/dong-hue-trat-da-thap-khop-dau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đông Huê trật đả thấp khớp dầu",
+  "registration_number": "V422-H12-10",
+  "dosage_form": "Cồn thuốc",
+  "manufacturer": "Cơ sở Đông Huê",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long Não Chính",
+      "amount": "150ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "Đại hồi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2566/dai-hoi.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    }
+  ],
+  "sections": {}
+}

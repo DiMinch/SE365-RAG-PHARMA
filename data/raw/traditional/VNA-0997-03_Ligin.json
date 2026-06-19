@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14136/ligin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ligin",
+  "registration_number": "VNA-0997-03",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Có tác dụng dưỡng thần, ích khí, làm thông mạch máu, điều hòa huyết áp, tăng sức đề kháng cho cơ thể, chống lão hóa, tăng khả năng giải độc gan, trị tiêu hóa yếu.",
+    "contraindication": "Uống trước bữa ăn Người lớn: 1 - 2 viên x  2 lần/ ngày. Trẻ em: Dùng nữa liều người lớn. Ngày dùng 2 lần, mỗi lần 1,5 - 3 g. Uống với nước ấm."
+  }
+}

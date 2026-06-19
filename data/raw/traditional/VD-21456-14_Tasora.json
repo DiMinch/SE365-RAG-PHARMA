@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48075/tasora.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tasora",
+  "registration_number": "VD-21456-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch mao căn Chính",
+      "amount": "2200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2393/bach-mao-can.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "1300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    }
+  ],
+  "sections": {}
+}

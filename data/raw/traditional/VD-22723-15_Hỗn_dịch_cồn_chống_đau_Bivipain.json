@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49603/hon-dich-con-chong-dau-bivipain.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hỗn dịch cồn chống đau Bivipain",
+  "registration_number": "VD-22723-15",
+  "dosage_form": "Hỗn dịch cồn xoa bóp",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    }
+  ],
+  "sections": {}
+}

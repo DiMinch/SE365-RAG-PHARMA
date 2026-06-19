@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20572/phuc-hung-sinh-luc-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phúc Hưng sinh lực hoàn",
+  "registration_number": "VND-0389-00",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

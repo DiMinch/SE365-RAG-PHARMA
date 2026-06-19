@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12674/thuoc-uong-tieu-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc uống tiêu độc",
+  "registration_number": "VNB-0584-03",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Huyền sâm Chính",
+      "amount": "200ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Hà thủ ô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    },
+    {
+      "name": "Kim ngân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    },
+    {
+      "name": "Liên kiều",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
+    },
+    {
+      "name": "Ké đầu ngựa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2526/ke-dau-ngua.aspx"
+    }
+  ],
+  "sections": {}
+}

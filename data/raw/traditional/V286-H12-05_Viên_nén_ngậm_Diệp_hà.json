@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21415/vien-nen-ngam-diep-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên nén ngậm Diệp hà",
+  "registration_number": "V286-H12-05",
+  "dosage_form": "Viên kèm toa hướng dẫn sử dụng",
+  "manufacturer": "Công ty cổ phần LD dược phẩm Medipharco-Tenamyd BR s.r.l",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {}
+}

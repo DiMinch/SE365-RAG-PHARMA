@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65086/ich-mau-medi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mẫu-Medi",
+  "registration_number": "VD-33478-19",
+  "dosage_form": "Viên nang cứng (xanh)",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "1250 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "1000 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị kinh nguyệt không đều, đau bụng kinh. Làm giảm sự khó chịu, nhức đầu, hoa mắt trong khi hành kính. Hồi phục tử cung sau khi sinh. Chữa rối loạn kinh nguyệt ở thời kỳ mới có kinh và thời kỳ tiền mãn kinh. Dùng đều đặn mỗi ngày làm lưu thông khí huyết.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc.\nKhông dùng cho phụ nữ có thai. Không dùng trong trường hợp đa kinh, khi đang chảy máu",
+    "dosage": "1 viên/lần x 3 lần/ngày. Bệnh nặng dùng liều gấp đôi."
+  }
+}

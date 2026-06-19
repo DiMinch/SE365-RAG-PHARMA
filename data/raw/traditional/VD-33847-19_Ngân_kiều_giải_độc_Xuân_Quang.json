@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13475/thuoc-ngan-kieu-giai-doc-xuan-quang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ngân kiều giải độc Xuân Quang",
+  "registration_number": "VD-33847-19",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty TNHH Ðông Dược Xuân Quang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Diệp hạ châu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Liên kiều",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
+    }
+  ],
+  "sections": {}
+}

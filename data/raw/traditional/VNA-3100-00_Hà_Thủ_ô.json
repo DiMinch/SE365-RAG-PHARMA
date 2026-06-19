@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4604/ha-thu-o.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hà Thủ ô",
+  "registration_number": "VNA-3100-00",
+  "dosage_form": "Viên nang",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    }
+  ],
+  "sections": {}
+}

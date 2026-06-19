@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-24716/antiho.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Antiho",
+  "registration_number": "VD-4739-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm IMEXPHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu tràm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {}
+}

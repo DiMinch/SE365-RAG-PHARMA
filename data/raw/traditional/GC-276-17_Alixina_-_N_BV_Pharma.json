@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62308/alixina-n.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Alixina - N BV Pharma",
+  "registration_number": "GC-276-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Tăng miễn dịch, chống đông máu, kháng siêu virus, kháng khuẩn; điều hòa huyết áp, cholesterol huyết. - Phòng chống cảm cúm, huyết áp cao, phòng bệnh thấp khớp.",
+    "contraindication": "Hoàn toàn thiên nhiên, không phản ứng phụ, không độc.",
+    "dosage": "Uống 1 - 2 viên x 2 lần/ngày trước bữa ăn.",
+    "side_effects": "Không nên uống cùng với sữa."
+  }
+}

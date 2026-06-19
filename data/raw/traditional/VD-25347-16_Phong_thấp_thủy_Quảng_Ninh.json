@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53350/phong-thap-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong thấp thủy Quảng Ninh",
+  "registration_number": "VD-25347-16",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần Dược & trang thiết bị Y tế Quảng Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62468/phong-te-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong tê thấp",
+  "registration_number": "VD-31441-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "400mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Thiên niên kiện",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Phòng kỷ",
+      "amount": "400mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2503/phong-ky.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "400mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Trừ phong thấp. Chỉ định: Dùng khi người ê ẩm, chân tay bải hoải, co duỗi khó khăn, đau lưng, mỏi gối, tê bại toàn thân.",
+    "side_effects": "- Mẫn cảm với thành phần của thuốc.\n\n- Phụ nữ có thai.",
+    "interactions": "Theo chỉ định của bác sĩ;"
+  }
+}

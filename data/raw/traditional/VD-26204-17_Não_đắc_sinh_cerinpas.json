@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54165/nao-dac-sinh-cerinpas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Não đắc sinh cerinpas",
+  "registration_number": "VD-26204-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cát căn Chính",
+      "amount": "tương ứng với rễ củ Cát căn 784mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các triệu chứng của tai biến mạch máu não (trúng phong) do ứ huyết gây tắc nghẽn kinh lạc như chóng mặt, hoa mắt, cơ thể khó cử động, khó phát âm ngôn ngữ. Xơ cứng động mạch não, tai biến mạch máu não do thiếu máu hoặc di chứng sau xuất huyết não với các triệu chứng trên. Công năng : Hoạt huyết hóa ứ, thông kinh hoạt lạc.",
+    "dosage": "Người bị mẫn cảm với bất kỳ thành phần nào của thuốc.\nPhụ nữ có thai và cho con bú.\nTrường hợp bị xuất huyết não cấp tính.\nNgười đang bị loét dạ dày tá tràng, người có kinh nguyệt ra quá nhiều, người đang bị cảm cúm.",
+    "side_effects": "Người lớn: uống mỗi lần 2 viên, ngày 3 lần. Uống với nước ấm sau bữa ăn."
+  }
+}

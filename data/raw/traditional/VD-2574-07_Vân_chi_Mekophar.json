@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16038/van-chi-mekophar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vân chi Mekophar",
+  "registration_number": "VD-2574-07",
+  "dosage_form": "Viên nang",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Nấm Vân Chi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2705/nam-van-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

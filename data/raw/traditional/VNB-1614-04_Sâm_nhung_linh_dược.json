@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16517/sam-nhung-linh-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sâm nhung linh dược",
+  "registration_number": "VNB-1614-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56527/hoan-sam-nhung-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn sâm nhung - HT",
+  "registration_number": "VD-27719-17",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21405/bac-ha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạc hà",
+  "registration_number": "VD-1220-06",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

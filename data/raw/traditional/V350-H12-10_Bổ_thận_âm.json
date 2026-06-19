@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21271/bo-than-am.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ thận âm",
+  "registration_number": "V350-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Khiếm thực",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Tỳ giải",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2578/ty-giai.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng cho người tinh huyết suy kém, thắt lưng đầu gối mỏi yếu, hoa mắt, chóng mặt, ù tai, nước tiểu vàng da hấp nóng, mồ hôi trộm, di tinh.",
+    "contraindication": "Không dùng cho người ăn không tiêu, đại tiện lỏng, do hư hàn hoặc cảm sốt.\n\nKhông dùng cho người mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Uống mỗi lần 10 hoàn, ngày 2 lần."
+  }
+}

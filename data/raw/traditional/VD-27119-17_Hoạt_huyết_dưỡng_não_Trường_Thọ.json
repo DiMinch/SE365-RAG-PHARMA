@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56541/hoat-huyet-duong-nao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoạt huyết dưỡng não Trường Thọ",
+  "registration_number": "VD-27119-17",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch quả Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    },
+    {
+      "name": "Đinh lăng",
+      "amount": "750 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2559/dinh-lang.aspx"
+    }
+  ],
+  "sections": {}
+}

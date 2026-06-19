@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9036/situnsen.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Situnsen",
+  "registration_number": "VNB-0245-02",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tâm sen Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

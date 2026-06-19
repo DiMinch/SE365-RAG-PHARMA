@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1006/bo-gan-thang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan thang",
+  "registration_number": "VNB-0716-01",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "20ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

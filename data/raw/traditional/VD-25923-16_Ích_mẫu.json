@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53884/ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mẫu",
+  "registration_number": "VD-25923-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

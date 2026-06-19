@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-45402/royalpanacea.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Royalpanacea",
+  "registration_number": "VN-17191-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Korea E-Pharm Inc. Korea",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin A Chính",
+      "amount": "2000IU",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-314/vitamin-a.aspx"
+    },
+    {
+      "name": "Zinc",
+      "amount": "10mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1013/zinc.aspx"
+    },
+    {
+      "name": "Ferrous fumarate",
+      "amount": "25mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2233/ferrous-fumarate.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62906/hoang-ba-chich-muoi-an.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàng bá chích muối ăn",
+  "registration_number": "VD-31880-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng bá Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    }
+  ],
+  "sections": {}
+}

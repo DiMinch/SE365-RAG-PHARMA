@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-66983/actiso-ddv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Actiso ĐDV",
+  "registration_number": "VD-34293-20",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "20g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Phòng và điều trị trong các trường hợp: – Tiêu hóa kém với các biểu hiện táo bón, ăn không ngon – Viêm gan, viêm túi mật, sỏi mật",
+    "contraindication": "– Người lớn và trẻ em trên 12 tuổi: Mỗi lần dùng 2 ống, ngày 3 lần – Trẻ em trên 2 tuổi: Mỗi lần dùng 1 ống, ngày 3 lần – Trẻ em dưới 2 tuổi: Dùng theo chỉ định của bác sỹ Độ dài đợt điều trị phụ thuộc vào tình trạng bệnh, thông thường như sau: Điều trị tiêu hóa kém: 4-6 tuần Điều trị viêm gan, viêm túi mật: 2-3 tháng"
+  }
+}

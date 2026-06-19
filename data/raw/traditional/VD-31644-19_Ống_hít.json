@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62671/ong-hit.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ống hít",
+  "registration_number": "VD-31644-19",
+  "dosage_form": "Dung dịch dầu",
+  "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Pharmedic",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "620mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "170mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "655mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị cảm cúm, nghẹt mũi.",
+    "contraindication": "Tránh dùng cho trẻ dưới 5 tuổi.",
+    "dosage": "-  Hít từ từ vào mũi. -  Có thể hít nhiều lần mỗi ngày."
+  }
+}

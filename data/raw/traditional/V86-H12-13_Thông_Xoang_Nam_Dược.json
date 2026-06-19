@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60375/thong-xoang-nam-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thông Xoang Nam Dược",
+  "registration_number": "V86-H12-13",
+  "dosage_form": "Thuốc xịt mũi",
+  "manufacturer": "Công ty cổ phần Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ké đầu ngựa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2526/ke-dau-ngua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị nghẹt mũi, chảy nước mũi, viêm mũi, viêm xoang cấp và mãn tính.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Cầm lọ thuốc theo phương thẳng đứng, tháo chốt bảo vệ, ấn vào 2 bên cánh của đầu xịt 2 - 3 lần trong không khí để phá màng bảo vệ bên trong của đầu xịt, sau đó xịt vào mỗi bên mũi 1 - 2 cái. Ngày xịt 3 - 4 lần."
+  }
+}

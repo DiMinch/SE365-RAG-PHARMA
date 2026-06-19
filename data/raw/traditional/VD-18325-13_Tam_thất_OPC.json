@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20556/tam-that-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tam thất OPC",
+  "registration_number": "VD-18325-13",
+  "dosage_form": "Viên nang mềm thon dài",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "750mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

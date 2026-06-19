@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4586/orthocynar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Orthocynar",
+  "registration_number": "VD-0348-06",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "1g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Ngọc mễ tu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2500/ngoc-me-tu.aspx"
+    },
+    {
+      "name": "Râu mèo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    }
+  ],
+  "sections": {}
+}

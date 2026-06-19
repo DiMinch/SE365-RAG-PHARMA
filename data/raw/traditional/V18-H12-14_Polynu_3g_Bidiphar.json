@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16035/polynu-3g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Polynu 3g Bidiphar",
+  "registration_number": "V18-H12-14",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty Dược & trang thiết bị Y tế Bình Định BIDIPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

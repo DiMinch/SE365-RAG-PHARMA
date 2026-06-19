@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30595/ich-tri-minh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "ÍCH TRÍ MINH",
+  "registration_number": "9281/2008/YT-CNTC",
+  "dosage_form": "Hộp 3 vỉ x 10 viên nang",
+  "manufacturer": "Công ty cổ phần Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "60mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "70 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

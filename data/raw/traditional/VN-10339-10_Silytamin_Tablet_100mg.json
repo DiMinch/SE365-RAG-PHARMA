@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-33714/silytamin-tablet-100mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Silytamin Tablet 100mg",
+  "registration_number": "VN-10339-10",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "BTO Pharmaceutical Co., Ltd",
+  "manufacturer_country": "Korea",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "70mg silymarin; 30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4900/paregoric.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Paregoric TV Pharm",
+  "registration_number": "VNA-3547-00",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trà Vinh TV PHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Camphor Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

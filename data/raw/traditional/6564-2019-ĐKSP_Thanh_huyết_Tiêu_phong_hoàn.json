@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17906/thanh-huyet-tieu-phong-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh huyết Tiêu phong hoàn",
+  "registration_number": "6564/2019/ĐKSP",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty TNHH bào chế Đông Dược Thiên Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20605/dinh-tri-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðịnh trĩ hoàn",
+  "registration_number": "VND-0630-02",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Cao Nghĩa Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tạo giác thích Chính",
+      "amount": "26g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2579/tao-giac-thich.aspx"
+    },
+    {
+      "name": "Hoa hòe",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Bạch tật lê",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2486/bach-tat-le.aspx"
+    },
+    {
+      "name": "Chỉ xác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Khương hoạt",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    }
+  ],
+  "sections": {}
+}

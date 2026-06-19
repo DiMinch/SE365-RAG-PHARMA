@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63457/phuoc-sanh-cam-mao-thong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phước sanh cảm mạo thông",
+  "registration_number": "VD-32429-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Thương truật",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "133mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "133mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "133mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "67mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "133mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "NGOẠI CẢM PHONG HÀN THẤP, SÔT SỢ LẠNH, ĐAU ĐẦU. SỔ MŨI, CƠ THỂ NHỨC MỎI. MIỆNG ĐẮNG HƠI KHÁT, KHÔNG RA MỒ HÔI",
+    "contraindication": "TRẺ EM DƯỚI 5 TUỔI VÀ PHỤ NỮ CÓ THAI, \nNGƯỜI TỲ VỊ HU HÀN, TIÊU CHẢY.\nNGƯỜI MẪN CẢM VỚI 1 TRONG NHŨNG THÀNH PHẦN CỦA THUỐC.",
+    "dosage": "MỖI NGÀY UỐNG 2-3 LẦN. TỪ 5 TUỔI ĐÉN 10 TUỔI: MỖI LẦN UỐNG 1 VIÊN. TỪ 10 TUỔI ĐẾN 15 TUỔI: MỖI LẦN UỐNG 2 VIÊN. TỪ 15 TUỔI TRỞ LÊN:      MỖI LẦN UỐNG 3 VIÊN. CÁCH DÙNG: UỐNG VỚI NƯỚ ĐUN SÔI ĐỂ NGUỘI."
+  }
+}

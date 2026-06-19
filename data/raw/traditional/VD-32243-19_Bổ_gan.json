@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63271/bo-gan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan",
+  "registration_number": "VD-32243-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "950mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

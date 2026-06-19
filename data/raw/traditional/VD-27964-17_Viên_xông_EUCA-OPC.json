@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58826/vien-xong-euca-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên xông EUCA-OPC",
+  "registration_number": "VD-27964-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "24mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "24mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "24mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng xông khi cảm mạo, sát trùng mũi họng.",
+    "contraindication": "Không dùng cho trẻ dưới 5 tuổi. Không dùng cho bệnh nhân bị mẫn cảm với bất kỳ thành phần nào của thuốc. Không được uống.",
+    "dosage": "Xông trị cảm mạo: mỗi lần xông dùng 2 viên, ngày xông 1 – 2 lần. Cho 2 viên vào nồi chứa khoảng 2 lít nước vừa sôi, trùm chăn kín, xông trong 10 – 15 phút. Xông sát trùng mũi họng: mỗi lần xông dùng 1 viên, ngày xông 1 – 2 lần. Cho 1 viên vào ly nước chứa khoảng 300ml nước vừa sôi, đậy nắp bằng phễu giấy, hít vào mũi hay họng.",
+    "side_effects": "Khi nuốt phải có thể gặp các triệu chứng như buồn nôn, nôn, đau thượng vị, đau đầu, chóng mặt, nóng rát vùng hầu họng, mê sảng, rung giật cơ, co giật dạng động kinh, trầm cảm, hôn mê, khó thở, bí tiểu. Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
+}

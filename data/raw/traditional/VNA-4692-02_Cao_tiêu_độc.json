@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13488/cao-tieu-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao tiêu độc",
+  "registration_number": "VNA-4692-02",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần Dược Kim Bảng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân Chính",
+      "amount": "100ml, 125ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    }
+  ],
+  "sections": {}
+}

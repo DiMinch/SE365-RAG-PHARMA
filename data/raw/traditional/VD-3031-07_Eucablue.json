@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11141/eucablue.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Eucablue",
+  "registration_number": "VD-3031-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty TNHH sản xuất Thương mại Dược phẩm N.I.C",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

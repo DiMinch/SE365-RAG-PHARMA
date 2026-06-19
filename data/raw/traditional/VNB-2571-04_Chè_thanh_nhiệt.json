@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20849/che-thanh-nhiet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chè thanh nhiệt",
+  "registration_number": "VNB-2571-04",
+  "dosage_form": "Chè thuốc",
+  "manufacturer": "Công ty cổ phần Dược & trang thiết bị Y tế Quảng Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thảo Quyết Minh Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Hoa hòe",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

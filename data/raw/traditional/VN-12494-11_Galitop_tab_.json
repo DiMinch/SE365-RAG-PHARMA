@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-39125/galitop-tab.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Galitop tab.",
+  "registration_number": "VN-12494-11",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Hawon Pharm Corporation",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

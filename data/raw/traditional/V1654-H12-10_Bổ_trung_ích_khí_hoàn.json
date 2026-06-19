@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3168/bo-trung-ich-khi-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ trung ích khí hoàn",
+  "registration_number": "V1654-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH Đông Dược Lâm Vĩnh Sanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bổ trung ích khí, bồi bổ trung tiêu, tăng khí lực. Dùng trong các trường hợp tỳ vị suy nhược, thân thể mỏi mệt, yếu sức, ăn ít, bụng trướng, tiêu chảy lâu ngày, sa dạ con, trĩ nội, trĩ ngoại.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc Người bệnh suyễn cấp, đau đầu mất ngủ do huyết áp cao, nôn ra máu, chảy máu cam. Kiêng kỵ: Kiêng ăn các thứ sống, lạnh khi dùng thuốc.",
+    "dosage": "Ngày uống 2 lần, mỗi lần 1 gói 10g (uống cách bữa ăn 2 giờ)."
+  }
+}

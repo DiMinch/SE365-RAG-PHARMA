@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16334/mat-ong-nghe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mật ong nghệ",
+  "registration_number": "VNB-0421-03",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "100g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34283/aligan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Aligan",
+  "registration_number": "VN-5647-10",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Su-heung Capsule. Co., Ltd",
+  "manufacturer_country": "Korea",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

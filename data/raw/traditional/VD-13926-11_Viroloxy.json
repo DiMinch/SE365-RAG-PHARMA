@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-39852/viroloxy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viroloxy",
+  "registration_number": "VD-13926-11",
+  "dosage_form": "Hộp 10 ống x 5ml dung dịch tiêm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Vĩnh Phúc VINPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

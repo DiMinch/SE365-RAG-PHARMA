@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60217/gentlemax.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gentlemax",
+  "registration_number": "V152-H12-13",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần SPM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "Cao khô lá bạch quả",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31556/cametan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cametan",
+  "registration_number": "V1342-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở Hòa Thuận Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

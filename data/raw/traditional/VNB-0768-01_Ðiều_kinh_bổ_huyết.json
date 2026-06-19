@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21142/dieu-kinh-bo-huyet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðiều kinh bổ huyết",
+  "registration_number": "VNB-0768-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ích mẫu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các trường hợp: \n- Kinh nguyệt không đều. \n- Hành kinh đau bụng, băng huyết, rong huyết. \n- Khí hư bạch đới. \n- Hồi phục tử cung sau khi sinh. \n- Phụ nữ thiếu máu, da xanh, sắc mặt kém tươi.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "Mỗi lần 1 gói, ngày 2-3 lần. Uống 10 ngày liền trước khi thấy kinh và uống trong 2-3 vòng kinh liên tiếp."
+  }
+}

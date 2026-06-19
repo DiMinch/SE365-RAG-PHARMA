@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-66226/phong-te-thap-hd.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phong tê thấp HD",
+  "registration_number": "VD-18675-13",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì chân chim Chính",
+      "amount": "1500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Trừ phong thấp. Chỉ định: Dùng khi người ê ẩm, chân tay bải hoải, co duỗi khó khăn, đau lưng, mỏi gối, tê bại toàn thân.",
+    "side_effects": "- Mẫn cảm với thành phần của thuốc.\n\n- Phụ nữ có thai.",
+    "interactions": "Theo chỉ định của bác sĩ;"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55759/dai-trang-dhd.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đại tràng DHĐ",
+  "registration_number": "VD-27355-17",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần dược phẩm Hoa Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mộc hương Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Viêm đại tràng cấp và mãn tính với các triệu chứng: đau bụng, mót rặn, sống phân, kiết lỵ, rối loạn tiêu hoá kéo dài, ăn khó tiêu, đầy bụng, sôi bụng. - Rối loạn chức năng đại tràng. - Đau bụng, ỉa chảy do nhiễm độc thức ăn.",
+    "contraindication": "- Mẫn cảm với bất cứ thành phần nào của thuốc.\n- Phụ nữ có thai.",
+    "dosage": "Người lớn: Uống 1-2 viên/lần, 2-3 lần/ngày."
+  }
+}

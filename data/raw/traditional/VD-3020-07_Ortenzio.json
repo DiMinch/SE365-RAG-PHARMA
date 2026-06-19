@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4743/ortenzio.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ortenzio",
+  "registration_number": "VD-3020-07",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH SX - TM Dược phẩm Đông Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

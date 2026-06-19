@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4657/antot.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Antot",
+  "registration_number": "VNB-4548-05",
+  "dosage_form": "Thuốc nước uống",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "lysine Chính",
+      "amount": "10ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2256/lysine.aspx"
+    }
+  ],
+  "sections": {}
+}

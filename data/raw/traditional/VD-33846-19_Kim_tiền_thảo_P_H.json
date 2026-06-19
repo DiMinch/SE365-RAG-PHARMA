@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65454/kim-tien-thao-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim tiền thảo P/H",
+  "registration_number": "VD-33846-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

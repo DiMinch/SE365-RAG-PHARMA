@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48608/kehl.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kehl",
+  "registration_number": "VD-21989-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty CP Dược phẩm Đạt Vi Phú (DAVIPHARM)",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Silymarin Chính",
+      "amount": "140mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-680/silymarin.aspx"
+    }
+  ],
+  "sections": {}
+}

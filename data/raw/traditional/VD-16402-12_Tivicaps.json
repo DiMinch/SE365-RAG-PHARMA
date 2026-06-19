@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60378/tivicaps.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tivicaps",
+  "registration_number": "VD-16402-12",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "60mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

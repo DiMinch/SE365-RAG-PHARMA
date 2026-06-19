@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14148/tra-linh-chi-sam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà linh chi sâm",
+  "registration_number": "VNA-3653-00",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "1,2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng trong các trường hợp: cơ thể suy nhược, kiệt sức, mệt mỏi và trong thời gian dưỡng bệnh. - Trị suy nhược thần kinh, làm hạ cholesterol máu. - Phòng và chống viêm gan. Công năng Bổ khí, dưỡng huyết, dưỡng tâm an thần, hạ cholesterol máu, tăng cường sức khỏe, tăng trí nhớ, làm mạnh hệ thống miễn dịch, tăng cường chức năng gan, giải  độc gan.",
+    "dosage": "Không dùng cho phụ nữ có thai.\nKhông dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "side_effects": "Uống mỗi lần 1 gói, ngày 2 lần hoặc theo sự chỉ định của Bác sĩ. Không uống trước khi đi ngủ."
+  }
+}

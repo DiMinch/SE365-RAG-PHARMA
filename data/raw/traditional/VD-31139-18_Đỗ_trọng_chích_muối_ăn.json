@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61790/do-trong-chich-muoi-an.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đỗ trọng chích muối ăn",
+  "registration_number": "VD-31139-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đỗ trọng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48786/atiliver-diep-ha-chau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Atiliver Diệp hạ châu",
+  "registration_number": "VD-22167-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bồ công anh Chính",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Cỏ nhọ nồi",
+      "amount": "200 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    }
+  ],
+  "sections": {}
+}

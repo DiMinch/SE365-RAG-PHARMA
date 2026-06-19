@@ -1,0 +1,57 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21530/linh-trung-an-than-bo-tam-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Linh trung an Thần bổ tâm hoàn",
+  "registration_number": "VND-0558-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất Đông Nam Dược Linh Trung",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sinh địa Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Ðảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
+      "name": "Phục thần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2478/phuc-than.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dưỡng tâm an thần, điều hòa nhịp tim. Hỗ trợ giảm stress, căng thẳng mất ngủ hoặc mắc chứng suy nhược thần kinh",
+    "contraindication": "Cách dùng Uống mỗi lần 2-3 viên, ngày 3 lần Đối tượng sử dụng Dành cho người bị stress, căng thẳng tâm lý, mất ngủ hoặc ngủ không sâu Chứng suy nhược thần kinh, nhức đầu giảm trí nhớ, Hay bị hồi hộp Nhịp tim không ổn định Hỗ trợ điều trị thiểu năng mạch vành"
+  }
+}

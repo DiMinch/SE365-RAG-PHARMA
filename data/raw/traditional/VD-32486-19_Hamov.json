@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63514/hamov.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hamov",
+  "registration_number": "VD-32486-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Vạn Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

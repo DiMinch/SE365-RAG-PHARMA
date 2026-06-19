@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48358/dan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đan sâm tam thất Traphaco",
+  "registration_number": "VD-21738-14",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đan sâm Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4807/sevona.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sevona",
+  "registration_number": "VNA-3227-05",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lạc tiên Chính",
+      "amount": "1g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    },
+    {
+      "name": "Lá vông",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {}
+}

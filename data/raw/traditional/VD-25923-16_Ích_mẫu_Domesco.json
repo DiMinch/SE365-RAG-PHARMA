@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4718/ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mẫu Domesco",
+  "registration_number": "VD-25923-16",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Xuất Nhập Khẩu Y tế DOMESCO",
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu",
+      "amount": "1050mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "130mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14885/mat-ong-nghe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mật ong nghệ",
+  "registration_number": "VNB-0865-03",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    },
+    {
+      "name": "Bột nghệ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

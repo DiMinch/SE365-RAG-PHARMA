@@ -1,0 +1,70 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-47908/bo-trung-ich-khi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ trung ích khí Hataphar",
+  "registration_number": "VD-21289-14",
+  "dosage_form": "Thuốc nước uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "Cao lỏng hỗn hợp  0,21g 1g Đảng sâm, 0,3g Hoàng kỳ, 0,3g Đương quy, 0,3g Bạch truật, 0,3 g Thăng ma, 0,3g Sài hồ, 0,3g Trần bì, 0,3g Cam thảo, 1,02g Đại táo, 0,12g Sinh khương",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sinh khương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2411/sinh-khuong.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bổ trung ích khí, bồi bổ trung tiêu, tăng khí lực. Dùng trong các trường hợp tỳ vị suy nhược, thân thể mỏi mệt, yếu sức, ăn ít, bụng trướng, tiêu chảy lâu ngày, sa dạ con, trĩ nội, trĩ ngoại.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc Người bệnh suyễn cấp, đau đầu mất ngủ do huyết áp cao, nôn ra máu, chảy máu cam. Kiêng kỵ: Kiêng ăn các thứ sống, lạnh khi dùng thuốc.",
+    "dosage": "Ngày uống 2 lần, mỗi lần 1ống 10ml (uống cách bữa ăn 2 giờ)."
+  }
+}

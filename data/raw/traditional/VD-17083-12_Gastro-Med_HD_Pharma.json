@@ -1,0 +1,41 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9227/gastro-med-5g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gastro-Med HD Pharma",
+  "registration_number": "VD-17083-12",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ðảng sâm Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Mạch nha",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2406/mach-nha.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị viêm loét dạ dày (bao tử);- hành tá tràng. Viêm,loét bờ cong lớn, bờ cong nhỏ. Viêm dạ dày cấp và mãn. Viêm đại tràng. Các triệu chứng ăn không tiêu, đầy bụng, ợ hợi, buôn nôn, cảm giác khó chịu ở dạ dày. Đi ngoài phân không bình thường.",
+    "contraindication": "Không",
+    "dosage": "Ngày uống 3 lần. Sáng trước khi ăn, trưa và tối sau khi ăn 30 phút. Mỗi lần uống 1 gói (5g)pha với 250ml nước đang sôi 100 độ C.",
+    "side_effects": "Để nơi khô ráo."
+  }
+}

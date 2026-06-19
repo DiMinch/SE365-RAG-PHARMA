@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3744/stomacal.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Stomacal",
+  "registration_number": "VNA-1827-04",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty Dược vật tư Y tế Tây Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

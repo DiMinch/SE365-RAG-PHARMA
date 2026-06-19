@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4542/beliver.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Beliver",
+  "registration_number": "VD-16772-12",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    },
+    {
+      "name": "Vitamin B1",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {}
+}

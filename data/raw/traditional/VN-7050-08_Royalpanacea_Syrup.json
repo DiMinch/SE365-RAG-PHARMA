@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29556/royalpanacea-syrup.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Royalpanacea Syrup",
+  "registration_number": "VN-7050-08",
+  "dosage_form": "Siro",
+  "manufacturer": "Korea E-Pharm Inc. Korea",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin A Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-314/vitamin-a.aspx"
+    },
+    {
+      "name": "Zinc oxide",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-899/zinc-oxide.aspx"
+    },
+    {
+      "name": "lysine",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2256/lysine.aspx"
+    },
+    {
+      "name": "Ferrous fumarate",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2233/ferrous-fumarate.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng thuốc đề phòng chứng bệnh thiếu hụt Vitamin và khoáng chất của trẻ em: Cơ thể ở tình trạng thiếu chất dinh dưỡng, biếng ăn ở giai đoạn phục hồi sức khỏe sau khi ốm, mệt mỏi ở giai đoạn ccow thể cần nhiều nhu cầu Vitamin và khoáng chất, sắt, lysin cần thiết cho sự phát triển của cơ thể. Đặc biệt thuốc cung cấp lysine là acid amin thường thiếu hụt trong chế độ ăn uống hàng ngày. Lysin đã được chứng mình về y học là yếu tố chịu trách nhiệm cho sự phát triển bình thường của cơ thể. Ngoài ra chế phẩm có sắt đóng vai trò quan trọng trong quá trình tạo máu giúp da dẻ được hồng hào, với người khỏe mạnh thuốc cũng cung cấp các chất thiết yếu hàng ngày cần thiết cho sự tăng trưởng.",
+    "contraindication": "Cách dùng Siro ROYALPANACEA có thể uống luôn hoặc có thể pha loãng với nước trái cây (không pha với sữa);. Liều dùng Liều dùng cho trẻ em trên 1 tuổi 5ml mỗi lần, 2 lần mỗi ngày sau bữa ăn. Hoặc theo chỉ định của bác sỹ.",
+    "warnings": "Táo bón, tiêu chảy, đau bụng.\n\nBuồn nôn, dị ứng, phát ban.\n\nKhi những tác dụng phụ này xuất hiện thì nên tiến hành thăm khám tại các cơ sở y tế gần nhất."
+  }
+}

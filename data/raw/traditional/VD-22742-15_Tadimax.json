@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49633/tadimax.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tadimax",
+  "registration_number": "VD-22742-15",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Trinh nữ hoàng cung Chính",
+      "amount": "tương ứng với 2000 mg lá trinh nữ hoàng cung",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2322/trinh-nu-hoang-cung.aspx"
+    }
+  ],
+  "sections": {}
+}

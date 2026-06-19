@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34590/dau-bac-ha-nhan-hoa.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu bạc hà Nhân Hoà",
+  "registration_number": "V653-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở Nhân Hoà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {}
+}

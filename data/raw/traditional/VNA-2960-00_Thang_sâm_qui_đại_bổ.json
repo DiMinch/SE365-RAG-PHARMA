@@ -1,0 +1,53 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9226/thang-sam-qui-dai-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thang sâm qui đại bổ",
+  "registration_number": "VNA-2960-00",
+  "dosage_form": "Thuốc thang",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "160g, 480g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hà thủ ô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng dược lý : Sâm qui đại bổ là một loại thuốc bổ Tinh huyết Khí. Gia tăng hoạt động sinh dục, phát triển thể chất, tăng cường năng lực hoạt động và ổn định tinh thần. Qua đó trị được nhiều chứng bệnh thường kèm theo như ăn không ngon, ngủ không yên, táo bón , tiêu chảy, tiểu đêm nhiều lần, đau lưng, lạnh chân, chóng mặt , hồi hộp, mệt mỏi . Chỉ định : Bồi bổ và tăng thể lực. Trị các chứng suy nhược cơ thể, thiếu máu, chóng mặt, kém ăn, mất ngủ.",
+    "side_effects": "- Không dùng cho phụ nữ có thai, bệnh nhân suy gan, người bệnh tiểu đường, trẻ em dưới 15 tuổi.\n- Không nên dùng đối với người suy nhược cơ thể có các triệu chứng nóng khát, sắc diện bừng đỏ, tiểu tiện ít và vàng đậm, người hiếu động nóng nảy.\n- Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "interactions": "Người lớn: uống mỗi lần 30ml, ngày 2 lần, uống trước bữa ăn nửa giờ.",
+    "warnings": "Ít gặp: Dị ứng, cảm giác nóng, nổi mụn, ngứa.\nThông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
+}

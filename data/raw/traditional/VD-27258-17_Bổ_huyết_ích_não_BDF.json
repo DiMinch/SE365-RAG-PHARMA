@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55192/bo-huyet-ich-nao-bdf.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ huyết ích não BDF",
+  "registration_number": "VD-27258-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty Dược & trang thiết bị Y tế Bình Định BIDIPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Bạch quả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

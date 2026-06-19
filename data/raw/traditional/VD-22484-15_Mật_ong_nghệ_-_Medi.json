@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49877/mat-ong-nghe-medi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mật ong nghệ - Medi",
+  "registration_number": "VD-22484-15",
+  "dosage_form": "Viên nén nhai",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "950 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "250 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

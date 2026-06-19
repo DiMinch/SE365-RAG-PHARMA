@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20591/vien-hoan-cung-viem-xoang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên hoàn cứng Viêm xoang",
+  "registration_number": "VNB-2294-04",
+  "dosage_form": "Hộp 1 chai 30g",
+  "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bán hạ Chính",
+      "amount": "30g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Hoàng bá",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2432/hoang-ba.aspx"
+    },
+    {
+      "name": "Thương truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16320/nghe-mat-ong-dy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nghệ mật ong Ð/Y",
+  "registration_number": "VNB-3948-05",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty TNHH Dược phẩm Ðại Y",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

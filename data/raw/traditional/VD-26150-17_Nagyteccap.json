@@ -1,0 +1,29 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54111/nagyteccap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nagyteccap",
+  "registration_number": "VD-26150-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hạ khô thảo Chính",
+      "amount": "850 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2484/ha-kho-thao.aspx"
+    },
+    {
+      "name": "Linh chi",
+      "amount": "850 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Nagytec có tác dụng tăng cường miễn dịch, thanh lọc và đào thải các độc tố nội sinh ra khỏi cơ thể. Các hoạt chất tự nhiên của Nagytec có tác dụng chống viêm cao, hỗ trợ tốt trong điều trị viêm nhiễm mãn tính Chỉ định: - Tăng cường miễn dịch cơ thể, tăng cường khả năng chống stress, phục hồi thể lực và hỗ trợ điều trị các bệnh do virus. - Các trường hợp viêm nhiễm như : + Viêm đường tiêu hóa : Viêm dạ dày, hành tá tràng và đại tràng + Viêm đường hô hấp : Viêm họng, viêm thanh quản và phế quản. + Viêm cơ xương + Viêm ngoài da : Mụn nhọt, các viêm tấy trên da. Giải độc cơ thể : Nagytec có thể dùng định kỳ để ổn định sức khỏe, thanh thải độc cơ thể và loại bỏ các nguy cơ viêm nhiễm nội sinh tiềm ẩn.",
+    "side_effects": "Người mẫn cảm với các thành phần của thuốc, người đang bị tiêu chảy không dùng. Trong quá trình sử dụng thuốc cần tránh các thực phẩm, gia vị có khả năng gây kích thích, gây nóng như rượu, ớt, hạt tiêu, tỏi…..",
+    "interactions": "Mỗi lần dùng từ 1 -> 2 viên, ngày 02 lần, uống thuốc sau khi ăn 1 -> 2h. Thời gian sử dụng từ 1 -> 30 ngày/ đợt điều trị. Với trường hợp mãn tính nên duy trì điều trị tối thiểu 30 -> 60 ngày và nên sử dụng nhắc lại định kì.",
+    "warnings": "Hiếm gặp, tuy nhiên cần thông báo cho Bác sĩ về những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
+}

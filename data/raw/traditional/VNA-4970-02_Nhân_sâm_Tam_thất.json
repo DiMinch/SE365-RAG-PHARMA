@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16454/nhan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nhân sâm Tam thất",
+  "registration_number": "VNA-4970-02",
+  "dosage_form": "Viên ngậm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Vĩnh Phúc VINPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

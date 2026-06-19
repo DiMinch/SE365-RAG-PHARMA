@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3731/sagastrol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sagastrol",
+  "registration_number": "VNB-2876-05",
+  "dosage_form": "Viên nén nhai",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Aluminum Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-20/aluminum.aspx"
+    }
+  ],
+  "sections": {}
+}

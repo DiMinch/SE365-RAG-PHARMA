@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30296/com-tri-ngay-hong-thao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốm trị ngáy hồng thảo",
+  "registration_number": "VN-8200-09",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Qinghai Junzha Pharma Co., Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Ma Hoàng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2492/ma-hoang.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

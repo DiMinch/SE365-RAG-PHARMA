@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52000/hoan-phong-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn phong thấp",
+  "registration_number": "V42-H12-16",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học cổ truyền Bảo Phương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thiên niên kiện Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    }
+  ],
+  "sections": {}
+}

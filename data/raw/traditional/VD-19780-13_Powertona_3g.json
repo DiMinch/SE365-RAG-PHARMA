@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4878/powertona-3g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Powertona 3g",
+  "registration_number": "VD-19780-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Korea United Pharm. Int’ L",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

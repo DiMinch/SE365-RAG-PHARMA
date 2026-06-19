@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40868/hepitat-capsule.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepitat Capsule",
+  "registration_number": "VN-13736-11",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Hanbul Pharma Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63326/pqa-bach-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "PQA Bách Bộ",
+  "registration_number": "VD-32298-19",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần dược phẩm PQA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "1:1",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {}
+}

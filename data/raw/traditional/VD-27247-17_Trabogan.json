@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58575/trabogan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trabogan",
+  "registration_number": "VD-27247-17",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "tương đương 15g lá tươi Actisô",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

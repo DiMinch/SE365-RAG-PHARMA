@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4556/viga-threepharco.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viga Threepharco",
+  "registration_number": "VNB-4562-05",
+  "dosage_form": "Viên nén tròn bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Q.3",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

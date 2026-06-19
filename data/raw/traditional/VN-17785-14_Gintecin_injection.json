@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4670/gintecin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gintecin injection",
+  "registration_number": "VN-17785-14",
+  "dosage_form": "Dung dịch tiêm",
+  "manufacturer": "Siu Guan Chem Ind Co., Ltd",
+  "manufacturer_country": "Taiwan",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "17,5mg/5ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20857/tra-thanh-nhiet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà thanh nhiệt",
+  "registration_number": "VNB-4023-05",
+  "dosage_form": "Trà thuốc",
+  "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thảo Quyết Minh Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Hoa hòe",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

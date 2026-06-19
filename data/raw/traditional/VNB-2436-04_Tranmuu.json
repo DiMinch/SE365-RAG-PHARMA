@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9334/tranmuu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tranmuu",
+  "registration_number": "VNB-2436-04",
+  "dosage_form": "Thuốc bôi ngoài da",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm & bao bì Y tế Quang Minh MEDIPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin E Chính",
+      "amount": "15ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-267/vitamin-e.aspx"
+    }
+  ],
+  "sections": {}
+}

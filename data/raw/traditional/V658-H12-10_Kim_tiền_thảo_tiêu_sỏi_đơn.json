@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34643/kim-tien-thao-tieu-soi-don.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim tiền thảo tiêu sỏi đơn",
+  "registration_number": "V658-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở sản xuất Quang Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    },
+    {
+      "name": "Bạch mao căn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2393/bach-mao-can.aspx"
+    }
+  ],
+  "sections": {}
+}

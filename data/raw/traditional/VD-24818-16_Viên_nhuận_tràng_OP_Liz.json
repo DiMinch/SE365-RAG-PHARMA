@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52808/vien-nhuan-trang-opliz.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên nhuận tràng OP.Liz",
+  "registration_number": "VD-24818-16",
+  "dosage_form": "Viên nén bao",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Chỉ xác Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    }
+  ],
+  "sections": {}
+}

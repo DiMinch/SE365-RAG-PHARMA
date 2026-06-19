@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40060/chuong-nhan-minh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chướng nhãn minh",
+  "registration_number": "VD-14158-11",
+  "dosage_form": "Hộp 5 vỉ, hộp 10 vỉ x 6 viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lutein Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2532/lutein.aspx"
+    },
+    {
+      "name": "Zinc",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1013/zinc.aspx"
+    },
+    {
+      "name": "Vitamin A",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-314/vitamin-a.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4295/tra-thanh-nhiet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà thanh nhiệt",
+  "registration_number": "VNA-2819-05",
+  "dosage_form": "Trà thuốc",
+  "manufacturer": "Công ty cổ phần Dược Thiết Bị Y Tế Đà Nẵng - Dapharco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Hoa hòe",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    }
+  ],
+  "sections": {}
+}

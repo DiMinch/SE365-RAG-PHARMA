@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14852/thuoc-bot-tri-dau-bao-tu-thai-dien-binh-an.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc bột trị đau bao tử Thái điền Bình An",
+  "registration_number": "VND-0393-00",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học dân tộc Bình An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch đậu khấu Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2351/bach-dau-khau.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    }
+  ],
+  "sections": {}
+}

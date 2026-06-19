@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4390/tranausea.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tranausea",
+  "registration_number": "VNB-0279-02",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Can khương Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49829/inter-vas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Inter-Vas",
+  "registration_number": "VD-22879-15",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá Bạch quả Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

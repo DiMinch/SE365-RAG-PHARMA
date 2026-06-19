@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29637/vi-khang-linh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vị khang linh",
+  "registration_number": "VN-9499-10",
+  "dosage_form": null,
+  "manufacturer": "Taizhou Nanfeng Pharmaceutical Co.,Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch thược Chính",
+      "amount": "317.5mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "317.5mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Phục thần",
+      "amount": "238.1mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2478/phuc-than.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "9.9mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

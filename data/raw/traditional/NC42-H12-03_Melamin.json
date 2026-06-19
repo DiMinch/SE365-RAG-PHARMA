@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16336/melamin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Melamin",
+  "registration_number": "NC42-H12-03",
+  "dosage_form": "Bột pha hỗn dịch uống",
+  "manufacturer": "Viện Y Dược học dân tộc thành phố Hồ Chí Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

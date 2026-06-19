@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54339/cao-dac-ngai-cuu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao đặc ngải cứu Hóa Dược Việt Nam",
+  "registration_number": "893500002826",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần hóa Dược Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngải cứu Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

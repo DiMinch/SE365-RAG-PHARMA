@@ -1,0 +1,64 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58629/truong-tho-quy-ty-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trường Thọ Quy tỳ hoàn",
+  "registration_number": "VD-29889-18",
+  "dosage_form": "Viên hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "800 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "800 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "80 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "800 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "800 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "400 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "80 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "800 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kiện tỳ, dưỡng huyết, ích khí, an thần. Chủ trị tâm tỳ đều hư, hơi thở ngắn, tim đập mạnh, mất ngủ, ngủ hay mê, chóng mặt, chán ăn, mệt mỏi, đại tiểu tiện ra máu, suy nhược thần kinh, thiếu máu, kinh nguyệt không đều.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc.",
+    "dosage": "Người lớn: Mỗi ngày uống 2 lần, mỗi lần 1 -  2 hoàn. Trẻ em: Liều dùng bằng 1/2 liều người lớn Uống với nước ấm hoặc nước gừng"
+  }
+}

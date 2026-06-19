@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53919/bai-thach-usapha.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bài thạch Usapha",
+  "registration_number": "VD-25957-16",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Usapha",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "tương đương 2500 mg Kim tiền thảo",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    },
+    {
+      "name": "Râu mèo",
+      "amount": "tương đương 1000 mg Râu mèo",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    }
+  ],
+  "sections": {}
+}

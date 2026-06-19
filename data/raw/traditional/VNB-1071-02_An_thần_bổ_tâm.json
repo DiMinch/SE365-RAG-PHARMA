@@ -1,0 +1,63 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9288/an-than-bo-tam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần bổ tâm",
+  "registration_number": "VNB-1071-02",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Bình Lục",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long nhãn Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dưỡng tâm an thần, điều hòa nhịp tim. Hỗ trợ giảm stress, căng thẳng mất ngủ hoặc mắc chứng suy nhược thần kinh",
+    "contraindication": "Cách dùng Uống mỗi lần 2-3 viên, ngày 3 lần Đối tượng sử dụng Dành cho người bị stress, căng thẳng tâm lý, mất ngủ hoặc ngủ không sâu Chứng suy nhược thần kinh, nhức đầu giảm trí nhớ, Hay bị hồi hộp Nhịp tim không ổn định Hỗ trợ điều trị thiểu năng mạch vành"
+  }
+}

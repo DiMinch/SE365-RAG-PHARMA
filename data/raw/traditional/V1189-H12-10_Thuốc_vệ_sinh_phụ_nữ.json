@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35852/thuoc-ve-sinh-phu-nu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc vệ sinh phụ nữ",
+  "registration_number": "V1189-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược Ninh Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Berberine Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-583/berberine.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Phèn chua",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
+    }
+  ],
+  "sections": {}
+}

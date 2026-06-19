@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19637/hoan-phong-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn Phong thấp",
+  "registration_number": "VNA-0845-03",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Ninh Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Ngũ gia bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

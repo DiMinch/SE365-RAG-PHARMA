@@ -1,0 +1,71 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54031/thap-toan-dai-bo-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thập Toàn Đại Bổ -HT",
+  "registration_number": "VD-26070-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "170mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "90mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "170mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "90mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "110mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "90mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bổ khí huyết. Dùng trong trường hợp cơ thể suy nhược, khí huyết hư gây chứng kém ăn, hồi hộp, chóng mặt, ra mồ hôi trộm, lạnh chân tay.",
+    "contraindication": "-         Mẫn cảm với bất cứ thành phần nào của thuốc\n-         Người bệnh khí huyết hư nhưng cơ thể nhiệt\n-         Phụ nữ có thai",
+    "dosage": "Ngày uống 2 - 3 lần, mỗi lần 2 - 3 viên.",
+    "side_effects": "Hiện tại chưa ghi nhận được tác dụng không mong muốn nào của thuốc\n“ Thông báo cho bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc”\n\nTác động của thuốc khi lái xe và vận hành máy móc : \n\nThuốc dùng được cho người khi lái xe hoặc đang vận hành máy móc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4848/thuoc-chua-phong-te-thap-dau-than-kinh-toa.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc chữa Phong tê thấp đau Thần kinh toạ",
+  "registration_number": "VND-0505-01",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Tổ hợp Ðông Dược Hoàn Thắng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Khương hoạt Chính",
+      "amount": "8g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Mộc qua",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2453/moc-qua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Trừ phong thấp. Chỉ định: Dùng khi người ê ẩm, chân tay bải hoải, co duỗi khó khăn, đau lưng, mỏi gối, tê bại toàn thân.",
+    "side_effects": "- Mẫn cảm với thành phần của thuốc.\n\n- Phụ nữ có thai.",
+    "interactions": "Theo chỉ định của bác sĩ;"
+  }
+}

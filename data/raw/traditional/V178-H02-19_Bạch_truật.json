@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62432/bach-truat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạch truật",
+  "registration_number": "V178-H02-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học cổ truyền Bảo Phương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {}
+}

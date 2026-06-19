@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13452/kim-toa-co-tinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim toả cố Tinh",
+  "registration_number": "NC60-H09-04",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Viện Y học Cổ truyền Quân đội",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Khiếm thực Chính",
+      "amount": "5,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
+    }
+  ],
+  "sections": {}
+}

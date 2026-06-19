@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9293/quy-ty-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Quy tỳ hoàn Đông nam dược Trung An",
+  "registration_number": "V35-H12-16",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Trung An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "45g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kiện tỳ, dưỡng huyết, ích khí, an thần. Chủ trị tâm tỳ đều hư, hơi thở ngắn, tim đập mạnh, mất ngủ, ngủ hay mê, chóng mặt, chán ăn, mệt mỏi, đại tiểu tiện ra máu, suy nhược thần kinh, thiếu máu, kinh nguyệt không đều.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc.",
+    "dosage": "Người lớn: Mỗi ngày uống 2 lần, mỗi lần 10 viên hoàn. Trẻ em: Liều dùng bằng 1/2 liều người lớn Uống với nước ấm hoặc nước gừng"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48228/kim-ngan-van-ung.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim ngân vạn ứng",
+  "registration_number": "VD-21609-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ké đầu ngựa Chính",
+      "amount": "500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2526/ke-dau-ngua.aspx"
+    }
+  ],
+  "sections": {}
+}

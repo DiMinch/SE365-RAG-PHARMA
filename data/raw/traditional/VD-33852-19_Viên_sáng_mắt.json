@@ -1,0 +1,45 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65460/vien-sang-mat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sáng mắt",
+  "registration_number": "VD-33852-19",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty Cổ phần Dược Quốc tế Tùng Lộc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn thù Chính",
+      "amount": "1 g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "1 g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các bệnh về mắt do can thận âm hư, huyết hư: - Mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng. - Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ. - Thị lực giảm.",
+    "contraindication": "- Người lớn: ngày uống 2-3 lần, mỗi lần 1 viên với nước chín."
+  }
+}

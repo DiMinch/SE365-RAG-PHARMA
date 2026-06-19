@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12344/ha-thu-o.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hà Thủ ô",
+  "registration_number": "VNA-3760-00",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12935/cao-dac-ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao đặc ích mẫu",
+  "registration_number": "VNB-3505-05",
+  "dosage_form": "Nguyên liệu",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "5kg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    }
+  ],
+  "sections": {}
+}

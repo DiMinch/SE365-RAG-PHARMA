@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57701/pectolvan-ivy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Pectolvan Ivy",
+  "registration_number": "VN-20742-17",
+  "dosage_form": "Si rô",
+  "manufacturer": "Joint Stock Company Farmark JSC Farmak",
+  "manufacturer_country": "UKRAINE",
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá thường xuân Chính",
+      "amount": "Mỗi 5 ml chứa: Cao khô lá thường xuân (4-8): 1 35mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2436/cao-la-thuong-xuan.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12560/che-ha-ap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chè hạ áp",
+  "registration_number": "NC15-H07-09",
+  "dosage_form": "Túi lọc",
+  "manufacturer": "Bệnh viện Y học Cổ truyền TW",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Cỏ ngọt",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2470/co-ngot.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    }
+  ],
+  "sections": {}
+}

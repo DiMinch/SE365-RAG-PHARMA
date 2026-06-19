@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49006/salonpas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Salonpas dạng cao dán",
+  "registration_number": "VD-22387-15",
+  "dosage_form": "Cao dán",
+  "manufacturer": "Công ty TNHH Dược phẩm Hisamitsu Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "methyl salicylate Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kháng viêm, giảm đau trong các cơn đau liên quan đến: Đau vai, đau lưng, đau cơ, mỏi cơ, đau khớp, bầm tím, bong gân, căng cơ, đau đầu, đau răng.",
+    "contraindication": "Không sử dụng trên vùng da tổn thương, vết thương hở, mắt, vùng da quanh mắt, niêm mạc và người dị ứng với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Người lớn và trẻ em từ 12 tuổi trở lên: Rửa sạch, lau khô vùng da bị đau. Gỡ miếng dán và dán vào chỗ đau không quá 3 lần trong ngày và không quá 7 ngày. Gỡ miếng dán ra khỏi da sau 8 giờ. Trẻ em dưới 12 tuổi: Hỏi ý kiến Bác sĩ trước khi sử dụng."
+  }
+}

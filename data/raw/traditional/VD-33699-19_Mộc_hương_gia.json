@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65307/moc-huong-gia.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mộc hương gia",
+  "registration_number": "VD-33699-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng liên Chính",
+      "amount": "tương đương với 1g Thân rễ Hoàng liên",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "tương đương với 1g Rễ Mộc hương",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Viêm đại tràng cấp và mãn tính với các triệu chứng: đau bụng, mót rặn, sống phân, kiết lỵ, rối loạn tiêu hoá kéo dài, ăn khó tiêu, đầy bụng, sôi bụng. - Rối loạn chức năng đại tràng. - Đau bụng, ỉa chảy do nhiễm độc thức ăn.",
+    "contraindication": "- Mẫn cảm với bất cứ thành phần nào của thuốc.\n- Phụ nữ có thai.",
+    "dosage": "Người lớn: Uống 1-2 viên/lần, 2-3 lần/ngày."
+  }
+}

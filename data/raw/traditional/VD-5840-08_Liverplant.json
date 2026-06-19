@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27872/liverplant.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Liverplant",
+  "registration_number": "VD-5840-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn tiêu hóa, kém ăn, suy nhược cơ thể... Bảo vệ tế bào gan trong các trường hợp sử dụng: Hóa chất, thuốc chữa bệnh... Bệnh nhân trong thời kỳ dưỡng bệnh, sau phẫu thuật, nhiễm trùng hoặc ốm kéo dài. Hỗ trợ điều trị trong viêm dây thần kinh, viêm đa dây thần kinh Tăng cường chức năng giải độc gan, hỗ trợ điều trị các trường hợp: trứng cá, mụn nhọt, dị ứng mãn tính... Rối loạn chức năng gan: Viêm gan, viêm gan virus, gan nhiễm mỡ, xơ gan.",
+    "contraindication": "Liều thường dùng: mỗi lần 1 viên, ngày 2 lần; Rối loạn chức năng gan: Ngày 3 lần, mỗi lần 1 viên."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-51813/thuoc-ha-huyet-ap-casoran.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc hạ huyết áp Casoran Traphaco",
+  "registration_number": "VD-23890-15",
+  "dosage_form": "Cốm trà",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoa hòe Chính",
+      "amount": "830 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "80 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Cỏ ngọt",
+      "amount": "170 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2470/co-ngot.aspx"
+    },
+    {
+      "name": "Tâm sen",
+      "amount": "80 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Dừa cạn",
+      "amount": "250 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2472/dua-can.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: - Hạ huyết áp, lợi tiểu, thanh nhiệt. - Tăng sức đàn hồi và làm bền vững thành mạch, giảm xung huyết, chống xơ vữa động mạch. - An thần, chống chóng mặt, nhức đầu. Chỉ định: Casoran được dùng trong các trường hợp: - Tăng huyết áp thể vừa và nhẹ. - Đau đầu, hoa mắt, chóng mặt, mất ngủ, tê mỏi đầu chi do tăng huyết áp. - Phòng ngừa và phối hợp điều trị: tai biến mạch máu não, xuất huyết dưới da, tăng cholesterol, xơ vữa động mạch.",
+    "side_effects": "Người bị huyết áp thấp.",
+    "interactions": "Thuốc cốm: - Uống 1 túi x 3 lần/ngày - Hòa mỗi túi vào khoảng 40ml nước ấm Viên bao phim: - Uống 3 viên/ lần x 2 lần/ ngày - Liều có thể tăng gấp 2 khi cần thiết Thuốc hạ huyết áp Casoran dạng viên bao film phù hợp cho bệnh nhân cao huyết áp kèm đái tháo đường"
+  }
+}

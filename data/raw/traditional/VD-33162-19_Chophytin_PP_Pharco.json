@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13555/chophytin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chophytin PP.Pharco",
+  "registration_number": "VD-33162-19",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Chi tử Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

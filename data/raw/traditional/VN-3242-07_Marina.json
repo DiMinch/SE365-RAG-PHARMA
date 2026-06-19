@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9328/marina.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Marina",
+  "registration_number": "VN-3242-07",
+  "dosage_form": "Viên nang mềm-500mg",
+  "manufacturer": "Strides Arcolab., Ltd",
+  "manufacturer_country": "India",
+  "herbal_ingredients": [
+    {
+      "name": "Dầu cá Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2554/dau-ca.aspx"
+    }
+  ],
+  "sections": {}
+}

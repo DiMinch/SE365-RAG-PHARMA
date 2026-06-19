@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12995/hoan-ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn ích mẫu",
+  "registration_number": "VNA-0108-02",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "45g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Kinh nguyệt không đều, đau bụng khi hành kinh, khí hư bạch đới, rối loạn kinh nguyệt. \n- Phục hồi tử cung sau khi sinh, giúp lưu thông khí huyết, da dẻ mịn màng, tươi mát.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "Uống 1-2 viên/lần, 3 lần/ngày Bệnh nặng dùng liều gấp đôi."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60432/ho-hen-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ho hen TW3",
+  "registration_number": "V246-H01-13",
+  "dosage_form": "Siro thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ma Hoàng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2492/ma-hoang.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "Radix Glycyrrhizae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "Ramulus Cinnamomi",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

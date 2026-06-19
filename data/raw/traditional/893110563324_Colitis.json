@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16367/colitis.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Colitis",
+  "registration_number": "893110563324",
+  "dosage_form": "Viên bao tan trong ruột",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Berberine Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-583/berberine.aspx"
+    },
+    {
+      "name": "Cát căn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2347/cat-can.aspx"
+    }
+  ],
+  "sections": {}
+}

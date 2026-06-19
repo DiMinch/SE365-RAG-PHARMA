@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35126/eugica-fort.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Eugica fort dạng viên nang mềm",
+  "registration_number": "893100393823",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "50 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "Oleum Zingiberis officinalis",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    },
+    {
+      "name": "Tinh Dầu Tần",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2373/tinh-dau-tan.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

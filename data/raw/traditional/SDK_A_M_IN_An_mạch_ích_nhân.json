@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-44811/an-mach-ich-nhan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An mạch ích nhân",
+  "registration_number": "SDK_A_M_IN",
+  "dosage_form": "viên nang",
+  "manufacturer": "Công ty TNHH Dược phẩm Ích Nhân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu tất Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Sơn tra",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    }
+  ],
+  "sections": {}
+}

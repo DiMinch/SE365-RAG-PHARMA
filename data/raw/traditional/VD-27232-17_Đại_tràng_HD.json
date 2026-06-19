@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-36677/dai-trang-hd.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đại tràng HD",
+  "registration_number": "VD-27232-17",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "25mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "10mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "10mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "– Viêm đại tràng cấp và mạn tính với các triệu chứng : Đau bụng, mót rặn, sống phân, kiết lỵ, rối loạn tiêu hóa kéo dài, ăn khó tiêu, đầy bụng, sôi bụng. – Rối loạn chức năng đại tràng.",
+    "contraindication": "Không dùng cho phụ nữ có thai, trẻ em dưới 5 tuổi",
+    "dosage": "– Người lớn: Mỗi lần uống 2-3 viên, ngày uống 3 lần. – Trẻ em trên 8 tuổi: Mỗi lần uống 1 viên, ngày uống 3 lần. Uống sau bữa ăn – Viêm đại tràng mạn tính: Mỗi đợt điều trị từ 2-3 tuần, có thể củng cố điều trị 2-3 đợt tùy theo mức độ của bệnh. – Viêm đại tràng cấp tính: Mỗi đợt điều trị 5 – 10 ngày – Rối loạn chức năng đại tràng: Mỗi đợt điều trị 7-10 ngày"
+  }
+}

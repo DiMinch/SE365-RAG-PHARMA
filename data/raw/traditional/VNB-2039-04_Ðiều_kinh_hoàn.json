@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-6600/dieu-kinh-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðiều kinh hoàn",
+  "registration_number": "VNB-2039-04",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các trường hợp: \n- Kinh nguyệt không đều. \n- Hành kinh đau bụng, băng huyết, rong huyết. \n- Khí hư bạch đới. \n- Hồi phục tử cung sau khi sinh. \n- Phụ nữ thiếu máu, da xanh, sắc mặt kém tươi.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "Mỗi lần 1 gói, ngày 2-3 lần. Uống 10 ngày liền trước khi thấy kinh và uống trong 2-3 vòng kinh liên tiếp."
+  }
+}

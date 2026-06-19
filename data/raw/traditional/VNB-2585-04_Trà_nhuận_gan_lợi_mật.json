@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18757/tra-nhuan-gan-loi-mat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà nhuận gan lợi mật",
+  "registration_number": "VNB-2585-04",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cỏ ngọt Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2470/co-ngot.aspx"
+    }
+  ],
+  "sections": {}
+}

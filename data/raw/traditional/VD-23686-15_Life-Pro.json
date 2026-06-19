@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-51609/life-pro.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Life-Pro",
+  "registration_number": "VD-23686-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rau đắng biển Chính",
+      "amount": "3g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2718/rau-dang-bien.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Cải thiện và duy trì các chức năng não và nhận thức bậc cao, bao gồm trí nhớ, khả năng học tập, tiến trình thông tin và khả năng tập trung.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc",
+    "dosage": "Người lớn và trẻ em trên 12 tuổi: 2 viên mỗi ngày Trẻ em (6-12 tuổi): 1 viên mỗi ngày hoặc theo hướng dẫn của chuyên gia y tế"
+  }
+}

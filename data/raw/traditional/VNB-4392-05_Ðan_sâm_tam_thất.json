@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4844/dan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðan sâm tam thất",
+  "registration_number": "VNB-4392-05",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

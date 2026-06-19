@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63128/dilagin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dilagin",
+  "registration_number": "VD-32102-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đinh lăng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2559/dinh-lang.aspx"
+    },
+    {
+      "name": "Lá Bạch quả",
+      "amount": "24%",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

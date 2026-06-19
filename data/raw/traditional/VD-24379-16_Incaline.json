@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52343/incaline.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Incaline",
+  "registration_number": "VD-24379-16",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá Bạch quả Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Giảm trí nhớ, kém tập trung , bệnh Alzheimer, sa sút trí tuệ, ở người lớn tuổi.\n- Thiểu năng tuần hoàn não.\n- Ù tai, chóng mặt , giảm thính lực.\n- Chân đi khập khiễng cách hồi.\n- Một số trường hợp thiếu máu võng mạc.\n- Nhược dương.",
+    "contraindication": "Trẻ < 12 tuổi Có thai & cho con bú. Dị ứng với cao bạch quả.",
+    "dosage": "Người lớn: 1 viên x 1 - 2 lần/ngày. Uống trong hoặc sau bữa ăn.",
+    "side_effects": "Nhẹ & hiếm gặp thường do dùng lâu ngày: rối loạn tiêu hóa, nhức đầu, dị ứng da. Có thể  kéo dài thời gian chảy máu."
+  }
+}

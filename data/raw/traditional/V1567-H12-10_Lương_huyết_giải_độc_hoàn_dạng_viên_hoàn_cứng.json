@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9152/luong-huyet-giai-doc-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Lương huyết giải độc hoàn dạng viên hoàn cứng",
+  "registration_number": "V1567-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ hoàng liên Chính",
+      "amount": "9g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2381/tho-hoang-lien.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    }
+  ],
+  "sections": {}
+}

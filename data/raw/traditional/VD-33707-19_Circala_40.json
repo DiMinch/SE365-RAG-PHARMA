@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65315/circala-40.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Circala 40",
+  "registration_number": "VD-33707-19",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá Bạch quả Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

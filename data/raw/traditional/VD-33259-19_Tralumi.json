@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64867/tralumi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tralumi",
+  "registration_number": "VD-33259-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mẫu đơn bì Chính",
+      "amount": "500 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

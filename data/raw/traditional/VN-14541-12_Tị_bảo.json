@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40536/ti-bao.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tị bảo",
+  "registration_number": "VN-14541-12",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Taizhou Nanfeng Pharmaceutical Co.,Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Liên kiều Chính",
+      "amount": ".",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Cúc hoa vàng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2460/cuc-hoa-vang.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3735/phytilax-vien-nhuan-trang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Phytilax viên nhuận trường Sagophar",
+  "registration_number": "VD-24534-16",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thảo Quyết Minh Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-39223/ginkomise-soft-capsule.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkomise Soft Capsule",
+  "registration_number": "VN-12200-11",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Young Poong Pharm Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

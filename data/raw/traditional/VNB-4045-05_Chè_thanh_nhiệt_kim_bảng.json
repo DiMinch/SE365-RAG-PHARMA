@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12558/che-thanh-nhiet-kim-bang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Chè thanh nhiệt kim bảng",
+  "registration_number": "VNB-4045-05",
+  "dosage_form": "Chè thuốc",
+  "manufacturer": "Công ty cổ phần Dược Kim Bảng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    }
+  ],
+  "sections": {}
+}

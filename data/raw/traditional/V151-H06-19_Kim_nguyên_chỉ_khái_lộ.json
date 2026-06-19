@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34679/kim-nguyen-chi-khai-lo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim nguyên chỉ khái lộ",
+  "registration_number": "V151-H06-19",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Kim Nguyên Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên bối mẫu Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2521/xuyen-boi-mau.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đại hoàng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2516/dai-hoang.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-42005/artrex.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Artrex®",
+  "registration_number": "SDK-Artrex",
+  "dosage_form": "Hộp 6 vỉ x 10 viên",
+  "manufacturer": "Atra Pharma Pvt., Ltd",
+  "manufacturer_country": "India",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu nghệ Chính",
+      "amount": "36 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2377/tinh-dau-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

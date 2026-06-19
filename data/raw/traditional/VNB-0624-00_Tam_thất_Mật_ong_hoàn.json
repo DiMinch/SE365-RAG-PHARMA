@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3782/tam-that-mat-ong-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tam thất Mật ong hoàn",
+  "registration_number": "VNB-0624-00",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

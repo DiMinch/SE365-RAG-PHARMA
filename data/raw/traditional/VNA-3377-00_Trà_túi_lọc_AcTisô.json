@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1105/tra-tui-loc-actiso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà túi lọc AcTisô",
+  "registration_number": "VNA-3377-00",
+  "dosage_form": "Trà túi lọc",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "1,4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {}
+}

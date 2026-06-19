@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-51879/ich-mau-pv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mẫu PV",
+  "registration_number": "VD-23956-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty CP Dược thảo Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị kinh nguyệt không đều, đau bụng kinh. Làm giảm sự khó chịu, nhức đầu, hoa mắt trong khi hành kính. Hồi phục tử cung sau khi sinh. Chữa rối loạn kinh nguyệt ở thời kỳ mới có kinh và thời kỳ tiền mãn kinh. Dùng đều đặn mỗi ngày làm lưu thông khí huyết.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc. Không dùng cho phụ nữ có thai. Không dùng trong trường hợp đa kinh, khi đang chảy máu",
+    "dosage": "1 viên/lần x 3 lần/ngày. Bệnh nặng dùng liều gấp đôi."
+  }
+}

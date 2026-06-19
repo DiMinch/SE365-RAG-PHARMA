@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62477/cao-kho-rau-dang-bien-110.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô rau đắng biển (1:10)",
+  "registration_number": "VD-31450-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rau đắng biển Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2718/rau-dang-bien.aspx"
+    }
+  ],
+  "sections": {}
+}

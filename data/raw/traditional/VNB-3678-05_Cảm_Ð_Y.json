@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20826/cam-dy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cảm Ð/Y",
+  "registration_number": "VNB-3678-05",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty TNHH Dược phẩm Ðại Y",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

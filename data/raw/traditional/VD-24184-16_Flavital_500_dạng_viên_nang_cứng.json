@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52148/flavital-500.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Flavital 500 dạng viên nang cứng",
+  "registration_number": "VD-24184-16",
+  "dosage_form": "Tác dụng ngoài ý muốn Trong quá trình sử dụng thuốc Flavital 500, bệnh nhân có thể gặp ra các tác dụng không mong muốn sau: Buồn nôn, tiêu chảy, các phản ứng dị ứng, phát ban,… Hãy luôn chú ý theo dõi các tác dụng phụ mà bạn gặp phải. Nếu các triệu chứng này ngày càng nặng lên hay có biểu hiện bất thường xuất hiện, hãy dừng thuốc và đến ngay cơ sở y tế gần nhất để theo dõi tình hình.",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "25 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Cốt toái bổ",
+      "amount": "25 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2527/cot-toai-bo.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "25 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các trường hợp huyết áp cao, huyết áp thấp, hàng lượng Cholesterol máu cao. Các triệu chứng suy giảm trí nhớ, đau đầu, mất ngủ. Khắc phục hội chứng tiền đình và phục hồi các tổn thương stress. Các biểu hiện của bệnh nhũn não ở người già: run rẩy, mất thăng bằng, hoa mắt… tiện đêm, đau mỏi lưng, giảm hoạt động sinh lý… Tăng cường thể lực và hoạt động trí tuệ, chống thoái hoá chức năng.",
+    "contraindication": "Mẫn cảm với một trong các thành phần của thuốc. Phụ nữ mang thai và cho con bú",
+    "dosage": "Liều dùng và cách sử dụng nên tham khảo ý kiến của bác sĩ, tránh việc tự ý dùng thuốc hoặc lạm dụng thuốc mà gây ra những hậu quả không lường trước Người lớn ngày uống 2 – 4 viên chia làm 2 lần, uống thuốc lúc đói. Thời gian 30 – 60 ngày được chỉ định cho một đợt điều trị. Thức ăn làm giảm khả năng hấp thụ thuốc do vậy nên sử dụng thuốc lúc đói để tăng khả năng hấp thụ thuốc. Nên sử dụng Flavital nhắc lại định kỳ để củng cố tác dụng và tăng cường thể lực.",
+    "side_effects": "Buồn nôn, tiêu chảy Dị ứng, phát ban Khi có những dấu hiệu của tác dụng phụ nên đến ngay bệnh viện để chữa trị kịp thời, tránh để lâu gây ra hậu quả nghiêm trọng."
+  }
+}

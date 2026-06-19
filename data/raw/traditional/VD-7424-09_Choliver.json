@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4447/choliver.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Choliver",
+  "registration_number": "VD-7424-09",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

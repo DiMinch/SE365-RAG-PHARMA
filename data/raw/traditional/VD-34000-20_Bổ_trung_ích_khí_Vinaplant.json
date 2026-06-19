@@ -1,0 +1,64 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68701/bo-trung-ich-khi-vinaplant.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ trung ích khí Vinaplant",
+  "registration_number": "VD-34000-20",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bổ trung ích khí, bồi bổ trung tiêu, tăng khí lực. Dùng trong các trường hợp tỳ vị suy nhược, thân thể mỏi mệt, yếu sức, ăn ít, bụng trướng, tiêu chảy lâu ngày, sa dạ con, trĩ nội, trĩ ngoại.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc\n\nNgười bệnh suyễn cấp, đau đầu mất ngủ do huyết áp cao, nôn ra máu, chảy máu cam.\n\nKiêng kỵ: Kiêng ăn các thứ sống, lạnh khi dùng thuốc.",
+    "dosage": "Ngày uống 2 lần, mỗi lần 1 - 2 hoàn (uống cách bữa ăn 2 giờ)."
+  }
+}

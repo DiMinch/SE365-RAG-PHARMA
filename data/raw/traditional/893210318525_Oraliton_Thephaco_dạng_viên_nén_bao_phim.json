@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-50236/oraliton.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Oraliton Thephaco dạng viên nén bao phim",
+  "registration_number": "893210318525",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16330/doromide.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Doromide",
+  "registration_number": "VNA-3096-00",
+  "dosage_form": "Thuốc dùng ngoài",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "25ml, 60ml, 1000ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

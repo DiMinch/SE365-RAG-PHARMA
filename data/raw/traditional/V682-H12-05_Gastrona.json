@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13271/gastrona.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gastrona",
+  "registration_number": "V682-H12-05",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đồng Nai",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Calcium Carbonate Chính",
+      "amount": "8g, 40g, 80g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-981/calcium-carbonate.aspx"
+    },
+    {
+      "name": "Aluminum hydroxide",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-902/aluminum-hydroxide.aspx"
+    }
+  ],
+  "sections": {}
+}

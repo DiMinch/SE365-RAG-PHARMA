@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4289/newogas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Newogas",
+  "registration_number": "VNB-4057-05",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược phẩm Cửu Long (PHARIMEXCO)",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

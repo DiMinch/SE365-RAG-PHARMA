@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21435/garlic.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Garlic",
+  "registration_number": "VNA-2967-00",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm - Dược liệu Tiền Giang Calapharco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2377/tinh-dau-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

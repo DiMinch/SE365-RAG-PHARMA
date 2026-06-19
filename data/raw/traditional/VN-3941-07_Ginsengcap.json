@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16426/ginsengcap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginsengcap",
+  "registration_number": "VN-3941-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Huons Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

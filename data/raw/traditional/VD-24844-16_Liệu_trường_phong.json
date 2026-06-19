@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52834/lieu-truong-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Liệu trường phong",
+  "registration_number": "VD-24844-16",
+  "dosage_form": "Cao xoa",
+  "manufacturer": "Công ty cổ phần Dược phẩm Quảng Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu quế",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "Tinh dầu Hương Nhu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2374/tinh-dau-huong-nhu.aspx"
+    },
+    {
+      "name": "Tinh dầu long não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2376/tinh-dau-long-nao.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng dược lý: Tinh dầu bạc hà: có vị cay, tính mát, tác dụng hạ sốt, ra mồ hôi, giảm đau, giảm ho, sát khuẩn. Tinh dầu Bạc hà bốc hơi nhanh, kích thích đặc hiệu trên các receptor tạo cảm giác mát ở đầu tận cùng của dây thần kinh cơ và da, dùng trên da và niêm mạc gây giãn mạch, tạo cảm giác mát lạnh do đó giảm đau và gây tê tại chỗ. Tinh dầu Tràm: Có tác dụng sát khuẩn đường hô hấp, kích thích trung tâm hô hấp, trị cảm phong hàn, kích thích tiêu hóa, tiêu đờm. Ngoài ra còn có tác dụng kháng khuẩn, làm lành vết thương, chữa bỏng, làm chóng lành da. Tinh dầu Long não: Kích thích thần kinh trung ương, kích thích và sát khuẩn đường hô hấp. Ngoài ra còn có tác dụng giảm sưng đau, sung huyết. Tinh dầu Quế: Sát khuẩn, kích thích tiêu hóa, kích thích hệ thống thần kinh làm dễ thở và tuần hoàn lưu thông, kích thích nhu động ruột. Dùng trong các trường hợp cảm lạnh không ra mồ hôi, tê thấp, chân tay tê buốt, đầy hơi. Tinh dầu Hương nhu: Kích thích tiêu hóa, sát khuẩn, giảm đau, trợ dương, dùng trong các trường hợp tỳ vị hư hàn, nấc, nôn, đâu bụng lạnh. Chỉ định: Cao xoa Liệu Trường Phong chủ trị các trường hợp cảm mạo phong hàn với các biểu hiện: Nhức đầu, chóng mặt, tắc đờm, ho hen, đau khắp thân mình, mỏi mệt; Đau bụng, đầy trướng, nôn mửa, tiêu chảy; Phong hàn tê thấp, cước khí, chân tay lạnh; Côn trùng đốt; Say tàu xe; Các trường hợp đau mỏi vai gáy, đau lưng, đau thần kinh tọa…",
+    "side_effects": "Người mẫn cảm với các thành phần của thuốc.\nTrẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.\nPhụ nữ có thai.\nKhông xoa vào niêm mạc mắt, vung dễ kích ứng, vết thương hở.",
+    "interactions": "Các tác dụng phụ thường hiếm xảy ra, nếu có thường là kích ứng hoặc dị ứng ngoài da với người mẫn cảm với các thành phần của thuốc."
+  }
+}

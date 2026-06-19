@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4722/ich-mau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mãu",
+  "registration_number": "VNA-2502-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty Cổ phần Armephaco - Xí nghiệp dược phẩm 150",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27865/aulirin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Aulirin",
+  "registration_number": "VD-5833-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty Liên Doanh Dược phẩm Mebiphar - Austrapharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {}
+}

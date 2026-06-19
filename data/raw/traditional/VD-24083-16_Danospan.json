@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52050/danospan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Danospan",
+  "registration_number": "VD-24083-16",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá thường xuân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2436/cao-la-thuong-xuan.aspx"
+    }
+  ],
+  "sections": {}
+}

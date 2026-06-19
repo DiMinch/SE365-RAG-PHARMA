@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65109/opcopan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Op.copan",
+  "registration_number": "VD-33501-19",
+  "dosage_form": "Dung dịch thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá thường xuân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2436/cao-la-thuong-xuan.aspx"
+    }
+  ],
+  "sections": {}
+}

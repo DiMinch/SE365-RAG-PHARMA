@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1104/magasol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Magasol TW3 dạng viên nén bao phim",
+  "registration_number": "VD-31944-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "100 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Biển súc",
+      "amount": "75 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {}
+}

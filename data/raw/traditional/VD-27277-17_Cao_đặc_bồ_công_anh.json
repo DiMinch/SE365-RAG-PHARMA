@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55315/cao-dac-bo-cong-anh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao đặc bồ công anh",
+  "registration_number": "VD-27277-17",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần hóa Dược Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bồ công anh Chính",
+      "amount": "tương đương Bồ công anh 30kg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    }
+  ],
+  "sections": {}
+}

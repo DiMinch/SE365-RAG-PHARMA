@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58605/tribelus.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tribelus OPC",
+  "registration_number": "VD-30032-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch tật lê Chính",
+      "amount": "tương ứng với Bạch tật lê 1,75g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2486/bach-tat-le.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15960/tieu-doc-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu độc hoàn",
+  "registration_number": "V1659-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Trung An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Râu mèo Chính",
+      "amount": "45g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    }
+  ],
+  "sections": {}
+}

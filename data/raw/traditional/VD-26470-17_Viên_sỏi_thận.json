@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54431/vien-soi-than.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sỏi thận",
+  "registration_number": "VD-26470-17",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Râu mèo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30433/cariverus-cap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cariverus Cap.",
+  "registration_number": "VN-8007-09",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Sungwon Adcock Pharm",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {}
+}

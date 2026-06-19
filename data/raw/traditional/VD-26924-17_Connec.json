@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55700/connec.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Connec",
+  "registration_number": "VD-26924-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Pygeum africanum Chính",
+      "amount": "tương đương 6,5mg beta-sitosterol",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-723/pygeum-africanum.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68420/siro-pqa-ho-hen.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Siro PQA ho hen",
+  "registration_number": "VD-32717-19",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần dược phẩm PQA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hạnh nhân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2489/hanh-nhan.aspx"
+    }
+  ],
+  "sections": {}
+}

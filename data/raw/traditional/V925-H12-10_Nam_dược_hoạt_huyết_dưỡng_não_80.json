@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27886/nam-duoc-hoat-huyet-duong-nao-80.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nam dược hoạt huyết dưỡng não 80",
+  "registration_number": "V925-H12-10",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    },
+    {
+      "name": "Đinh lăng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2559/dinh-lang.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Suy giảm trí nhớ, thiểu năng tuần hoàn não, suy mạch vành, hội chứng tiền đình. \n- Suy tuần hoàn não có các biểu hiện: đau đầu, hoa mắt, chóng mặt, mất ngủ, mất thăng bằng. \n- Giảm chức năng não bộ, giảm trí nhớ, suy nhược thần kinh, nhũn não, di chứng não. \n- Người làm việc trí óc căng thẳng gây đau đầu, hoa mắt, chóng mặt, mệt mỏi. Chứng run giật ở bệnh nhân Parkinson.",
+    "contraindication": "Quá mẫn với thành phần của thuốc.",
+    "dosage": "+ Người lớn: ngày uống 2 - 3 lần, mỗi lần 2 - 3 viên.\n+ Trẻ em: ngày uống 2 - 3 lần, mỗi lần 1 viên."
+  }
+}

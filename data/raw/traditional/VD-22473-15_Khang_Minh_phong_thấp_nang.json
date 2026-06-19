@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49857/khang-minh-phong-thap-nang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Khang Minh phong thấp nang",
+  "registration_number": "VD-22473-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá lốt Chính",
+      "amount": "400 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2561/la-lot.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "600 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "600 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    }
+  ],
+  "sections": {}
+}

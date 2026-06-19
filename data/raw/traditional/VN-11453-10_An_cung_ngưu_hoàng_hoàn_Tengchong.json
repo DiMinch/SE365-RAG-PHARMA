@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-37702/an-cung-nguu-hoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An cung ngưu hoàng hoàn Tengchong",
+  "registration_number": "VN-11453-10",
+  "dosage_form": "Viên hoàn",
+  "manufacturer": "Tengchong Chinese Medicine Factory Co., of Yunnan",
+  "manufacturer_country": "China",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu hoàng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2539/nguu-hoang.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    }
+  ],
+  "sections": {}
+}

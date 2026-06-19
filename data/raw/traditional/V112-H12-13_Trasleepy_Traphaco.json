@@ -1,0 +1,33 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4780/trasleepy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trasleepy Traphaco",
+  "registration_number": "V112-H12-13",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tâm sen Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp lo lắng, căng thẳng, dễ cáu bẳn, khó ngủ, giấc ngủ không sâu dẫn đến mệt mỏi. - Trị mất ngủ do suy nhược cơ thể",
+    "contraindication": "- Ngày 2 lần, mỗi lần 1 Viên, uống trước bữa ăn. - Đợt dùng 2-4 tuần."
+  }
+}

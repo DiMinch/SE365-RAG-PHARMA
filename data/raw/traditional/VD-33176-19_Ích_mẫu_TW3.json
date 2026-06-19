@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64784/ich-mau-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ích mẫu TW3",
+  "registration_number": "VD-33176-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ích mẫu Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "tương đương0,32g Ngải cứu",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "400g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị kinh nguyệt không đều, đau bụng kinh. Làm giảm sự khó chịu, nhức đầu, hoa mắt trong khi hành kính. Hồi phục tử cung sau khi sinh. Chữa rối loạn kinh nguyệt ở thời kỳ mới có kinh và thời kỳ tiền mãn kinh. Dùng đều đặn mỗi ngày làm lưu thông khí huyết.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc.\nKhông dùng cho phụ nữ có thai. Không dùng trong trường hợp đa kinh, khi đang chảy máu",
+    "dosage": "1 viên/lần x 3 lần/ngày. Bệnh nặng dùng liều gấp đôi."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60380/vien-phong-thap-topphote.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "VIÊN PHONG THẤP TOPPHOTE",
+  "registration_number": "VD-16404-12",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá lốt Chính",
+      "amount": "Herba Piperis lolot",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2561/la-lot.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "Rhizoma Smilacis glabrae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "Radix Achyranthis bidentatae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị phong thấp, viêm khớp, giảm đau nhức, cải thiện tình trạng vận động ở người bị thấp khớp.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.\n\nPhụ nữ có thai hoặc đang cho con bú.",
+    "dosage": "Uống sau bữa ăn, ngày 3 lần, mỗi lần 2 – 4 viên. Hoặc theo sự chỉ đinh của thầy thuốc."
+  }
+}

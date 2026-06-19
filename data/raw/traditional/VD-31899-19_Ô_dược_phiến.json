@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62925/o-duoc-phien.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ô dược phiến",
+  "registration_number": "VD-31899-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ô dược Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2504/o-duoc.aspx"
+    }
+  ],
+  "sections": {}
+}

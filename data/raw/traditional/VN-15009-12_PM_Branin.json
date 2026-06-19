@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4737/pm-branin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "PM Branin",
+  "registration_number": "VN-15009-12",
+  "dosage_form": "Viên nang-3g",
+  "manufacturer": "Pharmaction Manufacturing Pty., Ltd",
+  "manufacturer_country": "Australia",
+  "herbal_ingredients": [
+    {
+      "name": "Rau đắng biển Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2718/rau-dang-bien.aspx"
+    }
+  ],
+  "sections": {}
+}

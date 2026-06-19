@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52657/dai-trang-k9.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đại tràng K9",
+  "registration_number": "VD-24667-16",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược phẩm Cửu Long (PHARIMEXCO)",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vàng đắng Chính",
+      "amount": "1200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2621/vang-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11163/bronzoni.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bronzoni Dược phẩm Đông Nam",
+  "registration_number": "VD-19598-13",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty TNHH SX - TM Dược phẩm Đông Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh Dầu Tần",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2373/tinh-dau-tan.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    }
+  ],
+  "sections": {}
+}

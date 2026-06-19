@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12418/cao-dan-phong-thap-tx.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao dán Phong thấp TX",
+  "registration_number": "VNB-0921-03",
+  "dosage_form": "Lá cao",
+  "manufacturer": "Công ty TNHH Ðông Nam Dược Trường Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Huyền sâm Chính",
+      "amount": "1,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Mã tiền",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2517/ma-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

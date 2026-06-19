@@ -1,0 +1,76 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48114/quy-ty.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Quy tỳ Fito Pharma",
+  "registration_number": "VD-21495-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Viễn chí Chính",
+      "amount": "248mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "124mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "63mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "63mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "248mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kiện tỳ, dưỡng huyết, ích khí, an thần. Chủ trị tâm tỳ đều hư, hơi thở ngắn, tim đập mạnh, mất ngủ, ngủ hay mê, chóng mặt, chán ăn, mệt mỏi, đại tiểu tiện ra máu, suy nhược thần kinh, thiếu máu, kinh nguyệt không đều.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc.",
+    "dosage": "Người lớn: Mỗi ngày uống 2 lần, mỗi lần 2-3 viên nang. Trẻ em: Liều dùng bằng 1/2 liều người lớn Uống với nước ấm hoặc nước gừng"
+  }
+}

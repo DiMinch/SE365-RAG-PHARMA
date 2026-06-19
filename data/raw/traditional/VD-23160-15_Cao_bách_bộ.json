@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-50230/cao-bach-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao bách bộ",
+  "registration_number": "VD-23160-15",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {}
+}

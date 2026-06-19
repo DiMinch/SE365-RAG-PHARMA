@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-38296/dalovi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dalovi",
+  "registration_number": null,
+  "dosage_form": null,
+  "manufacturer": "Công Ty Cổ Phần  Thương Mại Và Dược Phẩm An Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rotundin Chính",
+      "amount": "10 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1134/rotundin.aspx"
+    }
+  ],
+  "sections": {}
+}

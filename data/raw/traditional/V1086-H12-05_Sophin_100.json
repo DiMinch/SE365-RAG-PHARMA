@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19146/sophin-100.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sophin 100",
+  "registration_number": "V1086-H12-05",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nội",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

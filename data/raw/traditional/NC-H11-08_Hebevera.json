@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10097/hebevera.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hebevera",
+  "registration_number": "NC-H11-08",
+  "dosage_form": "Siro",
+  "manufacturer": "Trung tâm nghiên cứu Phòng Chống Ung Thư",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "300ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,71 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12482/sam-qui-dai-bo-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sâm qui đại bổ hoàn",
+  "registration_number": "VND-0413-00",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Đức Tế",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "8g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Ðảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng dược lý : Sâm qui đại bổ là một loại thuốc bổ Tinh huyết Khí. Gia tăng hoạt động sinh dục, phát triển thể chất, tăng cường năng lực hoạt động và ổn định tinh thần. Qua đó trị được nhiều chứng bệnh thường kèm theo như ăn không ngon, ngủ không yên, táo bón , tiêu chảy, tiểu đêm nhiều lần, đau lưng, lạnh chân, chóng mặt , hồi hộp, mệt mỏi . Chỉ định : Bồi bổ và tăng thể lực. Trị các chứng suy nhược cơ thể, thiếu máu, chóng mặt, kém ăn, mất ngủ.",
+    "side_effects": "- Không dùng cho phụ nữ có thai, bệnh nhân suy gan, người bệnh tiểu đường, trẻ em dưới 15 tuổi.\n- Không nên dùng đối với người suy nhược cơ thể có các triệu chứng nóng khát, sắc diện bừng đỏ, tiểu tiện ít và vàng đậm, người hiếu động nóng nảy.\n- Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "interactions": "Người lớn: uống mỗi lần 30ml, ngày 2 lần, uống trước bữa ăn nửa giờ.",
+    "warnings": "Ít gặp: Dị ứng, cảm giác nóng, nổi mụn, ngứa.\nThông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22941/ruou-thuoc-thien-thoi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu thuốc Thiên Thời",
+  "registration_number": "VNA-0878-03",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty Dược Vật tư Y tế Tiền Giang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đại hồi Chính",
+      "amount": "50ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2566/dai-hoi.aspx"
+    }
+  ],
+  "sections": {}
+}

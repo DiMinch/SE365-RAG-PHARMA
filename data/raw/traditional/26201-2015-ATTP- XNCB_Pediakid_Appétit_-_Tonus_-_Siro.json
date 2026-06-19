@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-59092/pediakid-appetit-tonus-siro.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Pediakid Appétit - Tonus - Siro",
+  "registration_number": "26201/2015/ATTP- XNCB",
+  "dosage_form": null,
+  "manufacturer": "Laboratoires Ineldea",
+  "manufacturer_country": "FRANCE",
+  "herbal_ingredients": [
+    {
+      "name": "Glycerin Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-646/glycerin.aspx"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-225/cyanocobalamin.aspx"
+    }
+  ],
+  "sections": {}
+}

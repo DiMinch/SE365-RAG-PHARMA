@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56707/kem-aladanh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kem Alađanh",
+  "registration_number": "VD-29369-18",
+  "dosage_form": "Kem bôi da",
+  "manufacturer": "Công ty cổ phần Sao Thái Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

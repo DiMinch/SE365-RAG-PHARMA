@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-24674/hepa-nic-extra.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepa-NIC Extra",
+  "registration_number": "VD-5051-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty TNHH SX-TM Dược phẩm NIC NIC Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Silymarin Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-680/silymarin.aspx"
+    },
+    {
+      "name": "Vitamin B1",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị hỗ trợ các rối loạn chức năng tiêu hóa liên quan đến các bệnh về gan.",
+    "contraindication": "Bệnh nhân bị bệnh não do gan, vàng da do tắc mật và xơ gan do mật nguyên phát.",
+    "dosage": "Uống 2 viên (70mg) x 2 - 3 lần/ngày. Hoặc theo hướng dẫn của Bác sĩ."
+  }
+}

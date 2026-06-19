@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61823/dia-long-che.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Địa long chế",
+  "registration_number": "VD-31172-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Địa long Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2463/dia-long.aspx"
+    }
+  ],
+  "sections": {}
+}

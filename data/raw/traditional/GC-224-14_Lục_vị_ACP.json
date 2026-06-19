@@ -1,0 +1,53 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46439/luc-vi-acp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Lục vị ACP",
+  "registration_number": "GC-224-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tính chất: - Bạch linh:  Có tác dụng lợi thuỷ, thẩm thấp, định tâm. - Hoài sơn: Có tác dụng kiện tỳ, bổ phế, ích thận, cố tinh. - Mẫu đơn bì: Có tác dụng thanh huyết nhiệt, tán ứ huyết. - Sơn thù: Có tác dụng ôn bổ can thận, sáp tinh, chỉ hàn. - Thục địa: Có tác dụng bổ tinh tuỷ, nuôi can thận, dưỡng âm. - Trạch tả: Có tác dụng lợi thuỷ, thẩm thấp, thanh nhiệt. Tác dụng: Tư âm bổ thận, nhuận phế sinh tân dịch Chỉ định: Dùng trong các trường hợp tinh huyết suy kém, hay mỏi gối, đau lưng, ra mồ hôi, đổ mồ hôi trộm, hoa mắt, váng đầu, ù tai,táo bón, nước tiểu vàng, di mộng tinh, bốc hỏa, sốt do lao phổi.",
+    "warnings": "- Mẫn cảm với thành phần của thuốc.\n\n- Ăn không tiêu, đại tiện lỏng do hư hàn của cảm sốt",
+    "pharmacology": "-  Người lớn: Ngày uống 2 lần, mỗi lần 1 hoàn.",
+    "pharmacokinetics": "Để nơi khô ráo, thoáng mát.\nHạn dùng: 24 tháng kể từ ngày sản xuất"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16036/coriver.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Coriver",
+  "registration_number": "VNB-2555-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nấm Vân Chi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2705/nam-van-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

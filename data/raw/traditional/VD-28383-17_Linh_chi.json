@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56864/linh-chi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Linh chi",
+  "registration_number": "VD-28383-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54998/axe-brand-universal-oil-dau-gio-trang-hieu-cay-bua.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Axe Brand Universal Oil - Dầu gió trắng hiệu cây búa",
+  "registration_number": "893100472324",
+  "dosage_form": "Dung dịch dùng ngoài",
+  "manufacturer": "Công ty TNHH Dược phẩm Leung Kai Fook Việt Nam Lkf-Vn",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    }
+  ],
+  "sections": {}
+}

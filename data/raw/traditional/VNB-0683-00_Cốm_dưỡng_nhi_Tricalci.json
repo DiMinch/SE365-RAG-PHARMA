@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21747/com-duong-nhi-tricalci.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốm dưỡng nhi Tricalci",
+  "registration_number": "VNB-0683-00",
+  "dosage_form": "chai, gói",
+  "manufacturer": "Công ty TNHH Dược phẩm Nam Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ý dĩ Chính",
+      "amount": "50g,100g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    },
+    {
+      "name": "Liên nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    }
+  ],
+  "sections": {}
+}

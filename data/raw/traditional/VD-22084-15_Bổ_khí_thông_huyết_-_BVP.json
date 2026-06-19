@@ -1,0 +1,70 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48703/bo-khi-thong-huyet-bvp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ khí thông huyết - BVP",
+  "registration_number": "VD-22084-15",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "760 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "50 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "140 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "60 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "140 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Hồng hoa",
+      "amount": "70 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
+    },
+    {
+      "name": "Địa long",
+      "amount": "160 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2463/dia-long.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "140 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
+    },
+    {
+      "name": "Đào Nhân",
+      "amount": "70 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2537/dao-nhan.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công năng: Bổ khí, hoạt huyết, giúp cải thiện và tăng cường sự lưu thông của khí huyết đến não và các chi. Chủ trị: Thuốc được dùng trong các trường hợp: + Rối loạn tuần hoàn ở não và ngoại biên như mệt mỏi, đau đầu, chóng mặt, suy giảm trí nhớ, kém tập trung, rối loạn giấc ngủ, tê mỏi tay chân, đau mỏi vay gáy. + Phòng ngừa và hỗ trợ điều trị xơ vữa động mạch với các triệu chứng: đau thắc ngực, co hàm, lưng khi vận động và stress. + Phòng ngừa tai biến mạch máu não và các di chứng tai biến như: liệt nhẹ, tay chân khó cử động, nói khó hoặc không nói được, miệng méo, lưỡi lệch.",
+    "side_effects": "Quá mẫn cảm với bất cứ thành phần nào của thuốc, phụ nữ có thai.\n\nXuất huyến não, nhồi máu não, tim cấp, người đang xuất huyết.",
+    "interactions": "Người lớn ngày uống 2 lần, mỗi lần 2 – 3 viên. Uống với nước ấm, sau các bữa ăn. Dùng liên tục trong 3 tháng hoặc hơn. Liều dùng có thể thay đổi tùy theo tình trạng bệnh theo sự hướng dẫn của thầy thuốc."
+  }
+}

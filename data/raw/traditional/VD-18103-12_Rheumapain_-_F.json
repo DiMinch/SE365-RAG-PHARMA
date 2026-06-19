@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31944/rheumapain-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rheumapain - F",
+  "registration_number": "VD-18103-12",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô đỏ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Thiên niên kiện",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Natri benzoat",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2698/natri-benzoat.aspx"
+    },
+    {
+      "name": "Phòng kỷ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2503/phong-ky.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng: Tán phong, thông kinh lạc, hoạt huyết, trừ thấp. Chỉ định: +Viêm khớp mạn. +Các chứng phong thấp đau nhức, chân tay tê mỏi, đau lưng mỏi gối.",
+    "side_effects": "Không dùng cho phụ nữ có thai và trẻ em dưới 10 tuổi.",
+    "interactions": "Uống mỗi lần 2 - 3 viên, ngày 3 lần. Uống sau bữa ăn."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56035/duong-tam-an-than-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng tâm an thần TW3",
+  "registration_number": "VD-27103-17",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "183mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "91 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "91 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Tâm sen",
+      "amount": "15mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lá vông",
+      "amount": "91 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị các chứng mất ngủ, giảm trí nhớ, tim đập hồi hộp, suy nhược thần kinh do lo âu, căng thẳng, stress, làm việc quá sức. - Trị suy nhược cơ thể, giúp ăn ngon. - Trị chứng mất ngủ ở người cao tuổi.",
+    "contraindication": "Người mẫn cảm với các thành phần của thuốc.",
+    "dosage": "Người lớn:Mỗi lần uống 3-5 viên. Ngày uống 2 lần sau bữa ăn trưa và tối. Trẻ em: Mỗi lần uống 2-3 viên. Ngày uống 2 lần sau bữa ăn sáng và tối. Thời gian dùng: Mỗi đợt từ 2-4 tuần hoặc hơn tuỳ theo bệnh.",
+    "side_effects": "Để nơi khô thoáng, tránh ánh sáng.\nĐỂ XA TẦM TAY TRẺ EM."
+  }
+}

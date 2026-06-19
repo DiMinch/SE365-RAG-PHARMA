@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65308/odigas.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Odigas",
+  "registration_number": "VD-33700-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Sơn tra Chính",
+      "amount": "tương đương 1g sơn tra",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2400/son-tra.aspx"
+    }
+  ],
+  "sections": {}
+}

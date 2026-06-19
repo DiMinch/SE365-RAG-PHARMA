@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27372/hepgaron-soft-cap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepgaron Soft Cap",
+  "registration_number": "VN-6173-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "BMI Korea Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin B1 Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    },
+    {
+      "name": "Vitamin B12",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-559/vitamin-b12.aspx"
+    },
+    {
+      "name": "Vitamin B2",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
+    }
+  ],
+  "sections": {}
+}

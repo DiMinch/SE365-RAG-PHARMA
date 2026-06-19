@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12690/hy-dan-500.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hy Đan 500",
+  "registration_number": "VNA-0342-02",
+  "dosage_form": "Viên",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì chân chim Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    },
+    {
+      "name": "Mã tiền",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2517/ma-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

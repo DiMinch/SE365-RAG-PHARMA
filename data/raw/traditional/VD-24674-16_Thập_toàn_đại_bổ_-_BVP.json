@@ -1,0 +1,65 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52664/thap-toan-dai-bo-bvp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thập toàn đại bổ - BVP",
+  "registration_number": "VD-24674-16",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch thược Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng: Ôn bổ khí huyết. Chỉ định : Khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn , đánh trống ngực, chóng mặt , dễ ra mồ hôi, sức yếu, mệt mỏi , tay chân không ấm.",
+    "side_effects": "Người đang bị tiêu chảy, hoặc mẫn cảm với thuốc. Phụ nữ có thai.",
+    "interactions": "Người lớn : liều trung bình Mỗi lần uống 5ml. Ngày uống 2-3 lần. Hoặc theo chỉ định của bác sĩ;",
+    "warnings": "Chưa  phát hiện thấy tác dụng không mong muốn của thuốc.Nếu có bất thường khi dùng thuốc cần ngừng ngay và báo cho bác sĩ hoặc dược sĩ biết để xử lý."
+  }
+}

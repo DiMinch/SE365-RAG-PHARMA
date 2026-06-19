@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21685/thuoc-xit-trau-luong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc xịt trầu lương",
+  "registration_number": "VND-2452-04",
+  "dosage_form": "Cồn thuốc",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học Cổ truyền Phước Thọ Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Binh lang Chính",
+      "amount": "140ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2391/binh-lang.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35281/dentgital.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dentgital dạng thuốc xức răng F.T.Pharma",
+  "registration_number": "VD-15096-11",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Long Não",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    }
+  ],
+  "sections": {}
+}

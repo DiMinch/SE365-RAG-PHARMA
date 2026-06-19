@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9139/thanh-can-xo-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh can xổ độc",
+  "registration_number": "VND-0527-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Rạng Ðông",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "8g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

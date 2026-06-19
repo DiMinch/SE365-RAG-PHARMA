@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65439/meyerlanta.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Meyerlanta",
+  "registration_number": "VD-33831-19",
+  "dosage_form": "Viên nén nhai",
+  "manufacturer": "Công ty liên doanh Meyer-BPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Aluminium hydroxid Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1004/aluminium-hydroxid.aspx"
+    },
+    {
+      "name": "Simethicone",
+      "amount": "25mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-197/simethicone.aspx"
+    },
+    {
+      "name": "Magnesium hydroxide",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-903/magnesium-hydroxide.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Ðiều trị ngắn hạn & dài hạn các chứng loét đường tiêu hoá & giảm do tăng tiết acid, tăng vận động dạ dày, ruột bị kích ứng & co thắt, đầy hơi khó tiêu , viêm dạ dày, ợ chua, viêm tá tràng, viêm thực quản , thoát vị khe, chế độ ăn không thích hợp, nhiễm độc alcool, đau sau phẫu thuật.",
+    "contraindication": "Glaucoma góc đóng. Tắc liệt ruột, hẹp môn vị.\nLiên quan magnesi: suy thận nặng.",
+    "dosage": "Người lớn: (>16 tuổi) - Loét đường tiêu hoá & viêm dạ dày: 1-2 viên mỗi 4 giờ. - Tăng tiết acid dạ dày: 1-2 viên sau khi ăn hay khi cần. Tối đa 6 lần/ngày; Không dùng quá 12 viên/ngày. Nhai kỹ viên thuốc càng lâu càng tốt.",
+    "side_effects": "Có thể làm khởi phát:\n- Rối loạn nhu động ruột (tiêu chảy hoặc táo bón).\n- Mất phosphor sau khi dùng thuốc dài ngày hoặc dùng liều cao, vì thuốc có chứa nhôm.",
+    "interactions": "Các thuốc kháng acide tương tác với một số thuốc khác được hấp thu bằng đường uống: Thận trọng khi phối hợp :\n\nThuốc chống lao (ethambutol, isoniazide);, cycline, fluoroquinolone, lincosanide, kháng histamine H2, aténolol, métoprolol, propranolol, chloroquine, diflunisal, digoxine, diphosphonate, fluorure sodium, glucocorticoide (cụ thể là prednisolone và dexamethasone), indométacine, kétoconazole, lanzoprazole, thuốc an thần kinh nhóm phénothiazine, pénicillamine, phosphore, muối sắt, sparfloxacine : giảm sự hấp thu qua đường tiêu hóa của các thuốc trên.\n\nKayexalate: giảm khả năng gắn kết của nhựa vào kali, với nguy cơ nhiễm kiềm chuyển hóa ở người suy thận.\n\nNên sử dụng các thuốc kháng acide cách xa các thuốc trên (trên 2 giờ và, trên 4 giờ đối với fluoroquinolone).\n\nLưu ý khi phối hợp:\n\nDẫn xuất salicylate: tăng bài tiết các salicylate ở thận do kiềm hóa nước tiểu."
+  }
+}

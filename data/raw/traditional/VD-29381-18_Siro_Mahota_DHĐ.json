@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58171/siro-mahota-dhd.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Siro Mahota DHĐ",
+  "registration_number": "VD-29381-18",
+  "dosage_form": "Siro thuốc",
+  "manufacturer": "Công ty cổ phần dược phẩm Hoa Việt",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

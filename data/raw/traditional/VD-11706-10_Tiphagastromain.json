@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18391/tipha-gastromain.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiphagastromain",
+  "registration_number": "VD-11706-10",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Tipharco Tiền Giang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Procaine hydrochloride Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-868/procaine-hydrochloride.aspx"
+    },
+    {
+      "name": "Bột nghệ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    },
+    {
+      "name": "Aluminum hydroxide",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-902/aluminum-hydroxide.aspx"
+    },
+    {
+      "name": "Calcium Carbonate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-981/calcium-carbonate.aspx"
+    }
+  ],
+  "sections": {}
+}

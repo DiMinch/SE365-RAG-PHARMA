@@ -1,0 +1,45 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29758/silyrene-soft-capsule.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Silyrene Soft Capsule",
+  "registration_number": "VN-7990-09",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Boram Pharma Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    },
+    {
+      "name": "Vitamin B2",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
+    },
+    {
+      "name": "Vitamin B6",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-907/vitamin-b6.aspx"
+    },
+    {
+      "name": "Cyanocobalamin",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-225/cyanocobalamin.aspx"
+    },
+    {
+      "name": "Thiamine",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-949/thiamine.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn tiêu hóa, kém ăn, suy nhược cơ thể... Bảo vệ tế bào gan trong các trường hợp sử dụng: Hóa chất, thuốc chữa bệnh... Bệnh nhân trong thời kỳ dưỡng bệnh, sau phẫu thuật, nhiễm trùng hoặc ốm kéo dài. Hỗ trợ điều trị trong viêm dây thần kinh, viêm đa dây thần kinh Tăng cường chức năng giải độc gan, hỗ trợ điều trị các trường hợp: trứng cá, mụn nhọt, dị ứng mãn tính... Rối loạn chức năng gan: Viêm gan, viêm gan virus, gan nhiễm mỡ, xơ gan.",
+    "contraindication": "Liều thường dùng: mỗi lần 1 viên, ngày 2 lần; Rối loạn chức năng gan: Ngày 3 lần, mỗi lần 1 viên."
+  }
+}

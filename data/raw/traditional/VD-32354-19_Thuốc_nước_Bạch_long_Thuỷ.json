@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22953/thuoc-nuoc-bach-long-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc nước Bạch long Thuỷ",
+  "registration_number": "VD-32354-19",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty TNHH Đông Nam Dược Bảo Long",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên bối mẫu Chính",
+      "amount": "90ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2521/xuyen-boi-mau.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    },
+    {
+      "name": "Bách bộ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Mát phổi, tiêu đàm Trị ho gió, viêm họng, viêm phế quản, hen suyễn",
+    "contraindication": "Không dùng cho phụ nữ có thai",
+    "dosage": "Thuốc dùng để uống. Ngày uống 2 –3 lần. Liều dùng Người lớn mỗi lần 30ml Trẻ emtừ 2- 15 tuổi mỗi lần 15ml Trẻ dưới 2 tuổi mỗi lần 5-7 ml ( 1 muỗng cafe);"
+  }
+}

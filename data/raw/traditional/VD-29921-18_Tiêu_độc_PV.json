@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58492/tieu-doc-pv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu độc PV",
+  "registration_number": "VD-29921-18",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "600 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Mã đề",
+      "amount": "300 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2523/ma-de.aspx"
+    }
+  ],
+  "sections": {}
+}

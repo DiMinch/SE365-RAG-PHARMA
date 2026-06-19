@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3755/cencaloma.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cencaloma",
+  "registration_number": "VNA-2401-04",
+  "dosage_form": "Dầu bôi ngoài da",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "30ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

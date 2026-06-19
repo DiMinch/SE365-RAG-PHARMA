@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53457/bao-phu-khang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bảo phu khang Bảo Linh",
+  "registration_number": "VD-25452-16",
+  "dosage_form": "Kem bôi da",
+  "manufacturer": "Công ty TNHH Ðông Nam Dược Bảo Linh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu nghệ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2377/tinh-dau-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

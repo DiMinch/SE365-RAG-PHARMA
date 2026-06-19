@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13576/sen-vong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sen vông",
+  "registration_number": "VNB-0360-02",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty Cổ phần Dược phẩm Thiên Thảo",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá vông Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {}
+}

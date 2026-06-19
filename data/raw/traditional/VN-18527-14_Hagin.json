@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-47357/hagin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hagin",
+  "registration_number": "VN-18527-14",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "R.P Scherer GmbH & Co. KG",
+  "manufacturer_country": "Germany",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "Extractum Panacis Gingseng siccum 40,02mg Cao khô Linh Chi Extractum Ganodermae Iucidi siccum",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Beta Caroten",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1009/beta-caroten.aspx"
+    },
+    {
+      "name": "Linh chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56506/hepa-gadoman.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepa - Gadoman",
+  "registration_number": "VD-27393-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần US Pharma USA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "tương đương 3500 mg Diệp hạ châu",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "CÔNG DỤNG: Thanh nhiệt, trừ thấp, lợi tiểu CHỈ ĐỊNH: Sỏi thận, sỏi túi mật Tiểu rắt và nóng, tiểu buốt, tiểu sậm màu Tiểu ít ở những người mắc chứng phù thủng Hỗ trợ điều trị chứng hoàng đản (vàng da)",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc. Không dùng cho phụ nữ có thai."
+  }
+}

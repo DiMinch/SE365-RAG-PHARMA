@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61915/dai-dam-pv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đái dầm PV",
+  "registration_number": "VD-31264-18",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "Mỗi lọ 125 ml siro chứa: Cao lỏng hỗn hợp dược liệu 62,5 ml tương đương với 27g dược liệu bao gồm: Hoài sơn 9g; ích trí nhân 9g; Ô dược 9g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Ô dược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2504/o-duoc.aspx"
+    },
+    {
+      "name": "Ích trí nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2676/ich-tri-nhan.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35717/bo-gan-bkp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ gan - BKP",
+  "registration_number": "VD-10203-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Biển súc",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-60904/livbilnic-plus.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Livbilnic-Plus Traphaco",
+  "registration_number": "VD-19140-13",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "185mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "45mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    },
+    {
+      "name": "Chi tử",
+      "amount": "65mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2495/chi-tu.aspx"
+    },
+    {
+      "name": "Đại hoàng",
+      "amount": "7mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2516/dai-hoang.aspx"
+    }
+  ],
+  "sections": {}
+}

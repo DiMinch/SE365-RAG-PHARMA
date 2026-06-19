@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14712/dau-phong-thap-long-ma.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu phong thấp long mã",
+  "registration_number": "V519-H12-10",
+  "dosage_form": "Dầu xoa",
+  "manufacturer": "Cơ sở sản xuất kinh doanh thuốc Y học Cổ truyền Ðại Hồng Phúc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mã tiền Chính",
+      "amount": "20ml, 40ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2517/ma-tien.aspx"
+    },
+    {
+      "name": "Tinh dầu quế",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2337/tinh-dau-que.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Tinh dầu long não",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2376/tinh-dau-long-nao.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    }
+  ],
+  "sections": {}
+}

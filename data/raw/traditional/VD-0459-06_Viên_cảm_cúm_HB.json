@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22976/vien-cam-cum-hb.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên cảm cúm HB",
+  "registration_number": "VD-0459-06",
+  "dosage_form": "viên",
+  "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

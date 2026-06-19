@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11864/ubb-ginkgo-e.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "UBB ginkgo E",
+  "registration_number": "VN-8368-04",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Baxco Pharmaceutical., Inc",
+  "manufacturer_country": "USA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    },
+    {
+      "name": "Vitamin E",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-267/vitamin-e.aspx"
+    }
+  ],
+  "sections": {}
+}

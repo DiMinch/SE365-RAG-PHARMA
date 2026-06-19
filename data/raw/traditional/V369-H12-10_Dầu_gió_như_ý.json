@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21427/dau-gio-nhu-y.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu gió như ý",
+  "registration_number": "V369-H12-10",
+  "dosage_form": "Dung dịch dầu",
+  "manufacturer": "Cơ sở Phước Âm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu Khuynh Diệp Chính",
+      "amount": "1ml, 2ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2340/tinh-dau-khuynh-diep.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Tinh dầu đinh hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2339/tinh-dau-dinh-huong.aspx"
+    }
+  ],
+  "sections": {}
+}

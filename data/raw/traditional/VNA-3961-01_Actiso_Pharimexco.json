@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4691/actiso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Actiso Pharimexco",
+  "registration_number": "VNA-3961-01",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Cửu Long (PHARIMEXCO)",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

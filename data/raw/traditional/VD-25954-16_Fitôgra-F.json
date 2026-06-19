@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53916/fitogra-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Fitôgra-F",
+  "registration_number": "VD-25954-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lộc nhung Chính",
+      "amount": "330 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "270 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng - Gia tăng ham muốn và khả năng tình dục - Gia tăng sức khỏe tổng quát. - Tăng cường khả năng miễn dịch cho cơ thể. - Bổ thận, tráng dương, sinh tinh. Chỉ định + Sinh dục suy nhược (rối loạn cương dương); + Dùng tốt cho các trường hợp: suy nhược cơ thể, stress, giai đoạn hồi phục trong các bệnh lí khác nhau. + Chứng thận dương suy như đau lưng, mỏi gối, lạnh tay chân, tiểu đêm, giảm ham muốn tình dục, tảo tiết (xuất tinh sớm).",
+    "side_effects": "Không dùng cho người cao huyết áp, phụ nữ có thai và trẻ em dưới 6 tuổi.",
+    "interactions": "Uống mỗi  lần 2 viên, ngày 2- 3 lần."
+  }
+}

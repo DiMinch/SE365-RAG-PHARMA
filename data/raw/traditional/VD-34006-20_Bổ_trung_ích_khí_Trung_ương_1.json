@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68707/bo-trung-ich-khi-trung-uong-1.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ trung ích khí Trung ương 1",
+  "registration_number": "VD-34006-20",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "180mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "918mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bổ trung ích khí, bồi bổ trung tiêu, tăng khí lực. Dùng trong các trường hợp tỳ vị suy nhược, thân thể mỏi mệt, yếu sức, ăn ít, bụng trướng, tiêu chảy lâu ngày, sa dạ con, trĩ nội, trĩ ngoại.",
+    "contraindication": "Những người có tiền sử dị ứng với một trong các thảo dược có trong công thức thuốc hoặc bất kỳ thành phần phụ liệu nào khác được khuyến cáo không dùng thuốc này.\n\nThuốc cũng chống chỉ định với những bệnh nhân bị đau đầu, mất ngủ do cao huyết áp bị nôn ra máu hoặc chảy máu cao, bị hen suyễn cấp tính.",
+    "dosage": "Liều dùng  khuyến cáo là mỗi ngày uống 1-2 gói x 2 lần."
+  }
+}

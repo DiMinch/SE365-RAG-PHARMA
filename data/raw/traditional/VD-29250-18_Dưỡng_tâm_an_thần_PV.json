@@ -1,0 +1,65 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-56034/duong-tam-an-than-pv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng tâm an thần PV",
+  "registration_number": "VD-29250-18",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "350 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "350 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "90 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "90 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "90 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "90 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "350 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị các chứng mất ngủ, giảm trí nhớ, tim đập hồi hộp, suy nhược thần kinh do lo âu, căng thẳng, stress, làm việc quá sức. - Trị suy nhược cơ thể, giúp ăn ngon. - Trị chứng mất ngủ ở người cao tuổi.",
+    "contraindication": "Người mẫn cảm với các thành phần của thuốc.",
+    "dosage": "Người lớn:Mỗi lần uống 3-5 viên. Ngày uống 2 lần sau bữa ăn trưa và tối. Trẻ em: Mỗi lần uống 2-3 viên. Ngày uống 2 lần sau bữa ăn sáng và tối. Thời gian dùng: Mỗi đợt từ 2-4 tuần hoặc hơn tuỳ theo bệnh.",
+    "side_effects": "Để nơi khô thoáng, tránh ánh sáng. ĐỂ XA TẦM TAY TRẺ EM."
+  }
+}

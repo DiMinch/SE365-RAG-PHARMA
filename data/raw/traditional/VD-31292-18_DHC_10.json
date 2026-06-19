@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61942/dhc-10.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "DHC 10",
+  "registration_number": "VD-31292-18",
+  "dosage_form": "Cốm",
+  "manufacturer": "Công ty cổ phần dược VTYT Quảng Ninh",
+  "manufacturer_country": "(Chưa có)",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

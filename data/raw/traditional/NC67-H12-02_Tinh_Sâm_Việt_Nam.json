@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4945/tinh-sam-viet-nam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tinh Sâm Việt Nam",
+  "registration_number": "NC67-H12-02",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Trung tâm Sâm & Dược liệu Tp. Hồ Chí Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì chân chim Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    },
+    {
+      "name": "Ðương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
+    },
+    {
+      "name": "Sâm đại hành",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2480/sam-dai-hanh.aspx"
+    }
+  ],
+  "sections": {}
+}

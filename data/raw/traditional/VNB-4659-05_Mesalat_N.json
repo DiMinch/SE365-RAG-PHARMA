@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22947/mesalat-n.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mesalat N",
+  "registration_number": "VNB-4659-05",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Công ty TNHH Dược phẩm Long Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu bạc hà Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "Tinh dầu long não",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2376/tinh-dau-long-nao.aspx"
+    }
+  ],
+  "sections": {}
+}

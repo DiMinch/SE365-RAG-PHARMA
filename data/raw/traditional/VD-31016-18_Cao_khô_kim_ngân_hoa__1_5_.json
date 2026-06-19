@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-61667/cao-kho-kim-ngan-hoa-15.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô kim ngân hoa (1:5)",
+  "registration_number": "VD-31016-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân hoa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    }
+  ],
+  "sections": {}
+}

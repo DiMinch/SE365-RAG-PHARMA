@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29638/vien-uong-tang-luc-nam-gioi-khang-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên uống tăng lực nam giới KHANG DƯỢC",
+  "registration_number": "7337/2008/YT-CNTC",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

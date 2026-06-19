@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-45416/sedanxio.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sedanxio",
+  "registration_number": "VN-17384-13",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Tilman S.A.",
+  "manufacturer_country": "BELGIUM",
+  "herbal_ingredients": [
+    {
+      "name": "Lạc tiên Chính",
+      "amount": "60%",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

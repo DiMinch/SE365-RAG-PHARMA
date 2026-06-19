@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48360/thuoc-tri-viem-gan-tieu-doc-livbilnic.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc trị viêm gan-tiêu độc Livbilnic Traphaco",
+  "registration_number": "893210132000",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị viêm gan, viêm gan virus, viêm gan mãn tính. - Thiểu năng gan, viêm gan gây mệt mỏi, ăn uống khó tiêu, vàng da, bí đại tiểu tiện, táo bón. Tiêu độc trong các trương hợp đinh râu, mụn nhọt, lở ngứa.",
+    "contraindication": "Phụ nữ có thai không được dùng.",
+    "dosage": "- Người lớn: mỗi lần 3 viên, ngày 3 lần - Trẻ em: mỗi lần 1 viên, ngày 3 lần.",
+    "side_effects": "Để nơi khô mát, tránh ánh sáng."
+  }
+}

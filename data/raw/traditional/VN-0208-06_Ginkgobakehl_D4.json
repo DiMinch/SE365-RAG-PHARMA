@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4471/ginkgobakehl-d4.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkgobakehl D4",
+  "registration_number": "VN-0208-06",
+  "dosage_form": "Dung dịch tiêm-2mg/2ml",
+  "manufacturer": "Sanum Kehlbeck GmbH Co. KG",
+  "manufacturer_country": "Germany",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Ðiều trị các rối loạn chức năng não cùng với các triệu chứng như giảm trí nhớ, giảm khả năng tập trung, trầm cảm và đau đầu. Chóng mặt, ù tai, giảm thính lực do rối loạn tuần hoàn TMH. Ðiều trị các rối loạn tuần hoàn động mạch ngoại vi",
+    "contraindication": "Quá mẫn với thành phần thuốc.",
+    "dosage": "Tiêm IM hay IV 5-10 mL/ngày, hoặc tiêm IV 15 mL/ngày; Ðiều trị cấp tính: 25 mL/ngày; trường hợp nặng: IV hay truyền IV 25-50 mL.",
+    "side_effects": "Ðôi khi rối loạn tiêu hoá, nhức đầu, quá mẫn da."
+  }
+}

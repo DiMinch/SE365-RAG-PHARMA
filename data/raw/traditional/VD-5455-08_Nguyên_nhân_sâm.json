@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-28084/nguyen-nhan-sam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nguyên nhân sâm",
+  "registration_number": "VD-5455-08",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

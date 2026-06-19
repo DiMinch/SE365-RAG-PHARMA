@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48371/long-huyet-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Long huyết P/H",
+  "registration_number": "VD-21752-14",
+  "dosage_form": "Cao thuốc",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Huyết giác Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    }
+  ],
+  "sections": {}
+}

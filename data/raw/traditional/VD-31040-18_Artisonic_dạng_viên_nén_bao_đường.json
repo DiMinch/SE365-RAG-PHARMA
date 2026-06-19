@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1090/artisonic.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Artisonic dạng viên nén bao đường",
+  "registration_number": "VD-31040-18",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Biển súc",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {}
+}

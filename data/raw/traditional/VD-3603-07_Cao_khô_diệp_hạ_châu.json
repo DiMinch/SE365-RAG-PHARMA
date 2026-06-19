@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10064/cao-kho-diep-ha-chau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô diệp hạ châu",
+  "registration_number": "VD-3603-07",
+  "dosage_form": "Cao khô",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "10kg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {}
+}

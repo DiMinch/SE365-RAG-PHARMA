@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18751/thuoc-ong-uong-loi-tieu-nhuan-gan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ống uống lợi Tiểu nhuận gan",
+  "registration_number": "VNB-4022-05",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Râu mèo Chính",
+      "amount": "10ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    },
+    {
+      "name": "Ngọc mễ tu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2500/ngoc-me-tu.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34452/an-cung-nguu-hoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An cung ngưu hoàng hoàn",
+  "registration_number": "VN-10650-10",
+  "dosage_form": "Viên hoàn mềm",
+  "manufacturer": "Yanan Changtai Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "China",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng liên Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    }
+  ],
+  "sections": {}
+}

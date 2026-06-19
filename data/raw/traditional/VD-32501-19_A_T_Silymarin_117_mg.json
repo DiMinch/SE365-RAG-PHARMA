@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63529/at-silymarin-117-mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "A,T Silymarin 117 mg",
+  "registration_number": "VD-32501-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty Cổ phần Dược phẩm An Thiên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Silymarin Chính",
+      "amount": "Chiết xuất Cardus marianus",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-680/silymarin.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị hỗ trợ các rối loạn chức năng tiêu hóa liên quan đến các bệnh về gan.",
+    "contraindication": "Bệnh nhân bị bệnh não do gan, vàng da do tắc mật và xơ gan do mật nguyên phát.",
+    "dosage": "Uống 2 viên (70mg) x 2 - 3 lần/ngày. Hoặc theo hướng dẫn của Bác sĩ."
+  }
+}

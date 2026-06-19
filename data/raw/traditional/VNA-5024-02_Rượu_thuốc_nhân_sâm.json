@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16445/ruou-thuoc-nhan-sam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu thuốc nhân sâm",
+  "registration_number": "VNA-5024-02",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "450ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

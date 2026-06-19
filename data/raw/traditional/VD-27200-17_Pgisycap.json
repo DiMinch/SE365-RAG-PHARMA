@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57719/pgisycap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Pgisycap",
+  "registration_number": "VD-27200-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đông trùng hạ thảo Chính",
+      "amount": "bột",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2702/dong-trung-ha-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Sản phẩm Pgisycap có tác dụng hỗ trợ chữa trị – Hiến muộn, liệt dương, di tinh, thiểu năng sinh dục. – Tăng cường sức khỏe, sức đề kháng, đặc biệt bệnh nhân trong thời gian bình phục bệnh hoặc cơ thể suy nhược, mất ngủ. – Làm giảm cholesterol trong máu. – Ho lâu ngày, ho ra máu, ho do hao tổn. – Viêm gan B, xơ gan, rối loạn lipid máu. – Hỗ trợ điều trị ung thư phổi, hệ miễn dịch suy giảm, lưng gối đau mỏi.",
+    "dosage": "Mỗi ngày uống 2 lần, mỗi lần 1-2 viên"
+  }
+}

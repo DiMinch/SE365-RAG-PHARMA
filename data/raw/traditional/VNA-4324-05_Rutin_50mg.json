@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19144/rutin-50mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rutin 50mg",
+  "registration_number": "VNA-4324-05",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty Cổ phần Armephaco - Xí nghiệp dược phẩm 150",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

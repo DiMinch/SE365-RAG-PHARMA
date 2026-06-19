@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-38400/skaparan-tab.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Skaparan Tab",
+  "registration_number": "VN-13189-11",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Sky New Pharm. Co., Ltd",
+  "manufacturer_country": "Korea",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

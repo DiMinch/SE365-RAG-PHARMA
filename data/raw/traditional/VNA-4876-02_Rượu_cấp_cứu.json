@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18558/ruou-cap-cuu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu cấp cứu",
+  "registration_number": "VNA-4876-02",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty đầu tư Miền Ðông (XNDP 30)-Bộ Quốc Phòng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Quế chi Chính",
+      "amount": "50ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

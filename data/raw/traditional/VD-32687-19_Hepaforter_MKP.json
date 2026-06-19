@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68390/hepaforter-mkp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepaforter MKP",
+  "registration_number": "VD-32687-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "tương đương Diệp hạ châu đắng 800mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "tương đương Bồ công anh 200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    }
+  ],
+  "sections": {}
+}

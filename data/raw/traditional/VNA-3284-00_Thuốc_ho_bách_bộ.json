@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3000/thuoc-ho-bach-bo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho bách bộ",
+  "registration_number": "VNA-3284-00",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị ho do hư lao, thường dùng trong trị lao phổi, khí quản viêm mạn tính, ho gà, giun đũa, giun kim.",
+    "contraindication": "Tỳ hư, tiêu chảy: không dùng.",
+    "dosage": "Liều dùng từ  4 - 20 g."
+  }
+}

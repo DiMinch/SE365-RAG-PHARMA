@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9806/antot-lysine.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Antot lysine Traphaco",
+  "registration_number": "VD-0609-06",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "lysine Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2256/lysine.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trẻ em biếng ăn, chậm lớn, suy dinh dưỡng, trẻ em đang trong thời kỳ dưỡng bệnh. - Trẻ em và thanh thiếu niển trong thời kỳ tăng trưởng và phát triển chiều cao. - Các trường hợp: người làm việc quá sức, người mới ốm dậy, cơ thể suy nhược, người gầy yếu, xanh xao, mệt mỏi, sút cân, ăn kém, ngủ kém",
+    "contraindication": "Quá mẫn với thành phần của thuốc.",
+    "dosage": "- Người lớn: 1 - 2 ống/lần x 2 lần/ngày. - Trẻ em: 1 ống/lần x 2 lần/ngày."
+  }
+}

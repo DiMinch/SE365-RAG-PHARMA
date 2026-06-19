@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16349/ruou-thuoc-ngu-gia-bi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu thuốc ngũ gia bì",
+  "registration_number": "VNA-1164-03",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Công ty Dược vật tư Y tế Quảng Trị",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì Chính",
+      "amount": "650ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2407/ngu-gia-bi.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

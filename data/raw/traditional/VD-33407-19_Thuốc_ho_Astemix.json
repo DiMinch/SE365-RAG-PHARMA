@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-65015/thuoc-ho-astemix.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho Astemix",
+  "registration_number": "VD-33407-19",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty Cổ phần Dược phẩm An Thiên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Núc nác Chính",
+      "amount": "125 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2444/nuc-nac.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Thuốc được sử dụng để điều trị viêm họng, ho, viêm phế quản cho các trường hợp: Trẻ em bị ho vì bị viêm họng. Người bị viêm khí quản gây ho. Ho vì bị viêm phế quản. Người mắc hen suyễn. Cơ chế tác dụng Húng chanh là thảo dược có tính ấm vì có vị cay cùng với mùi thơm đặc biệt. Theo YHCT, húng chanh được dùng để chữa viêm họng, ho, cảm lạnh nhờ khả năng phát tán phong hàn và có thể tiêu đờm kết hợp sát khuẩn. Thành phần trong húng chanh có hoạt chất codein với tinh dầu của nó có thành phần cacvacrola. Húng chanh được xem như 1 loại kháng sinh tự nhiên. Mặc dù những nghiên cứu về dược liệu húng chanh vẫn hạn chế tuy nhiên đã có nghiên cứu chứng minh dược liệu này có tác dụng trên vi khuẩn gây viêm họng, nhiễm khuẩn. Núc nác là thảo dược có tính hàn có tác dụng thanh nhiệt, lợi thấp, diệt khuẩn, tiêu viêm vì vậy thường được sử dụng để chữa viêm họng, giảm ngứa rát cổ họng. Ở vỏ thân núc nác, nhà khoa học đã tìm thấy tanin cùng nhiều loại alcaloid khác. Những thành phần này có tác động quan trọng ở việc chống dị ứng, tăng cường miễn dịch cho cơ thể,… Cineol duy trì sự tăng tiết chất nhầy trong đường thở cùng với bệnh hen suyễn nhờ việc ức chế cytokine ngăn viêm, vì vậy nó có tác dụng chống viêm, đỡ ho.",
+    "dosage": "Người bệnh có tiền sử dị ứng với bất cứ thành phần dược liệu có trong thuốc.\n\nNgười bệnh đang bị tiểu đường.",
+    "side_effects": "Liều dùng Trẻ em < 2 tuổi: Uống mỗi lần 2 đến 5ml, ngày uống 03 lần. Trẻ em từ 2 – 5 tuổi: Uống 1 lần 5 – 10ml. Ngày uống 03 lần. Trẻ em > 6 tuổi: Uống 1 lần 15ml, ngày uống 03 lần. Cách sử dụng Thuốc bào chế ở dạng cao lỏng, sử dụng trực tiếp bằng đường uống. Bệnh nhân có thể uống thuốc trước hoặc sau ăn."
+  }
+}

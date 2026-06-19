@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12635/thuoc-lac-quan-y-sanh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc lác Quân Y sanh",
+  "registration_number": "VND-0531-03",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Cơ sở Quân Y Sanh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long Não Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

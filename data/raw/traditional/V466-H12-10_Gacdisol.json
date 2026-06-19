@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15895/gacdisol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gacdisol",
+  "registration_number": "V466-H12-10",
+  "dosage_form": "Cồn nước",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Bình Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đại hồi Chính",
+      "amount": "20ml, 60ml, 100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2566/dai-hoi.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    }
+  ],
+  "sections": {}
+}

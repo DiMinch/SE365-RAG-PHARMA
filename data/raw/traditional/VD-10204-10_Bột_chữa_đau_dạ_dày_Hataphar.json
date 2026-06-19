@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35719/bot-chua-dau-da-day-hataphar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bột chữa đau dạ dày Hataphar",
+  "registration_number": "VD-10204-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

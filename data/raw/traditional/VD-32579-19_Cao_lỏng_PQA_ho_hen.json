@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63606/cao-long-pqa-ho-hen.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao lỏng PQA ho hen",
+  "registration_number": "VD-32579-19",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần dược phẩm PQA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Quế chi Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    },
+    {
+      "name": "Hạnh nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2489/hanh-nhan.aspx"
+    }
+  ],
+  "sections": {}
+}

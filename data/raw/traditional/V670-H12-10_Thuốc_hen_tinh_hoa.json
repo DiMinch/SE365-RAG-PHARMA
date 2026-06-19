@@ -1,0 +1,57 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14689/thuoc-hen-tinh-hoa.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc hen tinh hoa",
+  "registration_number": "V670-H12-10",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Y dược Tinh Hoa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ma Hoàng Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2492/ma-hoang.aspx"
+    },
+    {
+      "name": "Bán hạ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hạnh nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2489/hanh-nhan.aspx"
+    },
+    {
+      "name": "Tế tân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Điều trị các thể hen phế quản (đặc biệt thể mãn tính);, viêm phế quản mãn tính, viêm phế quản thể co thắt, thể tắc nghẽn có biểu hiện: Khó thở, ho, tức ngực, đờm nhiều. - Phòng chống cơn hen tái phát.",
+    "contraindication": "Ngày uống 2 lần (uống sau bữa ăn). - Từ 1 – 2 tuổi: Mỗi lần uống 2 thìa cafe (10ml). - Từ 3 – 6 tuổi: Mỗi lần uống 3 thìa cafe (15ml). - Từ 7 – 12 tuổi: Mỗi lần 4 thìa café (20 ml) - Người lớn: Mỗi lần 6 thìa café (30ml) - Bệnh nặng có thể dùng gấp rưỡi liều trên - Đợt điều trị từ 8 – 10 tuần. Bệnh nặng có thể dùng liên tục 2 – 3 đợt. Những lưu ý khi sử dụng thuốc - Bệnh nhân cần kiên trì theo đợt điều trị. - Bên cạnh việc uống Thuốc Hen P/H, bệnh nhân cần sử dụng thuốc chống co thắt phế quản (dạng uống, xịt) để xử lý những trường hợp lên cơn hen phế quản cấp."
+  }
+}

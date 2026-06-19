@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31484/ong-hit-thong-mui-hazz.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "ống hít thông mũi Ha..Z..Z",
+  "registration_number": "V424-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở dầu gió Trung Tâm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long Não Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

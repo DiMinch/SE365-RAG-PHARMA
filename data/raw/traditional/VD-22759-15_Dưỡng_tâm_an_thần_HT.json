@@ -1,0 +1,29 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49665/duong-tam-an-than-ht.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng tâm an thần HT",
+  "registration_number": "VD-22759-15",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Liên nhục Chính",
+      "amount": "175mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Lá vông",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị các chứng mất ngủ, giảm trí nhớ, tim đập hồi hộp, suy nhược thần kinh do lo âu, căng thẳng, stress, làm việc quá sức. - Trị suy nhược cơ thể, giúp ăn ngon. - Trị chứng mất ngủ ở người cao tuổi.",
+    "contraindication": "Người mẫn cảm với các thành phần của thuốc.",
+    "dosage": "Người lớn:Mỗi lần uống 3-5 viên. Ngày uống 2 lần sau bữa ăn trưa và tối. Trẻ em: Mỗi lần uống 2-3 viên. Ngày uống 2 lần sau bữa ăn sáng và tối. Thời gian dùng: Mỗi đợt từ 2-4 tuần hoặc hơn tuỳ theo bệnh.",
+    "side_effects": "Để nơi khô thoáng, tránh ánh sáng.\nĐỂ XA TẦM TAY TRẺ EM."
+  }
+}

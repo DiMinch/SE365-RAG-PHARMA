@@ -1,0 +1,41 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14703/vimatine.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vimatine",
+  "registration_number": "VNA-4564-05",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH một thành viên Dược khoa-Trường Đại học Dược HN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mã tiền Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2517/ma-tien.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    },
+    {
+      "name": "Thương truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Chữa các chứng phong tê thấp, tê mỏi chân tay, đau dây thần kinh, đau nhức cơ xương khớp.",
+    "contraindication": "Không dùng cho phụ nữ có thai, trẻ em dưới 5 tuổi, bệnh nhân đang sốt cao.\n\nNgười phong thấp thể nhiệt.",
+    "dosage": "- Người lớn ngày uống 2 lần, mỗi lần 2 viên, hoặc ngày 3 lần, mỗi lần 1 viên. - Trẻ em 5-15 tuổi uống ngày 2 lần, mỗi lần 1 viên. - Uống thuốc ngay sau bữa ăn. - Đợt điều trị thông thường từ 4 đến 6 tuần. Sau đó có thể dừng thuốc nếu hết đau. Nếu còn đau nhẹ, uống duy trì với liều 1 viên/lần x 2 lần/ngày.",
+    "side_effects": "Đôi khi gặp trường hợp nôn nao, khó chịu. Các triệu chứng trên sẽ giảm nếu uống thuốc sau bữa ăn và sẽ hết khi ngừng thuốc.\n\nMột số trường hợp mới dùng thuốc, cảm giác đau nhức có thể tăng lên, nhưng sẽ giảm dần sau vài ngày điều trị."
+  }
+}

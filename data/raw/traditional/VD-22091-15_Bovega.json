@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48711/bovega.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bovega",
+  "registration_number": "VD-22091-15",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "tương ứng với 500 mg Diệp hạ châu đắng",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

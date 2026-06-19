@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-39707/patskin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Patskin",
+  "registration_number": "VD-13781-11",
+  "dosage_form": "Hộp 1 tuýp 10g kem bôi ngoài da",
+  "manufacturer": "Công ty cổ phần Dược phẩm Cần Giờ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Dexpanthenol Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-260/dexpanthenol.aspx"
+    },
+    {
+      "name": "Tinh dầu nghệ",
+      "amount": "20mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2377/tinh-dau-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

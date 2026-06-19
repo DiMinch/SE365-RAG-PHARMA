@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4689/linh-chi-sam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Linh chi sâm",
+  "registration_number": "VNB-1034-01",
+  "dosage_form": "Viên nén ngậm",
+  "manufacturer": "Công ty Cổ phần Dược phẩm Thiên Thảo",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

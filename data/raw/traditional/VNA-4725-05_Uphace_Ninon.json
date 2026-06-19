@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21421/uphace-ninon.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Uphace Ninon",
+  "registration_number": "VNA-4725-05",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu gừng Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    }
+  ],
+  "sections": {}
+}

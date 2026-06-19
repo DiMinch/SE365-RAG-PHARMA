@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16329/hepatobile.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepatobile",
+  "registration_number": "V604-H12-05",
+  "dosage_form": "Viên bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

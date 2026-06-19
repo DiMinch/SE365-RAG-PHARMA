@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62913/kinh-gioi-sao-chay-ton-tinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kinh giới sao cháy tồn tính",
+  "registration_number": "VD-31887-19",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kinh giới Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    }
+  ],
+  "sections": {}
+}

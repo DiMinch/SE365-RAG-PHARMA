@@ -1,0 +1,41 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-13593/tra-duong-tam-an-than.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà dưỡng tâm an Thần Dược phẩm Thiên Thảo",
+  "registration_number": "VNB-1036-01",
+  "dosage_form": "Trà hòa tan",
+  "manufacturer": "Công ty Cổ phần Dược phẩm Thiên Thảo",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lạc tiên Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    },
+    {
+      "name": "Tâm sen",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lá vông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị các chứng mất ngủ, giảm trí nhớ, tim đập hồi hộp, suy nhược thần kinh do lo âu, căng thẳng, stress, làm việc quá sức. - Trị suy nhược cơ thể, giúp ăn ngon. - Trị chứng mất ngủ ở người cao tuổi.",
+    "contraindication": "Người mẫn cảm với các thành phần của thuốc.",
+    "dosage": "Người lớn:Mỗi lần uống 3-5 viên. Ngày uống 2 lần sau bữa ăn trưa và tối. Trẻ em: Mỗi lần uống 2-3 viên. Ngày uống 2 lần sau bữa ăn sáng và tối. Thời gian dùng: Mỗi đợt từ 2-4 tuần hoặc hơn tuỳ theo bệnh.",
+    "side_effects": "Để nơi khô thoáng, tránh ánh sáng. ĐỂ XA TẦM TAY TRẺ EM."
+  }
+}

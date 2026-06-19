@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31820/testovim-e.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Testovim - E",
+  "registration_number": "V1497-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty TNHH Ðông Dược Xuân Quang",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương qui Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Ngưu tất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Tục đoạn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "TÁC DỤNG Nhục thung dung: bổ thận và kiện dương, ích tinh, lưng gối lạnh đau… Thục địa: uống lâu ngày thân thể nhẹ nhàng. Đại bổ huyết hư Dưỡng âm, thoái dương, sinh huyết, lợi đại tiểu trường, bổ nội thương ở ngũ tạng, thông huyết mạch, ích khí lực, di tinh, mộng tinh… Phục linh: mất ngủ, hay sợ hãi, di tinh, lợi tiểu… CHỈ ĐỊNH Giúp bổ thận tráng dương, sinh tinh… Tăng cường chức năng sinh dục.",
+    "contraindication": "Không dùng cho phụ nữ có thai và trẻ em dưới 10 tuổi.",
+    "dosage": "Liều dùng: Ngày uống 2 lần, mỗi lần từ 2 viên. Liều duy trì: dùng 4 viên/ngày. Để đạt hiệu quả tối ưu, kết hợp chế độ dinh dưỡng khoa học, tăng cường vận động, nghỉ ngơi hợp lý. Sử dụng cho cả nam và nữ."
+  }
+}

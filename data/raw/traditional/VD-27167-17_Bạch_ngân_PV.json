@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55029/bach-ngan-pv.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạch ngân PV",
+  "registration_number": "VD-27167-17",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bồ công anh Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bách bộ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị ho như ho cảm, ho do kích ứng và do dị ứng, ho có đờm, ho do viêm. Điều trị hỗ trợ viêm thanh quản, viêm họng, viêm amydan. Công dụng Mát phổi, tiêu đờm, giảm ho, chống viêm.",
+    "dosage": "Mẫn cảm với một trong các thành phần của thuốc. Thuốc sử dụng được cho phụ nữ có thai & cho con bú.",
+    "side_effects": "-     Trẻ sơ sinh đến 1 tuổi: Ngày uống 3 lần, mỗi lần 3ml - 5ml. -     Trẻ trên 1 tuổi: Ngày uống 3 lần, mỗi lần 7ml. -     Người lớn: Ngày uống 3 lần, mỗi lần 20 ml."
+  }
+}

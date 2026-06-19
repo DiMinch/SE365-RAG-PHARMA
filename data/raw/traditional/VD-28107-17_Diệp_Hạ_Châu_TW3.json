@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55907/diep-ha-chau-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Diệp Hạ Châu TW3",
+  "registration_number": "VD-28107-17",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Diệp hạ châu đắng",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Viêm gan do vi rút, viêm gan B : làm sạch kháng nguyên HBsAg, ức chế sự phát triển của vi rút viêm gan B. - Hạ men gan, phòng và hỗ trợ điều trị, phục hồi chức năng gan trong trường hợp viêm gan do bia rượu hoặc nhiễm độc, xơ gan, ung thư gan. - Dị ứng, lở ngứa ngoài da, mụn nhọt, định râu do chức năng thải độc của gan kém.",
+    "contraindication": "Không dùng thuốc cho những bệnh nhân sau:\n- Bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.\n- Phụ nữ có thai.",
+    "dosage": "Ngày uống 2 lần, sau bữa ăn.\nNgười lớn: 2 - 3 viên / lần.\nTrẻ em: 1- 2 viên/ lần.\nViêm gan do siêu vi B: Mỗi đợt điều trị nên kéo dài ít nhất 2 tháng.\nĐối với các trường hợp khác: Mỗi đợt điều trị thông thường 30 ngày.",
+    "side_effects": "Chú ý: Thông báo cho bác sỹ biết các tác dụng phụ gặp phải khi sử dụng thuốc",
+    "interactions": "Trong bao gói kín, ở nhiệt độ dưới 30C"
+  }
+}

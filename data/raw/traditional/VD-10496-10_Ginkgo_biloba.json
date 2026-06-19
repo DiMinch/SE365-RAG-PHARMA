@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-36454/ginkgo-biloba.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkgo biloba",
+  "registration_number": "VD-10496-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trà Vinh TV PHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

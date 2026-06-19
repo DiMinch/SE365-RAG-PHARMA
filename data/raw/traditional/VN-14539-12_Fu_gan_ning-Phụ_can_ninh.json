@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40534/fu-gan-ning-phu-can-ninh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Fu gan ning-Phụ can ninh",
+  "registration_number": "VN-14539-12",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Taizhou Nanfeng Pharmaceutical Co.,Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Sài hồ Chính",
+      "amount": ".",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Đại thanh diệp",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2430/dai-thanh-diep.aspx"
+    }
+  ],
+  "sections": {}
+}

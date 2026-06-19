@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35340/vien-nhai-tri-dau-da-day-gaskiba.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên nhai trị đau dạ dày Gaskiba",
+  "registration_number": "VD-30936-18",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Dược phẩm Bắc Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Phèn chua",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
+    }
+  ],
+  "sections": {}
+}

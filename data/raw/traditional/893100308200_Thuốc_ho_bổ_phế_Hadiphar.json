@@ -1,0 +1,53 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-51384/thuoc-ho-bo-phe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho bổ phế Hadiphar",
+  "registration_number": "893100308200",
+  "dosage_form": "Siro thuốc",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bọ mắm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2428/bo-mam.aspx"
+    },
+    {
+      "name": "Tinh dầu bạc hà",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bổ phổi, tiêu đờm, thông hơi thở - Chống viêm nhiễm cơ quan hô hấp - Chữa ho gió, ho khan, ho có đờm, ho do cảm, do dị ứng, do viêm họng – viêm phế quản.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Ngày uống 2-3 lần. - Người lớn: 15ml (1 thìa canh)/lần - Trẻ em: 1-3 tuổi: 5ml (1 thìa cà phê)/lần. 5-7 tuổi: 10ml (2 thìa cà phê)/lần Mỗi đợt dùng từ 7 -10 ngày, nếu ho lâu ngày, mãn tính có thể dùng trên 1 tháng. Bệnh nặng có thể dùng liều gấp đôi",
+    "side_effects": "Trong bao gói kín, ở nhiệt độ dưới 30oC."
+  }
+}

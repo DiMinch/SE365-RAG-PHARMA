@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10069/diep-ha-chau-2000mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Diệp hạ châu 2000mg",
+  "registration_number": "VNB-2293-04",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "2000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trị viêm gan, viêm gan virus, viêm gan mãn tính. \n- Thiểu năng gan, viêm gan gây mệt mỏi, ăn uống khó tiêu, vàng da, bí đại tiểu tiện, táo bón. Tiêu độc trong các trương hợp đinh râu, mụn nhọt, lở  ngứa.",
+    "contraindication": "Phụ nữ có thai không được dùng.",
+    "dosage": "- Người lớn: mỗi lần 3 viên, ngày 3 lần\n- Trẻ em: mỗi lần 1 viên, ngày 3 lần.",
+    "side_effects": "Để nơi khô mát, tránh ánh sáng."
+  }
+}

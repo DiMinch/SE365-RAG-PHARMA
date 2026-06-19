@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18645/ruou-am-tho-mat-ong-ke-tam-xa.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rượu âm Thổ mật ong kê tam xà",
+  "registration_number": "VND-0647-02",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học Cổ truyền Phước Thọ Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đỗ trọng Chính",
+      "amount": "650ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {}
+}

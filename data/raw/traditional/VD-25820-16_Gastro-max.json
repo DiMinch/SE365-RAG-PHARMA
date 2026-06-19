@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53777/gastro-max.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gastro-max",
+  "registration_number": "VD-25820-16",
+  "dosage_form": "Thuốc bột uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thương truật Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị viêm loét dạ dày (bao tử);- hành tá tràng. Viêm,loét bờ cong lớn, bờ cong nhỏ. Viêm dạ dày cấp và mãn. Viêm đại tràng. Các triệu chứng ăn không tiêu, đầy bụng, ợ hợi, buôn nôn, cảm giác khó chịu ở dạ dày. Đi ngoài phân không bình thường.",
+    "contraindication": "Không",
+    "dosage": "Ngày uống 3 lần. Sáng trước khi ăn, trưa và tối sau khi ăn 30 phút. Mỗi lần uống 1 gói (5g)pha với 250ml nước đang sôi 100 độ C.",
+    "side_effects": "Để nơi khô ráo."
+  }
+}

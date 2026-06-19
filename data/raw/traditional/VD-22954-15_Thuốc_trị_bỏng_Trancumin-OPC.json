@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49930/thuoc-tri-bong-trancumin-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc trị bỏng Trancumin-OPC",
+  "registration_number": "VD-22954-15",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu tràm Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    },
+    {
+      "name": "Nghệ",
+      "amount": "55mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

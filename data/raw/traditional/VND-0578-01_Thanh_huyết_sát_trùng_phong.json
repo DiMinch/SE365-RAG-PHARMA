@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21290/thanh-huyet-sat-trung-phong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh huyết sát trùng phong",
+  "registration_number": "VND-0578-01",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở Trường An Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thổ phục linh Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    }
+  ],
+  "sections": {}
+}

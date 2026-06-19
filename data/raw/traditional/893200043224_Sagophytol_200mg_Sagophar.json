@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58049/sagophytol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sagophytol 200mg Sagophar",
+  "registration_number": "893200043224",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "tương đương 2g Actiso",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Có tác dụng lợi tiểu, thông mật và lợi mật được dùng để cải thiện chức năng đào thải của cơ thể.",
+    "contraindication": "Người lớn 1-2 viên x 3 lần/ngày, trước bữa ăn hoặc khi triệu chứng xảy ra."
+  }
+}

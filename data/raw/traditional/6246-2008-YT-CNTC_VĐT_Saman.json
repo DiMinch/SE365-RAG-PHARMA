@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30608/vdt-saman.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "VĐT Saman",
+  "registration_number": "6246/2008/YT-CNTC",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Saman",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {}
+}

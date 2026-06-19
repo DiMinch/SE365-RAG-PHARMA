@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3776/tam-that-bot.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tam thất bột Ðông Dược Lan Q",
+  "registration_number": "VNB-3167-05",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty TNHH Ðông Dược Lan Q",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

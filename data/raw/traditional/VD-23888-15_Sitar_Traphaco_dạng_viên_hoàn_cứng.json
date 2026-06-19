@@ -1,0 +1,70 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-51811/sitar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sitar Traphaco dạng viên hoàn cứng",
+  "registration_number": "VD-23888-15",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Sinh khương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2411/sinh-khuong.aspx"
+    },
+    {
+      "name": "Sài hồ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Trĩ nội, trĩ ngoại, sa dạ dày, sa tử cung. - Chán ăn, ăn ít, bụng trướng, ỉa chảy lâu ngày. - Chân tay mỏi mệt, ngại hoạt động.",
+    "contraindication": "- Người mẫn cảm với thành phần của thuốc. - Không dùng cho người tăng huyết áp ở các thể mất cân bằng “Thăng giáng” như: + Thể can dương thượng xung với các biểu hiện chính như tăng huyết áp gây đau đầu, chóng mặt, mặt đỏ, hoa mắt, tai ù, đắng miệng. + Thể âm hư dương cang với các biểu hiện chính như nóng từng cơn, gò má đỏ, mồ hôi trộm, lòng bàn tay chân nóng, ho ra máu.",
+    "dosage": "Uống 1 - 2 gói/lần x 3 lần/ngày, uống với nước ấm, mỗi đợt dùng 1 - 2 tháng."
+  }
+}

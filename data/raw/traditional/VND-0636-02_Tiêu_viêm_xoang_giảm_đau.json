@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3052/tieu-viem-xoang-giam-dau.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu viêm xoang giảm đau",
+  "registration_number": "VND-0636-02",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Hòa Thuận Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tế tân Chính",
+      "amount": "35g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

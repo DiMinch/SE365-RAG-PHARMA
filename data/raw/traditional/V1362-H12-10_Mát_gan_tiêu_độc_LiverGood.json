@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35625/mat-gan-tieu-doc-livergood.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Mát gan tiêu độc LiverGood",
+  "registration_number": "V1362-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân trần Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Actisô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các trường hợp Suy giảm chức năng gan, chán ăn, mệt mỏi, vàng da, dị ứng, mẩn ngứa, bí đại tiểu tiện, táo bón. Những người dùng nhiều bia rượu và thuốc chống lao dài ngày.",
+    "contraindication": "Người có tỳ vị hư hàn, ỉa lỏng không dùng.",
+    "dosage": "Người lớn: Ngày uống 3 lần, mỗi lần 2 – 3 viên. Trẻ em: Ngày uống 2 lần, mỗi lần 2 – 3 viên."
+  }
+}

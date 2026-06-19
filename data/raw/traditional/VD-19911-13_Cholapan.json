@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16341/cholapan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cholapan",
+  "registration_number": "VD-19911-13",
+  "dosage_form": "Liều lượng & Cách dùng Uống trước bữa ăn chính. Người lớn: 2 viên x 2 lần /ngày. Trẻ em từ 5 tuổi đến dưới 15 tuổi: Uống mỗi lần 1 viên, ngày 2 lần. Trường hợp đau nhiều, uống gấp đôi.",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

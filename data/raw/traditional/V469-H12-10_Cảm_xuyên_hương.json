@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22968/cam-xuyen-huong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cảm xuyên hương",
+  "registration_number": "V469-H12-10",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Bình Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    }
+  ],
+  "sections": {}
+}

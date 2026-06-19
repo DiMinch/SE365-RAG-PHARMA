@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53447/huong-sa-ph.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hương Sa P/H",
+  "registration_number": "VD-25444-16",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "tương đương với 133mg dược liệu",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

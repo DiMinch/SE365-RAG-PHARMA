@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-66728/reistore.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Reistore",
+  "registration_number": "GC-336-20",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "1000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

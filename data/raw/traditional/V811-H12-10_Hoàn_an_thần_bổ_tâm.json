@@ -1,0 +1,57 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-24925/hoan-an-than-bo-tam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn an thần bổ tâm",
+  "registration_number": "V811-H12-10",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Bình Lục",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Ý dĩ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2399/y-di.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Long nhãn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2448/long-nhan.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp lo lắng, căng thẳng, dễ cáu bẳn, khó ngủ, giấc ngủ không sâu dẫn đến mệt mỏi. - Trị mất ngủ do suy nhược cơ thể",
+    "contraindication": "- Ngày 2 lần, mỗi lần 1 Viên, uống trước bữa ăn. - Đợt dùng 2-4 tuần."
+  }
+}

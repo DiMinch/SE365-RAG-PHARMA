@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52643/duong-cot-va.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dưỡng cốt V.A",
+  "registration_number": "V46-H12-16",
+  "dosage_form": "Thuốc nước uống",
+  "manufacturer": "Cơ sở Đông Dược Vĩnh An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

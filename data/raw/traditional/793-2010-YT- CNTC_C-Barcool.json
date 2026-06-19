@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30622/c-barcool.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "C-Barcool",
+  "registration_number": "793/2010/YT- CNTC",
+  "dosage_form": "viên nang",
+  "manufacturer": "Công ty TNHH ADC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Biển súc Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {}
+}

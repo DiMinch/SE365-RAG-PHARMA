@@ -1,0 +1,69 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46870/an-than-bo-tam-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần bổ tâm-F Fito Pharma dạng viên nang cứng",
+  "registration_number": "VD-20532-14",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mạch môn Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Huyền sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dưỡng tâm an thần, điều hòa nhịp tim. Hỗ trợ giảm stress, căng thẳng mất ngủ hoặc mắc chứng suy nhược thần kinh",
+    "contraindication": "Cách dùng Uống mỗi lần 2-3 viên, ngày 3 lần Đối tượng sử dụng Dành cho người bị stress, căng thẳng tâm lý, mất ngủ hoặc ngủ không sâu Chứng suy nhược thần kinh, nhức đầu giảm trí nhớ, Hay bị hồi hộp Nhịp tim không ổn định Hỗ trợ điều trị thiểu năng mạch vành"
+  }
+}

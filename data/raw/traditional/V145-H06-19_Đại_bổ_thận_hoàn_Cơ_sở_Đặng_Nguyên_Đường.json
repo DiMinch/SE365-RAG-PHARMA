@@ -1,0 +1,63 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31452/dai-bo-than-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đại bổ thận hoàn Cơ sở Đặng Nguyên Đường",
+  "registration_number": "V145-H06-19",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở Đặng Nguyên Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Đỗ trọng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng bổ thận, dưỡng tỳ vị, lợi thủy, cố tinh, thuốc được dùng trong các trường hợp: -    Bồi bổ sức khỏe, tăng cường sinh lực chống lại các tác nhân gây bệnh. -    Điều trị bệnh thận hư, yếu sinh lý, rối loạn cương dương, di mộng tinh. -     Đau lưng, mỏi gối, mỏi chân tay, chóng mặt ù tai, rụng tóc, phát dục không tốt. -     Kinh nguyệt không đều, khí hư, bạch đới.",
+    "contraindication": "Ngày uống 2 – 3 lần sau bữa ăn, mỗi lần 1 viên. Uống thuốc với nước đun sôi để nguội, nên nhai trước khi nuốt."
+  }
+}

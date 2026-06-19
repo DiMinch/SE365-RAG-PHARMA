@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54792/amelicol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Amelicol",
+  "registration_number": "VD-27253-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty Dược & trang thiết bị Y tế Bình Định BIDIPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Tinh dầu gừng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2372/tinh-dau-gung.aspx"
+    },
+    {
+      "name": "Tinh Dầu Tần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2373/tinh-dau-tan.aspx"
+    },
+    {
+      "name": "Tinh dầu tràm",
+      "amount": "60%",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {}
+}

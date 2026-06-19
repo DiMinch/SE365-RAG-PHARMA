@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-66778/cynaphytol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cynaphytol",
+  "registration_number": "VD-34090-20",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "tương đương với 12,6g lá tươi Actisô",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

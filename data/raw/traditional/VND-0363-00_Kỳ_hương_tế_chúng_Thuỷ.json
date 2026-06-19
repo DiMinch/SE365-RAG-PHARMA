@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10202/ky-huong-te-chung-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kỳ hương tế chúng Thuỷ",
+  "registration_number": "VND-0363-00",
+  "dosage_form": "Thuốc rượu",
+  "manufacturer": "Cơ sở Đông Huê",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đại hồi Chính",
+      "amount": "7ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2566/dai-hoi.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35865/coriver-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Coriver - OPC",
+  "registration_number": "VD-10265-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nấm Vân Chi Chính",
+      "amount": "1000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2705/nam-van-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Duợc lực - Thành phần hoạt chất chính là các Polysaccharides betaglucans không bị tiến trình tiêu hóa phân hủy. - Nấm Vân Chi kích thích hệ thống miễn dịch của cơ thể, góp phần làm giảm lượng kháng nguyên và gia tăng hình thành kháng thể, kháng lại bệnh tật. -  Hỗ trợ điều trị các bệnh ung thư cũng như làm giảm tác dụng phụ do hóa trị và xạ trị. - Phục hồi chức năng gan ở bệnh nhân viêm gan cấp và mạn tính. - Thuyên giảm mau chóng các triệu chứng buồn nôn, ói mửa và suy nhược, bình thường hóa men gan ALT, AST. Chỉ định - Phòng ngừa và điều trị viêm gan cấp và mạn tính hoạt động kéo dài.",
+    "side_effects": "Bệnh nhân mẫn cảm với bất cứ thành phần của thuốc.",
+    "interactions": "Uống trước bữa ăn : - Phòng ngừa : 1 viên x 3 lần / ngày. - Điều trị : 3 viên x 3 lần / ngày (dùng liên tục tối thiểu 6 tháng)."
+  }
+}

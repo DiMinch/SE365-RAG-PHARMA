@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-47063/an-cung-nguu-hoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An cung ngưu hoàng hoàn Hebei Anguo Pharma",
+  "registration_number": "VN-18233-14",
+  "dosage_form": "Viên hoàn",
+  "manufacturer": "Hebei Anguo Pharmaceutical Group Co., Ltd.",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Ngưu hoàng Chính",
+      "amount": "Bovis Calculus",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2539/nguu-hoang.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    }
+  ],
+  "sections": {}
+}

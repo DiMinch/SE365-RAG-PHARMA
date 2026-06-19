@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-43720/cebrex-s.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cebrex S",
+  "registration_number": "VN-14052-11",
+  "dosage_form": "Viên nén bao  phim",
+  "manufacturer": "Dr. Willmar Schwabe GmbH & Co",
+  "manufacturer_country": "Germany",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

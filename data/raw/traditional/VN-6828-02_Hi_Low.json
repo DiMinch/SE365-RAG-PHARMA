@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9018/hi-low.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hi Low",
+  "registration_number": "VN-6828-02",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Hanyoung Pharm Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

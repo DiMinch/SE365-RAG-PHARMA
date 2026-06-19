@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-50233/cao-dac-ngai-cuu.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao đặc ngải cứu Thephaco",
+  "registration_number": "VD-23163-15",
+  "dosage_form": "Cao đặc",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngải cứu Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

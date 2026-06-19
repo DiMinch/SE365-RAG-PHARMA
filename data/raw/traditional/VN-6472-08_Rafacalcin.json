@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-28740/rafacalcin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rafacalcin",
+  "registration_number": "VN-6472-08",
+  "dosage_form": "Dung dịch xịt mũi",
+  "manufacturer": "Rafarm S.A.",
+  "manufacturer_country": "Greece",
+  "herbal_ingredients": [
+    {
+      "name": "Natri chloride Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-843/natri-chloride.aspx"
+    }
+  ],
+  "sections": {}
+}

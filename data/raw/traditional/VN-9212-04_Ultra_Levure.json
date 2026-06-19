@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14624/ultra-levure.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ultra Levure",
+  "registration_number": "VN-9212-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Laboratoires Biocodex",
+  "manufacturer_country": "FRANCE",
+  "herbal_ingredients": [
+    {
+      "name": "Magnesium Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-471/magnesium.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Thiết lập và duy trì hoạt động hiệu quả của đường ruột và cân bằng hệ vi sinh đường ruột. Phòng và điều trị tiêu chảy do Clostridium Difficile, do đi du lịch hay do dùng kháng sinh.",
+    "contraindication": "Mẩn cảm vơi bất kỳ thành phần nào của thuốc.\nBệnh nhân đặt catheter tĩnh mạch trung ương.\nBệnh nhân suy giảm miễn dịch như HIV, cấy ghép cơ quan, xạ trị.",
+    "dosage": "Người lớn, trẻ trên 12 tuổi: Thiết lập và duy trì hoạt động hiệu quả của đường ruột và cân bằng hệ vi sinh đường ruột 1 viên x 1 - 2 lần/ngày. Tiêu chảy 1 viên x 1 - 2 lần/ngày. Ngăn ngừa tiêu chảy do đi du lịch 1 viên x 1 - 2 lần/ngày, bắt đầu từ 5 ngày trước khi đi du lịch. Trẻ 2 - 12 tuổi: 1 viên x 1 - 2 lần/ngày.",
+    "side_effects": "ít tác dụng phụ được báo cáo. có thể gây đầy hơi.",
+    "interactions": "Không dùng chung với thuốc kháng nấm."
+  }
+}

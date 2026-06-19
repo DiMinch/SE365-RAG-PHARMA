@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12385/tieu-phong-tru-thap.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tiêu phong trừ Thấp",
+  "registration_number": "VNB-3086-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nội",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    },
+    {
+      "name": "Thiên niên kiện",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2395/thien-nien-kien.aspx"
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Huyết giác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2550/huyet-giac.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng: Tán phong, thông kinh lạc, hoạt huyết, trừ thấp. Chỉ định: +Viêm khớp mạn. +Các chứng phong thấp đau nhức, chân tay tê mỏi, đau lưng mỏi gối.",
+    "side_effects": "Không dùng cho phụ nữ có thai và trẻ em dưới 10 tuổi.",
+    "interactions": "Uống mỗi lần 2 - 3 viên, ngày 3 lần. Uống sau bữa ăn."
+  }
+}

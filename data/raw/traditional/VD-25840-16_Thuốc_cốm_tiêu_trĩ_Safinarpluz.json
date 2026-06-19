@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53797/thuoc-com-tieu-tri-safinarpluz.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc cốm tiêu trĩ Safinarpluz",
+  "registration_number": "VD-25840-16",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phòng phong Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
+    },
+    {
+      "name": "Hoàng Cầm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
+    },
+    {
+      "name": "Chỉ xác",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2497/chi-xac.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "TÁC DỤNG Thuốc cốm tiêu trĩ SAFINARPLUZ có tác dụng thanh trường, sơ phong nhiệt, lương huyết, làm bền vững thành mạch chống chảy máu, giảm đau rát, co búi trĩ. CHỈ ĐỊNH: Điều trị trĩ, đi ngoài ra máu, đại tràng táo nhiệt, ngăn ngừa trĩ tái phát.",
+    "contraindication": "Quá mẫn với các thành phần của thuốc. Phụ nữ có thai.",
+    "dosage": "Uống 1 gói/lần x 2 lần/ngày (hòa tan trong khoảng 100 ml nước ấm) Nên sử dụng nhiều đợt, mỗi đợt 1-2 tháng để có kết quả tốt nhất. Lưu ý trong quá trình điều trị nên uống nhiều nước, từ 1,5 – 2 lít nước mỗi ngày, kiêng thức ăn cay nóng như ớt, hạt tiêu, các chất kích thích như rượu, cà phê."
+  }
+}

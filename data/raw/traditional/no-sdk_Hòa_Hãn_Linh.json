@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-38299/hoa-han-linh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hòa Hãn Linh",
+  "registration_number": null,
+  "dosage_form": null,
+  "manufacturer": "Công ty Cổ Phần Trung Mỹ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "800mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Thiên môn đông",
+      "amount": "600mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2519/thien-mon-dong.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16458/vien-ngam-nhan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên ngậm Nhân sâm Tam thất",
+  "registration_number": "VNB-1791-04",
+  "dosage_form": "Viên nén ngậm",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp cần tăng cường thể lực và trí lực giúp cơ thể dẻo dai và kéo dài tuổi thọ. \n- Nâng cao sức đề kháng, phòng chống bệnh tật. \n- Phục hồi sức khoẻ cho người suy nhược, người mới ốm dậy, chán ăn, ít ngủ, phổi yếu,miệng khát, suy nhược sinh lý, phụ nữ sau khi sinh. \n- Các trường hợp mệt mỏi, nôn nao khi đi tầu xe, lúc học hành, lao động gắng sức.",
+    "contraindication": "Người cao huyết áp.",
+    "dosage": "- Ngậm 4-8 viên/ngày. Nên dùng vào buổi sáng hàng ngày."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58433/thanh-nhiet-tieu-doc-livergood.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thanh nhiệt tiêu độc Livergood",
+  "registration_number": "VD-28943-18",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bồ công anh Chính",
+      "amount": "670mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Kim ngân hoa",
+      "amount": "340mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "125mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Actisô",
+      "amount": "670mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "340mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các trường hợp Suy giảm chức năng gan, chán ăn, mệt mỏi, vàng da, dị ứng, mẩn ngứa, bí đại tiểu tiện, táo bón. Những người dùng nhiều bia rượu và thuốc chống lao dài ngày.",
+    "contraindication": "Người có tỳ vị hư hàn, ỉa lỏng không dùng.",
+    "dosage": "Người lớn: Ngày uống 3 lần, mỗi lần 2 – 3 viên. Trẻ em: Ngày uống 2 lần, mỗi lần 2 – 3 viên."
+  }
+}

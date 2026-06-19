@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20016/hau-khoa-ngoc-dich-tan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hầu khoa ngọc dịch tán",
+  "registration_number": "VND-3217-05",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "1,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

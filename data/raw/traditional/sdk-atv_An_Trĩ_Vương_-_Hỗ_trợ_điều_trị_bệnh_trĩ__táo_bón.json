@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30616/an-tri-vuong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An Trĩ Vương - Hỗ trợ điều trị bệnh trĩ, táo bón",
+  "registration_number": "sdk-atv",
+  "dosage_form": null,
+  "manufacturer": "Công ty Cổ phần sản xuất và Thương mại Hồng Bàng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rutin Chính",
+      "amount": "25mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2231/rutin.aspx"
+    }
+  ],
+  "sections": {}
+}

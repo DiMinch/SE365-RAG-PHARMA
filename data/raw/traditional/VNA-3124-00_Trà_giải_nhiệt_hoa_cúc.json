@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9038/tra-giai-nhiet-hoa-cuc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà giải nhiệt hoa cúc",
+  "registration_number": "VNA-3124-00",
+  "dosage_form": "Trà thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cúc hoa Chính",
+      "amount": "5g, 10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    }
+  ],
+  "sections": {}
+}

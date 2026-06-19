@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12517/bo-trung-ich-khi-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ trung ích khí-F Fito Pharma",
+  "registration_number": "VD-20533-14",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng : Bổ khí, thăng đề. Chủ trị : Tỳ vị hư, biểu hiện mệt mỏi, chán ăn, trướng bụng, thiếu khí hạ hãm, biểu hiện ở phân lỏng, tiêu chảy lâu ngày, sa trực tràng, sa dạ con.",
+    "side_effects": "Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao. Người mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "interactions": "Uống ngày 3 lần. Người lớn 2 viên/lần. Trẻ em 1 viên/lần. Hoặc theo sự chỉ định của thầy thuốc."
+  }
+}

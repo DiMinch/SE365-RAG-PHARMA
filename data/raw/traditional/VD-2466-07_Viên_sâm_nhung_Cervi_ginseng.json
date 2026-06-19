@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16443/vien-sam-nhung-cervi-ginseng.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sâm nhung Cervi ginseng",
+  "registration_number": "VD-2466-07",
+  "dosage_form": "Viên nén thon dài bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

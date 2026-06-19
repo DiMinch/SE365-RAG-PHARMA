@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9165/kim-son-luc-than-thuy.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kim sơn lục Thần Thuỷ",
+  "registration_number": "VD-0309-06",
+  "dosage_form": "Rượu thuốc",
+  "manufacturer": "Cơ sở Kim Sơn",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mộc hương Chính",
+      "amount": "3ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    }
+  ],
+  "sections": {}
+}

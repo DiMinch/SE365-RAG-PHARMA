@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55326/cao-kho-ngai-cuu-1125.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao khô Ngải cứu (1:12,5)",
+  "registration_number": "VD-26656-17",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngải cứu Chính",
+      "amount": "tương đương 12,5g Ngải cứu",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    }
+  ],
+  "sections": {}
+}

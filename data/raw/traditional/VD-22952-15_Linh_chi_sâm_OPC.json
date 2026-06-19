@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49928/linh-chi-sam-opc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Linh chi sâm OPC",
+  "registration_number": "VD-22952-15",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Linh chi Chính",
+      "amount": "1000mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2389/linh-chi.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "250mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng trong các trường hợp: cơ thể suy nhược, kiệt sức, mệt mỏi và trong thời gian dưỡng bệnh. - Trị suy nhược thần kinh, làm hạ cholesterol máu. - Phòng và chống viêm gan. Công năng Bổ khí, dưỡng huyết, dưỡng tâm an thần, hạ cholesterol máu, tăng cường sức khỏe, tăng trí nhớ, làm mạnh hệ thống miễn dịch, tăng cường chức năng gan, giải  độc gan.",
+    "dosage": "Không dùng cho phụ nữ có thai.\nKhông dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "side_effects": "Uống mỗi lần 1-2 viên, ngày 2-3 lần hoặc theo sự chỉ định của Bác sĩ. Không uống trước khi đi ngủ."
+  }
+}

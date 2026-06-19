@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35857/ho-astex.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ho Astex dạng siro",
+  "registration_number": "893100311300",
+  "dosage_form": "Sirô",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Núc nác Chính",
+      "amount": "Cortex Oroxylum indicum",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2444/nuc-nac.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {}
+}

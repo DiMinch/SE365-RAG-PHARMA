@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40867/gudia-tablet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gudia Tablet",
+  "registration_number": "VN-13735-11",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Theragen Etex Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "80mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

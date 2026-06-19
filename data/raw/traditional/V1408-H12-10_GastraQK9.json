@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34648/gastraqk9.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "GastraQK9",
+  "registration_number": "V1408-H12-10",
+  "dosage_form": "Viên nén",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "10 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

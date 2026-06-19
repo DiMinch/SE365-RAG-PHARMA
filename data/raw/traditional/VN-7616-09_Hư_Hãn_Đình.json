@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29946/hu-han-dinh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hư Hãn Đình",
+  "registration_number": "VN-7616-09",
+  "dosage_form": "Thuốc cốm",
+  "manufacturer": "Guangzhou Qixing Pharmaceutical Co., Ltd.",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Đại táo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2447/dai-tao.aspx"
+    }
+  ],
+  "sections": {}
+}

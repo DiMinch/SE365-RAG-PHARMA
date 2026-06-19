@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53064/ginknex.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginknex",
+  "registration_number": "GC-247-16",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá Bạch quả Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ cải thiện trí nhớ, sa sút trí tuệ, cải thiện khả năng tập trung. Hỗ trợ điều trị các triệu chứng của thiểu năng tuần hoàn não như đau đầu, chóng mặt, ù tai, giảm thị lực. Hỗ trợ giảm đau gây ra bởi suy tuần hoàn ở động mạch ngoại vi, đau cách hồi do nghẽn mạch chi dưới mãn tính, hội chứng Raynauld.",
+    "contraindication": "Người đang chảy máu.\nPhụ nữ mang thai.\nNgười chuẩn bị tiến hành phẫu thuật.\nNgười mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Uống 1 viên/lần x 2-3 lần/ngày. Liều dùng này có thể điều chỉnh tùy theo tình trạng của từng bệnh nhân. Thông thường nên dùng thuốc Ginknex trong khoảng 6 tuần. Với những trường hợp bệnh nặng nên dùng ít nhất 8 tuần. Khi dùng thuốc với liều cao hơn liều khuyến cáo hoặc dùng lâu dài, cần phải tham khảo ý kiến của bác sĩ.",
+    "side_effects": "Nói chung ginkgo được dung nạp tốt, tuy nhiên vẫn có một số tác dụng không mong muốn xảy ra:\n\nHiếm gặp (≥ 1/1000 đến <1/100): đau bụng, buồn nôn, táo bón, tiêu chảy, đau đầu, rối loạn giấc ngủ, đánh trống ngực, chóng mặt, lo lắng, phản ứng dị ứng da (ngứa, phát ban). Rất hiếm (<1/10000): các triệu chứng liên quan đến chảy máu đột ngột. Một số trường hợp cá biệt có sự hình thành khối máu tụ dưới màng cứng, có thể là do sử dụng cao khô Ginkgo trong thời gian dài (2 năm). Tác dụng phụ này có thể xảy ra thường xuyên hơn ở những bệnh nhân đang dùng cả thuốc kháng tiểu cầu hoặc thuốc chống đông máu như aspirin hoặc warfarin."
+  }
+}

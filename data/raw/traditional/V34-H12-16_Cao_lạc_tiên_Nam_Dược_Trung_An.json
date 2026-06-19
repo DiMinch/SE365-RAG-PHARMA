@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12419/cao-lac-tien.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao lạc tiên Nam Dược Trung An",
+  "registration_number": "V34-H12-16",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Trung An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Liên nhục Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2384/lien-nhuc.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {}
+}

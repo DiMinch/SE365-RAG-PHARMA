@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9801/gastrotac.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gastrotac",
+  "registration_number": "893110896224",
+  "dosage_form": "Viên nén nhai",
+  "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Magnesium hydroxide Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-903/magnesium-hydroxide.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Giảm các triệu chứng do tăng tiết acid quá mức như khó tiêu, nóng bỏng vùng thượng vị, chướng bụng, đầy hơi, ợ hơi chua, tăng độ acid, đau rát dạ dày & các rối loạn thường gặp trong bệnh lý loét dạ dày tá tràng, thực quản.",
+    "contraindication": "Không nên dùng cho bệnh nhân suy nhược cơ thể, suy thận, nhiễm kiềm, Mg máu tăng.",
+    "dosage": "Người lớn: 2-4 viên, trước bữa ăn, sau khi ăn 1 giờ hoặc khi đi ngủ.",
+    "side_effects": "Thuốc làm giảm hấp thụ một số kháng sinh (như tetracycline), sắt."
+  }
+}

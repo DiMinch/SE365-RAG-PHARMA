@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12341/ha-thu-o.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hà Thủ ô",
+  "registration_number": "VNB-3987-05",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Dược phẩm Kim Hoàng Ân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    }
+  ],
+  "sections": {}
+}

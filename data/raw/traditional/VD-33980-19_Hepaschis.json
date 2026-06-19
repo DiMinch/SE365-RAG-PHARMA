@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32308/hepaschis.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hepaschis",
+  "registration_number": "VD-33980-19",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH Vạn Xuân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ vị tử Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "TÁC DỤNG: - Bảo vệ màng tế bào gan chống oxy hóa - Có khả năng khử các chất gốc oxy hóa tự do. - Không ảnh hưởng hệ miễn dịch Theo đông y có tác dụng liễm phế, cố thận, cố tinh, chỉ mồ hôi (cầm mồ hôi), cường âm, ích khí, bổ ngũ tạng CHỈ ĐỊNH: - Bệnh viêm gan mãn do siêu vi, viêm gan mãn do ngộ độc, viêm gan mãn do rượu bia. - Tình trạng suy nhược kèm triệu chứng ra nhiều mồ hôi",
+    "contraindication": "Dị ứng với thành phần của bài thuốc và trẻ em dưới 2 tuổi",
+    "dosage": "Người lớn: 2-3 viên/lần; ngày 2-3 lần Trẻ em: + Từ 2-6 tuổi: ½ - 1 viên/lần, 2 lần/ngày + Từ 6-12 tuổi: 1 – 2 viên/lần, 2 lần/ngày"
+  }
+}

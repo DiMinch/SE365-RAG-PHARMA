@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18749/thuoc-uong-ratuso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc uống ratuso",
+  "registration_number": "VNB-3395-05",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Bắc Ninh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Râu mèo Chính",
+      "amount": "5ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2481/rau-meo.aspx"
+    },
+    {
+      "name": "Sorbitol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-207/sorbitol.aspx"
+    },
+    {
+      "name": "Actisô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

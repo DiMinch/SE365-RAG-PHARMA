@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-57409/nghe-mat-ong-tung-loc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nghệ mật ong tùng lộc",
+  "registration_number": "VD-28533-17",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Công ty Cổ phần Dược Quốc tế Tùng Lộc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ Chính",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "65mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

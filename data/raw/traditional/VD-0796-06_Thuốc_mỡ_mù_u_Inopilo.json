@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-6308/thuoc-mo-mu-u-inopilo.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc mỡ mù u Inopilo",
+  "registration_number": "VD-0796-06",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Công ty TNHH Thương mại và sản xuất Dược phẩm Bình Minh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá lốt Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2561/la-lot.aspx"
+    }
+  ],
+  "sections": {}
+}

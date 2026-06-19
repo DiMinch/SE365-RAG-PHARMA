@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12330/ginca.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginca",
+  "registration_number": "V361-H12-10",
+  "dosage_form": "Viên ngậm",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Glucose",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-829/glucose.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Viêm họng, đau họng.\n- Ho do cảm lạnh.\n- Khản tiếng, rát cổ.",
+    "contraindication": "Không dùng cho trẻ em dưới 7 tuổi và phụ nữ có thai.",
+    "dosage": "- Người lớn: Ngày 3-4 lần, mỗi lần ngậm 1 viên.\n- Trẻ em trên 7 tuổi: Ngày 1-2 lần, mỗi lần ngậm 1 viên."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16037/van-chi-550mg.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vân chi 550mg",
+  "registration_number": "VNB-0571-03",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nấm Vân Chi Chính",
+      "amount": "550mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2705/nam-van-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

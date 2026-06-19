@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-41557/yucarmin-soft-capsule.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Yucarmin soft capsule",
+  "registration_number": "VN-14479-12",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Yuyu Pharma, Inc.",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

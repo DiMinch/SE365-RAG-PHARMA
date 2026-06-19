@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68419/pqa-viem-mui-di-ung.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "PQA viêm mũi dị ứng",
+  "registration_number": "VD-32716-19",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần dược phẩm PQA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạc Hà Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

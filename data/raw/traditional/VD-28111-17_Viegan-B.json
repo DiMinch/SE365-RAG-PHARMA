@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58811/viegan-b.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viegan-B",
+  "registration_number": "VD-28111-17",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Hạ men gan, tăng cường chức năng gan Hỗ trợ điều trị viêm gan cấp và mãn tính, đặc biệt là viêm gan siêu vi B",
+    "contraindication": "Mẫn cảm với thành phần của thuốc Người tiểu đường, thể hàn",
+    "dosage": "Uống thuốc trước bữa ăn 30 phút, liều trung bình là: Người lớn: 3 viên/lần x 3 lần/ngày Trẻ em: Dùng 1-2 viên/lần x 3 lần/ngày. Hoặc dùng theo sự chỉ dẫn của thầy thuốc."
+  }
+}

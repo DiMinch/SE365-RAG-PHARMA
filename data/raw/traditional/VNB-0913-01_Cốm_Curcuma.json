@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16323/com-curcuma.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốm Curcuma",
+  "registration_number": "VNB-0913-01",
+  "dosage_form": "Cốm",
+  "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    }
+  ],
+  "sections": {}
+}

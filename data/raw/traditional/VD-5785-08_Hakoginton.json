@@ -1,0 +1,42 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-27817/hakoginton.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hakoginton",
+  "registration_number": "VD-5785-08",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    },
+    {
+      "name": "Biotin",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-585/biotin.aspx"
+    },
+    {
+      "name": "Folic acid",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-375/folic-acid.aspx"
+    },
+    {
+      "name": "Zinc",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1013/zinc.aspx"
+    },
+    {
+      "name": "Vitamin A",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-314/vitamin-a.aspx"
+    }
+  ],
+  "sections": {}
+}

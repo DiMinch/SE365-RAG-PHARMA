@@ -1,0 +1,27 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52488/fitocoron-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Fitôcoron-F",
+  "registration_number": "VD-24524-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "70mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Đan sâm",
+      "amount": "611mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công năng: Hoạt huyết, hành khí, hóa ứ, giảm thống. Chỉ định: Ngực đầy tức, đau thắt ngực do thiểu năng mạch vành. Ngăn ngừa bệnh tim mạch, ngăn ngừa nhồi máu cơ tim ở người thiểu năng mạch vành. Trợ tim, điều hòa nhịp tim. Các trường hợp nhồi máu cơ tim trong giai đoạn hồi phục.",
+    "side_effects": "Liều dùng: 3 viên x 3 lần."
+  }
+}

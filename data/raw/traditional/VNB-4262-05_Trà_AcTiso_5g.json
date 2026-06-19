@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-1088/tra-actiso-5g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà AcTiso 5g",
+  "registration_number": "VNB-4262-05",
+  "dosage_form": "Trà hòa tan",
+  "manufacturer": "Công ty TNHH Đông Nam Dược Bảo Long",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

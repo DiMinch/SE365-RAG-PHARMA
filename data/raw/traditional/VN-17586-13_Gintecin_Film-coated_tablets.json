@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4669/gintecin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Gintecin Film-coated tablets",
+  "registration_number": "VN-17586-13",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Siu Guan Chem Ind Co., Ltd",
+  "manufacturer_country": "Taiwan",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10639/hong-huyet-to-nguyen-minh-tri.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "hồng huyết tố nguyễn minh trí",
+  "registration_number": "VND-3205-05",
+  "dosage_form": "Thuốc nước",
+  "manufacturer": "Cơ sở Nguyễn Minh Trí",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đương quy Chính",
+      "amount": "250ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng của Hồng Huyết Tố Hỗ trợ bổ huyết. Giảm đau lưng khi hành kinh. Trị kinh nguyệt không đều. Mát gan, giải độc. Giảm hành kinh đau bụng. Điều hòa kinh nguyệt. Giúp tóc đen mượt. Trừ huyết trắng. Đối tượng sử dụng của Hồng Huyết Tố Sản phẩm cùng cho bà mẹ mới sinh để giúp bổ máu điều kinh, cho da dẻ hồng hào. Người rối loạn kinh nguyệt. Phụ nữ đau bụng kinh. Nữ giới dậy thì.",
+    "side_effects": "Phụ nữ có thai.\n\nTrẻ em.\n\nNgười mẫn cảm với Hồng Huyết Tố.",
+    "interactions": "Người >15 tuổi: 15ml x 3 lần/ngày. Hồng Huyết Tố uống với nước đun sôi. Uống trước khi ăn.",
+    "warnings": "Các chị em khi uống Hồng Huyết Tố chưa thấy dấu hiệu lạ. Nếu thời gian dùng mà quan sát cơ thể có biểu hiện khác thường thì nên hỏi bác sĩ."
+  }
+}

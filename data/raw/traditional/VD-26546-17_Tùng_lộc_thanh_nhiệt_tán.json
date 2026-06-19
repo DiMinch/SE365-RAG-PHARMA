@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-54507/tung-loc-thanh-nhiet-tan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tùng lộc thanh nhiệt tán",
+  "registration_number": "VD-26546-17",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty Cổ phần Dược Quốc tế Tùng Lộc",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

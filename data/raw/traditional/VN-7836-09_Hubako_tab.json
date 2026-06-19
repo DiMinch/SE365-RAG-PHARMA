@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30257/hubako-tab.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hubako tab",
+  "registration_number": "VN-7836-09",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Pharvis Korea Co., Ltd",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4583/hoan-actiso.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn AcTisô Ladophar",
+  "registration_number": "V1528-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "50g, 70g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bảo vệ gan & thông mật trong các bệnh rối loạn chức năng gan, viêm túi mật, nổi mề đay. - Lợi tiểu. - Trị các rối loạn tiêu hóa như ăn chậm tiêu, ợ chua, đầy hơi, buồn nôn.",
+    "contraindication": "Suy tế bào gan, nghẽn mật.",
+    "dosage": "Uống trước các bữa ăn. - Người lớn: 6 - 9 viên/ngày, chia làm 3 lần. - Trẻ em: 3 - 6 viên/ngày, chia làm 3 lần."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4512/pulmonal.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Pulmonal",
+  "registration_number": "VNA-0973-03",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần dược phẩm TW25",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Terpin hydrat Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1057/terpin-hydrat.aspx"
+    }
+  ],
+  "sections": {}
+}

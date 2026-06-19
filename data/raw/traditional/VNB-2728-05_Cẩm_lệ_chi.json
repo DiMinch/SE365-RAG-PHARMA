@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4609/cam-le-chi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cẩm lệ chi",
+  "registration_number": "VNB-2728-05",
+  "dosage_form": "Trà hòa tan",
+  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cỏ ngọt Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2470/co-ngot.aspx"
+    }
+  ],
+  "sections": {}
+}

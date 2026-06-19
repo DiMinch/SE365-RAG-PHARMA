@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46230/cenditan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cenditan",
+  "registration_number": "GC-229-14",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diếp cá Chính",
+      "amount": "tương đương 750 mg Diếp cá",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2485/diep-ca.aspx"
+    }
+  ],
+  "sections": {}
+}

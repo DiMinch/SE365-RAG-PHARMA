@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3174/dai-trang-hoan-ba-giang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Đại tràng hoàn bà giằng",
+  "registration_number": "V181-H02-19",
+  "dosage_form": "Viên hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học Cổ truyền Bà Giằng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch truật Chính",
+      "amount": "28,8g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hoàng liên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2371/hoang-lien.aspx"
+    },
+    {
+      "name": "Thần khúc",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2398/than-khuc.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị viêm đại tràng cấp và mãn tính, ngộ độc thức ăn, rối loạn tiêu hóa, đau bụng đi ngoài, ăn uống khó tiêu, đầy hơi.",
+    "contraindication": "Không dùng cho phụ nữ có thai, trẻ em dưới 5 tuổi",
+    "dosage": "Ngày uống 3 lần, trước khi ăn: Người lớn và trẻ em trên 12 tuổi: Mỗi lần uống 12 viên Trẻ em từ 8 đến 12 tuổi: Mỗi lần uống 8 viên Trẻ em từ 6 đến 8 tuổi: Mỗi lần uống 5 viên Bảo quản: Nơi khô ráo, thoáng mát"
+  }
+}

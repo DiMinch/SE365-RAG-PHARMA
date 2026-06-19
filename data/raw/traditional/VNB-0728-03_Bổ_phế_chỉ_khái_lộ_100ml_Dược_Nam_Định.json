@@ -1,0 +1,59 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3065/bo-phe-chi-khai-lo-100ml.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bổ phế chỉ khái lộ 100ml Dược Nam Định",
+  "registration_number": "VNB-0728-03",
+  "dosage_form": "Si rô",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bán hạ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Ma Hoàng",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2492/ma-hoang.aspx"
+    },
+    {
+      "name": "Tỳ bà diệp",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2520/ty-ba-diep.aspx"
+    },
+    {
+      "name": "Bách bộ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Bổ phổi, tiêu đờm, thông hơi thở - Chống viêm nhiễm cơ quan hô hấp - Chữa ho gió, ho khan, ho có đờm, ho do cảm, do dị ứng, do viêm họng – viêm phế quản.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Ngày uống 2-3 lần. - Người lớn: 15ml (1 thìa canh)/lần - Trẻ em: 1-3 tuổi: 5ml (1 thìa cà phê)/lần. 5-7 tuổi: 10ml (2 thìa cà phê)/lần Mỗi đợt dùng từ 7 -10 ngày, nếu ho lâu ngày, mãn tính có thể dùng trên 1 tháng. Bệnh nặng có thể dùng liều gấp đôi",
+    "side_effects": "Trong bao gói kín, ở nhiệt độ dưới 30oC."
+  }
+}

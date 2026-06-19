@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15818/nascaren-10g.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nascaren 10g",
+  "registration_number": "V1334-H12-06",
+  "dosage_form": "Kem bôi da",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Metronidazole Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-440/metronidazole.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị mụn mủ viêm, sưng to, mụn trứng cá Các bệnh nhiễm khuẩn ngoài da do vi khuẩn kỵ khí, giúp mau lành vết loét,vết cắt, vết bỏng Điều trị mụn mủ viêm",
+    "contraindication": "Mẫn cảm với các thành phần của thuốc",
+    "dosage": "Sau khi làm sạch và khô da vùng tổn thương, bôi 1 -2 lần /ngày. dùng trong 8 tuần.",
+    "side_effects": "Mẩn ngứa, kích ứng da, nóng rát, ban đỏ tại vị trí bôi thuốc. Nếu gặp những triệu chứng kể trên hay các triệu chứng bất thường khác hãy ngưng dùng thuốc và trao đổi lại với bác sĩ để có biện pháp xử lý."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16324/curcuma.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Curcuma",
+  "registration_number": "VNB-0914-01",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng chống oxy hoá, tăng cường miễn dịch, hỗ trợ điều trị ung thư và các bệnh suy giảm miễn dịch nói chung. \n- Làm lành vết loét niêm mạc dạ dày tá tràng, đại tràng.",
+    "contraindication": "- Phụ nữ có thai, phụ nữ sau sinh không có ứ huyết không nên dùng.\n    - Người có rối loạn đông máu, đang có chảy máu, không dùng phối hợp với thuốc chỉ huyết, cơ thể suy nhược.",
+    "dosage": "- Người lớn và trẻ em trên 18 tuổi: uống ngày 2 lần, mỗi lần 1 - 2 viên uống trước bữa ăn khi đau, khó tiêu hoặc dùng theo hướng dẫn của thầy thuốc."
+  }
+}

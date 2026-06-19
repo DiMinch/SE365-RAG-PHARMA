@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9170/hoan-dam-duong-hoac.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn Dâm dương hoắc",
+  "registration_number": "VND-4299-05",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Dâm dương hoắc Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2506/dam-duong-hoac.aspx"
+    }
+  ],
+  "sections": {}
+}

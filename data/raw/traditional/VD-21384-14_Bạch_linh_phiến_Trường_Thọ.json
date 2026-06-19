@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48003/bach-linh-phien.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bạch linh phiến Trường Thọ",
+  "registration_number": "VD-21384-14",
+  "dosage_form": "Phiến sấy",
+  "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch Linh Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    }
+  ],
+  "sections": {}
+}

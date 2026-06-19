@@ -1,0 +1,36 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-37831/tra-tang-huyet-ap-an-binh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà Tăng Huyết Áp An Bình",
+  "registration_number": null,
+  "dosage_form": null,
+  "manufacturer": "Công Ty Cổ Phần  Thương Mại Và Dược Phẩm An Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Can khương Chính",
+      "amount": "Rhizoma Zingiberis",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "Radix Glycyrrhirae",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "Cortex Cinnamomum",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "Ramutus Cinnamomum",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

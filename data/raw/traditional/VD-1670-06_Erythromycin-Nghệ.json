@@ -1,0 +1,25 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10973/erythromycin-nghe.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Erythromycin-Nghệ",
+  "registration_number": "VD-1670-06",
+  "dosage_form": "Kem bôi ngoài da",
+  "manufacturer": "Công ty cổ phần Dược phẩm Quảng Bình",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Erythromycin Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-334/erythromycin.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Mụn trứng cá có viêm như mụn mủ, mụn bọc, sần viêm.\n- Các thương tổn da do vi khuẩn.",
+    "contraindication": "Quá mẫn với thành phần thuốc hoặc nhóm macrolide.",
+    "dosage": "Thoa thuốc 1 - 2 lần/ngày lên vùng da mụn, sau khi rửa sạch & lau khô.",
+    "side_effects": "Khô da, ban đỏ, cảm giác bỏng rát.",
+    "interactions": "Các thuốc thoa trị mụn khác. Không kết hợp với clindamycin & lincomycin.",
+    "warnings": "Nên bảo quản thuốc ở nhiệt độ phòng (15-30 độ C), tránh tầm tay của trẻ em."
+  }
+}

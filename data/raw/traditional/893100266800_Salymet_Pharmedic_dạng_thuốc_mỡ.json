@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48745/salymet.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Salymet Pharmedic dạng thuốc mỡ",
+  "registration_number": "893100266800",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Pharmedic",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "methyl salicylate Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Giảm đau trong: đau cơ hay khớp kèm với đau lưng, viêm khớp, trật khớp, bầm giập, bong gân.",
+    "contraindication": "• Mẫn cảm với bất cứ thành phần nào trong công thức. • Không được uống. • Không dùng cho da bị trầy xước. • Không dùng cho niêm mạc mắt, vết thương hở. • Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.",
+    "dosage": "Thoa lên chỗ đau & xoa nhẹ, ngày 3 - 4 lần.",
+    "side_effects": "Dùng lâu dài có thể gây viêm da dị ứng, kích ứng da."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20562/tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tam thất",
+  "registration_number": "VNA-3140-00",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    },
+    {
+      "name": "Glucose",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-829/glucose.aspx"
+    }
+  ],
+  "sections": {}
+}

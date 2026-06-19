@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48432/np-vien-xong-huong-chanh.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "NP Viên xông hương chanh",
+  "registration_number": "VD-21813-14",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần dược Nature Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "Eucalyptol",
+      "amount": "12mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    }
+  ],
+  "sections": {}
+}

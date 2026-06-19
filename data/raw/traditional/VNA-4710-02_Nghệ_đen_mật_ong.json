@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16319/nghe-den-mat-ong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nghệ đen mật ong",
+  "registration_number": "VNA-4710-02",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nghệ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2421/nghe.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    }
+  ],
+  "sections": {}
+}

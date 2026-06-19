@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-30619/codatux-syrup.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Codatux Syrup",
+  "registration_number": "3381/2019/ĐKSP",
+  "dosage_form": null,
+  "manufacturer": "Công ty TNHH ADC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu tràm Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Giúp giảm ho (ho khan, ho gió, ho có đàm) và khò khè trong các trường hợp bị ho do cảm mạo, viêm họng, dị ứng với thời tiết.",
+    "contraindication": "– Trẻ em < 2 tuổi : 1 gói x 2 lần / ngày –Trẻ em > 2 tuổi : 1 gói x 3-4 lần / ngày. –Người lớn : 2 gói x 3-4 lần / ngày"
+  }
+}

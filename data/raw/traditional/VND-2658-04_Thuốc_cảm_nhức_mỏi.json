@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22997/thuoc-cam-nhuc-moi.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc cảm nhức mỏi",
+  "registration_number": "VND-2658-04",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Ngọc Liên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tía tô Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2442/tia-to.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    }
+  ],
+  "sections": {}
+}

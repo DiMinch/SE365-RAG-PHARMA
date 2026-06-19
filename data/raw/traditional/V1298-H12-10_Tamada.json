@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34667/tamada.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tamada",
+  "registration_number": "V1298-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở sản xuất thuốc thành phẩm YHCT dược thảo Nhất Nhất",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bán hạ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Mộc hương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2449/moc-huong.aspx"
+    },
+    {
+      "name": "Khương hoàng",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2548/khuong-hoang.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Diệt trừ  Helicobacter Pylori.\n- Chống viêm, giảm đau.\n- Giảm tiết acid.\n- Liền sẹo vết loét dạ dày-hành tá tràng",
+    "contraindication": "Quá mẫn với thành phần của thuốc.",
+    "dosage": "- Phác đồ điều trị đơn độc: Uống 2 viên/lần x 3lần/ngày sau bữa ăn. Đợt điều trị 30 ngày liên tục.\n- Phác đồ điều trị phối hợp làm tăng hiệu lực diệt Helicobacter Pylori hạn chế tái phát. Đợt điều trị 30 ngày liên tục:\n + 10 ngày đầu tiên: 2 viên/lần x 3lần/ngày. Uống sau bữa ăn. Amoxycilin: 500 mg/lần x 2 lần/ngày. Metronidazol: 500 mg/lần x 2 lần/ngày. \n + Các ngày tiếp theo: 2 viên/lần x 3 lần/ngày. Uống sau bữa ăn."
+  }
+}

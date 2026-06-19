@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64909/bach-bo-hadiphar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bách bộ Hadiphar",
+  "registration_number": "VD-33301-19",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bách bộ Chính",
+      "amount": "tương đương với Bách bộ 4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
+    }
+  ],
+  "sections": {}
+}

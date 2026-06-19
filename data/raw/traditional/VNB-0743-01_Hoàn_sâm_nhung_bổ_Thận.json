@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16515/hoan-sam-nhung-bo-than.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn sâm nhung bổ Thận",
+  "registration_number": "VNB-0743-01",
+  "dosage_form": "Hoàn mềm",
+  "manufacturer": "Công ty cổ phần Dược Nam Định",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    },
+    {
+      "name": "Hà thủ ô",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Tục đoạn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
+    },
+    {
+      "name": "Ðảng sâm",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Sâm nhung bổ thận có tác dụng bổ thận, dưỡng tỳ vị, lợi thủy, cố tinh, thuốc được dùng trong các trường hợp: -    Bồi bổ sức khỏe, tăng cường sinh lực chống lại các tác nhân gây bệnh. -    Điều trị bệnh thận hư, yếu sinh lý , rối loạn cương dương, di mộng tinh. -     Đau lưng, mỏi gối, mỏi chân tay, chóng mặt ù tai, rụng tóc , phát dục không tốt. - Kinh nguyệt không đều , khí hư, bạch đới.",
+    "contraindication": "Ngày uống 2 – 3 lần sau bữa ăn, mỗi lần 1 viên. Uống thuốc với nước đun sôi để nguội, nên nhai trước khi nuốt.",
+    "dosage": "Đến nay chưa thấy có báo cáo hay ghi nhận về tác dụng không mong muốn"
+  }
+}

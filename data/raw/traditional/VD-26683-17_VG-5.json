@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-58776/vg-5.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "VG-5",
+  "registration_number": "VD-26683-17",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "tương ứng với 500 mg Diệp hạ châu đắng",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    },
+    {
+      "name": "Cỏ nhọ nồi",
+      "amount": "tương ứng với 350 mg Cỏ nhọ nồi",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2494/co-nho-noi.aspx"
+    },
+    {
+      "name": "Nhân trần",
+      "amount": "tương ứng 1820 mg Nhân trần",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị hạ men gan , tăng cường chức năng gan, phục hồi tế bào gan. Hỗ trợ điều trị viêm gan c ấp và mãn tính, đặc biệt là viêm gan siêu vi B.",
+    "contraindication": "Mẫn cảm với các thành phần của thuốc, phụ nữ có thai.",
+    "dosage": "Uống trước bữa ăn 30 phút, liều trung bình là: Người lớn: Mỗi lần 2 viên, ngày 2 lần. Trẻ em: Dùng 1/2 liều người lớn. Hoặc dùng theo chỉ dẫn của Thầy thuốc.",
+    "side_effects": "Hãy báo ngay cho Bác sĩ tác dụng không mong muốn mà bạn gặp phải khi dùng thuốc."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32148/siro-ho-nam-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Sirô ho Nam Dược",
+  "registration_number": "V787-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty TNHH Nam Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tỳ bà diệp Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2520/ty-ba-diep.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Xuyên bối mẫu",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2521/xuyen-boi-mau.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng: Giúp thanh nhiệt, tuyên phế, hòa đàm chỉ khái Chữa chứng đau tức ngực, cảm mạo và các chứng viêm khí quản, phế quản Chỉ định Dùng điều trị các trường hợp: ho mất tiếng, ho kinh niên, ho khan, khô cổ, khản tiếng, ho ra máu Làm loãng dịch nhầy đường hô hấp, long đờm, ho có đờm, viêm đau họng, khản tiếng, hen suyễn, đau tức ngực, khó thở Chống viêm nhiễm ở các cơ quan hô hấp: viêm họng, viêm amidan, viêm khí phế quản.",
+    "side_effects": "Bệnh nhân quá mẫn cảm với một trong các thành phần của thuốc\nTrẻ em dưới 2 tuổi",
+    "interactions": "Ngày uống 3 lần: Trẻ em từ 2-6 tuổi: mỗi lần 5ml (1 thìa cà phê);, từ 7-10 tuổi: Mỗi lần 10ml (2 thìa cà phê) Người lớn: Mỗi lần 15ml (1 thìa canh) Mỗi đợt dùng 7-10 ngày, nếu ho lâu ngày có thể dùng trên 1 tháng hoặc theo chỉ dẫn của bác sĩ"
+  }
+}

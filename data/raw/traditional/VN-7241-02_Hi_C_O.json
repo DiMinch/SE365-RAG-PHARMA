@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-10572/hi-co.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hi C.O",
+  "registration_number": "VN-7241-02",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Unimed Pharm Inc",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-19744/binamon.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Binamôn",
+  "registration_number": "VNB-3122-05",
+  "dosage_form": "Thuốc bột uống",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Natri bicarbonat Chính",
+      "amount": "5g, 100g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2204/natri-bicarbonat.aspx"
+    }
+  ],
+  "sections": {}
+}

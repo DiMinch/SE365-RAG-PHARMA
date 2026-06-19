@@ -1,0 +1,40 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68435/stomaps.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Stomaps",
+  "registration_number": "VD-32732-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thương truật Chính",
+      "amount": "530mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2582/thuong-truat.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "130mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Hậu phác",
+      "amount": "400mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "270mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các bệnh dạ dày, đặc biệt bệnh dạ dày bị trào ngược , muốn nôn sau khi ăn, tiêu chảy sau khi ăn,viêm xung huyết, đau vùng thượng vị.",
+    "contraindication": "Trẻ em dưới 5 tuổi và Phụ nữ có thai,\n\nNhững người mẫn cảm với 1 trong những thành phần thuốc.",
+    "dosage": "Từ 5 tuổi đến 10 tuổi , mỗi lần 1 viên Từ 10 tuổi đến 15 tuổi , mỗi lần 2 viên Từ 15 tuổi trở lên, mỗi lần 3 viên Mỗi ngày uống 2 -3 lần."
+  }
+}

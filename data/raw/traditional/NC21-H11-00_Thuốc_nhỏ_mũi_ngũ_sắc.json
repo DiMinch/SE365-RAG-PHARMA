@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-5157/thuoc-nho-mui-ngu-sac.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc nhỏ mũi ngũ sắc",
+  "registration_number": "NC21-H11-00",
+  "dosage_form": "Dung dịch",
+  "manufacturer": "Viện Dược liệu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Glycerin Chính",
+      "amount": "8ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-646/glycerin.aspx"
+    }
+  ],
+  "sections": {}
+}

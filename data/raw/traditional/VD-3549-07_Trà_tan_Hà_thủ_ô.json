@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4605/tra-tan-ha-thu-o.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Trà tan Hà thủ ô",
+  "registration_number": "VD-3549-07",
+  "dosage_form": "Trà tan",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hà thủ ô Chính",
+      "amount": "3g, 100g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63036/cyganic.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cyganic",
+  "registration_number": "VD-32010-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần dược phẩm VCP",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "2g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {}
+}

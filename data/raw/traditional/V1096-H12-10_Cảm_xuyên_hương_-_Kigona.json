@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-31978/cam-xuyen-huong-kigona.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cảm xuyên hương - Kigona",
+  "registration_number": "V1096-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty TNHH Dược phẩm Kim Hoàng Ân",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên khung Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị các trường hợp cảm cúm, nhức đầu, hắt  hơi, sổ mũi do hàn.",
+    "contraindication": "Phụ nữ có thai, người cao huyết áp, ở trạng thái nhiệt, táo bón do nhiệt.",
+    "dosage": "+ Người lớn: Mỗi lần uống 2 - 3 viên, ngày 3 lần. + Trẻ em: Mỗi lần uống 1 - 2 viên, ngày 3 lần. Nên uống với nước ấm.",
+    "side_effects": "Chưa có tài liệu báo cáo."
+  }
+}

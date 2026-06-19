@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17946/rowachol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Rowachol",
+  "registration_number": "VN-18751-15",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Rowa Pharma., Ltd",
+  "manufacturer_country": "IRELAND",
+  "herbal_ingredients": [
+    {
+      "name": "Eucalyptol Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
+    },
+    {
+      "name": "menthol",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    }
+  ],
+  "sections": {}
+}

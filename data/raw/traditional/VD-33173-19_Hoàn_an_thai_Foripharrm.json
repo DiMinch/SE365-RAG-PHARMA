@@ -1,0 +1,52 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12478/hoan-an-thai.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn an thai Foripharrm",
+  "registration_number": "VD-33173-19",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "50g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Tục đoạn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Hương phụ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Ngải cứu",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2440/ngai-cuu.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tính chất: * Thục địa bổ huyết để nuôi thai * Tía tô thân, trần bì, hương phụ thuận khí làm cho khí huyết lưu  thông * Ngải cứu, tục đoạn, gai (rễ ); mát huyết * Hoài sơn bổ tỳ vị * Sa nhân ôn bổ làm tăng sức kiện vận của tỳ vị, giúp ích sự tiêu hoá của người có thai, chống nôn oẹ. Công dụng: Dùng khi có thai bị mệt nhọc, ăn uống không ngon, hoa mắt , hay nôn oẹ, váng đầu, đau bụng, táo bón, tiểu tiện vàng.",
+    "side_effects": "Mẫn cảm với bất cứ thành phần nào của thuốc.",
+    "interactions": "Ngày uống 2 lần, mỗi lần 5 gam, uống sau bữa ăn."
+  }
+}

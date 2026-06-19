@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-12438/ho-can-vien-nang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hộ can viên nang",
+  "registration_number": "VN-0859-06",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Xiuzheng Pharm Group Stock Co., Ltd",
+  "manufacturer_country": "CHINA",
+  "herbal_ingredients": [
+    {
+      "name": "Sài hồ Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2441/sai-ho.aspx"
+    }
+  ],
+  "sections": {}
+}

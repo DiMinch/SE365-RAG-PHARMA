@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-63518/hydan-tab.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hyđan Tab",
+  "registration_number": "VD-32490-19",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ngũ gia bì chân chim Chính",
+      "amount": "tương đương với 680mg Ngũ gia bì chân chim",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2408/ngu-gia-bi-chan-chim.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Giảm thiểu tình trạng của viêm khớp dạng thấp. Xương khớp đau mỏi. Lưng, vai gáy bị đau. Đau dây thần kinh liên sườn. Hỗ trợ trong điều trị các cơn đau và giảm viêm.",
+    "contraindication": "Bệnh nhân quá mẫn với bất kỳ thành phần nào có trong thuốc.\nKhông dùng thuốc cho trẻ em dưới 2 tuổi.",
+    "dosage": "Liều dùng Cách sử dụng Uống với một lượng nước vừa đủ. Không bẻ vỡ, nhai viên ảnh hưởng đến cấu trúc và hiệu quả điều trị của thuốc. Không tự ý thay đổi liều lượng thuốc. Tùy theo thể trạng và chỉ định của bác sĩ để có liều dùng phù hợp nhất.",
+    "side_effects": "Khi uống thuốc có thể xảy ra các tác dụng không mong muốn như đau nhức, táo bón hoặc háo nước. Các tác dụng này sẽ mất dần sau một vài lần sử dụng. Tuy nhiên nếu thấy tình trạng ngày càng nghiêm trọng hơn cần ngưng uống thuốc và đến ngay bác sĩ để được khám và xử lý kịp thời."
+  }
+}

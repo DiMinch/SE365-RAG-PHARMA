@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-3779/tam-that-bot.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tam thất bột Dược phẩm Hà Thành",
+  "registration_number": "VNB-3929-05",
+  "dosage_form": "Thuốc bột",
+  "manufacturer": "Công ty TNHH Dược phẩm Hà Thành",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

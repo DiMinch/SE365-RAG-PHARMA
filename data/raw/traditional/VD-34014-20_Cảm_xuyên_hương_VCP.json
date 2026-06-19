@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68715/cam-xuyen-huong-vcp.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cảm xuyên hương VCP",
+  "registration_number": "VD-34014-20",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần dược phẩm VCP",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "132mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "5mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Quế chi",
+      "amount": "6mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị các trường hợp cảm cúm, nhức đầu, hắt  hơi, sổ mũi do hàn.",
+    "contraindication": "Phụ nữ có thai, người cao huyết áp, ở trạng thái nhiệt, táo bón do nhiệt.",
+    "dosage": "+ Người lớn: Mỗi lần uống 2 - 3 viên, ngày 3 lần. + Trẻ em: Mỗi lần uống 1 - 2 viên, ngày 3 lần. Nên uống với nước ấm.",
+    "side_effects": "Chưa có tài liệu báo cáo."
+  }
+}

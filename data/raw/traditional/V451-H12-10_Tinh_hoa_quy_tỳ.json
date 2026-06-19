@@ -1,0 +1,58 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9228/tinh-hoa-quy-ty.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tinh hoa quy tỳ",
+  "registration_number": "V451-H12-10",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Y dược Tinh Hoa",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoàng kỳ",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Viễn trí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2558/vien-tri.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Kiện tỳ, dưỡng huyết, ích khí, an thần. Chủ trị tâm tỳ đều hư, hơi thở ngắn, tim đập mạnh, mất ngủ, ngủ hay mê, chóng mặt, chán ăn, mệt mỏi, đại tiểu tiện ra máu, suy nhược thần kinh, thiếu máu, kinh nguyệt không đều.",
+    "contraindication": "Mẫn cảm với thành phần của thuốc.",
+    "dosage": "Người lớn: Mỗi ngày uống 2 lần, mỗi lần 10 viên hoàn. Trẻ em: Liều dùng bằng 1/2 liều người lớn Uống với nước ấm hoặc nước gừng"
+  }
+}

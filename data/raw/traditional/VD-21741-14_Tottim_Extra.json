@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48357/tottim-extra.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tottim Extra",
+  "registration_number": "VD-21741-14",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đan sâm Chính",
+      "amount": "100 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

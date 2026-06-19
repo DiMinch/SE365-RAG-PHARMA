@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17834/binh-vi-nam.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bình vị nam",
+  "registration_number": "V1459-H12-10",
+  "dosage_form": "Viên nén",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học dân tộc TNT",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Phèn chua Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-49775/bar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "BAR Sagophar",
+  "registration_number": "VD-22832-15",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "1000 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "-  Các chứng bệnh thuộc về gan như: mụn, nhọt, ngứa, nổi mề đay, viêm gan cấp và mãn tính, vàng da. -  Giúp thông tiểu, nhuận trường (chống táo bón);. -  Giúp ăn ngon.",
+    "contraindication": "- Người lớn: 2 - 4 viên 1 lần, ngày 3 lần. - Trẻ em: 1 - 2 viên 1 lần, ngày 3 lần."
+  }
+}

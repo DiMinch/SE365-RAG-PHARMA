@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4519/kupsygalon.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kupsygalon",
+  "registration_number": "VN-0453-06",
+  "dosage_form": "Viên nén bao đường-100mg",
+  "manufacturer": "Công ty cổ phần Korea United Pharm. Int’ L",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Suy gan, bảo vệ tế bào gan khi phải dùng những chất độc với gan. Viêm gan cấp, mãn tính & viêm gan kéo dài; xơ gan.",
+    "contraindication": "Quá mẫn với thành phần thuốc.",
+    "dosage": "Người lớn: 1 - 2 viên x 3 lần/ngày. Có thể  tăng hoặc giảm liều theo triệu chứng & tuổi."
+  }
+}

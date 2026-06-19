@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46236/cerelox.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cerelox",
+  "registration_number": "V12-H12-14",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty TNHH Phil Inter Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

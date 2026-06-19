@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21099/vi-viem-tan-va.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Vị viêm tán V.A",
+  "registration_number": "V47-H12-16",
+  "dosage_form": "Bột thuốc",
+  "manufacturer": "Cơ sở Đông Dược Vĩnh An",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cam thảo Chính",
+      "amount": "5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {}
+}

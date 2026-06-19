@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-38315/medoneuro-40.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Medoneuro-40",
+  "registration_number": "VN-13368-11",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Medopharm",
+  "manufacturer_country": "India",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Giảm trí nhớ, kém tập trung , bệnh Alzheimer, sa sút trí tuệ, ở người lớn tuổi. - Thiểu năng tuần hoàn não. - Ù tai, chóng mặt , giảm thính lực. - Chân đi khập khiễng cách hồi. - Một số trường hợp thiếu máu võng mạc. - Nhược dương.",
+    "contraindication": "Trẻ < 12 tuổi Có thai & cho con bú. Dị ứng với cao bạch quả.",
+    "dosage": "Người lớn: 1 viên x 1 - 2 lần/ngày. Uống trong hoặc sau bữa ăn.",
+    "side_effects": "Nhẹ & hiếm gặp thường do dùng lâu ngày: rối loạn tiêu hóa, nhức đầu, dị ứng da. Có thể kéo dài thời gian chảy máu."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48113/luc-vi-f.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Lục vị-F",
+  "registration_number": "V1652-H12-10",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hoài sơn Chính",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Mẫu đơn bì",
+      "amount": "248mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Lục vị là bài thuốc cổ phương do danh y nổi tiếng đời nhà Hán là Trương Trọng Cảnh xây dựng, từ  lâu được nhân dân tin dùng. Đây là bài thuốc dựa trên nguyên tắc tam bổ, tam tả. Ba vị thuốc bổ là thục địa, sơn thù, hoài sơn được xếp sánh đôi với ba vị tả là phục linh, trạch tả, mẫu đơn bì để bài thuốc có tác dụng bổ mà không trệ. Thục địa với trạch tả bổ thận; sơn thù với đan bì  bổ can; hoài sơn với bạch linh bổ tỳ. Theo Hải Thượng Lãn Ông ở bài thuốc này do có bổ có tả mà thành công bình bổ, đã bổ thận lại kiêm luôn cả bổ tỳ, rõ là phương thuốc hay xưa nay không thay đổi được Công dụng: Tu bổ thận thuỷ, dùng cho người gầy yếu, mỏi mệt, nóng khát, ra mồ hôi trộm, váng đầu, ù tai, đau lưng mỏi gối, di mộng tinh, táo bón, nước tiểu vàng, đại tiện ra máu.",
+    "dosage": "- Mẫn cảm với bất cứ thành phần nào của thuốc - Ăn không tiêu, đại tiện lỏng do hư hàn hoặc cảm sốt không nên dùng.",
+    "side_effects": "Ngày uống 3 lần, mỗi lần 3 - 4 viên; ( Liều dùng cho 1 viên chứa: Thục địa 0,32 g; Sơn thù (Fructus Corni); 0,16 g; Hoài sơn (Rhizoma Dioscoreae  persimilis) 0,16 g; Trạch tả(Rhizoma  Alismatis ) 0,12 g; Bạch linh (Poria) 0,12 g; Mẫu đơn bì (Cortex Paeoniae suffruticosae) 0,12 g;)",
+    "interactions": "Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.",
+    "warnings": "Để nơi khô ráo, thoáng mát. Hạn dùng: 24 tháng kể từ ngày sản xuất"
+  }
+}

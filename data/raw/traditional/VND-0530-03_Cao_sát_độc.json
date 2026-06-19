@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-9338/cao-sat-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao sát độc",
+  "registration_number": "VND-0530-03",
+  "dosage_form": "Thuốc mỡ",
+  "manufacturer": "Cơ sở sản xuất thuốc Y học Cổ truyền Phước Thọ Đường",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Long Não Chính",
+      "amount": "12,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2342/long-nao.aspx"
+    },
+    {
+      "name": "Tinh dầu sả",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2336/tinh-dau-sa.aspx"
+    }
+  ],
+  "sections": {}
+}

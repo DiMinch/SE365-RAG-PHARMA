@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-21297/thien-trung-viem-xoang-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thiên trung viêm xoang hoàn",
+  "registration_number": "VND-0538-01",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở Ðông Nam Dược Thiên Trung",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạc Hà Chính",
+      "amount": "4g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    }
+  ],
+  "sections": {}
+}

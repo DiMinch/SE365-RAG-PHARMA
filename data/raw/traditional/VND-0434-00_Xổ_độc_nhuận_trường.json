@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-15953/xo-doc-nhuan-truong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Xổ độc nhuận trường",
+  "registration_number": "VND-0434-00",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Ngọc Liên",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "40g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Can khương",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2546/can-khuong.aspx"
+    }
+  ],
+  "sections": {}
+}

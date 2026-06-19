@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-43355/salonpas-spray.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Salonpas Spray",
+  "registration_number": "VN-15797-12",
+  "dosage_form": "thuốc xịt ngoài da",
+  "manufacturer": "Công ty TNHH Dược phẩm Hisamitsu Việt Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "methyl salicylate Chính",
+      "amount": ".",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Dùng để giảm đau và kháng viêm trong các cơn đau liên quan đến đau vai, đau cơ, đau khớp, bầm tím, bong gân, căng cơ, các chứng đau khớp.",
+    "contraindication": "Không xịt lên vùng da bị tổn thương hay vết thương hở.\nKhông sử dụng nếu da bạn bị kích ứng hay dị ứng với một trong các thành phần thuốc.\nKhông sử dụng chung với băng dán nóng.\nKhông sử dụng cùng thời điểm với các sản phẩm giảm đau dùng ngoài khác.",
+    "dosage": "Người lớn và trẻ em trên 12 tuổi: Lau sạch và khô vùng bị đau, thuốc có chứa chất bột, nên lắc kỹ trước khi dùng, xịt lên vùng bị đau không qua 3 giây, không sử dụng quá 3 - 4 lần trong ngày. Trẻ em dưới 12 tuổi: Phải hỏi ý kiến Bác sĩ."
+  }
+}

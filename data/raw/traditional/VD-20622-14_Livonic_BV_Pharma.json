@@ -1,0 +1,21 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-46431/livonic.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Livonic BV Pharma",
+  "registration_number": "VD-20622-14",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu Chính",
+      "amount": "tương đương 400 mg Diệp hạ châu",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2403/diep-ha-chau.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "-  Các chứng bệnh thuộc về gan như: mụn, nhọt, ngứa, nổi mề đay, viêm gan cấp và mãn tính, vàng da. -  Giúp thông tiểu, nhuận trường (chống táo bón);. -  Giúp ăn ngon.",
+    "contraindication": "- Người lớn: 2 - 4 viên 1 lần, ngày 3 lần. - Trẻ em: 1 - 2 viên 1 lần, ngày 3 lần."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-16368/flood-ginseng.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Flood ginseng",
+  "registration_number": "VNB-0915-01",
+  "dosage_form": "Viên sủi",
+  "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Nhân sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
+    }
+  ],
+  "sections": {}
+}

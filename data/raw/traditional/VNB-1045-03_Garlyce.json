@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14619/garlyce.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Garlyce",
+  "registration_number": "VNB-1045-03",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần Dược phẩm IMEXPHARM",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin E Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-267/vitamin-e.aspx"
+    }
+  ],
+  "sections": {}
+}

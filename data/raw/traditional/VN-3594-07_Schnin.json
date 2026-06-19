@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-11849/schnin.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Schnin",
+  "registration_number": "VN-3594-07",
+  "dosage_form": "Viên nén bao phim-40mg Ginkgoflavonoid",
+  "manufacturer": "China Chemical & Pharmaceutical Co., Ltd",
+  "manufacturer_country": "Taiwan",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Giảm trí nhớ, kém tập trung , bệnh Alzheimer, sa sút trí tuệ, ở người lớn tuổi.\n- Thiểu năng tuần hoàn não.\n- Ù tai, chóng mặt , giảm thính lực.\n- Chân đi khập khiễng cách hồi.\n- Một số trường hợp thiếu máu võng mạc.\n- Nhược dương.",
+    "contraindication": "Trẻ < 12 tuổi Có thai & cho con bú. Dị ứng với cao bạch quả.",
+    "dosage": "Người lớn: 1 viên x 1 - 2 lần/ngày. Uống trong hoặc sau bữa ăn.",
+    "side_effects": "Nhẹ & hiếm gặp thường do dùng lâu ngày: rối loạn tiêu hóa, nhức đầu, dị ứng da. Có thể  kéo dài thời gian chảy máu."
+  }
+}

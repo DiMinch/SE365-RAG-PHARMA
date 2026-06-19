@@ -1,0 +1,63 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34557/song-lieu-bo-than-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Song liệu bổ thận hoàn",
+  "registration_number": "V650-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Đức Thành",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đảng sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Trần bì",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2410/tran-bi.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Táo nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
+    },
+    {
+      "name": "Phục thần",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2478/phuc-than.aspx"
+    },
+    {
+      "name": "Viễn chí",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng bổ thận, dưỡng tỳ vị, lợi thủy, cố tinh, thuốc được dùng trong các trường hợp: -    Bồi bổ sức khỏe, tăng cường sinh lực chống lại các tác nhân gây bệnh. -    Điều trị bệnh thận hư, yếu sinh lý, rối loạn cương dương, di mộng tinh. -     Đau lưng, mỏi gối, mỏi chân tay, chóng mặt ù tai, rụng tóc, phát dục không tốt. -     Kinh nguyệt không đều, khí hư, bạch đới.",
+    "contraindication": "Ngày uống 2 – 3 lần sau bữa ăn, mỗi lần 1 viên. Uống thuốc với nước đun sôi để nguội, nên nhai trước khi nuốt."
+  }
+}

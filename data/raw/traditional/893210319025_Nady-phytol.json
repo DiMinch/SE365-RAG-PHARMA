@@ -1,0 +1,22 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4554/nady-phytol.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nady-phytol",
+  "registration_number": "893210319025",
+  "dosage_form": "Cao lỏng",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "108ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Bảo vệ gan & thông mật trong các bệnh rối loạn chức năng gan, viêm túi mật, nổi mề đay. - Lợi tiểu. - Trị các rối loạn tiêu hóa như ăn chậm tiêu, ợ chua, đầy hơi, buồn nôn.",
+    "contraindication": "Suy tế bào gan, nghẽn mật.",
+    "dosage": "Người lớn: Mỗi lần uống 1 muỗng cà phê (tương đương 5 ml), ngày dùng 2 lần. Trẻ em: Mỗi lần uống ½ muỗng cà phê (tương đương 2,5 ml), ngày dùng 2 lần."
+  }
+}

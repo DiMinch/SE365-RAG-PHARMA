@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52451/dodylan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dodylan",
+  "registration_number": "VD-24483-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": null,
+  "manufacturer_country": null,
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng Chính",
+      "amount": "550mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2404/diep-ha-chau-dang.aspx"
+    }
+  ],
+  "sections": {}
+}

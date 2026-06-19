@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-8050/eucalyptine-le-brun.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Eucalyptine Le Brun",
+  "registration_number": "VN-8478-04",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Janssen Pharmaceutica N.V.",
+  "manufacturer_country": "BELGIUM",
+  "herbal_ingredients": [
+    {
+      "name": "Codeine Chính",
+      "amount": "100mg+15mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-904/codeine.aspx"
+    }
+  ],
+  "sections": {}
+}

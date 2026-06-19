@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-29675/carmarin-tab.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Carmarin Tab.",
+  "registration_number": "VN-8255-09",
+  "dosage_form": "Viên nén bao đường",
+  "manufacturer": "Pharmix Corp",
+  "manufacturer_country": "KOREA",
+  "herbal_ingredients": [
+    {
+      "name": "Cardus marianus Chính",
+      "amount": "100mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1127/cardus-marianus.aspx"
+    }
+  ],
+  "sections": {}
+}

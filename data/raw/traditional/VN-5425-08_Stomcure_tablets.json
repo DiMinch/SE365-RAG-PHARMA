@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-26854/stomcure-tablets.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Stomcure tablets",
+  "registration_number": "VN-5425-08",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH TM Dược phẩm Nguyễn Vy",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf extract Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1027/ginkgo-biloba-leaf-extract.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-35219/tairalan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tairalan",
+  "registration_number": "VD-11473-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược Minh Hải",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Bạch quả Chính",
+      "amount": "40 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1066/bach-qua.aspx"
+    }
+  ],
+  "sections": {}
+}

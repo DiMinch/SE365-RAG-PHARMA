@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55038/bao-cot-dan-nam-bao-duoc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Bảo cốt đan nam bảo dược",
+  "registration_number": "VD-27015-17",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Phương Đông",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Quế chi Chính",
+      "amount": "tương ứng 123mg Quế chi",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2490/que-chi.aspx"
+    }
+  ],
+  "sections": {}
+}

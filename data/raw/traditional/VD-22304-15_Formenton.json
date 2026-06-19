@@ -1,0 +1,38 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-48923/formenton.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Formenton",
+  "registration_number": "VD-22304-15",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Câu kỷ tử Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Phúc bồn tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2465/phuc-bon-tu.aspx"
+    },
+    {
+      "name": "Ngũ vị tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2477/ngu-vi-tu.aspx"
+    },
+    {
+      "name": "Thỏ ty tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Formenton có xuất xứ từ cổ phương nổi tiếng “ Ngũ tử diễn tông” trong cổ thư “Nhiếp sinh chúng Diệu phương” của danh y Trương Thời Dục. Tên cổ phương có nghĩa khi dùng thuốc có khả năng sinh nhiều con để duy trì nòi giống. Formenton gồm các vị: Câu kỷ tử, Phúc bồn tử, Thỏ ty tử, Ngũ vị tử, Xa tiền tử, có tác dụng đại bổ thận, sinh tinh, cố tinh, chống suy giảm chức năng tình dục; có ích cho cả nam và nữ, nam dương sự không cử, nữ tử cung lạnh khó"
+  }
+}

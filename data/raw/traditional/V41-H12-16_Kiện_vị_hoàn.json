@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-34696/kien-vi-hoan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kiện vị hoàn",
+  "registration_number": "V41-H12-16",
+  "dosage_form": null,
+  "manufacturer": "Cơ sở sản xuất thuốc thành phẩm YHCT Rạng Đông",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Hương phụ Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Phèn chua",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
+    }
+  ],
+  "sections": {}
+}

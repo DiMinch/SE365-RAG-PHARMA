@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-18858/kem-boi-da-anli.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Kem bôi da Anli",
+  "registration_number": "VNA-0096-02",
+  "dosage_form": "Kem bôi da",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Rifampicin Chính",
+      "amount": "10g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-176/rifampicin.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,29 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4555/bar.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "BAR",
+  "registration_number": "VNB-2516-04",
+  "dosage_form": "Viên bao đường",
+  "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Pharmedic",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Actisô Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
+    },
+    {
+      "name": "Biển súc",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2362/bien-suc.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng cho những người thiểu năng gan, viêm gan gây mệt mỏi, khó tiêu, vàng da, mụn nhọt, lở ngứa, bí đại tiểu tiện, táo bón. \n- Giải độc, chống dị ứng. Đặc biệt suy giảm chức năng gan do dùng nhiều bia rượu.\n- Xơ vữa động mạch, mỡ trong máu cao.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc.",
+    "dosage": "- Người lớn: Ngày uống 3 lần, mỗi lần 1 - 2 viên.\n- Trẻ em: ngày uống 3 lần, mỗi lần 1 viên.",
+    "side_effects": "Nơi khô ráo, nhiệt độ không quá 30 độ C, tránh ánh sáng."
+  }
+}

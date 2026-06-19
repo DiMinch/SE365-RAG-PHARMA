@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55712/cot-toai-bo-sao-vang.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cốt toái bổ sao vàng",
+  "registration_number": "VD-29029-18",
+  "dosage_form": "Nguyên liệu làm thuốc",
+  "manufacturer": "Công ty cổ phần Dược phẩm OPC",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cốt toái bổ Chính",
+      "amount": "sao vàng",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2527/cot-toai-bo.aspx"
+    }
+  ],
+  "sections": {}
+}

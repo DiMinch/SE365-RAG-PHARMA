@@ -1,0 +1,46 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-14680/thuoc-ho-ma-hanh-100ml.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc ho ma hạnh 100ml",
+  "registration_number": "VNB-0907-01",
+  "dosage_form": "Xi rô",
+  "manufacturer": "Công ty TNHH Đông Dược Phúc Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ma Hoàng Chính",
+      "amount": "100ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2492/ma-hoang.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Hạnh nhân",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2489/hanh-nhan.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "-   Ho: ho khan , ho có đờm, ho lâu ngày do thay đổi thời tiết hay sử dụng điều hòa. -   Hỗ trợ điều trị các chứng ho trong các bệnh như viêm họng , viêm phế quản , hen suyễn, lao phổi … Thanh nhiệt, tuyên phế, bình suyễn vì thế sử dụng rất tốt cho các bệnh nhân bị chứng ho do ngoại tà xâm nhập hóa nhiệt hay phế nhiệt lâu ngày. Chế phẩm được gia thêm mạch môn có tác dụng bổ phế âm dùng trong các trường hợp ho lâu ngày do ngoại cảm dẫn đến ho do nội thương làm tổn thương đến phế. Thạch cao ngoài tác dụng thanh nhiệt còn có tác dụng sinh tân dịch giúp bệnh nhân không bị nóng rát cổ họng và khô họng khi ho, và có tác dụng trừ phiền hay gặp khi người bệnh bị cảm nhiễm ngoại tà dẫn đến phát sốt, người bứt rứt, khó chịu. Ma hoàng có tác dụng tuyên phế, bình suyễn trị chứng ho có kèm theo khó thở ở người bị hen suyễn. Vì thế, sản phẩm THUỐC HO MA HẠNH P/H là sự lựa chọn hàng đầu nếu bạn đang bị chứng ho làm khó chịu.",
+    "contraindication": "Trẻ em < 3 tuổi.",
+    "dosage": "Ngày uống 2 – 3 lần, sau bữa ăn. - Trẻ em dưới 3 tuổi: Mỗi lần 1 thìa cà phê (5ml) - Trẻ em từ 3 – 6 tuổi: Mỗi lần 2 thìa cà phê (10ml) - Trẻ em từ 7 – 14 tuổi: Mỗi lần 3 thìa cà phê (15ml) - Người lớn: Mỗi lần 2 thìa canh (30ml)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4803/ginkgo-biloba.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkgo Biloba",
+  "registration_number": "VD-0493-06",
+  "dosage_form": "Dung dịch uống",
+  "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Pharmedic",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba extract Chính",
+      "amount": "20ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1028/ginkgo-biloba-extract.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Giảm trí nhớ, kém tập trung, đặc biệt ở người lớn tuổi. Thiểu năng tuần hoàn não. Ù tai, chóng mặt, giảm thính lực. Chân đi khập khiễng cách hồi. Một số trường hợp thiếu máu võng mạc. Nhược dương.",
+    "contraindication": "Trẻ < 12 tuôỉ Có thai & cho con bú. Dị ứng với cao bạch quả.",
+    "dosage": "Thuốc nước: 5mL x 3 lần/ngày (pha loãng với một ít nước). Uống trong hoặc sau bữa ăn.",
+    "side_effects": "Nhẹ & hiếm gặp, thường do dùng lâu ngày: rối loạn tiêu hóa, nhức đầu, dị ứng da. Có thể kéo dài thời gian chảy máu."
+  }
+}

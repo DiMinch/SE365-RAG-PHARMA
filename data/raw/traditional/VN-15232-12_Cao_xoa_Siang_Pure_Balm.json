@@ -1,0 +1,30 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-42891/cao-xoa-siang-pure-balm.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cao xoa Siang Pure Balm",
+  "registration_number": "VN-15232-12",
+  "dosage_form": "Cao bôi ngoài da",
+  "manufacturer": "Bertram Chemical (1982) Co., Ltd.",
+  "manufacturer_country": "THAILAND",
+  "herbal_ingredients": [
+    {
+      "name": "menthol Chính",
+      "amount": "Mỗi g cao thuốc chứa",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
+    },
+    {
+      "name": "Camphor",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
+    },
+    {
+      "name": "methyl salicylate",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
+    }
+  ],
+  "sections": {}
+}

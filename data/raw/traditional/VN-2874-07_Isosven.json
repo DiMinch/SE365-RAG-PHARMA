@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20303/isosven.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Isosven",
+  "registration_number": "VN-2874-07",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Capsulation & Pharmaceuticals (P)., Ltd",
+  "manufacturer_country": "India",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin D3 Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-749/vitamin-d3.aspx"
+    }
+  ],
+  "sections": {}
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-32273/crila-forte.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Crila Forte",
+  "registration_number": "VD-12073-10",
+  "dosage_form": "Viên nang",
+  "manufacturer": "Công ty TNHH Thiên Dược",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Trinh nữ hoàng cung Chính",
+      "amount": "500mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2322/trinh-nu-hoang-cung.aspx"
+    }
+  ],
+  "sections": {}
+}

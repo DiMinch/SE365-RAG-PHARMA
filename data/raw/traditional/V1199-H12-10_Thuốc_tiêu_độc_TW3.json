@@ -1,0 +1,45 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-36264/thuoc-tieu-doc-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Thuốc tiêu độc TW3",
+  "registration_number": "V1199-H12-10",
+  "dosage_form": "",
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Kim ngân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2359/kim-ngan.aspx"
+    },
+    {
+      "name": "Bồ công anh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2328/bo-cong-anh.aspx"
+    },
+    {
+      "name": "Thảo Quyết Minh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2390/thao-quyet-minh.aspx"
+    },
+    {
+      "name": "Sinh địa",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+    },
+    {
+      "name": "Thổ phục linh",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "TÁC DỤNG: Thanh nhiệt, giải độc, tiêu viêm. CHỈ ĐỊNH: Điều trị các triệu chứng dị ứng, mẩn ngứa, mụn nhọt, lở ngứa sưng đau.",
+    "contraindication": "– Mẫn cảm với các thành phần của thuốc.\n– Người âm hư, tự ra mồ hôi, mụn nhọt đã vỡ. Người bị đái tháo đường."
+  }
+}

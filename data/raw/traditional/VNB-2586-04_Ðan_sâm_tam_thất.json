@@ -1,0 +1,28 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4596/dan-sam-tam-that.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ðan sâm tam thất",
+  "registration_number": "VNB-2586-04",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Đan sâm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2487/dan-sam.aspx"
+    },
+    {
+      "name": "Tam thất",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2418/tam-that.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Phòng và điều trị :\n- Đau thắt ngực, đau nhói vùng tim do huyết ứ .\n- Thiểu năng mạch vành, cảm giác ngột ngạt trong ngực.",
+    "contraindication": "- Phụ nữ có thai hoặc hành kinh.\n- Người sốt cao, chảy máu, sốt xuất huyết.",
+    "dosage": "Mỗi lần uống 2-3 viên, ngày 3 lần"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-40064/naphasukan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Naphasukan",
+  "registration_number": "VD-14162-11",
+  "dosage_form": "Hộp 2 vỉ x 15 viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba Chính",
+      "amount": "40mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
+    }
+  ],
+  "sections": {}
+}

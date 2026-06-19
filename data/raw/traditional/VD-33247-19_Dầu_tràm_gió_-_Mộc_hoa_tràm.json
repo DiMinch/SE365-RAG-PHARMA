@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-64855/dau-tram-gio-moc-hoa-tram.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Dầu tràm gió - Mộc hoa tràm",
+  "registration_number": "VD-33247-19",
+  "dosage_form": "Dầu xoa",
+  "manufacturer": "Chi nhánh Công ty TNHH Dược phẩm Dược liệu Mộc Hoa Tràm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu tràm Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
+    }
+  ],
+  "sections": {}
+}

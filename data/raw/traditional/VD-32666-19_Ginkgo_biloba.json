@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-68370/ginkgo-biloba.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ginkgo biloba",
+  "registration_number": "VD-32666-19",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá Bạch quả Chính",
+      "amount": "24%",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2685/la-bach-qua.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị chứng suy giảm trí nhớ, kém tập trung, trầm cảm. Điều trị trạng thái lão suy (kể cả bệnh Alzheimer) Điều trị hội chứng khập khiễng cách hồi, các hội chứng thuộc thiểu năng tai trong (nhức đầu, chóng mặt, ù tai, lãng tai) ở người cao tuổi. Hỗ trợ điều trị các di chứng sau đột quỵ, chấn thương sọ não.",
+    "contraindication": "Mẫn cảm với bất kỳ thành phần nào của thuốc\nKhông dùng đồng thời với thuốc chỉ huyết.",
+    "dosage": "Người lớn và trẻ em trên 12 tuổi: 2 x 40mg /lần x 2-3 lần/ngày, uống sau bữa ăn, mỗi đợt dùng 4-6 tuần. Có thể dùng thuốc trong thời gian dài",
+    "side_effects": "Rất hiếm gặp rối loạn tiêu hóa nhẹ, nhức đầu, dị ứng da.\n\nCó thể kéo dài thời gian chảy máu.",
+    "interactions": "Dùng đồng thời với các thuốc chống đông máu, thuốc chống kết tập tiểu cầu có thể làm tăng nguy cơ rối loạn chảy máu."
+  }
+}

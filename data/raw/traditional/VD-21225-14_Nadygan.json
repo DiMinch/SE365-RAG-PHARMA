@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-47842/nadygan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Nadygan",
+  "registration_number": "VD-21225-14",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm 2/9 - Nadyphar",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mã đề Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2523/ma-de.aspx"
+    }
+  ],
+  "sections": {}
+}

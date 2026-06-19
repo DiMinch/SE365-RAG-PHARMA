@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-52887/siro-ho-haspan.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Siro ho Haspan",
+  "registration_number": "VD-24896-16",
+  "dosage_form": "Siro",
+  "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá thường xuân Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2436/cao-la-thuong-xuan.aspx"
+    }
+  ],
+  "sections": {}
+}

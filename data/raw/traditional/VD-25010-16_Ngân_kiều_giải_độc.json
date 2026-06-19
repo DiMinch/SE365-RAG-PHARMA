@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-53000/ngan-kieu-giai-doc.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Ngân kiều giải độc",
+  "registration_number": "VD-25010-16",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Liên kiều Chính",
+      "amount": "284 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
+    },
+    {
+      "name": "Bạc Hà",
+      "amount": "24 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2320/bac-ha.aspx"
+    },
+    {
+      "name": "Kinh giới",
+      "amount": "160 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2357/kinh-gioi.aspx"
+    },
+    {
+      "name": "Cam thảo",
+      "amount": "140 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
+    },
+    {
+      "name": "Cát cánh",
+      "amount": "240 mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Trị chứng cảm mạo phong nhiệt kèm phát sốt, sợ gió, nhức đầu, ho, khô miệng, họng đau. Công năng : Theo y học cổ truyền, bài thuốc Ngân kiều giải độc có tác dụng tân lương giải biểu, thanh nhiệt giải độc, tuyên phế lợi yết.",
+    "dosage": "Trẻ em dưới 4 tuổi.\nPhụ nữ có thai.\nBệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.\nCác đối tượng mắc các chứng trạng sau:\n - Tỳ vị hư hàn với các biểu hiện: đau bụng, bụng đầy trướng, kém ăn, nôn mửa, tiêu chảy hoặc lỵ kéo dài.\n - Âm hư nội nhiệt với các biểu hiện nóng từng cơn, sốt ban đêm, hoặc lòng bàn tay chân nóng, ...\n - Mụn nhọt đã vỡ hoặc vết loét lâu liền miệng.",
+    "side_effects": "Trẻ em từ 4 tuổi đến dưới 7 tuổi: uống mỗi lần 1 viên, ngày 2 – 3 lần. Trẻ em từ 7 tuổi đến dưới 16 tuổi: uống mỗi lần 2 viên, ngày 2 – 3 lần. Người lớn và trẻ em 16 tuổi trở lên: uống mỗi lần 3 viên, ngày 2 – 3 lần. Uống thuốc sau bữa ăn với nước ấm.",
+    "interactions": "Trong thời gian dùng thuốc này không dùng thuốc bổ đông dược."
+  }
+}

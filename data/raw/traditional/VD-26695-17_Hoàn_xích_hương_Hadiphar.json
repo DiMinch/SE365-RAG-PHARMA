@@ -1,0 +1,47 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-22950/hoan-xich-huong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Hoàn xích hương Hadiphar",
+  "registration_number": "VD-26695-17",
+  "dosage_form": "Hoàn cứng",
+  "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Thục địa Chính",
+      "amount": "12,5g",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Mật ong",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng : Thuốc có tác dụng làm giảm thể tích và khối lượng khối phì đại tuyến tiền liệt. Cải thiện rõ rệt các rối loạn về tiểu tiện làm giảm số lần đi tiểu trong ngày, tăng lượng nước tiểu mỗi lần. Chỉ định : Điều trị u phì đại lành tính tuyến tiền liệt - Cải thiện các rối loạn tiểu tiện, nhất là chứng đi tiểu nhiều lần trong ngày.",
+    "side_effects": "Ngày uống 2 lần mồi lần 12,5 gam (1 gói). Uống trước hoặc sau bữa ăn với nước đun sôi để nguội,  hoặc có thể ngâm vào nước để viên mềm ra cho dễ uống. Một đợt điều trị từ 3 – 4 tuần, tuỳ thuộc vào bệnh nặng, nhẹ và tiến triển của bệnh có thể kéo dài nhiều đợt điều trị. Thuốc Hoàn xích hương có thể sử dụng lâu dài mà không gây độc hại.",
+    "interactions": "Một vài trường hợp thấy đầy bụng khi uống thuốc. (Để khắc phục cần uống phối hợp 2-3 lát gừng tươi);.",
+    "warnings": "Thuốc không gây tương kỵ với các loại thuốc khác mà có thể dùng phối hợp với các thuốc Đông – Tây y."
+  }
+}

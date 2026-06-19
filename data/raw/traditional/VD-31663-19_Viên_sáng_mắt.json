@@ -1,0 +1,76 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-62690/vien-sang-mat.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Viên sáng mắt",
+  "registration_number": "VD-31663-19",
+  "dosage_form": "Viên nang cứng",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Nam",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Mẫu đơn bì Chính",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "50mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "150mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Trạch tả",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2383/trach-ta.aspx"
+    },
+    {
+      "name": "Đương quy",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
+    },
+    {
+      "name": "Bạch thược",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+    },
+    {
+      "name": "Cúc hoa",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2417/cuc-hoa.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "300mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "200mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Các bệnh về mắt do can thận âm hư, huyết hư: - Mờ mắt, nhức mắt, khô mắt, chói mắt khi ra nắng. - Các trường hợp mắt đỏ nóng, xung huyết, hỗ trợ trong điều trị viêm võng mạc và viêm tuyến lệ. - Thị lực giảm.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc.",
+    "dosage": "Viên nang cứng: * Người lớn: uống 4 viên/lần x 2-3 lần/ngày. * Trẻ em: Dùng 1/2 liều người lớn. Viên hoàn cứng: * Người lớn: Ngày uống 2-3 lần, mỗi lần 1 gói với nước chín. * Trẻ em: Dùng 1/2 liều người lớn. Mỗi một hộp thuốc tương đương một thang thuốc vì vậy mỗi đợt nên dùng từ 10 - 20 hộp. Viên nang mềm: * Người lớn: uống 2-3 viên/lần x 2-3 lần/ngày. * Trẻ em: uống 1 viên/lần x 2-3 lần/ngày."
+  }
+}

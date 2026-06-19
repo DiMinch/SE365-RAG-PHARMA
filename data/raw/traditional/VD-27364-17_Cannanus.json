@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-55313/cannanus.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Cannanus",
+  "registration_number": "VD-27364-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần TRAPHACO",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Vitamin B1 Chính",
+      "amount": "8mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {}
+}

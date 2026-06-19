@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-17919/curosurf.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Curosurf hộp 1 lọ 3ml",
+  "registration_number": "VN-8806-09",
+  "dosage_form": "Hỗn dịch đặt khí phế quản",
+  "manufacturer": "Chiesi Farmaceutici S.P.A",
+  "manufacturer_country": "Italy",
+  "herbal_ingredients": [
+    {
+      "name": "Phospholipid Chính",
+      "amount": "80mg/ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1160/phospholipid.aspx"
+    }
+  ],
+  "sections": {}
+}

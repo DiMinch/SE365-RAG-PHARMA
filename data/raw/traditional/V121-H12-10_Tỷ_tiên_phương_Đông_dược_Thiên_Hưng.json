@@ -1,0 +1,24 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-20621/ty-tien-phuong.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "Tỷ tiên phương Đông dược Thiên Hưng",
+  "registration_number": "V121-H12-10",
+  "dosage_form": "viên nang",
+  "manufacturer": "Công ty TNHH bào chế Đông Dược Thiên Hưng",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Tế tân Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
+    },
+    {
+      "name": "Xuyên khung",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    }
+  ],
+  "sections": {}
+}

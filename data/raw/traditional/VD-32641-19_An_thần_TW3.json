@@ -1,0 +1,35 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-36225/an-than-tw3.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "An thần TW3",
+  "registration_number": "VD-32641-19",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Lá vông Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
+    },
+    {
+      "name": "Tâm sen",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2473/tam-sen.aspx"
+    },
+    {
+      "name": "Lạc tiên",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2563/lac-tien.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "– Điều trị trong các trường hợp căng thẳng thần kinh, hồi hộp, lo âu, mất ngủ.",
+    "contraindication": "– Mẫn cảm với bất cứ thành phần nào của thuốc. – Trẻ em dưới 6 tuổi, người trầm cảm. – Người đang vận hành máy móc, tàu xe và người làm việc trên cao.",
+    "dosage": "– Cách dùng: Dùng đường uống. – Liều dùng: · Người lớn và trẻ em trên 12 tuổi: Ngày uống 1 – 2 lần, mỗi lần 2 viên. · Trẻ em từ  6 – 12 tuổi: Ngày uống 2 lần, mỗi lần 1 viên.",
+    "side_effects": "Để nơi khô thoáng, tránh ánh sáng. ĐỂ XA TẦM TAY TRẺ EM."
+  }
+}

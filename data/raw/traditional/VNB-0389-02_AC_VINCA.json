@@ -1,0 +1,18 @@
+{
+  "source_url": "https://thuocbietduoc.com.vn/thuoc-4744/ac-vinca.aspx",
+  "drug_type": "TRADITIONAL_MEDICINE",
+  "name": "AC VINCA",
+  "registration_number": "VNB-0389-02",
+  "dosage_form": "Viên nén bao phim",
+  "manufacturer": "Công ty TNHH Dược phẩm Á Châu",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Dừa cạn Chính",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2472/dua-can.aspx"
+    }
+  ],
+  "sections": {}
+}
