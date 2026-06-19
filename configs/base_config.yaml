@@ -9,4 +9,14 @@ chunking:
 
 retrieval:
   top_k: 5
+  # pre_rerank_k: number of candidates fetched from Qdrant before reranking.
+  # Should be top_k * 4 to give the reranker enough candidates to filter.
+  pre_rerank_k: 20
   score_threshold: 0.65
+
+# Reranker configuration (PROPOSAL.md Section 5.2C)
+# Model: BAAI/bge-reranker-base — multilingual Cross-Encoder, ~250MB
+# Set enabled: false to run the baseline (no reranker) for ablation study.
+reranker:
+  enabled: true
+  model_name: "BAAI/bge-reranker-base"

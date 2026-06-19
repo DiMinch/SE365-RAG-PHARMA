@@ -10,6 +10,7 @@ from src.models.drug import Drug
 from src.utils.config import get_base_config, get_qdrant_config
 from src.database.bm25_index import BM25Index
 from src.utils.drug_synonym_resolver import get_synonym_resolver
+from src.utils.reranker import CrossEncoderReranker
 
 logger = logging.getLogger("PharmaQdrantClient")
 
@@ -60,6 +61,9 @@ class PharmaQdrantClient:
 
         # Lazy synonym resolver for query expansion
         self._synonym_resolver = None
+
+        # Lazy cross-encoder reranker (PROPOSAL.md Section 5.2C)
+        self._reranker: Optional[CrossEncoderReranker] = None
         
     @property
     def model(self):
@@ -266,6 +270,7 @@ class PharmaQdrantClient:
         registration_no_filter: Optional[str] = None,
         drug_type_filter: Optional[str] = None,
         retrieval_mode: Literal["dense", "bm25", "hybrid"] = "hybrid",
+        use_reranker: Optional[bool] = None,
     ) -> List[Dict[str, Any]]:
         """
         Query for matches using dense, BM25, or hybrid (RRF-fused) retrieval.
@@ -280,8 +285,22 @@ class PharmaQdrantClient:
 
         Returns:
             List of dicts with keys 'id', 'score', 'payload'.
+            When use_reranker=True, each dict also contains 'reranker_score'.
+
+        Ablation study toggle:
+            use_reranker=False  → Baseline (no reranker)
+            use_reranker=True   → Full system (Cross-Encoder reranking)
+            use_reranker=None   → Read from base_config.yaml `reranker.enabled`
         """
         top_k = top_k or self.base_cfg["retrieval"]["top_k"]
+
+        # Determine effective reranker flag
+        reranker_cfg = self.base_cfg.get("reranker", {})
+        if use_reranker is None:
+            use_reranker = reranker_cfg.get("enabled", False)
+
+        # When reranking, fetch more candidates to give the cross-encoder a richer pool
+        pre_rerank_k = self.base_cfg["retrieval"].get("pre_rerank_k", 20) if use_reranker else top_k
         score_threshold = self.base_cfg["retrieval"]["score_threshold"]
 
         # ── Build Qdrant filter ────────────────────────────────────────
@@ -343,7 +362,7 @@ class PharmaQdrantClient:
                 collection_name=self.collection_name,
                 query=query_vector,
                 query_filter=qdrant_filter,
-                limit=top_k * 3 if retrieval_mode == "hybrid" else top_k,
+                limit=pre_rerank_k,
                 score_threshold=score_threshold if retrieval_mode == "dense" else 0.0,
                 with_payload=True,
             )
@@ -355,15 +374,36 @@ class PharmaQdrantClient:
             self._ensure_bm25_built()
             if self._bm25 and self._bm25.is_built():
                 # Use expanded query for BM25 (keyword matching benefits from synonyms)
-                bm25_results = self._bm25.search(expanded_query, top_k=top_k * 3)
+                bm25_results = self._bm25.search(expanded_query, top_k=pre_rerank_k)
 
         # ── Reciprocal Rank Fusion (RRF) ───────────────────────────────
         if retrieval_mode == "hybrid" and bm25_results:
-            return self._rrf_fuse(dense_results, bm25_results, top_k=top_k)
+            candidates = self._rrf_fuse(dense_results, bm25_results, top_k=pre_rerank_k)
         elif retrieval_mode == "bm25":
-            return bm25_results[:top_k]
+            candidates = bm25_results[:pre_rerank_k]
         else:
-            return dense_results[:top_k]
+            candidates = dense_results[:pre_rerank_k]
+
+        # ── Cross-Encoder Reranking (PROPOSAL Section 5.2C) ────────────
+        if use_reranker and candidates:
+            try:
+                if self._reranker is None:
+                    model_name = reranker_cfg.get("model_name", "BAAI/bge-reranker-base")
+                    self._reranker = CrossEncoderReranker(model_name=model_name)
+                candidates = self._reranker.rerank(query, candidates, top_k=top_k)
+                logger.info(
+                    "[Qdrant] Reranker: %d candidates → top %d",
+                    pre_rerank_k, top_k
+                )
+            except Exception as exc:
+                logger.warning(
+                    "[Qdrant] Reranker failed, falling back to pre-reranked order: %s", exc
+                )
+                candidates = candidates[:top_k]
+        else:
+            candidates = candidates[:top_k]
+
+        return candidates
 
     # ──────────────────────────────────────────────────────────────────
     # Hybrid Helpers

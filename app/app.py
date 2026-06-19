@@ -31,23 +31,42 @@ REG_NO_PATTERN = re.compile(
 )
 
 
-def call_llm_api(system_prompt: str, user_prompt: str) -> str:
+def call_llm_api(system_prompt: str, user_prompt: str, chat_history: list = None) -> str:
     """
     Call Gemini or OpenAI API via raw requests for resilience and simplicity.
+    Supports multi-turn chat history.
     """
     gemini_key = os.getenv("GEMINI_API_KEY")
     openai_key = os.getenv("OPENAI_API_KEY")
+    chat_history = chat_history or []
     
     if gemini_key:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={gemini_key}"
         headers = {"Content-Type": "application/json"}
+        
+        # Build contents containing chat history
+        contents = []
+        for msg in chat_history:
+            # Convert openai style roles to gemini roles ('assistant' -> 'model')
+            role = "user" if msg["role"] == "user" else "model"
+            contents.append({
+                "role": role,
+                "parts": [{"text": msg["content"]}]
+            })
+            
+        # Append current user prompt
+        contents.append({
+            "role": "user",
+            "parts": [{"text": user_prompt}]
+        })
+        
         payload = {
-            "contents": [{
-                "parts": [
-                    {"text": f"{system_prompt}\n\nUser Question: {user_prompt}"}
-                ]
-            }]
+            "systemInstruction": {
+                "parts": [{"text": system_prompt}]
+            },
+            "contents": contents
         }
+        
         try:
             res = requests.post(url, headers=headers, json=payload, timeout=15)
             if res.status_code == 200:
@@ -64,12 +83,14 @@ def call_llm_api(system_prompt: str, user_prompt: str) -> str:
             "Content-Type": "application/json",
             "Authorization": f"Bearer {openai_key}"
         }
+        
+        messages = [{"role": "system", "content": system_prompt}]
+        messages.extend(chat_history)
+        messages.append({"role": "user", "content": user_prompt})
+        
         payload = {
             "model": "gpt-4o-mini",
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ]
+            "messages": messages
         }
         try:
             res = requests.post(url, headers=headers, json=payload, timeout=15)
@@ -105,6 +126,7 @@ async def start():
     cl.user_session.set("dav_validator", dav_validator)
     cl.user_session.set("ydct_validator", ydct_validator)
     cl.user_session.set("last_validated_drug", None)
+    cl.user_session.set("chat_history", [])
     
     await cl.Message(content=welcome_message).send()
 
@@ -263,30 +285,75 @@ async def main(message: cl.Message):
     await cl.Message(content="🔍 Đang tìm kiếm thông tin liên quan trong cơ sở dữ liệu vector...").send()
     
     try:
-        search_results = db_client.search(user_query, top_k=3)
+        # Load chat history
+        chat_history = cl.user_session.get("chat_history") or []
+        
+        # Smart registration number filtering based on last validated drug context
+        registration_no_filter = None
+        last_drug = cl.user_session.get("last_validated_drug")
+        if last_drug:
+            generic_keywords = ["thuốc này", "nó", "thuốc đó", "liều", "chỉ định", "tác dụng phụ", "tương tác", "chống chỉ định", "dùng", "sử dụng"]
+            mentions_last_drug = (
+                last_drug["drug_name"].lower() in user_query.lower() or 
+                (last_drug.get("active_ingredient") and last_drug["active_ingredient"].lower() in user_query.lower())
+            )
+            mentions_generic = any(k in user_query.lower() for k in generic_keywords)
+            
+            if mentions_last_drug or mentions_generic:
+                registration_no_filter = last_drug["registration_no"]
+                print(f"[RAG] Smart routing: filtering results for drug '{last_drug['drug_name']}' ({registration_no_filter})")
+        
+        search_results = db_client.search(
+            user_query, 
+            top_k=3,
+            registration_no_filter=registration_no_filter
+        )
         
         if not search_results:
             await cl.Message(content="ℹ️ Không tìm thấy tài liệu liên quan nào trong cơ sở dữ liệu vector. Hãy thử nạp một thuốc trước bằng cách kiểm định Số đăng ký ở trên.").send()
             return
             
-        # Format the context
+        # Format the context and prepare citation sources
         context_parts = []
+        sources_md = []
         for idx, res in enumerate(search_results):
             payload = res["payload"]
+            src_num = idx + 1
             context_parts.append(
-                f"Source [{idx+1}]: Thuốc: {payload['drug_name']} ({payload['registration_no']}) | Section: {payload['section_name']}\n"
-                f"Content: {payload['chunk_text']}\n"
+                f"Nguồn [{src_num}]: Thuốc: {payload['drug_name']} ({payload['registration_no']}) | Mục: {payload['section_name']}\n"
+                f"Nội dung: {payload['chunk_text']}\n"
             )
+            sources_md.append(
+                f"*   **[{src_num}]** Thuốc `{payload['drug_name']}` (SDK: `{payload['registration_no']}`) - *Mục: {payload['section_name']}* (Độ tương đồng: {res['score']:.4f})"
+            )
+            
         context = "\n---\n".join(context_parts)
         
-        # Build prompt
-        system_prompt = prompts_cfg["system_prompt"].format(context=context)
+        # Build prompt with citation rules
+        citation_instruction = (
+            "\n\nYêu cầu đặc biệt về Trích dẫn (Citation):\n"
+            "1. Khi sử dụng thông tin từ ngữ cảnh nào, bắt buộc phải ghi số trích dẫn tương ứng trong ngoặc vuông, ví dụ [1], [2], [1, 3] ngay sau ý đó.\n"
+            "2. Tuyệt đối không bịa đặt số trích dẫn nếu thông tin không có trong nguồn tương ứng.\n"
+            "3. Không cần tự liệt kê lại danh sách nguồn ở cuối câu trả lời (hệ thống sẽ tự động hiển thị phần này)."
+        )
         
-        # Check for API keys
-        llm_response = call_llm_api(system_prompt, user_query)
+        system_prompt = prompts_cfg["system_prompt"].format(context=context) + citation_instruction
+        
+        # Call LLM with chat history
+        llm_response = call_llm_api(system_prompt, user_query, chat_history)
         
         if llm_response:
-            await cl.Message(content=llm_response).send()
+            # Append citation reference block to the end of response
+            sources_text = "\n\n**📄 Tài liệu tham khảo:**\n" + "\n".join(sources_md)
+            final_response = llm_response.strip() + sources_text
+            
+            # Send message
+            await cl.Message(content=final_response).send()
+            
+            # Save to chat history
+            chat_history.append({"role": "user", "content": user_query})
+            chat_history.append({"role": "assistant", "content": llm_response})
+            cl.user_session.set("chat_history", chat_history)
         else:
             # Fallback output in case of missing LLM keys
             fallback_md = (
