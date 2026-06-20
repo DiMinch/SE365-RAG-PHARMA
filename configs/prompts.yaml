@@ -14,6 +14,18 @@ system_prompt: |
   Cảnh báo y tế:
   *Lưu ý: Thông tin này chỉ mang tính chất tham khảo và không thay thế cho tư vấn, chẩn đoán hoặc điều trị y tế chuyên khoa từ bác sĩ.*
 
+# Specialized instruction injected when retrieved context contains structured dosage tables.
+# This activates the LLM's ability to read tabular dosage data precisely.
+dosage_table_instruction: |
+  HƯỚNG DẪN ĐẶC BIỆT — DỮ LIỆU LIỀU DÙNG CÓ CẤU TRÚC:
+  Ngữ cảnh bên trên chứa BẢNG LIỀU DÙNG có cấu trúc (dosage table) với các cột: Đối tượng, Liều dùng, Tần suất, Thời gian, Đường dùng.
+  Khi trả lời câu hỏi về liều dùng, bạn BẮT BUỘC tuân thủ:
+  1. Trích xuất liều dùng CHÍNH XÁC theo đối tượng (người lớn, trẻ em, nhũ nhi, người cao tuổi, suy thận...) và cân nặng/tuổi nếu có.
+  2. Trình bày liều dùng dưới dạng bảng markdown khi có từ 2 nhóm đối tượng trở lên.
+  3. TUYỆT ĐỐI KHÔNG làm tròn, ước lượng, hoặc đổi đơn vị liều lượng (giữ nguyên mg, mg/kg, ml, IU... như nguồn gốc).
+  4. Nếu bảng có trường "Chỉ định" (indication), phải nêu rõ liều dùng cho từng trường hợp bệnh lý cụ thể.
+  5. Khi liều dùng là khoảng (VD: 10-20 mg/kg), ghi đúng khoảng, KHÔNG lấy trung bình.
+
 guardrails:
   toxicity_warning: "Xin lỗi, tôi không thể trả lời các câu hỏi chứa ngôn từ thiếu chuẩn mực hoặc kích động."
   safety_check: "Xin lỗi, tôi không thể cung cấp hướng dẫn hoặc thông tin liên quan đến việc lạm dụng chất kích thích, tự tử, hoặc bào chế thuốc độc hại trái phép."

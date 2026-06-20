@@ -316,13 +316,43 @@ async def main(message: cl.Message):
         # Format the context and prepare citation sources
         context_parts = []
         sources_md = []
+        has_dosage_table = False  # Track if any chunk contains structured dosage data
+        
         for idx, res in enumerate(search_results):
             payload = res["payload"]
             src_num = idx + 1
-            context_parts.append(
+            
+            # Base context: chunk text
+            chunk_context = (
                 f"Nguồn [{src_num}]: Thuốc: {payload['drug_name']} ({payload['registration_no']}) | Mục: {payload['section_name']}\n"
                 f"Nội dung: {payload['chunk_text']}\n"
             )
+            
+            # Detect and format structured dosage table if present
+            tables = payload.get("tables")
+            if payload.get("section_name") == "dosage" and tables and isinstance(tables, list) and len(tables) > 0:
+                has_dosage_table = True
+                # Build a markdown table from the structured dosage data
+                table_header = "| Đối tượng | Tuổi | Cân nặng | Liều dùng | Tần suất | Thời gian | Đường dùng | Chỉ định |"
+                table_sep    = "|-----------|------|----------|-----------|----------|-----------|------------|----------|"
+                table_rows = []
+                for row in tables:
+                    table_rows.append(
+                        f"| {row.get('subject', '-')} "
+                        f"| {row.get('age', '-')} "
+                        f"| {row.get('weight', '-')} "
+                        f"| {row.get('dose', '-')} "
+                        f"| {row.get('frequency', '-')} "
+                        f"| {row.get('duration', '-')} "
+                        f"| {row.get('route', '-')} "
+                        f"| {row.get('indication', '-')} |"
+                    )
+                chunk_context += (
+                    f"\n📊 BẢNG LIỀU DÙNG CÓ CẤU TRÚC (Nguồn [{src_num}]):\n"
+                    f"{table_header}\n{table_sep}\n" + "\n".join(table_rows) + "\n"
+                )
+            
+            context_parts.append(chunk_context)
             sources_md.append(
                 f"*   **[{src_num}]** Thuốc `{payload['drug_name']}` (SDK: `{payload['registration_no']}`) - *Mục: {payload['section_name']}* (Độ tương đồng: {res['score']:.4f})"
             )
@@ -337,7 +367,12 @@ async def main(message: cl.Message):
             "3. Không cần tự liệt kê lại danh sách nguồn ở cuối câu trả lời (hệ thống sẽ tự động hiển thị phần này)."
         )
         
-        system_prompt = prompts_cfg["system_prompt"].format(context=context) + citation_instruction
+        # Inject specialized dosage instruction when structured tables are present
+        dosage_instruction = ""
+        if has_dosage_table and "dosage_table_instruction" in prompts_cfg:
+            dosage_instruction = "\n\n" + prompts_cfg["dosage_table_instruction"]
+        
+        system_prompt = prompts_cfg["system_prompt"].format(context=context) + citation_instruction + dosage_instruction
         
         # Call LLM with chat history
         llm_response = call_llm_api(system_prompt, user_query, chat_history)
