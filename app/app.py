@@ -312,6 +312,41 @@ async def main(message: cl.Message):
         if not search_results:
             await cl.Message(content="ℹ️ Không tìm thấy tài liệu liên quan nào trong cơ sở dữ liệu vector. Hãy thử nạp một thuốc trước bằng cách kiểm định Số đăng ký ở trên.").send()
             return
+        
+        # ── Hallucination Reduction: Load config ─────────────────────────
+        from src.utils.config import get_base_config
+        base_cfg = get_base_config()
+        hr_cfg = base_cfg.get("hallucination_reduction", {})
+        hr_enabled = hr_cfg.get("enabled", False)
+        
+        # ── 1A. Abstention: refuse to answer if evidence is too weak ─────
+        best_score = max(res["score"] for res in search_results)
+        
+        if hr_enabled:
+            abstention_threshold = hr_cfg.get("abstention_threshold", 0.55)
+            if best_score < abstention_threshold:
+                abstention_msg = prompts_cfg.get("abstention_message", "").format(best_score=best_score)
+                if not abstention_msg:
+                    abstention_msg = (
+                        f"⚠️ **Không đủ bằng chứng** (điểm cao nhất: {best_score:.2f})\n\n"
+                        f"Vui lòng tham khảo dược sĩ hoặc bác sĩ chuyên khoa."
+                    )
+                await cl.Message(content=abstention_msg).send()
+                return
+        
+        # ── 1C. Confidence Badge: compute confidence level ───────────────
+        confidence_badge = ""
+        if hr_enabled:
+            levels = hr_cfg.get("confidence_levels", {})
+            high_threshold = levels.get("high", 0.80)
+            medium_threshold = levels.get("medium", 0.65)
+            
+            if best_score >= high_threshold:
+                confidence_badge = f"🟢 **Độ tin cậy cao** (điểm: {best_score:.2f})"
+            elif best_score >= medium_threshold:
+                confidence_badge = f"🟡 **Độ tin cậy trung bình** — nên xác nhận thêm với dược sĩ (điểm: {best_score:.2f})"
+            else:
+                confidence_badge = f"🔴 **Độ tin cậy thấp** — khuyến nghị tham khảo chuyên gia (điểm: {best_score:.2f})"
             
         # Format the context and prepare citation sources
         context_parts = []
@@ -378,14 +413,74 @@ async def main(message: cl.Message):
         llm_response = call_llm_api(system_prompt, user_query, chat_history)
         
         if llm_response:
-            # Append citation reference block to the end of response
+            # ── 1B. Self-Verification: LLM double-checks its own answer ──
+            verification_warning = ""
+            if hr_enabled and hr_cfg.get("self_verification", False):
+                verify_prompt_template = prompts_cfg.get("self_verification_prompt", "")
+                if verify_prompt_template:
+                    try:
+                        verify_prompt = verify_prompt_template.format(
+                            context=context[:3000],  # Truncate to save tokens
+                            answer=llm_response[:2000]
+                        )
+                        verify_result = call_llm_api(
+                            "Bạn là một hệ thống kiểm duyệt tự động. Chỉ trả về VERDICT và REASON.",
+                            verify_prompt,
+                            chat_history=[]  # No history for verification
+                        )
+                        
+                        if verify_result:
+                            verdict_upper = verify_result.upper()
+                            if "INCONSISTENT" in verdict_upper:
+                                # Extract reason if present
+                                reason = ""
+                                if "REASON:" in verify_result:
+                                    reason = verify_result.split("REASON:")[-1].strip()
+                                verification_warning = (
+                                    f"\n\n> ⛔ **Cảnh báo Self-Verification**: Hệ thống phát hiện câu trả lời "
+                                    f"có thể chứa thông tin **không nhất quán** với ngữ cảnh gốc."
+                                )
+                                if reason:
+                                    verification_warning += f"\n> *Lý do: {reason}*"
+                                verification_warning += (
+                                    f"\n> *Vui lòng đối chiếu với tài liệu tham khảo bên dưới.*"
+                                )
+                                print(f"[Self-Verify] INCONSISTENT — {reason}")
+                            elif "UNCERTAIN" in verdict_upper:
+                                verification_warning = (
+                                    f"\n\n> ⚠️ **Self-Verification**: Hệ thống không chắc chắn về tính nhất quán "
+                                    f"của câu trả lời. Vui lòng đối chiếu với nguồn tài liệu gốc."
+                                )
+                                print(f"[Self-Verify] UNCERTAIN")
+                            else:
+                                print(f"[Self-Verify] CONSISTENT ✓")
+                    except Exception as exc:
+                        print(f"[Self-Verify] Verification failed (non-critical): {exc}")
+            
+            # ── Assemble final response ──────────────────────────────────
+            response_parts = []
+            
+            # Confidence badge at the top
+            if confidence_badge:
+                response_parts.append(confidence_badge + "\n\n---\n")
+            
+            # Main LLM answer
+            response_parts.append(llm_response.strip())
+            
+            # Self-verification warning (if any)
+            if verification_warning:
+                response_parts.append(verification_warning)
+            
+            # Citation reference block
             sources_text = "\n\n**📄 Tài liệu tham khảo:**\n" + "\n".join(sources_md)
-            final_response = llm_response.strip() + sources_text
+            response_parts.append(sources_text)
+            
+            final_response = "\n".join(response_parts)
             
             # Send message
             await cl.Message(content=final_response).send()
             
-            # Save to chat history
+            # Save to chat history (without badges/sources, just the core answer)
             chat_history.append({"role": "user", "content": user_query})
             chat_history.append({"role": "assistant", "content": llm_response})
             cl.user_session.set("chat_history", chat_history)

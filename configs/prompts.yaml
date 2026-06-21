@@ -30,3 +30,30 @@ guardrails:
   toxicity_warning: "Xin lỗi, tôi không thể trả lời các câu hỏi chứa ngôn từ thiếu chuẩn mực hoặc kích động."
   safety_check: "Xin lỗi, tôi không thể cung cấp hướng dẫn hoặc thông tin liên quan đến việc lạm dụng chất kích thích, tự tử, hoặc bào chế thuốc độc hại trái phép."
   fallback_response: "Xin lỗi, tôi không thể tìm thấy thông tin chính xác về loại thuốc này trong cơ sở dữ liệu công bố dược phẩm chính thức."
+
+# Self-Verification prompt (PROPOSAL.md Section 5.2E)
+# LLM checks its own answer against the retrieved context for consistency.
+# Costs 1 extra LLM API call per query.
+self_verification_prompt: |
+  Bạn là một dược sĩ kiểm duyệt. Nhiệm vụ duy nhất: kiểm tra câu trả lời có khớp với ngữ cảnh gốc hay không.
+
+  NGỮ CẢNH GỐC (đã cung cấp cho AI):
+  {context}
+
+  CÂU TRẢ LỜI CẦN KIỂM TRA:
+  {answer}
+
+  Hãy phân tích và trả về KẾT QUẢ theo đúng format sau (KHÔNG giải thích thêm):
+  VERDICT: <CONSISTENT hoặc INCONSISTENT hoặc UNCERTAIN>
+  REASON: <1 câu ngắn giải thích bằng tiếng Việt>
+
+# Abstention message shown when retrieval scores are too low
+abstention_message: |
+  ⚠️ **Không đủ bằng chứng**
+
+  Hệ thống không tìm thấy tài liệu có độ tin cậy đủ cao trong cơ sở dữ liệu dược phẩm để trả lời câu hỏi này (điểm tương đồng cao nhất: **{best_score:.2f}**).
+
+  Thay vì đưa ra câu trả lời có nguy cơ không chính xác, chúng tôi khuyên bạn:
+  - 🏥 Tham khảo trực tiếp **dược sĩ** hoặc **bác sĩ chuyên khoa**
+  - 📋 Tra cứu trên trang chính thức của **Cục Quản lý Dược** (DAV)
+  - 💊 Nhập **Số đăng ký thuốc** để kiểm định thông tin chính xác từ nguồn gốc

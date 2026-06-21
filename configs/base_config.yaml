@@ -20,3 +20,22 @@ retrieval:
 reranker:
   enabled: true
   model_name: "BAAI/bge-reranker-base"
+
+# Hallucination Reduction (PROPOSAL.md Section 5.2E)
+# Controls abstention, self-verification, and confidence indicators.
+# Set enabled: false to disable all hallucination reduction for ablation study.
+hallucination_reduction:
+  enabled: true
+
+  # Abstention: refuse to answer when best retrieval score is below this threshold
+  abstention_threshold: 0.55
+
+  # Confidence levels displayed in the UI
+  confidence_levels:
+    high: 0.80    # score >= 0.80 → 🟢 Độ tin cậy cao
+    medium: 0.65  # score >= 0.65 → 🟡 Nên xác nhận thêm
+    # score < 0.65 → 🔴 Thấp (nhưng above abstention_threshold)
+
+  # Self-verification: LLM double-checks its answer against the retrieved context
+  # Costs 1 extra API call per query. Set false to save tokens.
+  self_verification: true
