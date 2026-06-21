@@ -104,6 +104,110 @@ def call_llm_api(system_prompt: str, user_prompt: str, chat_history: list = None
             
     return ""
 
+
+# ── Section-Aware Priority Routing (PROPOSAL 5.1 — Reranking block) ──────────
+# Maps Vietnamese pharmaceutical query keywords to Qdrant section_filter values.
+# This improves retrieval precision by routing queries to the most relevant section.
+SECTION_KEYWORDS = {
+    "interactions":      ["tương tác", "kết hợp", "dùng chung", "phối hợp", "cùng lúc"],
+    "contraindication":  ["chống chỉ định", "không được dùng", "cấm dùng", "không nên dùng", "cấm kỵ"],
+    "dosage":            ["liều", "liều lượng", "dùng bao nhiêu", "uống mấy viên", "mg/kg",
+                          "liều dùng", "uống bao nhiêu", "tiêm bao nhiêu"],
+    "side_effects":      ["tác dụng phụ", "phản ứng phụ", "tác dụng không mong muốn",
+                          "phản ứng bất lợi", "tác hại"],
+    "indication":        ["chỉ định", "điều trị", "dùng cho", "chữa", "trị bệnh"],
+    "warnings":          ["thận trọng", "cẩn thận", "lưu ý", "suy thận", "suy gan",
+                          "thai kỳ", "cho con bú", "phụ nữ mang thai", "người cao tuổi"],
+    "pharmacology":      ["dược lực", "cơ chế tác dụng", "tác động", "dược lý"],
+    "pharmacokinetics":  ["dược động", "hấp thu", "phân bố", "chuyển hóa", "thải trừ",
+                          "bán hủy", "sinh khả dụng"],
+}
+
+
+def detect_section_intent(query: str):
+    """
+    Detect pharmaceutical section intent from a Vietnamese query.
+    
+    Returns:
+        str or None: The section_name to filter by, or None if no clear intent.
+    """
+    query_lower = query.lower()
+    
+    # Score each section by how many keywords match
+    scores = {}
+    for section, keywords in SECTION_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in query_lower)
+        if score > 0:
+            scores[section] = score
+    
+    if not scores:
+        return None
+    
+    # Return the section with highest keyword match count
+    best_section = max(scores, key=scores.get)
+    print(f"[Section-Aware] Detected intent: '{best_section}' (score: {scores[best_section]})")
+    return best_section
+
+
+# ── Conversation History Compression (PROPOSAL 5.2F) ─────────────────────────
+# When chat_history exceeds MAX_HISTORY_TURNS, older turns are summarized by LLM
+# into a single condensed message to prevent context window overflow.
+MAX_HISTORY_TURNS = 10  # Each turn = 1 user + 1 assistant = 2 messages
+
+
+def compress_history(history: list, keep_last: int = 6) -> list:
+    """
+    Compress conversation history when it grows too long.
+    
+    Keeps the most recent `keep_last` messages intact and summarizes
+    older messages into a single system-level summary using LLM.
+    
+    Args:
+        history: Full chat history as list of {"role": ..., "content": ...}
+        keep_last: Number of recent messages to keep verbatim (default: 6 = 3 turns)
+    
+    Returns:
+        Compressed history list.
+    """
+    if len(history) <= keep_last:
+        return history
+    
+    old_messages = history[:-keep_last]
+    recent_messages = history[-keep_last:]
+    
+    # Format old messages for summarization
+    old_text_parts = []
+    for msg in old_messages:
+        role_label = "Người dùng" if msg["role"] == "user" else "Trợ lý"
+        # Truncate very long messages to avoid token waste
+        content = msg["content"][:500]
+        old_text_parts.append(f"{role_label}: {content}")
+    old_text = "\n".join(old_text_parts)
+    
+    # Use LLM to summarize (lightweight call, no chat_history needed)
+    summary = call_llm_api(
+        system_prompt=(
+            "Bạn là hệ thống nén lịch sử hội thoại. "
+            "Tóm tắt đoạn hội thoại sau thành 2-3 câu ngắn gọn bằng tiếng Việt. "
+            "Chỉ giữ lại thông tin quan trọng: tên thuốc, câu hỏi chính, kết luận. "
+            "KHÔNG thêm thông tin mới."
+        ),
+        user_prompt=old_text,
+        chat_history=[]
+    )
+    
+    if summary and not summary.startswith("Lỗi"):
+        compressed = [
+            {"role": "user", "content": f"[Tóm tắt hội thoại trước]: {summary}"}
+        ]
+        print(f"[History Compression] Compressed {len(old_messages)} messages into summary")
+        return compressed + recent_messages
+    else:
+        # If summarization fails, just keep the recent messages
+        print(f"[History Compression] Summary failed, keeping last {keep_last} messages only")
+        return recent_messages
+
+
 @cl.on_chat_start
 async def start():
     # Attempt to initialize the database collection
@@ -285,8 +389,14 @@ async def main(message: cl.Message):
     await cl.Message(content="🔍 Đang tìm kiếm thông tin liên quan trong cơ sở dữ liệu vector...").send()
     
     try:
-        # Load chat history
+        # Load chat history and compress if needed
         chat_history = cl.user_session.get("chat_history") or []
+        if len(chat_history) > MAX_HISTORY_TURNS * 2:  # Each turn = 2 messages
+            chat_history = compress_history(chat_history)
+            cl.user_session.set("chat_history", chat_history)
+        
+        # ── Section-Aware Routing: detect query intent ────────────────
+        section_filter = detect_section_intent(user_query)
         
         # Smart registration number filtering based on last validated drug context
         registration_no_filter = None
@@ -306,6 +416,7 @@ async def main(message: cl.Message):
         search_results = db_client.search(
             user_query, 
             top_k=3,
+            section_filter=section_filter,
             registration_no_filter=registration_no_filter
         )
         
