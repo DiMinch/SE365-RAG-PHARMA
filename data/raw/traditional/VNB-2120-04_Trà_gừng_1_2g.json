@@ -6,6 +6,15 @@
   "dosage_form": "Trà túi lọc",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột gừng khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp cảm lạnh, nhiễm lạnh, nhức đầu, nôn oẹ có đờm, ho mất tiếng, ho do lạnh, chân tay lạnh, thân thể đau mỏi. \n- Đau bụng lạnh, đầy trướng, rối loạn tiêu hoá, nôn mửa."
+  }
 }

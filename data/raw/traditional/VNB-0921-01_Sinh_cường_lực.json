@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty TNHH Thương mại và Dược phẩm Như Thuỷ",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột hải mã, Bột nhân sâm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

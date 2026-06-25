@@ -26,5 +26,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2406/mach-nha.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Bồi bổ cơ thể, tốt cho trẻ suy dinh dưỡng, gầy yếu, biếng ăn, ít ngủ, đổ mồ hôi trộm, da hấp nóng.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Nhai mỗi lần 1 hoàn, ngày 3 lần lúc bụng đói. Trẻ nhỏ có thể ăn kèm với cháo, sữa sau khi ngâm trong nước ấm cho mềm."
+  }
 }

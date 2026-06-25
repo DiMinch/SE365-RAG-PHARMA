@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần dược phẩm và sinh học y tế  Mebiphar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột tuyến giáp đông khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

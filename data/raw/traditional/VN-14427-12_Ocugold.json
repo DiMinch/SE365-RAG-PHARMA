@@ -6,6 +6,13 @@
   "dosage_form": "viên nén bao phim",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "carotenoids thiên nhiên giàu Lutein/Zeaxanthin, carotenoids giàu beta caroten thiên nhiên, cao carrot",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

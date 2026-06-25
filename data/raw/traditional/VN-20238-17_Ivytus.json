@@ -6,6 +6,13 @@
   "dosage_form": "Sirô",
   "manufacturer": "Neopharma, UAE",
   "manufacturer_country": "UAE",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá cây Thường xuân Hederae helicis filii extractum siccum (tương đương 3,5mg Hederacoside C) 35mg/5ml;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

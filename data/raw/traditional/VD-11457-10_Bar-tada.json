@@ -6,6 +6,13 @@
   "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "cao actiso 100mg, Cao Biển súc 75mg, Cao Bìm bìm 75mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

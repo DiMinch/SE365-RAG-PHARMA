@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén ngậm",
   "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Cát cánh, Cao Cam thảo, Cao kha tử, Cao Ngũ vị tử,",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

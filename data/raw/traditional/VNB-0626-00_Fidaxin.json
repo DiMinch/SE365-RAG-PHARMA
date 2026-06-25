@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Lá muồng trâu, Bột chuối",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

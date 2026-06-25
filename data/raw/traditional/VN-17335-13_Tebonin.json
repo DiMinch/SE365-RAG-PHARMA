@@ -6,6 +6,18 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Dr. Willmar Schwabe GmbH & Co",
   "manufacturer_country": "Germany",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô từ lá Ginkgo biloba 120mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Thuốc được chỉ định chủ yếu trong điều trị rối loạn tuần hoàn máu não và ngoại biên Suy tuần hoàn não cấp và mãn tính, giảm chú ý tập trung, giảm trí nhớ, mất trí do xơ cứng mạch máu não. Rối loạn tuần hoàn máu và thần kinh ở tai: ù tai, chóng mặt. Rối loạn tuần hoàn máu và thần kinh ở mắt: bệnh võng mạc do tiểu đường, thoái hóa hoàng điểm ở tuổi già. Rối loạn tuần hoàn máu ngoại biên và thần kinh: các bệnh tắc nghẽn động mạch ngoại biên, khập khiễng cách hồi, tê cóng chân tay. Bệnh Raynaud Thuốc được chỉ định chủ yếu trong điều trị rối loạn tuần hoàn máu não và ngoại biên Suy tuần hoàn não cấp và mãn tính, giảm chú ý tập trung, giảm trí nhớ, mất trí do xơ cứng mạch máu não. Rối loạn tuần hoàn máu và thần kinh ở tai: ù tai, chóng mặt. Rối loạn tuần hoàn máu và thần kinh ở mắt: bệnh võng mạc do tiểu đường, thoái hóa hoàng điểm ở tuổi già. Rối loạn tuần hoàn máu ngoại biên và thần kinh: các bệnh tắc nghẽn động mạch ngoại biên, khập khiễng cách hồi, tê cóng chân tay. Bệnh Raynaud",
+    "contraindication": "Mẫn cảm với các thành phần của thuốc\n\nKhi đang điều trị với thuốc chống đông máu như heparin và các dẫn xuất của nó, các dẫn xuất của coumarin (warfarin, acenocoumatol);.\n\nBệnh nhân khó đông máu, do cao khô lá Ginkgo biloba có thể làm tăng thời gian đông máu.",
+    "dosage": "Thuốc dùng đường uống. Người lớn (trên 18 tuổi): 1 viên/lần, 2lần/ngày (120-240 mg/ngày cao khô lá ginkgo biloba) Trẻ em và vị thành niên (dưới 18 tuổi): Chưa có đủ thông tin về độ an toàn và hiệu quả của thuốc với trẻ và thanh thiếu niên, do vậy không dùng cho những đối tượng này. Khi dùng thuốc với liều cao hơn liều khuyến cáo hoặc dùng lâu dài, cần phải tham khảo ý kiến của bác sĩ.",
+    "side_effects": "Nói chung ginkgo được dung nạp tốt, tuy nhiên vẫn có một số tác dụng không mong muốn xảy ra:\n\nHiếm gặp (≥ 1/1000 đến <1/100): đau bụng, buồn nôn, táo bón, tiêu chảy, đau đầu, rối loạn giấc ngủ, đánh trống ngực, chóng mặt, lo lắng, phản ứng dị ứng da (ngứa, phát ban).\n\nRất hiếm (<1/10000): các triệu chứng liên quan đến chảy máu đột ngột. Một số trường hợp cá biệt có sự hình thành khối máu tụ dưới màng cứng, có thể là do sử dụng cao khô Ginkgo trong thời gian dài (2 năm). Tác dụng phụ này có thể xảy ra thường xuyên hơn ở những bệnh nhân đang dùng cả thuốc kháng tiểu cầu hoặc thuốc chống đông máu như aspirin hoặc warfarin."
+  }
 }

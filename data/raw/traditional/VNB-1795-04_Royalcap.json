@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Sữa ong chúa tươi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,16 @@
   "dosage_form": null,
   "manufacturer": "Công ty Cổ Phần Trung Mỹ",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Ích trí nhân 150mg; Cao qui đầu 25mg; Cao xuyên tiêu 40mg; Tá dược vđ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Hỗ trợ điều trị huyết áp thấp nguyên phát, huyết áp thấp tư thế\n- Bồi bổ cơ thể, tăng cường sức khỏe toàn trạng.\n\nCơ chế tác dụng\n\nSản phẩm Hồng mạch khang có sự kết hợp của các thành phần thiên nhiên làm tăng cường chức năng của tâm, thận, tỳ dương, tăng cường tuần hoàn, bồi bổ máu và tăng lưu thông máu. Ngoài ra Hồng mạch khang cũng chứa các thành phần có tác dụng estrogen và progesteron nhẹ giúp điều hòa hormon dẫn đến ổn định huyết áp. Hồng mạch khang giúp nhanh chóng cải thiện các triệu chứng lâm sàng như: mệt mỏi, ngủ gà, ngủ nhiều, nôn nao, hay buồn nôn, sức chịu đựng kém, tăng nhậy cảm với lạnh, nóng, hoa mắt, chóng mặt, váng đầu…\n\n- Quy đầu: (là phần rễ chính của Đương quy): bổ huyết áp, tăng tạo huyết, tăng lưu thông máu được dùng để bổ huyết, điều huyết, hỗ trợ cho những trường hợp thiếu máu, thiếu máu não dẫn đến huyết áp thấp tư thế, suy nhược cơ thể. Ngoài ra Đương quy còn có tác dụng kiểu estrogen và progesteron nhẹ giúp điều hòa hormon \n\n- Ích trí nhân: Ôn bổ tâm tỳ dương, dùng tăng cường các chức năng ở thận và ở hệ tiêu hóa. \n\n- Xuyên tiêu: Có tác dụng ôn trung, tán hàn, hoạt huyết, thông lạc, thúc đẩy lưu thông khí huyết, trợ giúp tiêu hóa, giúp cải thiện các triệu chứng như nôn nao, hoa mắt, chóng mặt. - Hỗ trợ điều trị huyết áp thấp nguyên phát, huyết áp thấp tư thế\n- Bồi bổ cơ thể, tăng cường sức khỏe toàn trạng.\n\nCơ chế tác dụng\n\nSản phẩm Hồng mạch khang có sự kết hợp của các thành phần thiên nhiên làm tăng cường chức năng của tâm, thận, tỳ dương, tăng cường tuần hoàn, bồi bổ máu và tăng lưu thông máu. Ngoài ra Hồng mạch khang cũng chứa các thành phần có tác dụng estrogen và progesteron nhẹ giúp điều hòa hormon dẫn đến ổn định huyết áp. Hồng mạch khang giúp nhanh chóng cải thiện các triệu chứng lâm sàng như: mệt mỏi, ngủ gà, ngủ nhiều, nôn nao, hay buồn nôn, sức chịu đựng kém, tăng nhậy cảm với lạnh, nóng, hoa mắt, chóng mặt, váng đầu…\n\n- Quy đầu: (là phần rễ chính của Đương quy): bổ huyết áp, tăng tạo huyết, tăng lưu thông máu được dùng để bổ huyết, điều huyết, hỗ trợ cho những trường hợp thiếu máu, thiếu máu não dẫn đến huyết áp thấp tư thế, suy nhược cơ thể. Ngoài ra Đương quy còn có tác dụng kiểu estrogen và progesteron nhẹ giúp điều hòa hormon \n\n- Ích trí nhân: Ôn bổ tâm tỳ dương, dùng tăng cường các chức năng ở thận và ở hệ tiêu hóa. \n\n- Xuyên tiêu: Có tác dụng ôn trung, tán hàn, hoạt huyết, thông lạc, thúc đẩy lưu thông khí huyết, trợ giúp tiêu hóa, giúp cải thiện các triệu chứng như nôn nao, hoa mắt, chóng mặt.",
+    "dosage": "- Dùng 4-6 viên/ngày giúp hỗ trợ điều trị cho các bệnh nhân huyết áp thấp, thiếu máu, thiếu máu não dẫn đến huyết áp thấp tư thế, suy nhược cơ thể.\n- Nên dùng theo đợt liên tục từ 3 đến 6 tháng."
+  }
 }

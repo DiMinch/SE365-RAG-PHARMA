@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc nước ngậm",
   "manufacturer": "Viện Dược liệu",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cành lá Cà gai leo, củ sâm đại hành, rễ ngưu tất",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

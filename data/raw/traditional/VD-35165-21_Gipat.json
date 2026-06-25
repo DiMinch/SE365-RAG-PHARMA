@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 360mg cao khô hỗn hợp tương đương với dược liệu Địa Long 360mg; Hoàng kỳ 1350mg; Đương quy 720mg; Xích thược 540mg; Xuyên khung 360mg; Đào nhân 360mg; Hồng hoa 360mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

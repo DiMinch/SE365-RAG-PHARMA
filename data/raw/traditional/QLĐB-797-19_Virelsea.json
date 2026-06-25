@@ -6,6 +6,13 @@
   "dosage_form": "Siro",
   "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 10ml chứa Cao đặc hỗn hợp dược liệu 0,6g gồm có",
+      "amount": "Diệp hạ châu 4,5g; Chua ngút 0,75g; Cỏ nhọ nồi 0,75g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

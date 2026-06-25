@@ -32,5 +32,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Eucalyptol] Sát trùng đường hô hấp, răng, miệng; Trị các chứng ho, đau họng, sổ mũi, cảm cúm...",
+    "contraindication": "[Thông tin hoạt chất Eucalyptol] Mẫn cảm, Trẻ sơ sinh, sỏi thận;",
+    "interactions": "[Thông tin hoạt chất Eucalyptol] Amitriptyline,Diclofenac,Lovastatin,Omeprazole",
+    "pharmacology": "[Thông tin hoạt chất Eucalyptol] Eucalyptol với độ tinh khiết từ 99,6 tới 99,8% có thể thu được với số lượng lớn bằng chưng cất phân đoạn dầu bạch đàn. Eucalyptol được tìm thấy trong long não, nguyệt quế, dầu trà gỗ, ngải cứu, húng quế, ngải, hương thảo và một số loài thực vật với lá có hương thơm khác. Eucalyptol có tác dụng sát khuẩn, là thành phần trong nhiều loại nước súc miệng và thuốc ho."
+  }
 }

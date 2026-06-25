@@ -6,6 +6,17 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần Dược phẩm Nam Hà",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao mềm Actiso",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Giúp tăng cường chức năng gan trong các trường hợp: suy gan, viêm gan, gan nhiễm mỡ, vàng da. Lợi mật, lợi tiểu, nhuận tràng, giúp ăn ngon miệng. ĐỐI TƯỢNG SỬ DỤNG: Người có chức năng gan suy giảm do: viêm gan, gan nhiễm mỡ, vàng da. Người có chức năng tiêu hóa kém.",
+    "dosage": "Uống trực tiếp hoặc hòa loãng với nước. Người lớn: Uống 1 ống x 2 lần/ ngày. Trẻ em: Uống 1 ống/ ngày.",
+    "interactions": "– Tất cả các thuốc kháng acid đều có thể làm tăng hoặc giảm tốc độ và mức độ hấp thu của các thuốc dùng đồng thời, do làm thay đổi thời gian dịch chuyển qua đường dạ dày ruột,  hoặc do liên kết hoặc tạo phức với thuốc, như tetracyclin phải dùng cách 1-2 giờ trước hoặc sau khi dùng các kháng acid.\n\n– Các kháng acid làm giảm hấp thu các thuốc: Digoxin, indomethacin, muối sắt, isoniazid, clodiazepoxid, naproxen\n\n– Các kháng acid làm tăng hấp thu dicumarol, pseudoephedrin, diazepam.\n\n– Các kháng acid làm tăng pH nước tiểu, làm giảm thải trừ các thuốc là bazơ yếu, tăng thải trừ các thuốc là acid yếu (amphetamin, quinidin là các bazơ yếu, aspirin là acid yếu);."
+  }
 }

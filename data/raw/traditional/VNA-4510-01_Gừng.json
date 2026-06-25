@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén ngậm",
   "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột gừng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "pharmacology": "[Thông tin hoạt chất Bột gừng] Bột gừng là một loại gia vị và dược liệu quen thuộc, mang lại nhiều lợi ích cho sức khỏe nhờ đặc tính ấm, cay và giàu hoạt chất sinh học. Trong y học và đời sống, bột gừng thường được dùng để hỗ trợ giảm cảm lạnh, giữ ấm cơ thể, giảm ho và đau họng nhẹ. Ngoài ra, gừng còn giúp kích thích tiêu hóa, giảm đầy hơi, buồn nôn và cải thiện cảm giác ăn uống. Một số nghiên cứu cũng cho thấy các hoạt chất trong gừng có khả năng chống viêm và hỗ trợ giảm đau cơ, khớp ở mức độ nhẹ. Nhờ tính tiện lợi và dễ sử dụng, bột gừng thường được pha trà, nấu ăn hoặc dùng trong các bài thuốc dân gian."
+  }
 }

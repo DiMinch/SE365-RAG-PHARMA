@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "R.P Scherer GmbH & Co. KG",
   "manufacturer_country": "Germany",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc quả Cọ lùn (Fructus Sabal serrulata syn, Fructus Serenoa repens)(10-14,3",
+      "amount": "1) 160mg/viên; Cao khô rễ Tầm ma (Radix Urtica dioica)(7,6-12,5",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

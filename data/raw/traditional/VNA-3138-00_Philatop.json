@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Phủ tạng tươi, Ðường kính",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

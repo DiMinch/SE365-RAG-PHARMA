@@ -6,6 +6,15 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Ipsen Pharma",
   "manufacturer_country": "FRANCE",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao ginkgo biloba",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Giảm trí nhớ, kém tập trung, đặc biệt ở người lớn tuổi. Thiểu năng tuần hoàn não. Ù tai, chóng mặt, giảm thính lực. Chân đi khập khiễng cách hồi. Một số trường hợp thiếu máu võng mạc. Nhược dương."
+  }
 }

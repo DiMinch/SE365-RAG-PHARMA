@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Đan sâm 10/1 (tương đương 450mg Đan sâm) 45mg; Cao Tam thất 3/1 (tương đương 141mg tam thất) 47mg; L-Borneol 8mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

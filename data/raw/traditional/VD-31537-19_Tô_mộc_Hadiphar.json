@@ -6,6 +6,13 @@
   "dosage_form": "Cốm thuốc",
   "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói 2,5g chứa",
+      "amount": "Cao lỏng tô mộc (tương đương 1,5g tô mộc) 450mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

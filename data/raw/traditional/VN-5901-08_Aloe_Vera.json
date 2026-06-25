@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty TNHH Robinson Pharma USA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Aloe vera cô đặc 200",
+      "amount": "1",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

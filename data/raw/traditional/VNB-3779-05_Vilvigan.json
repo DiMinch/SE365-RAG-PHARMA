@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm Cửu Long (PHARIMEXCO)",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột Diệp hạ châu, Cao nghệ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Làm giảm men gan & phục hồi chức năng gan. Dùng trong viêm gan siêu virus B mạn tính, mụn nhọt, mẫn ngứa."
+  }
 }

@@ -2,29 +2,30 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-35852/thuoc-ve-sinh-phu-nu.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Thuốc vệ sinh phụ nữ",
-  "registration_number": "V1189-H12-10",
-  "dosage_form": "",
+  "registration_number": "VNS-0005-02",
+  "dosage_form": "Thuốc bột",
   "manufacturer": "Công ty cổ phần Dược Ninh Bình",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
       "name": "Berberine Chính",
-      "amount": "-",
+      "amount": "5g",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-583/berberine.aspx"
     },
     {
-      "name": "Tinh dầu bạc hà",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
-    },
-    {
       "name": "Phèn chua",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2518/phen-chua.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "- Phòng & trị một số bệnh ở cơ quan sinh dục: viêm âm đạo, viêm tử cung, bệnh bạch đới, ngứa âm hộ. - Khử mùi hôi, tẩy sạch các chất bẩn sau ngày hành kinh & sinh đẻ. Không Dùng uống. - Phòng & trị một số bệnh ở cơ quan sinh dục: viêm âm đạo, viêm tử cung, bệnh bạch đới, ngứa âm hộ. - Khử mùi hôi, tẩy sạch các chất bẩn sau ngày hành kinh & sinh đẻ. \n[Thông tin hoạt chất Berberine] Nhiễm trùng đường ruột. Tiêu chảy. Lỵ trực trùng, hội chứng lỵ. Viêm ống mật.",
+    "contraindication": "[Thông tin hoạt chất Berberine] Phụ nữ có thai.",
+    "dosage": "[Thông tin hoạt chất Berberine] Người lớn:  4-6 viên 50mg hoặc 1-2 viên 100mg/lần x 2 lần/ngày. Trẻ em: tuỳ theo tuổi 1/2-3 viên 50mg/lần x 2 lần/ngày.",
+    "side_effects": "[Thông tin hoạt chất Berberine] Táo bón.",
+    "pharmacology": "[Thông tin hoạt chất Berberine] Berberin clorid là alcaloid của cây vàng đắng (Coscinium fenestratum (Gaertn.); Colebr., Syn. Menispernum fenestratum Gaertn ), họ Tiết dê (Menispermaceae). Trong đông y, berberin được xem là vị thuốc có tính thanh nhiệt, giải độc và kiện tỳ. Berberin có vị đắng, tính hàn. Berberin có tác dụng tống mật. Phối hợp với một thuốc lợi mật như cynarin để điều trị viêm túi mật. Berberin còn có tác dụng trên đơn bào Entamoeba histolytica, trực khuẩn lỵ Shigella dysenteriae. Berberin dùng ngoài để rửa mắt, điều trị ung nhọt, lở loét. Berberin hấp thu rất chậm nên lưu lại trong ruột lâu: thuận tiện cho điều trị nhiễm khuẩn đường ruột, lỵ, viêm ruột. Berberin có tác dụng kháng khuẩn với shigella, tụ cầu và liên cầu khuẩn. Những năm gần đây, một số nghiên cứu mới nhất ở nước ngoài đã xác định berberin có tác dụng chống lại nhiều loại vi khuẩn gram dương (nhuộm theo phương pháp gram vi khuẩn bắt màu tím), gram âm (bắt màu đỏ) và các vi khuẩn kháng axit. Ngoài ra, nó còn có tác dụng chống lại một số nấm men gây bệnh và một số động vật nguyên sinh.",
+    "pharmacokinetics": "[Thông tin hoạt chất Berberine] Berberin hấp thu rất chậm nên lưu lại lâu trong ruột, thuận tiện cho tác dụng trị nhiễm khuẩn đường ruột. Bài tiết qua phân."
+  }
 }

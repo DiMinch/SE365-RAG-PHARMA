@@ -44,5 +44,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Điều trị  viêm mũi dị ứng, viêm xoang, nghẹt mũi... Điều trị  viêm mũi dị ứng, viêm xoang, nghẹt mũi...",
+    "contraindication": "Không dùng cho phụ nữ có thai và trẻ em dưới 5 tuổi Không dung khi mẫn cảm với bất kỳ thành phần nào của thuốc",
+    "dosage": "Người lớn: mỗi lần 1 viên, ngày uống 1 lần."
+  }
 }

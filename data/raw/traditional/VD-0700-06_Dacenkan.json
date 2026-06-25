@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao ginkgo biloba",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Giảm trí nhớ, kém tập trung , bệnh Alzheimer, sa sút trí tuệ, ở người lớn tuổi.\n- Thiểu năng tuần hoàn não.\n- Ù tai, chóng mặt , giảm thính lực.\n- Chân đi khập khiễng cách hồi.\n- Một số trường hợp thiếu máu võng mạc.\n- Nhược dương."
+  }
 }

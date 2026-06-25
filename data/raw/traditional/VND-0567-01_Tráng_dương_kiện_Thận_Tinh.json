@@ -1,36 +1,64 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-21224/trang-duong-kien-than-tinh.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Tráng dương kiện Thận Tinh",
-  "registration_number": "VND-0567-01",
-  "dosage_form": "Cao lỏng",
+  "name": "Tráng dương kiện thận tinh",
+  "registration_number": "VD-27576-17",
+  "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Thục địa Chính",
-      "amount": "220ml",
+      "name": "Liên tu Chính",
+      "amount": "75mg",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2510/lien-tu.aspx"
+    },
+    {
+      "name": "Sơn thù",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2577/son-thu.aspx"
+    },
+    {
+      "name": "Đảng sâm",
+      "amount": "210mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Ba kích",
+      "amount": "240mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "240mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Quế nhục",
+      "amount": "30mg",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2509/que-nhuc.aspx"
     },
     {
       "name": "Hoài sơn",
-      "amount": "-",
+      "amount": "75mg",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
-    },
-    {
-      "name": "Ðương quy",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
-    },
-    {
-      "name": "Liên tu",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2510/lien-tu.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Liên tu] Chữa băng huyết, thổ huyết, di mộng tinh, trĩ bạch đới, đái dầm, đái nhiều.",
+    "dosage": "[Thông tin hoạt chất Liên tu] Dùng riêng hoặc phối hợp với hạt sen.Ngày dùng 5-10g, sắc uống.",
+    "pharmacology": "[Thông tin hoạt chất Liên tu] Sen là một loại cây mọc dưới nước, thân rễ hình trụ mọc ở trong bùn thường gọi là ngó sen hay ngẫu tiết, ăn được, lá còn gọi là liên diệp mọc lên khỏi mặt nước, cuống lá dài, có gai nhỏ, phiến lá hình khiên, to, đường kính 60-70cm có gân toả tròn. Hoa to màu trắng hay đỏ hồng, đều lưỡng tính. Đài màu lục, tràng gồm nhiều cánh màu hồng hay trắng một phần, những cánh ngoài còn có màu lục như lá đài. Nhị nhiều, bao phấn 2 ô, nứt theo một kẽ dọc. Trong đó mọc dài ra thành một phần hình trắng thường gọi là gạo sen dùng để ướp chè. nhiều lá noãn rời nhau đựng trong một đế hoa loe ra thành hình nón ngược gọi là gương sen hay liên phòng. Mỗi lá noãn có 1-3 tiểu noãn. Quả chứa hạt gọi là liên nhục không nội nhũ. Hai lá mầm dày. Chồi mầm còn gọi là liên tâm gồm 4 lá non gập vào phía trong. Mô tả Dược liệu: Tua nhị sen là chỉ nhị của hoa sen đã bỏ phần nhị (hạt gạo);, gọi là liên tu. Thành phần:Có nhiều tanin và alkaloid Sơ chế:tua nhị đực hoa sen bỏ hạt gạo phơi khô dùng. Tính vị: Vị ngọt, chát, tính bình Quy kinh: Vào kinh thận, tâm, tỳ Sáp tinh, ích thận, thanh tâm, chỉ huyết."
+  }
 }

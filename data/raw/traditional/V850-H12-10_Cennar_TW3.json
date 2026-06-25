@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc Rau má",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Có tác dụng giải nhiệt, lợi tiểu, tiêu viêm. Được dùng trong các bệnh sởi, mụn nhọt, mẩn ngứa, thổ huyết, tả lỵ, chảy máu cam, đái buốt, đái rắt..."
+  }
 }

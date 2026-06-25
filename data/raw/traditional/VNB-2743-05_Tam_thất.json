@@ -6,6 +6,15 @@
   "dosage_form": "Bột",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột tam thất",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Trị thổ huyết, băng huyết, lỵ ra huyết, ứ huyết do tổn thương.\n- Xuất huyết nội tạng hoặc xuất huyết ngoài: Dùng riêng bột Tam thất hoặc phối hợp với Hoa nhuỵ thạch và Huyết dư tán.\n- Xuất huyết và sưng do chấn thương ngoài."
+  }
 }

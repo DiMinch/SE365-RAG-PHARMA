@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc bột",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột cóc, Bột đậu nành, Men bia khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

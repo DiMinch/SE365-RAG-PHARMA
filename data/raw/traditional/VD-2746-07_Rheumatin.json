@@ -6,6 +6,17 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần dược phẩm TW25",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao rắn biển, Cao hy thiêm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ lợi gân cốt, trừ phong thấp, giúp giảm đau lưng, mỏi gối, chân tay tê do phong thấp, thoái hóa khớp xương. Chú ý: Chế phẩm này không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh.",
+    "contraindication": "Quá mẫn.",
+    "dosage": "Uống 8 - 10 viên/ngày chia làm 2 - 3 lần."
+  }
 }

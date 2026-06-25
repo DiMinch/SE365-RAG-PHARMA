@@ -6,6 +6,17 @@
   "dosage_form": "Viên nhai",
   "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Pharmedic",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao cam thảo, Bột mịn ô tặc cốt, Bột mịn phèn tinh chế, Bột thạch xương bồ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Trị viêm loét dạ dày, hành tá tràng thể thừa acid. Trị viêm loét dạ dày, hành tá tràng thể thừa acid.",
+    "contraindication": "- Không dùng cho người bị sỏi thận, suy gan, suy thận. - Viêm loét dạ dày thiểu toan",
+    "dosage": "Nhai nát 2 viên sau bữa ăn, ngày 3 lần."
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Yunnan Baiyao Group Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Rhizoma Paridis (tương đương 0,52mg Rhizoma Paridis Saponin VI) 104mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

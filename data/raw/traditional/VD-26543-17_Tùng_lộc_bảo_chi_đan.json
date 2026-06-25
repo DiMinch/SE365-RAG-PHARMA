@@ -44,5 +44,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2350/ban-ha.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Thuốc được dùng để trị chứng ra mồ hôi ở tay. Thuốc được dùng để trị chứng ra mồ hôi ở tay.",
+    "contraindication": "Thuốc chống chỉ định đối với những trường hợp mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Cách sử dụng Thuốc được sử dụng qua đường uống. Đối tượng sử dụng Bệnh nhân sử dụng thuốc theo chỉ định của bác sĩ hoặc dược sĩ. Liều dùng – Người lớn: Uống ngày 3 lần, mỗi lần 3-4 viên, uống trước khi ăn khoảng 60 phút. Mỗi đợt dùng từ 5 đến 10 tuần. – Hoặc theo chỉ định của thầy thuốc. Lưu ý đối với người dùng thuốc"
+  }
 }

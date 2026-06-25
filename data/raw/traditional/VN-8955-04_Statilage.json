@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Lipa Pharm Pty., Ltd",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột tinh chất sụn cá mập",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

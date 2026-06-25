@@ -6,6 +6,17 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi túi 5g chứa",
+      "amount": "Cao đặc Rau má (tương đương 4g Rau má khô) 1g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Chỉ định Dùng trong các bệnh với các triệu chứng mụn nhọt, mẩn ngứa, thổ huyết, tả lỵ, chảy máu cam, đái buốt, đái rắt… Đặc tính dược lực học Rau má có vị đắng nhạt, thơm, tính mát, không độc, vào các kinh can, tỳ, thận. Có tác dụng thanh nhiệt, trừ thấp, giải độc, tiêu thũng dùng chữa vàng da do thấp nhiệt, nhọt độc sưng đau, thổ huyết, tả lỵ, khí hư, bạch đới. Tác dụng: Giải nhiệt, lợi tiểu, tiêu viêm. Chỉ định Dùng trong các bệnh với các triệu chứng mụn nhọt, mẩn ngứa, thổ huyết, tả lỵ, chảy máu cam, đái buốt, đái rắt… Đặc tính dược lực học Rau má có vị đắng nhạt, thơm, tính mát, không độc, vào các kinh can, tỳ, thận. Có tác dụng thanh nhiệt, trừ thấp, giải độc, tiêu thũng dùng chữa vàng da do thấp nhiệt, nhọt độc sưng đau, thổ huyết, tả lỵ, khí hư, bạch đới. Tác dụng: Giải nhiệt, lợi tiểu, tiêu viêm.",
+    "contraindication": "- Mẫn cảm với thành phần của thuốc",
+    "dosage": "– Hòa 10g cốm (1 thìa canh) hoặc 2 túi 5g cốm trong 100 ml nước để uống. – Ngày uống 2-3 lần."
+  }
 }

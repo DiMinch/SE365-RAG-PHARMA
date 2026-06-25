@@ -6,6 +6,19 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "J. Uriach & Cia S.A",
   "manufacturer_country": "Spain",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá cây Cynara Scolymus L, bột vỏ cây Rhamnus purshianus D,C Cao khô tảo Fucus Vesiculosus L",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Ðiều trị tạm thời bổ sung vào chế độ ăn kiêng giảm cân trong trường hợp tăng cân trung bình nhờ tác động nhuận tràng của thuốc. Ðiều trị tạm thời bổ sung vào chế độ ăn kiêng giảm cân trong trường hợp tăng cân trung bình nhờ tác động nhuận tràng của thuốc.",
+    "contraindication": "Quá mẫn với thành phần thuốc. Tăng HA. Cường giáp. Căng thẳng. Mở thông hồi tràng. Ðau bụng không rõ nguyên nhân. Tắc ruột hoặc tắc đường mật. Viêm phần phụ hoặc khi có triệu chứng nghi ngờ. Xuất huyết trực tràng không rõ chẩn đoán. Các bệnh viêm ruột (Crohn, viêm loét đại tràng). Suy thận, suy gan, suy mạch vành nặng. Trẻ < 12 tuổi. Phụ nữ có thai.",
+    "dosage": "Người lớn: khởi đầu 2 viên/ngày, dùng cùng với các bữa ăn chính, có thể  tăng lên 6 viên/ngày. Chỉnh liều theo hiệu quả giảm cân đạt được. Giảm liều nếu tác động nhuận tràng quá mức hoặc không thích hợp. Nên uống nhiều nước.",
+    "side_effects": "Tiêu chảy, phát ban da, co cứng ruột, buồn nôn, mệt mỏi, suy yếu, đầy bụng.",
+    "interactions": "Glycoside tim, thuốc chống loạn nhịp, lợi tiểu thiazid, corticosteroid."
+  }
 }

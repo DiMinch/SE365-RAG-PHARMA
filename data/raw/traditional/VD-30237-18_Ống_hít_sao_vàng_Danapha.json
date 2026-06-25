@@ -32,5 +32,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2339/tinh-dau-dinh-huong.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị nghẹt mũi, sổ mũi, ho cảm, làm thông mũi và sát trùng đường hô hấp. Trị nghẹt mũi, sổ mũi, ho cảm, làm thông mũi và sát trùng đường hô hấp.",
+    "contraindication": "Người mẫn cảm với một trong các thành phần của thuốc. Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.",
+    "dosage": "Hít nhiều lần trong ngày. Không nên hít nhiều lần cùng một lúc."
+  }
 }

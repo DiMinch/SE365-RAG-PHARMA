@@ -6,6 +6,15 @@
   "dosage_form": "Trà hòa tan",
   "manufacturer": "Công ty cổ phần dược phẩm TW25",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao linh chi, Cao nhân sâm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng trong các trường hợp: cơ thể suy nhược, kiệt sức, mệt mỏi và trong thời gian dưỡng bệnh. - Trị suy nhược thần kinh, làm hạ cholesterol máu. - Phòng và chống viêm gan. Công năng Bổ khí, dưỡng huyết, dưỡng tâm an thần, hạ cholesterol máu, tăng cường sức khỏe, tăng trí nhớ, làm mạnh hệ thống miễn dịch, tăng cường chức năng gan, giải  độc gan."
+  }
 }

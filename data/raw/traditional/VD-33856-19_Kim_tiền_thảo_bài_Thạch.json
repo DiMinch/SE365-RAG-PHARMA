@@ -44,5 +44,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị sỏi thận, sỏi niệu quản, sỏi mật, viêm túi mật.",
+    "contraindication": "Phụ nữ có thai không được dùng.",
+    "dosage": "Uống với nhiều nước trước bữa ăn.\n- Để tống sỏi ra ngoài: ngày 3 lần, mỗi lần 3 viên, dùng tối thiểu 15 ngày (3 lọ).\n- Để điều trị  viêm: ngày 2 lần, mỗi lần 3 viên, dùng đến khi hết các triệu chứng viêm.",
+    "side_effects": "- Có thể gặp rối loạn tiêu hóa nhẹ như đau bụng, tiêu chảy.\n- Nên thông báo cho thầy thuốc điều trị ngay những tác dụng không mong muốn mà bạn mắc phải khi dùng thuốc."
+  }
 }

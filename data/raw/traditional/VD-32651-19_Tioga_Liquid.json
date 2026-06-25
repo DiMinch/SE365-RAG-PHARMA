@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 125 ml dung dịch chiết từ dược liệu tương đương",
+      "amount": "Cao actiso (tương đương 3,5 g lá tươi Actiso) 1,25 g; Sài đất 37,5 g; Thương nhĩ tử 12,5 g; Kim ngân cuộng 31,25 g; Hạ khô thảo 6,25g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

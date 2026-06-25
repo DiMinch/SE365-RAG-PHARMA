@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Xuất Nhập Khẩu Y tế DOMESCO",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao trái dứa gai, Cao rau đắng, Cao artiso",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Làm bình thường men gan. - Làm hạ SGOT và SGPT ở những bệnh nhân có men gan cao. - Giúp thông tiểu, nhuận tràng, giải độc, thông mật."
+  }
 }

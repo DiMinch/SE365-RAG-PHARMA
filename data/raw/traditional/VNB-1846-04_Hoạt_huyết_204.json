@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty TNHH thuốc và công cụ Y tế 204",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bạch chỉ, Cao đặc diên hồ sách",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

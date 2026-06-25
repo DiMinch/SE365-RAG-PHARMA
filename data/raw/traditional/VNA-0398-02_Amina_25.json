@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần dược phẩm TW25",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột sinh khối nấm men",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

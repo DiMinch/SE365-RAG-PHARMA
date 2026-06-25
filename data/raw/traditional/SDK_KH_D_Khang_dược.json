@@ -6,6 +6,33 @@
   "dosage_form": "viên nang",
   "manufacturer": "Công ty TNHH Dược phẩm Ích Nhân",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bá bệnh",
+      "amount": "400 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tinh chất sâm",
+      "amount": "10 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Linh chi",
+      "amount": "50 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Phụ liệu vừa đủ 1 viên",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Bồi bổ nguyên khí, kích thích cơ thể tăng tiết hormon giới tính nam testosteron một cách tự nhiên, tăng cường chức năng sinh lý nam giới, hạn chế quá trình mãn dục nam.\n- Tăng cường sinh lực cho các hoạt động thể lực và trí óc, giảm mệt mỏi, căng thẳng.\n\n* Công dụng:\n\nNam giới trong các trường hợp:\n\n- Nam giới có dấu hiệu mãn dục: giảm ham muốn tình dục, bắt đầu có rối loạn cương, yếu sinh lý, sức khỏe giảm, mau mệt mỏi, khối cơ, lực cơ giảm, bụng to ra, khí sắc xấu, dễ mắc các bệnh mãn tính…\n- Nam giới cần tăng cường sinh lực: Hoạt động thể thao, làm việc trí óc căng thẳng, mệt mỏi, suy nhược cơ thể."
+  }
 }

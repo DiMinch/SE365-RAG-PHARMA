@@ -6,6 +6,16 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Hải sâm 200 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng Với thành phần sinh vật quý hiếm với hàm lượng testosterol cao, Haisamin mang lại công dụng hoàn hảo trong việc cải thiện sinh lý nam giới. Tăng cường sinh lực nam giới: cải thiện tình trạng sinh lý yếu, tinh trùng hiếm, ít có ham muốn tình dục,… Tăng cường thể lực: tăng cường sức đề kháng cho cơ thể, cải thiện khả năng tuần hoàn máu, khả năng hấp thụ oxy, chống lại tình trạng mỏi cơ, thúc đẩy quá trình chuyển hóa dinh dưỡng trong cơ thể diễn ra nhanh hơn. Phòng chống bệnh tật: giúp bạn phòng chống lại các bệnh suy nhược cơ thể sau khi ốm dậy hay vừa mới làm phẫu thuật, suy nhược thần kinh, cơ thể bị stress, cơ thể phải hoạt động nhiều, phòng chống xơ vữa động mạch Hỗ trợ điều trị bệnh ung thư với tia xạ trị và hóa chất, giúp cơ thể nhanh chóng hồi phục. Công dụng Với thành phần sinh vật quý hiếm với hàm lượng testosterol cao, Haisamin mang lại công dụng hoàn hảo trong việc cải thiện sinh lý nam giới. Tăng cường sinh lực nam giới: cải thiện tình trạng sinh lý yếu, tinh trùng hiếm, ít có ham muốn tình dục,… Tăng cường thể lực: tăng cường sức đề kháng cho cơ thể, cải thiện khả năng tuần hoàn máu, khả năng hấp thụ oxy, chống lại tình trạng mỏi cơ, thúc đẩy quá trình chuyển hóa dinh dưỡng trong cơ thể diễn ra nhanh hơn. Phòng chống bệnh tật: giúp bạn phòng chống lại các bệnh suy nhược cơ thể sau khi ốm dậy hay vừa mới làm phẫu thuật, suy nhược thần kinh, cơ thể bị stress, cơ thể phải hoạt động nhiều, phòng chống xơ vữa động mạch Hỗ trợ điều trị bệnh ung thư với tia xạ trị và hóa chất, giúp cơ thể nhanh chóng hồi phục.",
+    "dosage": "Cách dùng Uống 2 viên/lần, ngày uống 2-3 lần Đợt dùng kéo dài từ 1-12 tháng Đối tượng sử dụng Nam giới đang bị yếu sinh lý, vận động viên thể thao, người hoạt động trí óc nhiều. Người già yếu, người mới ốm dậy, người vừa trải qua các ca phẫu thuật hoặc vừa hóa trị, xạ trị ung thư. Người bị suy nhược cơ thể, người stress trong thời gian dài."
+  }
 }

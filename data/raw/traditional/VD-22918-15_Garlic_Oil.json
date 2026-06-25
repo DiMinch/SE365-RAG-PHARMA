@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Tinh dầu tỏi 4 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

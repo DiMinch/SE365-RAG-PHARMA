@@ -6,6 +6,18 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược phẩm Yên Bái",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi viên nang cứng chứa",
+      "amount": "Lá khôi 160 mg; Ô tặc cốt 120 mg; 24 mg cao khô tương đương dược liệu Khổ sâm",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Điều trị viêm loét dạ dày, hành tá tràng, viêm loét bờ cong lớn, bờ cong nhỏ, viêm dạ dày cấp và mãn, viêm đại tràng. - Các triệu chứng ăn không tiêu, đầy bụng ợ hơi, ợ chua, buồn nôn, cảm giác khó chịu ở dạ dày... - Điều trị viêm loét dạ dày, hành tá tràng, viêm loét bờ cong lớn, bờ cong nhỏ, viêm dạ dày cấp và mãn, viêm đại tràng. - Các triệu chứng ăn không tiêu, đầy bụng ợ hơi, ợ chua, buồn nôn, cảm giác khó chịu ở dạ dày...",
+    "contraindication": "Thể thiểu toan.",
+    "dosage": "Liều dùng: Đợt điều trị 30 ngày liên tục. - Người lớn, ngày uống 3 lần. Mỗi lần 1 - 2 viên. - Trẻ em, ngày uống 2 lần. Mỗi lần 1 viên. Cách dùng: Uống với nước đun sôi để nguội. Kiêng kị: Các đồ ăn cay, chua, chát, nóng,chất lên men và chất kích thích.",
+    "side_effects": "Chưa có tài liệu nào nói về tác dụng phụ của thuốc."
+  }
 }

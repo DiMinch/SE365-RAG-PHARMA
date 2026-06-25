@@ -38,5 +38,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Tác dụng: Trừ phong thấp. Chỉ định: Dùng khi người ê ẩm, chân tay bải hoải, co duỗi khó khăn, đau lưng, mỏi gối, tê bại toàn thân.",
+    "contraindication": "- Mẫn cảm với thành phần của thuốc. - Phụ nữ có thai.",
+    "dosage": "Ngày uống 2 lần, mỗi lần  1-2 viên."
+  }
 }

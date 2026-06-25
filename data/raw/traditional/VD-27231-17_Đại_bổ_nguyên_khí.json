@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô rễ nhân sâm (tương đương 1 g rễ nhân sâm) 200mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

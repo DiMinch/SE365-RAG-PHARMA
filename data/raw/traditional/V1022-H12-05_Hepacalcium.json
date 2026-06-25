@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao gan 2, 5% nitrogen amin, tricalciphosphate",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

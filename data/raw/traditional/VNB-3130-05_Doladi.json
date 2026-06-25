@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao ích mẫu, Cao Ngải cứu, Cao Hương phụ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Kinh nguyệt không đều, đau bụng khi hành kinh, khí hư bạch đới, rối loạn kinh nguyệt. \n- Phục hồi tử cung sau khi sinh, giúp lưu thông khí huyết, da dẻ mịn màng, tươi mát."
+  }
 }

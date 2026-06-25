@@ -6,6 +6,17 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Hoắc hương",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "[Thông tin hoạt chất Nhân trần] + Thanh nhiệt, lợi thấp, lợi mật, được dùng để chữa các chứng hoàng đản, tiểu tiện bất lợi, viêm loét da do phong thấp…. + Làm tăng tiết và thúc đẩy quá trình bài xuất dịch mật, bảo vệ tế bào gan, ngăn ngừa tình trạng gan nhiễm mỡ, làm hạ huyết áp, thúc đẩy tuần hoàn, giải nhiệt, giảm đau và chống viêm. + Có khả năng ức chế một số vi khuẩn như tụ cầu vàng, thương hàn, phó thương hàn, mủ xanh, e.coli, lỵ, song cầu khuẩn gây viêm não, viêm phổi và một số loại nấm. + Giúp cải thiện công năng miễn dịch và ức chế sự tăng sinh của tế bào ung thư. + Điều trị các bệnh: viêm gan truyền nhiễm cấp tính thể vàng da, vàng da tán huyết do thương hàn ở trẻ sơ sinh, giun chui ống mật, rối loạn lipid máu, thiểu năng mạch vành, eczema dai dẳng ở trẻ em, viêm loét miệng, nấm da...",
+    "dosage": "[Thông tin hoạt chất Nhân trần] - Với những người uống rượu, bia nhiều mỗi ngày uống một chai nước nhân trần sẽ giảm phần nào tác hại của rượu đến gan: Nhân trần, hạt muồng sao, cam thảo sống, rau má khô sắc lên uống hàng ngày. - Viêm gan kèm theo sốt, vàng da, ra nhiều mồ hôi ở đầu, miệng khô, bụng đầy, tiểu tiện khó. Dùng nhân trần, chi tử, đại hoàng sắc lấy nước uống chia làm 3 lần trong ngày. - Chữa viêm túi mật hiệu quả dùng nhân trần, bồ công anh, nghệ vàng sắc uống hàng ngày. - Khi bị say nắng, đau đầu, sốt nóng dùng nhân trần, hành tăm sắc lên để nguội uống. - Mắt bị sưng, đỏ, đau lấy nhân trần, mã đề mỗi thứ một nắm sắc uống cho tới khi hết đau - Mát gan lợi mật, thanh nhiệt dùng nhân trần, bông mã đề, bán biên liên sấy hoặc phơi khô, tán vụn. Mỗi ngày dùng 50g hãm với nước sôi uống thay trà trong ngày.",
+    "pharmacology": "[Thông tin hoạt chất Nhân trần] Nhân trần là cây thân nhỏ, màu tím, có lông trắng mịn. Lá mọc đối, hình trứng, đầu lá dài và nhọn, mép có răng cưa, hai mặt lá có nhiều lông mịn, toàn thân và lá có mùi thơm. Hoa mọc thành chùm dạng bông ở kẽ lá, tràng hoa màu tím xanh, môi trên hình lưỡi, môi dưới xẻ thành năm thùy đều nhau. Quả nang có nhiều hạt nhỏ.\n\nĐịa lý: Ở Việt Nam, nhân trần là một loại cây quen thuộc, có thể dễ dàng thấy được trong những gia đình, hay tại các quán trà đá vỉa hè. Bộ phận dùng, thu hái Dược liệu:  Thân, cành mang lá và hoa. Thu hái lúc cây đang ra hoa, phơi khô, độ ẩm không quá 12%, tạp chất không quá 1%.\n\nThành phần hóa học: Tinh dầu, thành phần chính của tinh dầu là cineol. Ngoài ra còn có các chất flavonoid, saponin, acid thơm.\n\nTính vị: Vị  đắng, tính bình, hơi hàn.\n\nQuy kinh: Vào các kinh, tỳ, can, đởm."
+  }
 }

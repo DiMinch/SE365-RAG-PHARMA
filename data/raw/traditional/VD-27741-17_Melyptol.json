@@ -14,5 +14,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2368/eucalyptol.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Được dùng điều trị hỗ trợ sát khuẩn, giảm đau, làm thông thoáng đường hô hấp, viêm nhiễm đường hô hấp trên, cảm cúm, ho, nghẹt mũi,… Được dùng điều trị hỗ trợ sát khuẩn, giảm đau, làm thông thoáng đường hô hấp, viêm nhiễm đường hô hấp trên, cảm cúm, ho, nghẹt mũi,…",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc\nTrẻ < 30 tháng tuổi",
+    "dosage": "3-5 giọt x 1-2 lần/ngày, phối hợp kháng sinh/kháng viêm (dạng lỏng) theo phác đồ để xông bằng máy Xông mũi: Để ống xông mũi vào 2 bên mũi, hít thở bằng đường mũi Xông họng: Súc họng sạch, để ống vào họng hít vô bằng miệng, thở ra bằng mũi Xông mũi/họng liên tục 1 đợt 6 ngày, sau đó tái khám Cách dùng: Xông bằng máy",
+    "side_effects": "Có thể kích ứng niêm mạc"
+  }
 }

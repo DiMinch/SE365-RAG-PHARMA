@@ -6,6 +6,13 @@
   "dosage_form": "Cao",
   "manufacturer": "Cơ sở sản xuất Ðông Nam Dược Hồng Thái",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Xương trăn, gừng tươi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

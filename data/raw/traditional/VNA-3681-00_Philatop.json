@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Giá đậu xanh",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

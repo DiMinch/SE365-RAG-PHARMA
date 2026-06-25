@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Chè dây 280mg; Cao khô hỗn hợp (tương đương với 2,8g dược liệu bao gồm",
+      "amount": "Dạ cẩm 1,7g; Lá khôi 1,1g) 238mg;",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Công dụng Dạ cẩm: Có tác dụng giảm đau, trung hòa acid trong dạ dày, giảm ợ chua, se vết loét, chữa viêm dạ dày mãn tính. Lá khôi: Giúp làm lành các vết thương do viêm ở dạ dày và tá tràng nhanh chóng, giảm tiết acid dịch vị, kích thích lên da non và làm lành dạ dày, giảm bớt ợ chua, nóng rát vùng thượng vị. Chè dây: Có tác dụng thanh nhiệt, giải độc, tiêu viêm, giảm đau. Từ đó, giúp điều trị viêm loét dạ dày, hành tá tràng. Giúp giảm các tác nhân gây viêm loét dạ dày, hành tá tràng: Hp, thừa acid dịch vị. Giúp mau liền vết loét dạ dày, hành tá tràng, giảm các triệu chứng: đau thượng vị, ợ chua, đầy bụng, khó tiêu."
+  }
 }

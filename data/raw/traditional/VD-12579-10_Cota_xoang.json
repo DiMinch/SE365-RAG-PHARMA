@@ -56,5 +56,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị các loại viêm xoang, viêm mũi dị ứng. Trị các loại viêm xoang, viêm mũi dị ứng.",
+    "contraindication": "- Không dùng cho trẻ dưới 1 tuổi. - Phụ nữ có thai, người thể nhiệt. * Chú ý: 1 – 2 ngày đầu dùng thuốc có thể có hiện tượng đau nhức nhiều hơn ở các vùng xoang, mũi có thể tắc hay chảy nước mũi nhiều hơn. Các hiện tượng này sẽ bớt sau vài ngày dùng thuốc.",
+    "dosage": "- Người lớn: + Cân nặng < 50kg: 2 viên x 3 lần/ngày. + Cân nặng = 50kg: 3 viên x 3 lần/ngày. - Trẻ em: + Từ 6 – 10 tuổi: 1 viên x 2 lần/ngày. + Từ 10 – 15 tuổi: 1 viên x 3 lần/ngày."
+  }
 }

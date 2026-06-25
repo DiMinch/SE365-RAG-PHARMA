@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Nội",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Nhựa lô hội",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

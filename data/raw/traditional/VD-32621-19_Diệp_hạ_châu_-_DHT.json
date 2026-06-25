@@ -6,6 +6,13 @@
   "dosage_form": "Cao lỏng",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 5 ml cao lỏng chiết từ",
+      "amount": "Diệp hạ châu 3g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,16 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao hạt chuối hột, cao rau om, cao râu mèo, cao hạt lười ươi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Thuốc tạo điều kiện tốt cho việc thải trừ hoặc làm giảm kích thước sỏi nhỏ hơn 17 mm.\n- Cải thiện các triệu chứng lâm sàng của sỏi đường tiết niệu gây ra như : đau lưng, tiểu buốt gắt, ngắt quảng, tiểu máu và cặn đục. - Thuốc tạo điều kiện tốt cho việc thải trừ hoặc làm giảm kích thước sỏi nhỏ hơn 17 mm.\n- Cải thiện các triệu chứng lâm sàng của sỏi đường tiết niệu gây ra như : đau lưng, tiểu buốt gắt, ngắt quảng, tiểu máu và cặn đục.",
+    "dosage": "Ngày uống 3 lần, mỗi lần 3 viên, dùng liên tục trong nhiều ngày."
+  }
 }

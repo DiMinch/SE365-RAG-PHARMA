@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty dịch vụ Y tế tổng hợp Quận 4",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao tỏi, Cao nghệ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Tăng miễn dịch, chống đông máu, kháng siêu virus, kháng khuẩn; điều hòa huyết áp, cholesterol huyết.\n- Phòng chống cảm cúm, huyết áp cao, phòng bệnh thấp khớp."
+  }
 }

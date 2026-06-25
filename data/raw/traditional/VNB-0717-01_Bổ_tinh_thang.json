@@ -6,6 +6,13 @@
   "dosage_form": "Si rô",
   "manufacturer": "Công ty TNHH Dược phẩm & Thương mại Thành Công",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Sa sàng tử, Mật gấu,",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

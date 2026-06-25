@@ -6,6 +6,37 @@
   "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Lạc ti&#234;n",
+      "amount": "170g",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "(tương đương 11.25 gam cao)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Sen t&#226;m",
+      "amount": "5.5g",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "(tương đương 0.35 gam cao)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Chất phụ gia vừa đủ 100g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

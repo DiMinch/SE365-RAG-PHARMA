@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Sichuan Longlife Pharmaceutical Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Phethorum Chinesse Pursh",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

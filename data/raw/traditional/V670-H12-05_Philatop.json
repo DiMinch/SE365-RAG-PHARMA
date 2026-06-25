@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc ống uống",
   "manufacturer": "Công ty cổ phần Dược phẩm Khánh Hòa Khapharco",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Phủ tạng tươi, Ðường kính",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

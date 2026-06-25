@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty cổ phần Sao Thái Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói 3g chứa",
+      "amount": "Bột gừng (tương đương 5g gừng tươi) 0,9g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

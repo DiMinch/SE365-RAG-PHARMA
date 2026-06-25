@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu",
   "manufacturer": "Công ty TNHH Dược phẩm Tam Long",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bì động vật",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

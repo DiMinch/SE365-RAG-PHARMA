@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Nội",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Bảo vệ gan & thông mật trong các bệnh rối loạn chức năng gan, viêm túi mật, nổi mề đay.\n- Lợi tiểu.\n- Trị các rối loạn tiêu hóa như ăn chậm tiêu, ợ chua, đầy hơi, buồn nôn."
+  }
 }

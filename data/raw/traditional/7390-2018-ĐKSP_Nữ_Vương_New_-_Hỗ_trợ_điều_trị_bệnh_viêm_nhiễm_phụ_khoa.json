@@ -6,6 +6,15 @@
   "dosage_form": null,
   "manufacturer": "Công ty TNHH tư vấn y dược quốc tế IMC",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Trinh nữ Hoàng cung, Cao Hoàng Bá, Cao Khổ Sâm, Cao Diếp cá, Dây ký ninh, Immune-Gamma",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ điều trị bệnh viêm nhiễm phụ khoa"
+  }
 }

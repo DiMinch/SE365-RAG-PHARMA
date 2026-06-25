@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Chi nhánh Công ty TNHH Dược phẩm Dược liệu Mộc Hoa Tràm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói chứa 3 gam Cốm Diệp hạ châu đắng (tương đương Diệp hạ châu đắng 6g)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

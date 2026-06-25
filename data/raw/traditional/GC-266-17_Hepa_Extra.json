@@ -6,6 +6,23 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần SPM",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Tinh chất Atiso 250 mg,Tinh chất Nghệ 50 mg,Tinh chất Rau má 50 mg,",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Lecithin 50 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn tiêu hóa liên quan gan mật: chậm tiêu, khó tiêu, chán ăn do suy chức năng gan mật. Rối loạn đường mật: ứ/tắc mật, viêm đường mật. Viêm gan bán cấp/mãn tính, xơ gan, gan nhiễm mỡ, tăng SGOP/SGPT kéo dài, tổn thương gan do thuốc/rượu/nhiễm độc. Rối loạn tiêu hóa liên quan gan mật: chậm tiêu, khó tiêu, chán ăn do suy chức năng gan mật. Rối loạn đường mật: ứ/tắc mật, viêm đường mật. Viêm gan bán cấp/mãn tính, xơ gan, gan nhiễm mỡ, tăng SGOP/SGPT kéo dài, tổn thương gan do thuốc/rượu/nhiễm độc.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc",
+    "dosage": "Liều dùng: Người lớn 1-2 viên x 3 lần/ngày. Cách dùng: Uống trước các bữa ăn hay khi có rối loạn tiêu hóa."
+  }
 }

@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Xuất Nhập Khẩu Y tế DOMESCO",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao tỏi, cao nghệ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Tăng miễn dịch, chống đông máu, kháng siêu virus, kháng khuẩn; điều hòa huyết áp, cholesterol huyết. - Phòng chống cảm cúm, huyết áp cao, phòng bệnh thấp khớp."
+  }
 }

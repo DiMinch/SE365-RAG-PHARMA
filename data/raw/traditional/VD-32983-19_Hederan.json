@@ -6,6 +6,13 @@
   "dosage_form": "Siro thuốc",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi ml chứa",
+      "amount": "Cao khô lá cây thường xuân (tỷ lệ 10/1) 15mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

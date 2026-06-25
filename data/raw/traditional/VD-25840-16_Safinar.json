@@ -6,6 +6,51 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Hoè giác (Fructus Sophorae) 0.1 g ;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao Phòng phong (Radix Ledebouriellase seseloidis)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "g;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao Đương quy (Radix Angelicae sinensis) 0.05g;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao Chỉ xác (Fructus  Aurantii) 0.05g;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao Hoàng cầm (Radix Scutellariae) 0.05g;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao Địa du (Radix Sanguisorbae) 0.05g;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị trĩ nội, ngoại, đi ngoài ra máu, mát đại tràng và ngăn ngừa tái phát."
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc bột",
   "manufacturer": "Nhà thuốc gia truyền Nguyễn Hữu Ba",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Thuốc lào, Trầu không, Nước vôi, Ðất sét gan gà",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Guangxi Huahong Pharmaceutical Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Nhất điểm hồng 1,25g; Bạch hoa xà thiệt thảo 0,75g; Ké hoa đào 1,25g; Bùm bụp 1,25g; Kê huyết đằng 0,75g; Đào kim nương 1,25g; Tích mịch 0,75g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

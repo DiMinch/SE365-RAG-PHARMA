@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc uống",
   "manufacturer": "Công ty TNHH Dược phẩm Hà Thành",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Nước chiết phủ tạng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

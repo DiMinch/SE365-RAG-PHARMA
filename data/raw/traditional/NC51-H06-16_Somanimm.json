@@ -6,6 +6,16 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Viện Dược liệu",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột Angana (rễ củ cây đương quy Nhật Bản)  500mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ điều trị các trường hợp có suy giảm miễn dịch như bệnh nhân ung thư đang điều trị hóa chất hoặc tia xạ, bệnh nhân HIV, AIDS hoặc các trường hợp có suy giảm miễn dịch khác như lao, viêm nhiễm. Tăng cường sức đề kháng cho người cao tuổi để phòng bệnh. ĐẶC TÍNH DƯỢC LỰC: - Tác dụng tăng cường miễn dịch: Thuốc có tác dụng phục hồi sớm một số dòng tế bào máu (bạch cầu, tiểu cầu), phục hồi một số tổn thương cấu trúc và chức năng của miễn dịch dịch thể và tăng cường đáp ứng miễn dịch tế bào trên chuột trắng bị gây suy giảm miễn dịch bằng cyclophosphamid. - Thuốc có tác dụng phục hổi khá tốt khả năng chế tiết lL2 của tế bào Lympho phân lập từ bệnh nhân ung thư vòm họng giai đoạn cuối. Hỗ trợ điều trị các trường hợp có suy giảm miễn dịch như bệnh nhân ung thư đang điều trị hóa chất hoặc tia xạ, bệnh nhân HIV, AIDS hoặc các trường hợp có suy giảm miễn dịch khác như lao, viêm nhiễm. Tăng cường sức đề kháng cho người cao tuổi để phòng bệnh. ĐẶC TÍNH DƯỢC LỰC: - Tác dụng tăng cường miễn dịch: Thuốc có tác dụng phục hồi sớm một số dòng tế bào máu (bạch cầu, tiểu cầu), phục hồi một số tổn thương cấu trúc và chức năng của miễn dịch dịch thể và tăng cường đáp ứng miễn dịch tế bào trên chuột trắng bị gây suy giảm miễn dịch bằng cyclophosphamid. - Thuốc có tác dụng phục hổi khá tốt khả năng chế tiết lL2 của tế bào Lympho phân lập từ bệnh nhân ung thư vòm họng giai đoạn cuối.",
+    "dosage": "- Hỗ trợ điều trị bệnh nhân có suy giảm miễn dịch như bệnh nhân ung thư đang dùng hóa chất, hoặc tia xạ, hoặc các trường hợp suy giảm miễn dịch khác. Bệnh nhân HIV/AIDS: 1 viên/lần x 2 lần/ngày: uống sau bữa ăn. - Hỗ trợ điều trị bệnh nhân bị viêm gan virus mãn tính: 1 viên/lần x 2 lần/ngày: uống sau bữa ăn. - Tăng sức đề kháng cho người cao tuổi: 1 viên/lần/ngày: uống sau bữa ăn Mỗi đợt điều trị từ 3 tháng"
+  }
 }

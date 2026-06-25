@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Dae Han New Pharm Co., Ltd",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết lỏ Ginkgo biloba (tương đương với 9,6mg ginkgo flavone glycoside) 40mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

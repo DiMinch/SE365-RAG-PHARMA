@@ -6,6 +6,13 @@
   "dosage_form": "Miếng cao",
   "manufacturer": "Công ty cổ phần Dược và vật tư Y tế Cà Mau",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Thịt trăn nấu Cao",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

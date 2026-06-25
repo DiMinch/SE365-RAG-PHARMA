@@ -6,6 +6,13 @@
   "dosage_form": "Cao đặc",
   "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc rễ đinh lăng (tương ứng với 50kg rễ đinh lăng) 5kg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

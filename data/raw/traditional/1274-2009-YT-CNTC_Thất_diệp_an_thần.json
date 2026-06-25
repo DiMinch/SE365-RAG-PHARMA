@@ -6,6 +6,27 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty TNHH Nam Dược",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi viên nén bao phim chứa",
+      "amount": "",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Saponin toàn phần của lá tam thất…………100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tinh bột…………………………………….130mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Thất Diệp An Thần được sản xuất từ lá của cây sâm tam thất kết hợp với lạc tiên, tâm sen, táo nhân là ba vị dược liệu chữa mất ngủ hay gặp. Theo các nghiên cứu tác dụng dược lý của các nước trên thế giới cũng như ở Việt Nam, lá và hoa của tam thất chứa nhiều các Saponin Gingsenoid nhóm Rb có tác dụng ức chế trung khu thần kinh trung ương biểu hiện an thần gây ngủ. Như vậy Thất diệp an thần có tác dụng dưỡng tâm, an thần, tăng cường sức đề kháng cho cơ thể.\nCông dụng\nGiúp dưỡng tâm, an thần, tạo giấc ngủ sâu, tăng cường sinh lực và sức đề kháng của cơ thể.\n\nĐối tượng sử dụng:\n+ Dùng cho người bị mất ngủ kéo dài: Do mệt mỏi, căng thẳng, cơ thể suy nhược hoặc do bệnh lý. \n+ Người già bị khó ngủ. \n+ Người bị rối loạn giấc ngủ: Ngủ hay mơ, giấc ngủ bị gián đoạn.\n\nLưu ý:\nVới thành phần 100% từ thảo dược, sản phẩm có tác dụng chữa mất ngủ tốt, rất an toàn, có thể sử dụng lâu dài và không gây lệ thuộc, đặc biệt còn giúp nâng cao sức khỏe cho người dùng. Khi bệnh nhân đã lấy lại được giấc ngủ tự nhiên thì vẫn có thể tiếp tục dùng Thất diệp an thần như một liệu pháp tăng cường sức khỏe, ngăn ngừa bệnh tật."
+  }
 }

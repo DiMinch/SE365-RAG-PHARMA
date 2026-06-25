@@ -6,6 +6,13 @@
   "dosage_form": "Cao lỏng",
   "manufacturer": "Công ty cổ phần Dược Nam Định",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Tân di hoa, thương nhĩ tử, ngũ sắc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

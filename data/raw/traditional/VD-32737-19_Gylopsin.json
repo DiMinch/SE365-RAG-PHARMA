@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô giảo cổ lam 300mg; Polyphenol của chè dây 150mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

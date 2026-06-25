@@ -68,5 +68,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "– Điều trị chứng chán ăn, tiêu hóa kém – Chứng lãnh cảm ở nữ giới – Hỗ trợ điều trị nhức mỏi, đau lưng, đau nhức xương khớp – Điều trị chứng chán ăn, tiêu hóa kém – Chứng lãnh cảm ở nữ giới – Hỗ trợ điều trị nhức mỏi, đau lưng, đau nhức xương khớp",
+    "contraindication": "– Mẫn cảm với thành phần của thuốc\n– Trẻ dưới 15 tuổi, phụ nữ mang thai",
+    "dosage": "– Người lớn: Ngày 20ml x 2-3 lần – Dùng thuốc sau khi ăn",
+    "side_effects": "– Buồn nôn, chóng mặt, chán ăn\n– Dị ứng, phát ban"
+  }
 }

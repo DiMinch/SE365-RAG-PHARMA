@@ -6,6 +6,13 @@
   "dosage_form": "Viên hoàn giọt",
   "manufacturer": "Công ty cổ phần dược phẩm VCP",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Một viên hoàn giọt chứa cao khô rễ Đan sâm (tương đương 43,56mg rễ Đan Sâm) 2,18mg; Cao khô rễ Tam Thất (tương đương với 8,52 rễ Tam thất) 0,95mg; Boneol 1mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

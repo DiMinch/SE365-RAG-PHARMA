@@ -74,5 +74,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Điều trị các trường hợp viêm loét miệng lưỡi (nhiệt miệng), miệng môi sưng đau, đau nhức răng, chảy máu chân răng, sưng lợi, viêm họng, hôi miệng. Điều trị các trường hợp viêm loét miệng lưỡi (nhiệt miệng), miệng môi sưng đau, đau nhức răng, chảy máu chân răng, sưng lợi, viêm họng, hôi miệng.",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc.",
+    "dosage": "Người lớn: Mỗi lần uống 3 viên, ngày uống 3 lần sau bữa ăn. Trẻ em dưới 12 tuổi: Mỗi lần uống 2 viên, ngày uống 3 lần sau bữa ăn."
+  }
 }

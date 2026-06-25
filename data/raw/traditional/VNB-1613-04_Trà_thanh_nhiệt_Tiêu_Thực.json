@@ -6,6 +6,15 @@
   "dosage_form": "Trà túi lọc",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Nụ vối, Hoa ngâu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Thanh nhiệt, kích thích tiêu hoá, giúp ăn ngon. Dùng thường xuyên có tác dụng cải thiện các bệnh đường ruột như: rối loạn tiêu hoá, viêm đại tràng,ổn định huyết áp, an thần, tĩnh tâm."
+  }
 }

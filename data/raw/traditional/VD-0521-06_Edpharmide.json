@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao mềm vàng đắng, Bột vỏ quả măng cụt",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

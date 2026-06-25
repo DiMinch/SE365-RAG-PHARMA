@@ -6,6 +6,13 @@
   "dosage_form": "Cao lỏng",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 10 ml cao lỏng hỗn hợp các dược liệu (tương ứng với Thục địa 800 mg; Hoài sơn 400 mg; Sơn thù 400 mg; Đan bì 300 mg, Bạch linh 300 mg; Trạch tả",
+      "amount": "300 mg) 250 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

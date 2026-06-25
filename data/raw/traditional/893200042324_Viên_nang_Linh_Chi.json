@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô dược liệu 250 mg tương đương",
+      "amount": "Linh chi 3000 mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

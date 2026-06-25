@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Korea E-Pharm Inc. Korea",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết cồn Crataegi, cao lá Ginkgo biloba, cao lá xả, tinh dầu tỏi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

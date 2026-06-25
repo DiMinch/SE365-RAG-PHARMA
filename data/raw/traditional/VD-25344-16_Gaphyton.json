@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso, Cao biển súc, bìm bìm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng cho những người thiểu năng gan, viêm gan gây mệt mỏi, khó tiêu, vàng da, mụn nhọt, lở ngứa, bí đại tiểu tiện, táo bón. - Giải độc, chống dị ứng. Đặc biệt suy giảm chức năng gan do dùng nhiều bia rượu. - Xơ vữa động mạch, mỡ trong máu cao."
+  }
 }

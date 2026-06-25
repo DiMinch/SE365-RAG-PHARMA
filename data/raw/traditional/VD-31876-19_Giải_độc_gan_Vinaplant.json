@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 3g chứa cao đặc Bồ bồ (tương đương với 2g Bồ Bồ) 200 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

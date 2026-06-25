@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Dr. Willmar Schwabe GmbH & Co",
   "manufacturer_country": "Germany",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô rễ valerian, lá Balm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

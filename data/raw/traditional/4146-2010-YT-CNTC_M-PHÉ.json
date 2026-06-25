@@ -6,6 +6,15 @@
   "dosage_form": null,
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "cao chuẩn cây Bách bệnh (có tên khoa học là Eurycoma Longifonia)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "M – phé được tinh chế 100% từ thiên nhiên, thành phần cốt lõi là cao chuẩn cây Bách bệnh (có tên khoa học là Eurycoma Longifonia);, có tác dụng:\n- Tăng cường sức khỏe sinh lý cho nam giới, kích thích cơ thể tăng tiết hormone giới tính nam (testosterone) một cách tự nhiên.\n- Phòng ngừa, hỗ trợ điều trị suy giảm chức năng sinh lý ở nam giới;\n- Điều trị vô sinh nam;\n- Tăng cường sức khỏe, giảm căng thẳng mệt mỏi;\n- Bổ sung năng lượng cho cơ thể, giúp giảm stress, mệt mỏi;\n- Duy trì sự hưng phấn khi yêu, kéo dài thời gian yêu;\n- Tăng cường miễn dịch, ngăn ngừa khối u và phòng chống lão hoá.\n\nTác dụng của cây Bách bệnh đã được chứng nhận và công bố thông qua nhiều đề tài nghiên cứu trên thế giới, và là đề tài nghiên cứu trong nhiều năm của các nhà khoa học trường Đại học Dược Hà Nội.\n\nTrích:\nCác nghiên cứu gần đây đã kết luận: Dịch chiết cây Bách Bệnh kích thích tiết Testosteron tự nhiên ở nam giới lên 4,4 lần, do đó cơ thể nhanh chóng lấy lại sự \"sẵn sàng lâm trận\" và sự cường tráng cũng như sinh khí.. Đồng thời kết quả xác định dịch chiết cây Bách Bệnh làm tăng sinh Oxyd Nitric trong cơ thể, do đó nó đóng vai trò như Viagra tự nhiên. Cây Bách Bệnh được đánh giá là thảo dược có hoạt tính cao và an toàn để tăng cường sinh lực cho nam giới.\n(Trích tanbachtung.vn)  \n\n- M – phé được bào chế từ giống cây Bách bệnh chính thổ, cho hàm lượng hoạt chất cao nhất, được lựa chọn nguồn gốc và nguồn genes tốt nhất, qua quy trình thu hái và sản xuất hiện đại.\n- M – phé là sản phẩm có tính năng vượt trội, mang lại cảm giác hưng phấn, duy trì thời gian yêu cho đấng mày râu.\n\nSản phẩm đã được chứng minh trong:\n- Phòng và điều trị giảm suy yếu chức năng sinh sản nam\n+ Tăng lượng tinh dịch\n+ Tăng số lượng và mật độ tinh trùng\n- Hỗ trợ điều trị mãn dục nam:\n+Tăng tiết testosteron nội sinh\n+ Phòng và điều trị rối loạn cương\n+ Tăng độ cương cứng và chất lượng giao hợp"
+  }
 }

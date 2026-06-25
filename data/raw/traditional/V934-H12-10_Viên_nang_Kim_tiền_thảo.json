@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao kim tiền thảo 120mg; cao râu mèo 100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược phẩm Việt (Đông Dược Việt)",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 510 mg cao đặc hỗn hợp dược liệu tương đương với 2.016mg dược liệu bao gồm",
+      "amount": "Mạch môn 270mg; Thục địa 540mg; Xạ can 180mg; Bách bộ 216mg; Tang bạch bì 270mg; Đảng sâm 360mg; Khổ hạnh nhân 90mg; Mơ muối 90mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,19 @@
   "dosage_form": "Rượu thuốc",
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Canhkina………………………",
+      "amount": "6 g",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Rượu trắng vừa đủ 600 ml",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

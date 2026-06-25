@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần Dược phẩm Phương Đông",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Diệp hạ châu đắng (tương đương với 1g Diệp hạ châu đắng) 100 mg; Cao Cỏ nhọ nồi (tương đương với 0,5 g Cỏ nhọ nồi) 50 mg; Cao Nhân trần (tương đương với 1,3g Nhân trần) 130 mg; Cao Râu bắp (tương đương với 0,5g Râu bắp) 50 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

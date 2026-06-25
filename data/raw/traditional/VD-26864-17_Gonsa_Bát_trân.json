@@ -6,6 +6,13 @@
   "dosage_form": "Cao lỏng",
   "manufacturer": "Công ty cổ phần dược phẩm Khang Minh.",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 10ml cao lỏng dược liệu tương ứng với",
+      "amount": "Đương quy 0,9g; Xuyên khung 0,45g; Thục địa 0,9g; Bạch thược 0,6g; Đảng sâm 0,6g; Bạch linh 0,6g; Bạch truật 0,6g; Cam thảo 0,3g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

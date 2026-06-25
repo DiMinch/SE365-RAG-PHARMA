@@ -1,9 +1,9 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-36454/ginkgo-biloba.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Ginkgo biloba",
+  "name": "Ginkgo Biloba 40mg TV Pharm",
   "registration_number": "VD-10496-10",
-  "dosage_form": "",
+  "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược phẩm Trà Vinh TV PHARM",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
@@ -14,5 +14,11 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-406/ginkgo-biloba.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Ginkgo biloba] - Ðiều trị mất trí nhớ ngắn hạn, suy giảm tâm thần, thiếu nhạy bén và minh mẫn tâm thần, trầm cảm, khó khăn trong việc tập trung tư tưởng. - Ðiều trị các rối loạn chức năng cơ hữu của não, có kèm theo sự sa sút trí tuệ . - Ðiều trị hội chứng khập khễnh gián cách, bệnh võng mạc (thoái hóa vết chấm, bệnh võng mạc thuộc đái tháo), các hội chứng thuộc thiểu năng tai trong ( nhức đầu , chóng mặt , ù tai...), lãng tai ở người cao tuổi. Di chứng sau các tai nạn huyết mạch thuộc não và chấn thương sọ. - Trạng thái lão suy (kể cả bệnh Alzheimer ), chứng bất lực. - Chứng giòn mao mạch. - Hội chứng trước kinh nguyệt, nhức đầu... - Thuốc đã chứng tỏ là chất bổ sung thực phẩm rất tốt cho nhiều người, và đã tạo nên một cảm giác toàn hảo về sức khỏe rất tốt, đặc biệt ở các người cao tuổi.",
+    "contraindication": "[Thông tin hoạt chất Ginkgo biloba] Người bị tăng cảm với cao chiết xuất Ginkgo biloba không dùng thuốc này.",
+    "dosage": "[Thông tin hoạt chất Ginkgo biloba] Người lớn và trẻ em trên 12 tuổi: mỗi lần 1 viên, mỗi ngày 3 lần. Uống trong bữa ăn, nuốt trọn viên thuốc, không bẻ và không nhai.",
+    "side_effects": "[Thông tin hoạt chất Ginkgo biloba] Tác dụng phụ rất hiếm: rối loạn tiêu hóa, ban, nhức đầu.",
+    "pharmacology": "[Thông tin hoạt chất Ginkgo biloba] Chất cao chiết suất đậm đặc và đã tiêu chuẩn hóa từ lá khô của cây Ginkgo biloba (họ thực vật Ginkgoaceae); làm tăng tuần hoàn động mạch ở các chi và đầu bình thường hóa tính thấm của mao mạch trong chứng phù nề tự phát, tăng lưu lượng máu đến não, hoạt hóa sự chuyển hóa năng lượng của tế bào bằng cách gia tăng tiêu thụ glucose ở não bộ, và bình thường hóa sự tiêu thụ oxy ở não.\nThuốc cũng giảm nguy cơ chứng huyết khối thuộc vi tuần hoàn, và có những tác dụng lợi ích đặc biệt đối với hệ tuần hoàn của người cao tuổi."
+  }
 }

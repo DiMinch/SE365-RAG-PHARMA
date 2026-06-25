@@ -56,5 +56,8 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "- Tăng cường khí lực, khử phong, trừ thấp. - Chủ trị đau nhức thân thể, gáy lưng co rút, cử động khó khăn, chân tay tê dại.",
+    "interactions": "Khi sử dụng trị liệu đồng thời, tham khảo nhãn thuốc tương ứng thông tin về đường chuyển hóa của thuốc dùng đồng thời. Miconazole có thể ức chế sự chuyển hóa của những thuốc được chuyển hóa bởi hệ thống men CYP3A4 và CYP2C9. Điều này đưa đến sự gia tăng và/hoặc kéo dài tác dụng của những thuốc đó, kể cả tác dụng phụ.\nMiconazole đường uống chống chỉ định sử dụng đồng thời với những thuốc mà chịu sự  chuyển hóa bởi CYP3A như sau (Xem chống chỉ định):\n- Những chất được biết đến gây kéo dài khoảng QT, ví dụ: astemizole, bepridil, cisapride, dofetilide, halofantrine, mizolastine, pimozide, quinidine, sertindole, sertindole và terfenadine\n- Ergot alkaloids\n- Chất ức chế men HMG-CoA reductase như simvatatin và lovastatin\n- Triazolam và midazolam đường uống.\nKhi sử dụng đồng thời với miconazole đường uống, các thuốc sau phải được thận trọng do có thể bị gia tăng hoặc kéo dài tác dụng điều trị và/hoặc tác dụng phụ. Nếu cần, giảm liều và giám sát nồng độ trong huyết tương:\n- Các thuốc chịu sự chuyển hóa bởi CYP2C9 (xem Chú ý & thận trọng):\n+ Thuốc chống đông máu đường máu như warfarin\n+ Thuốc hạ đường huyết đường uống như sulfonylureas\n+ Phenytoin\n- Các thuốc chịu sự chuyển hóa bởi CYP3A4:\n+ Chất ức chế men HIV protease như saquinavir\n+ Một số tác nhân kháng ung thư như vinca alkaloids, busulfan và docetaxel\n+ Các thuốc chẹn kênh Ca như dihydropyridines và verapamil\n+ Thuốc ức chế miễn dịch: cyclosporine, tacrolimus, sirolimus (rapamycin)\n+ Các thuốc khác: alfentanil, alprazolam, brotizolam, buspirone, carbamazepine, cilostasol, disopyramide, ebastine, methylprednisolone, midazolam IV, reboxetine, rifabutin, sildenafil, và trimetrexate."
+  }
 }

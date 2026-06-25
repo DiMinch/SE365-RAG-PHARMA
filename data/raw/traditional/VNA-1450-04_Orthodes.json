@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần Dược phẩm Cửu Long (PHARIMEXCO)",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao kim tiền thảo, Cao Râu mèo",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

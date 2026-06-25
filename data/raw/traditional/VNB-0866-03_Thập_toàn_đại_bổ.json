@@ -62,5 +62,11 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Tác dụng: Ôn bổ khí huyết. Chỉ định : Khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn , đánh trống ngực, chóng mặt , dễ ra mồ hôi, sức yếu, mệt mỏi , tay chân không ấm.",
+    "contraindication": "Người đang bị tiêu chảy, hoặc mẫn cảm với thuốc. Phụ nữ có thai.",
+    "dosage": "Người lớn : liều trung bình Mỗi lần uống 5ml. Ngày uống 2-3 lần. Hoặc theo chỉ định của bác sĩ;",
+    "side_effects": "Chưa phát hiện thấy tác dụng không mong muốn của thuốc.Nếu có bất thường khi dùng thuốc cần ngừng ngay và báo cho bác sĩ hoặc dược sĩ biết để xử lý.",
+    "interactions": "- Các loại thuốc kháng acid thường xảy ra các tương tác với các thuốc sử dụng bằng đường uống . Do đó, không nên dùng đồng thời thuốc kháng acid với các loại thuốc khác vì nó có thể làm giảm tác dụng của các thuốc này\n- Chú ý: nên sử dụng các loại thuốc cách nhau khoảng 2 giờ."
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Zifam Pinnacle Pty., Ltd",
   "manufacturer_country": "Australia",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Hypericum perforatum 6",
+      "amount": "1 (St John s wort)",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,18 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá dâu tằm (tương đương lá dâu tằm 5g) 570mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng dược lý: Theo các nghiên cứu tác dụng hạ glucose huyết của lá dâu là do thành phần của lá dâu có các nhóm chất đường chứa nitơ (DNJ);, có khả năng ức chế enzym α - glucosidase; trong thành phần của lá dâu có fogomine có khả năng kích thích tụy giải phóng insulin; thành phần trong lá dâu làm tăng sử dụng glucose ở mô. Chỉ định: Hỗ trợ điều trị đái tháo đường tuýp 2. Tác dụng dược lý: Theo các nghiên cứu tác dụng hạ glucose huyết của lá dâu là do thành phần của lá dâu có các nhóm chất đường chứa nitơ (DNJ);, có khả năng ức chế enzym α - glucosidase; trong thành phần của lá dâu có fogomine có khả năng kích thích tụy giải phóng insulin; thành phần trong lá dâu làm tăng sử dụng glucose ở mô. Chỉ định: Hỗ trợ điều trị đái tháo đường tuýp 2.",
+    "contraindication": "Những người dị ứng với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Uống với liều 4-6 viên/ ngày, chia làm 2 - 3 lần.",
+    "side_effects": "Chưa có báo cáo về tác dụng không mong muốn.\n\nThông báo cho bác sỹ hoặc dược sỹ tác dụng không mong muốn gặp phải trong khi sử dụng thuốc."
+  }
 }

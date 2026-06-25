@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu",
   "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Lá tươi actiso",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

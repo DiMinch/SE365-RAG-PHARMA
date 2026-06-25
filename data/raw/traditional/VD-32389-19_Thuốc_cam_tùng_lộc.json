@@ -74,5 +74,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Thuốc dùng để phòng và điều trị còi xương, suy dinh dưỡng, mồ hôi trộm, rối loạn tiêu hóa, kém ăn, kém ngủ, giun kim, giun đũa… Thuốc dùng để phòng và điều trị còi xương, suy dinh dưỡng, mồ hôi trộm, rối loạn tiêu hóa, kém ăn, kém ngủ, giun kim, giun đũa…",
+    "contraindication": "Chống chỉ định với người mẫn cảm với bất cứ thành phần nào của thuốc.\nNgười tiểu đường",
+    "dosage": "Trên 6 tuổi: ngày 2 lần, mỗi lần 2 viên"
+  }
 }

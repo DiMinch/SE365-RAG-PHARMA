@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao kim tiền thảo",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

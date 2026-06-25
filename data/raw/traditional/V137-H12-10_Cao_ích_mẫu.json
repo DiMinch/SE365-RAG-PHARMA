@@ -1,8 +1,8 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-14891/cao-ich-mau.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Cao ích mẫu",
-  "registration_number": "V137-H12-10",
+  "name": "Cao ích mẫu Long An",
+  "registration_number": "V95-H12-16",
   "dosage_form": "Cao lỏng",
   "manufacturer": "Cơ sở sản xuất thuốc Y học dân tộc Long An",
   "manufacturer_country": "VIETNAM",
@@ -15,46 +15,51 @@
     },
     {
       "name": "Thục địa",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
     },
     {
       "name": "Xuyên khung",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
     },
     {
       "name": "Bạch thược",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
     },
     {
       "name": "Ích mẫu",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
     },
     {
       "name": "Hồng hoa",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2456/hong-hoa.aspx"
     },
     {
       "name": "Ðảng sâm",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
     },
     {
       "name": "Hương phụ",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2438/huong-phu.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Công dụng: Hoạt huyết điều kinh Chỉ định: Kinh nguyệt không đều, đau bụng hành kinh, băng huyết, khí hư bạch đới, làm cho tử cung chóng hồi phục sau đẻ. \n[Thông tin hoạt chất Mẫu đơn bì] + Trị nhiệt nhập dinh huyết, sốt về chiều, phát ban, can dương vượng lên, kinh nguyệt không đều, đinh nhọt sưng tấy, ứ đau do ngoại thương (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị nhiệt tà thuộc ôn nhiệt bệnh nhập vào phần dinh, phát ban, kinh giật, thổ huyết, chảy máu cam, tiểu ra máu, kinh bế, trưng hà, trường ung, ung nhọt do ứ huyết đình trệ (Đông Dược Học Thiết Yếu).",
+    "contraindication": "[Thông tin hoạt chất Mẫu đơn bì] + Phụ nữ có thai, kinh lượng nhiều không dùng.\n\n+ Âm hư mà hay đổ mồ hôi không dùng.\n\n+ Kỵ Bối mẫu, Đại hoàng, Thỏ ty tử, tỏi.",
+    "dosage": "[Thông tin hoạt chất Mẫu đơn bì] Liều dùng: 8 – 20g. Bài thuốc + Trị trường ung, ruột dư viêm cấp:  Đơn bì, Đại hoàng, Đào nhân, Đông quỳ tử, Mang tiêu (Đại Hoàng Mẫu Đơn Bì Thang – Kim Quỹ Yếu Lược). + Trị vùng hạ bộ lở loét, đã hõm một lỗ sâu: Dùng 4g bột Mẫu đơn bì, sắc uống ngày 3 lần (Trửu Hậu Phương). + Trị dịch hoàn  xệ xuống, căng lên làm cho không cử động được:  Mẫu đơn bì, Phòng phong, hai vị bằng nhau, tán bột, mỗi lần uống 8g với rượu (Thiên Kim phương). + Trị bị thương do dao chém, huyết rỉ ra: Mẫu đơn bì tán bột, uống chừng 3 nhúm ngón tay với nước là đi tiểu ra huyết (Thiên Kim Phương). + Giải các loại ngộ độc trùng thú: dùng Mẫu đơn (rễ) tán thành bột, mỗi lần uống 4g, ngày 3 lần (Ngoại Đài Bí Yếu). + Trị phụ nữ bị chứng máu xấu (ác huyết) công lên tụ ở mặt, hay giận dữ: Mẫu đơn bì 20g, Can tất (đốt cho hết khói) 20g, sắc với 2 chén nước còn 1 chén, uống (Chư Chứng Biện Nghi). + Trị tổn thương ứ huyết: dùng Mẫu đơn bì 80g, Manh trùng 21 con, sao qua, rồi tán bột, mỗi buổi sáng uống 4g với rượu nóng thì huyết ứ sẽ hóa ra nước tiêu ra ngoài (Trinh Nguyên Quảng Lợi phương). + Trị thương hàn nhiệt độc gây nên mụn nhọt to bằng hột đậu: Mẫu đơn bì, Sơn chi tử nhân, Hoàng cầm (bỏ lõi đen), Đại hoàng (sao), Mộc hương, Ma hoàng (bỏ rễ, đốt). Sắc uống (Mẫu Đơn Thang – Thánh Tế Tổng Lục). + Trị âm hư, hư nhiệt, bệnh nhiễm thời kỳ phục hồi hoặc bệnh nhiễm sốt kéo dài: Đơn bì 12 – 16g, Thanh hao 8g, Miết giáp 20g, Sinh địa 16g, Tri mẫu 8g, sắc uống (Thanh Hao Miết Giáp Thang – Ôn Bệnh Điều Biện). + Trị âm hư huyết nhiệt, phát sốt nửa đêm, nóng trong xương:  Đơn bì, Phục linh, Thục địa, Hoài sơn, Trạch tả, Hoàng bá, Tri mẫu (Tri Bá Địa Hoàng Thang - Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị kinh nguyệùt đến sớm, sốt về chiều, có kinh huyết đen kèm có ứ huyết có cục máu, lượng nhiều: Mẫu đơn bì 12g, Thanh hao 12g, Địa cốt bì 12g, Hoàng bá 8g, Thục địa 16g, Bạch thược 12g, Phục linh 12g, sắc uống (Thanh Kinh Thang - Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị huyết ứ, kinh nguyệt bế:  Mẫu đơn bì 12g, Nhục quế 2g, Mộc thông 12g, Xích thược 12g, Miết giáp 12g, Đào nhân 12g,  Thổ qua căn (Vương qua căn) 12g. Sắc uống (Mẫu Đơn Thang - Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị chấn thương do té ngã, bị đập đánh, ứ huyết đau nhức: Mẫu đơn bì 12g, Đương quy 12g, Cốt toái bổ 12g, Tục đoạn 12g, Nhũ hương 8g, Một dược 8g, Đào nhân 12g, Xuyên khung 6g, Xích thược 12g, Sinh địa 12g. Tán bột hoặc sắc uống  (Mẫu Đơn Bì Tán - Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị đinh nhọt: Mẫu đơn bì 20g, Ý dĩ nhãn 40g, Qua lâu nhân 8g, Đào nhân 12 hạt. Sắc uống. (Mẫu Đơn Bì Tán - Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị huyết áp cao, xơ cứng động mạch: Đơn bì 8 – 12g, Cúc hoa 12g, Kim ngân 20g, Kê huyết đằng 20g, Thạch quyết minh 20 – 40g, Bội lan 12g, sắc uống (Đơn Bì Cúc Hoa Thang - Sổ Tay Lâm Sàng Trung Dược).",
+    "pharmacology": "[Thông tin hoạt chất Mẫu đơn bì] Mẫu đơn bì vỏ rễ của cây Mẫu đơn, là cây thân gỗ sống lâu năm. Có thể cao 1-2m, rễ phát triển thành củ. Lá mọc cách, thường chia thành 3 lá chét, lá chét giữa lại chia thành 3 thùy, mặt trên màu lục, mặt dưới có lông, màu trắng nhạt. Hoa mọc đơn độc ở đầu cành rất to. Tràng 5 – 6 hay nhiều hơn tùy theo kỹ thuật trồng hay giống chọn lựa, màu đỏ tím hoặc trắng. Dược Liệu Mẫu đơn bì Thu hái, sơ chế: Mẫu đơn sau khi trồng được 3 năm thì thu hoạch. Vào khoảng tháng 7-11. Thu hoạch Mẫu đơn vào mùa thu năng suất cao hơn mùa hè từ 10-15% và có chất lượng tốt hơn. Sau khi thu hoạch, cắt hết rễ tơ, rửa sạch đất cát, dùng mảnh tre hoặc mảnh thủy tinh cạo sạch lớp vỏ ngoài. Nếu gặp trời mưa  thì không cạo vỏ và không rút ruột rễ vì sẽ ảnh hưởng đến chất lượng dược liệu. Trong quá trình phơi nắng, tối phải mang vào, không nên xếp thành đống vì làm vậy rễ có vị chua, màu đen, có chất dầu làm giảm chất lượng. Mô tả Dược liệu: Vị thuốc Mẫu đơn bì là vỏ rễ khô hình ống hoặc hình nửa ống. Một cạnh thường có vết nứt dọc, hai mép cuộn cong vào trong, dài ngắn không nhất định, dày khoảng 0,3cm. Mặt ngoài màu nâu tro hoặc nâu tía, có vân dọc, có vết sẹo ngang hình tròn dài, hơi lồi, có vết cắt của rễ tơ. Mặt trong màu nâu hoặc mầu vàng tro nhạt, có vân sọc nhỏ, có nhiều chấm ánh bạc (tinh thể). Chất cứng giòn, dễ bẻ gẫy, mặt gẫy tương đối phẳng, có bột. Lớp ngoài mầu nâu tro hoặc mầu phấn hồng, lớp trong mầu phấn trắng. Mùi thơm đặc biệt, vị hơi đắng, chát, hơi tê lưỡi (Dược Tài Học). Bào chế: + Rửa sạch, dùng dao con rạch một đường theo chiều dọc của rễ, bóc lấy vỏ bỏ lõi, cắt thành đoạn dài 13 - 17cm ngâm vào nước sạch từ 10 - 15 phút, vớt ra sấy khô. Có thể không cạo bỏ vỏ ngoài, chỉ bỏ lõi, khi dùng tẩm nước ủ mềm, xắt lát, phơi khô dùng, có khi tẩm rượu sao qua,hoặc sao cháy tùy đơn thuốc (Trung Dược Đại Từ Điển). + Mua về rửa sạch bụi bặm, ủ mềm một đêm, nếu còn lõi thì bỏ đi. Bào lát mỏng phơi trong râm mát. Có thể tẩm rượu, sao cháy tùy theo đơn. Dược Liệu Mẫu đơn bì Tính vị: Vị cay, đắng, tính hàn. Quy kinh: Vào kinh tâm, can, thận. Thành phần hóa học: Rễ chứa alcaloid, saponin và một chất thuộc nhóm Anthocyanin, tinh dầu, sterol.... Trong vỏ rễ có các chất acetophenon. + Hòa huyết, sinh huyết, lương huyết (Bản Thảo Cương Mục).\n\n+ Phá huyết, hành huyết, tiêu trưng hà, trừ nhiệt ở phần huyết (Trấn Nam Bản Thảo).\n\n+ Thanh nhiệt, lương huyết, hòa huyết, tiêu ứ (Trung Dược Đại Từ Điển).\n\n+ Thanh huyết nhiệt, tán ứ huyết (Đông Dược Học Thiết Yếu).\n\nTác dụng dược lý:\n\n+ Tác dụng kháng viêm: do chất Phenol Đơn bì (Trung Dược Học).\n\n+ Các Glucosid khác của Đơn bì có tác dụng kháng viêm mạnh hơn (Trung Dược Học).\n\n+ In vitro, nước sắc Đơn bì có tác dụng kháng khuẩn mạnh đối với trực khuẩn thương hàn, tụ cầu khuẩn vàng, liên cầu khuẩn dung huyết, phế cầu khuẩn, trực khuẩn bạch hầu (Sổ Tay Lâm Sàng Trung Dược).\n\n+ Phenol Đơn bì có tác dụng giảm đau, an thần, chống co giật, giải nhiệt do ức chế trung khu thần kinh (Trung Dược Học).\n\n+ Trên thực nghiệm, Phenol Đơn bì có tác dụng chống gây loét trên chuột bị kích thích, ức chế xuất tiết dạ dầy của chuột (Trung Dược Học).\n\n+ Đơn bì có tác dụng chống chuột nhắt có thái sớm. Phenol Đơn bì làm cho niêm mạc tử cung súc vật xuất huyết, thông kinh (Trung Dược Học).\n\n+ Nước sắc Đơn bì và Phenol Đơn bì đều có tác dụng hạ áp. Nước sắc không có Phenol Đơn bì không có tác dụng hạ áp kéo dài hơn (Trung Dược Học).\n\nTính vị:\n\n+ Vị cay, tính hàn (Bản Kinh).\n\n+ Vị đắng, hơi hàn, không độc (Biệt Lục).\n\n+ Vị chua, cay, tính hàn (Trấn Nam Bản Thảo).\n\n+ Vị cay, đắng, tính mát (Trung Dược Đại Từ Điển).\n\n+ Vị cay, đắng, tính hơi hàn (Đông Dược Học Thiết Yếu)."
+  }
 }

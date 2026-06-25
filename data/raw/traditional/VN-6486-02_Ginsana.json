@@ -6,6 +6,17 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Pharmaton S.A",
   "manufacturer_country": "SWITZERLAND",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao ginseng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Tăng cường khả năng hoạt động về thể chất & tinh thần trong trường hợp suy nhược & kiệt sức, mệt mỏi, mất khả năng tập trung hay trong thời kỳ dưỡng bệnh. - Hỗ trợ cho các tình trạng bị stress & tăng cường sức đề kháng. - Tăng cường khả năng hoạt động về thể chất & tinh thần trong trường hợp suy nhược & kiệt sức, mệt mỏi, mất khả năng tập trung hay trong thời kỳ dưỡng bệnh.\n- Hỗ trợ cho các tình trạng bị stress & tăng cường sức đề kháng.",
+    "contraindication": "Quá mẫn với thuốc.",
+    "dosage": "- Người lớn: 2 viên/ngày vào bữa sáng hay 1 viên vào bữa sáng & 1 viên vào bữa trưa.\n- Trẻ < 12 tuổi: không nên dùng."
+  }
 }

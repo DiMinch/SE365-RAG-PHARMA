@@ -6,6 +6,21 @@
   "dosage_form": "Cồn thuốc",
   "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Tỏi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "[Thông tin hoạt chất Phenytoin] - Cơn động kinh thể lớn và các thể tâm thần vận động tiêu điểm nội tạng  trừ thể nhỏ.\r\n–Các chứng đau thần kinh mặt. chứng nhịp đôi, nhịp ba do dùng quá liều digitoxin và dẫn xuất.",
+    "contraindication": "[Thông tin hoạt chất Phenytoin] Mẫn cảm với dẫn xuất hydantoin. Đang nuôi con bú. Rối loạn chuuyển hóa porphyrin.",
+    "dosage": "[Thông tin hoạt chất Phenytoin] Người lớn: 2-5mg/ngày–chia ra 1-2lần. Trẻ em: 3-8mg/kg/ngày. Chia ra 1-2 lần. Tiêm tĩnh mạch: người lớn dùng 200-400mg (tiêm 2ml/phút).",
+    "side_effects": "[Thông tin hoạt chất Phenytoin] Buồn nôn, nôn; phì đại lợi răng; chóng mặt, rối loạn thị giác, thất điểu. Buồn ngủ-Ngoại ban–Mày đay. Rậm lông–Rung giật nhãn cầu. Khó tiêu–Viêm gan–Hội chứng Stevens–Johnson–Tăng glucose máu–nhuyễn xương–Lú lẫn.",
+    "interactions": "[Thông tin hoạt chất Phenytoin] Epinephrin và ephedrin có thể làm giảm tác dụng của phentolamin.\r\nEthanol có thể làm tăng độc tính của phentolamin, do phản ứng disulfiram.",
+    "pharmacology": "[Thông tin hoạt chất Phenytoin] Phenytoin là dẫn chất hydantoin có tác dụng chống co giật và gây ngủ nên được dùng chống động kinh cơn lớn và động kinh cục bộ khác và cả động kinh tâm thần vận động.\r\nThuốc không được dùng chống động kinh cơn nhỏ. Phenytoin rút ngắn cơn phóng điện và có tác dụng ổn định màng, làm hạn chế sự lan truyền phóng điện trong ổ động kinh. Phối hợp với các thuốc chống động kinh khác rất phức tạp, nên tránh. Phenytoin là dẫn chất hydantoin có tác dụng chống co giật và gây ngủ nên được dùng chống động kinh cơn lớn và động kinh cục bộ khác và cả động kinh tâm thần vận động.\r\nThuốc không được dùng chống động kinh cơn nhỏ. Phenytoin rút ngắn cơn phóng điện và có tác dụng ổn định màng, làm hạn chế sự lan truyền phóng điện trong ổ động kinh. Phối hợp với các thuốc chống động kinh khác rất phức tạp, nên tránh.",
+    "pharmacokinetics": "[Thông tin hoạt chất Phenytoin] - Hấp thu: Phenytoin uống thường có sinh khả dụng cao, khoảng 80-95%. Thức ăn làm tăng hấp thu thuốc. \r\n- Phân bố: Phenytoin liên kết với protein huyết tương ở mức độ rất cao trên 90%, nhưng có thể giảm hơn ở trẻ sơ sinh, người mang thai, ở người bệnh tăng ure huyết hoặc giảm albumin huyết.\r\n- Chuyển hoá: thuốc chuyển hoá chủ yếu ở gan.\r\n- Thải trừ: thuốc được thải trừ qua nước tiểu dưới dạng không còn hoạt tính. Dạng không chuyển hoá bài tiết qua thận chỉ chiếm dưới 5% liều dùng."
+  }
 }

@@ -38,5 +38,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị ho, đau họng, sổ mũi, cảm cúm. Sát trùng đường hô hấp, loãng niêm dịch, dịu cơn ho. Trị ho, đau họng, sổ mũi, cảm cúm. Sát trùng đường hô hấp, loãng niêm dịch, dịu cơn ho.",
+    "contraindication": "- Quá mẫn với một trong các thành phần của thuốc, ho do suyễn, ho lao, suy hô hấp.\n- Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao.",
+    "dosage": "- Người lớn: Uống 1 viên/ lần x 3 - 4 lần/ ngày. - Trẻ  > 30 tháng tuổi: Uống 1 viên/ lần x 2 lần/ngày, hoặc theo chỉ dẫn của Bác sĩ."
+  }
 }

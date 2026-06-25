@@ -2,10 +2,19 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-4695/kosena.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Kosena",
-  "registration_number": "VN-5987-01",
+  "registration_number": "VD-17250-12",
   "dosage_form": "Viên nang mềm",
-  "manufacturer": "Dongkoo Pharm Co., Ltd",
-  "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
-  "sections": {}
+  "manufacturer": "Công ty TNHH Phil Inter Pharma",
+  "manufacturer_country": "VIETNAM",
+  "herbal_ingredients": [
+    {
+      "name": "Cao ginseng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Tăng cường khả năng hoạt động về thể chất & tinh thần trong trường hợp suy nhược & kiệt sức, mệt mỏi, mất khả năng tập trung hay trong thời kỳ dưỡng bệnh. - Hỗ trợ cho các tình trạng bị stress & tăng cường sức đề kháng."
+  }
 }

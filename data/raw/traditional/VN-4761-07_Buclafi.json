@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Fine Pharmachem",
   "manufacturer_country": "India",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao ginkgo biloba",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

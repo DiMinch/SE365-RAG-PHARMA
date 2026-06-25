@@ -6,6 +6,28 @@
   "dosage_form": "Thuốc bôi da",
   "manufacturer": "Công ty cổ phần Dược Minh Hải",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Dầu mù u,",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Menthol",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": ", Mỡ trăn",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Làm mềm mượt, mau liền da, giảm khô da và nứt nẻ da. Làm mềm mượt, mau liền da, giảm khô da và nứt nẻ da.",
+    "dosage": "Cách dùng: Bôi ngoài da Liều dùng: Dùng để mềm và mượt da: Ngày thoa 2 lần, Dùng để giảm khô da và nứt nẻ da: Ngày thoa 3 - 4 lần."
+  }
 }

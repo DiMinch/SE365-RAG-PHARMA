@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Địa du",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

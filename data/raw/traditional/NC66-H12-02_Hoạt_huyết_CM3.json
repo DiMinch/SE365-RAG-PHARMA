@@ -2,41 +2,32 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-10644/hoat-huyet-cm3.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Hoạt huyết CM3",
-  "registration_number": "NC66-H12-02",
-  "dosage_form": "Viên bao phim",
-  "manufacturer": "Trung tâm nghiên cứu Phòng Chống Ung Thư",
+  "registration_number": "VD-27170-17",
+  "dosage_form": "Viên nang mềm",
+  "manufacturer": "Công ty cổ phần dược Phúc Vinh",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Ðương quy Chính",
-      "amount": "null",
+      "name": "Đương quy Chính",
+      "amount": "225 mg",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
-    },
-    {
-      "name": "Ngưu tất",
-      "amount": "null",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
-    },
-    {
-      "name": "Xuyên khung",
-      "amount": "null",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
     },
     {
       "name": "Ích mẫu",
-      "amount": "null",
+      "amount": "100 mg",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2439/ich-mau.aspx"
     },
     {
-      "name": "Sinh địa",
-      "amount": "null",
+      "name": "Ngưu tất",
+      "amount": "100 mg",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2405/sinh-dia.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Tăng cường tuần hoàn máu não và ngoại vi; phòng ngừa và phá cục máu đông, hỗ trợ điều trị và phòng ngừa tai biến mạch máu não và các di chứng của tai biến mạch máu não. Bổ máu. Tăng cường tuần hoàn máu não và ngoại vi; phòng ngừa và phá cục máu đông, hỗ trợ điều trị và phòng ngừa tai biến mạch máu não và các di chứng của tai biến mạch máu não. Bổ máu.",
+    "dosage": "Cách dùng Uống 3 viên/lần x 2 lần/ngày, uống sau khi ăn 30 phút. Đối tượng sử dụng Người bị đau đầu, hoa mắt, chóng mặt, ù tai, mất ngủ, giấc ngủ chập chờn, mệt mỏi, suy giảm trí nhớ. Người bị tai biến mạch máu não, đau tức ngực, nhồi máu cơ tim. Người đau mỏi cổ - vai – gáy, tê bì đau nhức chân tay."
+  }
 }

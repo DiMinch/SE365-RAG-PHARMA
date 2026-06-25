@@ -6,6 +6,16 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Lạc tiên",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Làm dịu thần kinh, chữa mất ngủ, tim hồi hộp. Làm dịu thần kinh, chữa mất ngủ, tim hồi hộp.",
+    "dosage": "Dùng uống, 2 viên/lần, ngày 3 lần hoặc theo hướng dẫn của thầy thuốc."
+  }
 }

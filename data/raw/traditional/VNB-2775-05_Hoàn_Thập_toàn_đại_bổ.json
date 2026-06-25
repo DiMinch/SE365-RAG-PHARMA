@@ -62,5 +62,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Tác dụng: Ôn bổ khí huyết. Chỉ định : Khí và huyết đều hư, sắc mặt trắng xanh, hơi thở ngắn , đánh trống ngực, chóng mặt , dễ ra mồ hôi, sức yếu, mệt mỏi , tay chân không ấm. Dùng trong trường hợp cơ thể suy nhược, thiếu máu, kém ăn, hồi hộp, chóng mặt, ra mồ hôi trộm, tràng nhạc, di mộng tinh,thị lực giảm,lạnh chân tay.",
+    "contraindication": "- Người bệnh khí huyết hư nhưng cơ thể nhiệt. - Phụ nữ có thai.",
+    "dosage": "Ngày dùng 2-3 lần, mỗi lần 1 hoàn."
+  }
 }

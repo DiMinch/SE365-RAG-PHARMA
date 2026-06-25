@@ -6,6 +6,13 @@
   "dosage_form": "Hoàn cứng",
   "manufacturer": "Cơ sở sản xuất thuốc Y học Cổ truyền Phương Ðông",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cây Râu mèo, Xích Phục linh, Xa tiền",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

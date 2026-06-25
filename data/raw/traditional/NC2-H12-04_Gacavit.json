@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch thuốc uống",
   "manufacturer": "Trung tâm nghiên cứu Phòng Chống Ung Thư",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dầu gấc nguyên chất",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

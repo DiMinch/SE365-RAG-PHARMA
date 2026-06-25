@@ -26,5 +26,11 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị đau răng, viêm nướu răng, nha chu. Trị đau răng, viêm nướu răng, nha chu.",
+    "contraindication": "Không dùng cho trẻ em dưới 5 tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao. Không dùng cho người mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Tẩm thuốc vào bông gòn đặt nơi đau, 3-4 lần/ngày.Nhỏ 1 ml ( 30 giọt) thuốc vào khoảng 60 ml nước chín, khuấy đều, ngậm và súc miệng 3 lần /ngày. Sử dụng cho phụ nữ có thai :  Được sử dụng.",
+    "side_effects": "Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc.",
+    "interactions": "Các thuốc ức chế thụ thể  beta."
+  }
 }

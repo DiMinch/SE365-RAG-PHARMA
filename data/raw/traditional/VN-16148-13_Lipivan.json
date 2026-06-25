@@ -6,6 +6,13 @@
   "dosage_form": "Nhũ tương tiêm truyền",
   "manufacturer": "Claris Lifesciences., Ltd",
   "manufacturer_country": "India",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dầu đậu nành 5g/100ml; Triglycerides chuỗi trung bỡnh 5g/100ml",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

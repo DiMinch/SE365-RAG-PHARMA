@@ -3,46 +3,50 @@
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Thuốc ho Hoapharm",
   "registration_number": "V127-H12-10",
-  "dosage_form": "Thuốc nước",
+  "dosage_form": null,
   "manufacturer": "Công ty TNHH Hoàng Hương",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
       "name": "Bách bộ Chính",
-      "amount": "60ml, 100ml",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2427/bach-bo.aspx"
     },
     {
       "name": "Kim ngân hoa",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
     },
     {
       "name": "Liên kiều",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2363/lien-kieu.aspx"
     },
     {
       "name": "Huyền sâm",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
     },
     {
       "name": "Mạch môn",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
     },
     {
       "name": "Cam thảo",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Bách bộ] Trị ho, bổ phổi, chữa viêm phế quản, trừ giun kim, diệt chấy rận (Rễ)",
+    "dosage": "[Thông tin hoạt chất Bách bộ] Chữa giun: ngày uống 7-10g, dưới dạng thuốc sắc. Uống vào sáng sớm lúc đói, uống 5 ngày liền, sau đó tẩy Diệt ruồi: nước sắc bách bộ cho thêm ít đường vào, ruồi ăn phải chết đến 60% Dung dịch 1/20 giết chết bọ gậy 100% Cho bột bách bộ rắc vào hố phân, dòi chết 100% Diệt ruồi, muỗi, bọ chó, rận, đốt bách bộ hơ lấy khói Chữa giun kim: Bách bộ tươi 40g (bằng 20g bách bộ khô), nước 200ml, sắc sôi nửa giờ, cô còn độ 30ml. Thụt giữ 20 phút. Điều trị luôn chư vậy trong thời gian 10-12 ngày thì khỏi Chữa 133 người khỏi 83 người đạt 63%",
+    "pharmacology": "[Thông tin hoạt chất Bách bộ] Cây bách bộ là một thứ cây leo, dài 6-8m, có khi hơn. Thân nhỏ nhẵn. Lá thường mọc đối có cuống, hình trái tim. Trên mặt lá, ngoài gân chính có 6-8 gân phụ chạy dọc từ cuống lá đến đầu lá, có những gân ngang nhỏ và rõ. Cụm hoa mọc ở kẽ lá gồm 1-2 hoa, lớn, màu vàng đỏ. Bao hoa gồm bốn phiến, 22 phiến ngoài dài 4cm, rộng 5mm, 2 phiến trong rộng hơn. Nhị 4, có tua ngắn. Qủa nang có 4 hạt Rễ củ gồm 10-20-30 củ, có khi hơn 100 củ dài 15-20cm, đường kính 1,5-2cm. Màu trắng vàng, vị ngọt, sau rất đắng Phân bố, thu hái và chế biến Cây bách bộ mọc hoang ở khắp nơi trong nước ta: Hà tây, Hòa bình, Băc cạn, Thái Nguyên Mùa thu đông đào củ về rửa sạch hay phơi sấy khô Thành phần hóa học Ngoài các chất như gluxit (2,3%), lipit (0,83%), protit (9%), các axit hữu cơ..v.v trong rễ bách bộ người ta đã lấy ra được nhiều ancaloit. Chủ yếu là steminin (0,18%) C22H33NO4, có tinh thể hình kim, mềm rất nhẹ, không mùi, vị đắng, độ chảy 160°. Ngoài ra, còn có ancaloit khác như tuberstemonin C19H29NO4, stemonidin C17H27NO5, paipunin và sinostemnoin Nghiên cứu tác dụng dược lý, người ta đã chứng minh kinh nghiệm của ông cha ta dùng bách bộ để chữa ho, chữa giun và diệt sâu bọ là đúng.\nTác dụng chữa ho\n\nChu tử đã thí nghiệm thấy stemonin có tác dụng làm giảm tính hưng phấn của trung khi hô hấp của động vật, có tác dụng ức chế phản xạ của ho, do đó có tác dụng chữa ho\nBác sĩ Diệp Đình Thiện (Trung quốc) đã thí nghiệm dùng bách bộ chữa bệnh lao hạch thu được kết quả tốt\nTác dụng sát trùng và chữa giun\n\nNgâm con giun vào dung dịch 0,15% stemonin, con giun sẽ tê liệt sau 5-10 phút. Nếu kịp thời lấy con giun ra khỏi dung dịch, con giun sẽ tỉnh lại\nTiêm dung dịch stemonin sunfat (3mg) vào ếch nặng 25g con ếc h có thể tê bại, sau 12 giờ lại bình phục\nDùng dung dịch bách bộ 1/10 trong rượu 70° ngâm hay phun vào con rận, con rận sẽ chết sau 1 phút. Nếu ngâm rệp con vật sẽ chết mau chóng hơn\nTrong thời gian kháng chiến, cao nước bách bộ, uống với liều 3 thìa cà ph ê một lần, giun ra rất nhiều\nTác dụng kháng sinh: Ngoài các tác dụng trên:\n\n Lebedev (Liên xô 1950) đã chứng minh tác dụng sát khuẩn của bách bộ đối với khuẩn ở ruột già\n Lưu Quốc Thanh (Trung quốc) nhận thấy bách bộ có tác dụng kháng sinh đối với vi trùng bệ nh lỵ, bệnh phó thương hàn"
+  }
 }

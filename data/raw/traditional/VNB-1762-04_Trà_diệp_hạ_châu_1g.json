@@ -6,6 +6,13 @@
   "dosage_form": "Trà túi lọc",
   "manufacturer": "Công ty cổ phần Dược phẩm TW2",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Chó đẻ răng cưa",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

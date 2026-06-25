@@ -14,5 +14,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2423/bot-nghe.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "- Tăng miễn dịch, chống đông máu, kháng siêu virus, kháng khuẩn; điều hòa huyết áp, cholesterol huyết.\n- Phòng chống cảm cúm, huyết áp cao, phòng bệnh thấp khớp. - Tăng miễn dịch, chống đông máu, kháng siêu virus, kháng khuẩn; điều hòa huyết áp, cholesterol huyết.\n- Phòng chống cảm cúm, huyết áp cao, phòng bệnh thấp khớp.",
+    "contraindication": "Hoàn toàn thiên nhiên, không phản ứng phụ, không độc.",
+    "dosage": "Uống 1 - 2 viên x 2 lần/ngày trước bữa ăn.",
+    "interactions": "Không nên uống cùng với sữa."
+  }
 }

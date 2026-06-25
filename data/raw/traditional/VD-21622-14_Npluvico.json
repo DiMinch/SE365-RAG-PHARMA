@@ -6,6 +6,21 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần dược Nature Việt Nam",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá Bạch quả (Ciccus Extractum Folium Ginkgo biloba) 100 mg;",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao khô rễ Đinh lăng (Ciccus Extractum Radix Poliscias fruticosa) 300 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Suy tuần hoàn não và các biểu hiện chức năng: chóng mặt, nhức đầu giảm trí nhớ, giảm nhận thức, rối loạn vận động, rối loạn cảm xúc… Rối loạn tuần hoàn ngoại biên: bệnh động mạch chi dưới, hội chứng Raynaud, tê lạnh và tím tái đầu chi. Rối loạn thần kinh thị giác, rối loạn thị giác (bệnh võng mạc);, bệnh về tai mũi họng (chóng mặt, ù tai, giảm thính lực). Phòng ngừa và làm chậm quá trình tiến triển của bệnh Alzheimer ở người lớn tuổi."
+  }
 }

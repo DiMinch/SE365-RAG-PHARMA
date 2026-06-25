@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc uống",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Bình Thuận  PHAPHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết phủ tạng đã được xử lý theo phương pháp Philatop",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

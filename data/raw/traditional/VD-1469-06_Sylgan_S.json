@@ -6,6 +6,17 @@
   "dosage_form": "viên nang mềm",
   "manufacturer": "Công ty cổ phần dược phẩm Ampharco U.S.A",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Milk thistle, Cao Schisandra chinensis, Cao Phyllanthus niruri, Curcumin, Lecithin",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn tiêu hóa liên quan đến gan mật, chán ăn, chậm tiêu do giảm chức năng gan; viêm gan bán cấp hoặc mãn tính, gan nhiễm mỡ, xơ gan, các tổn thương gan do thuốc hoặc do nhiễm độc. Rối loạn tiêu hóa liên quan đến gan mật, chán ăn, chậm tiêu do giảm chức năng gan; viêm gan bán cấp hoặc mãn tính, gan nhiễm mỡ, xơ gan, các tổn thương gan do thuốc hoặc do nhiễm độc.",
+    "contraindication": "Quá mẫn với thành phần thuốc. Tắc mật hoàn toàn hay suy tế bào gan nặng. Phụ nữ có thai.",
+    "dosage": "- Người lớn & trẻ > 12 tuổi: 1 viên x 2 lần/ngày.\n- Trẻ < 12 tuổi: 1 viên/ngày."
+  }
 }

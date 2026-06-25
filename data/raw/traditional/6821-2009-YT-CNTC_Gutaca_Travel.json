@@ -6,6 +6,16 @@
   "dosage_form": null,
   "manufacturer": "Công ty TNHH ADC",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột Gừng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Gutaca Travel là thuốc chống say tàu xe chiết xuất từ gừng Sản phẩm từ gừng 100% Thiên Nhiên. Lần đầu tiên có mặt tại Việt Nam Thành phần Bột gừng (thiên nhiên) được chiết xuất trên công nghệ chiết xuất dược liệu tiên tiến đạt chuẩn GMP-WHO \nCông dụng: Chống say tàu xe, không gây bất kỳ tác dụng phụ nào. Phòng chống rối loạn tiêu hóa do thức ăn lạ ở những nơi mới đến. Hỗ trợ tiêu hóa: nôn, buồn nôn, đau bụng lạnh, đầy hơi, khó tiêu. Gutaca Travel là thuốc chống say tàu xe chiết xuất từ gừng Sản phẩm từ gừng 100% Thiên Nhiên. Lần đầu tiên có mặt tại Việt Nam Thành phần Bột gừng (thiên nhiên) được chiết xuất trên công nghệ chiết xuất dược liệu tiên tiến đạt chuẩn GMP-WHO \nCông dụng: Chống say tàu xe, không gây bất kỳ tác dụng phụ nào. Phòng chống rối loạn tiêu hóa do thức ăn lạ ở những nơi mới đến. Hỗ trợ tiêu hóa: nôn, buồn nôn, đau bụng lạnh, đầy hơi, khó tiêu.",
+    "dosage": "Người lớn: 2 viên. 30 phút trước khi đi xe, sau đó duy trì 1 viên mỗi 2 giờ Trẻ em 6-12 tuổi: 1 viên, 30 phút trước khi đi xe, sau đó duy trì 1/2 viên mỗi 2 giờ"
+  }
 }

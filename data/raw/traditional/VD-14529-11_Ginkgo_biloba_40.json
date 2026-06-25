@@ -6,6 +6,13 @@
   "dosage_form": "Hộp 5 vỉ x 10 viên nén bao phim",
   "manufacturer": "Công ty Cổ phần Thương mại Dược phẩm Quang Minh",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Ginkgo biloba chuẩn hóa 40 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

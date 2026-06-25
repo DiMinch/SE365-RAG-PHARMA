@@ -1,11 +1,18 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-27008/vien-nang-cung-huyet-ninh.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Viên nang Cung huyết ninh",
-  "registration_number": "VN-5809-08",
-  "dosage_form": "Viên nang",
+  "name": "Cung huyết ninh",
+  "registration_number": "VN-20881-17",
+  "dosage_form": "Viên nang cứng",
   "manufacturer": "Yunnan Baiyao Group Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Rhizoma Paridis (tương đương 0,52mg Rhizoma Paridis Saponin VI) 104mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

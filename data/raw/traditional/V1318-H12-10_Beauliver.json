@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao mềm Thục địa, cao mềm đương quy, cao mềm xích thược, cao mềm bồ hoàng, cao mềm Quế tâm, cao mềm Can khương, cao mềm Cam thảo, cao mềm Hắc đậu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

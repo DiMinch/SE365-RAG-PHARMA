@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Xuất Nhập Khẩu Y tế DOMESCO",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao nhàu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Trị các chứng đau nhức, sưng khớp, tiểu đường, cao huyết áp, nhức đầu và mệt mỏi."
+  }
 }

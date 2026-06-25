@@ -6,6 +6,13 @@
   "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Chuối hột",
+      "amount": "2 gam",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

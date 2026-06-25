@@ -6,6 +6,13 @@
   "dosage_form": "Cốm pha dung dịch uống",
   "manufacturer": "Guizhou Warmen Pharmaceutical Co., Ltd.",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Nghể hoa đầu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

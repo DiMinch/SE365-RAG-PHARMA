@@ -20,5 +20,12 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2338/tinh-dau-bac-ha.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Guaiacol] Giảm tạm thời xổ mũi , nhầy mũi, xung huyết mũi do cảm lạnh, viêm phế quản hoặc viêm thanh quản. Guacol phối hợp với các thuốc giảm ho, các kháng histamin...dùng trong các trường hợp cảm cúm có nhiều đờm, nhiễm khuẩn đường hô hấp trên, nhiễm khuẩn đường hô hấp dưới.",
+    "contraindication": "[Thông tin hoạt chất Guaiacol] Chống chỉ định với các bệnh nhân quá mẫn với các thành phần của thuốc.",
+    "side_effects": "[Thông tin hoạt chất Guaiacol] Hoảng sợ, khó chịu, kích thích, chóng mặt, đau đầu, lo âu, run và thậm chí ảo giác, co giật.",
+    "interactions": "[Thông tin hoạt chất Guaiacol] Không dùng kết hợp thuốc với các chất ức chế men IMAO.",
+    "warnings": "[Thông tin hoạt chất Guaiacol] Thận trọng khi dùng thuốc cho bệnh nhân bệnh mạch vành, đau thắt ngực và đái đường.\nKhông nên dùng thuốc cho phụ nữ có thai và cho con bú.",
+    "pharmacology": "[Thông tin hoạt chất Guaiacol] Guaiacol là tiền thân khác nhau flavorants, và vanillin. các dẫn xuất của nó được sử dụng trong y học như một thuốc long đờm, sát trùng... Guaiacol (guaiacol) là một tinh thể màu trắng hoặc tinh thể màu vàng nhạt hoặc không màu đến màu vàng nhạt, chất lỏng dạng dầu rõ ràng, với một mùi thơm đặc biệt, chung ortho hydroxy anisol, glycerol ether, guaiacol glycerylete, o-hydroxy glycerylete... Thuốc có tác dụng long đờm  thúc đẩy loại bỏ chất nhầy đường hô hấp do làm long đờm, nó cũng làm trơn đường hô hấp bị kích thích."
+  }
 }

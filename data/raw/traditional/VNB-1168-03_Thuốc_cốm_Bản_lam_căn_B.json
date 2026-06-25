@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty TNHH Dược phẩm Khải Việt",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Bản lam căn",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

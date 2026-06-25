@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Rau má (tương đương 8,33 g Rau má) 1 g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

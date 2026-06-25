@@ -195,25 +195,205 @@ class TBDTraditionalCrawler:
                             "role": "Thành phần",
                             "herb_url": herb_url,
                         })
+
+        # Fallback: scan class "ingredient-content" if no structured table ingredient is found
+        if not ingredients:
+            ingr_content_div = soup.find("div", class_="ingredient-content")
+            if ingr_content_div:
+                text_content = ingr_content_div.get_text(separator="\n", strip=True)
+                for line in text_content.split("\n"):
+                    line = line.strip()
+                    if not line:
+                        continue
+                    # Remove starting "-", "*", "•", "1.", etc.
+                    line_clean = re.sub(r"^[-\*\•\s\d\.\)]+", "", line).strip()
+                    if not line_clean:
+                        continue
+                    # Split by dot sequence (e.g. ................) or colon/hyphen
+                    parts = re.split(r"\.{2,}|:| - | – ", line_clean)
+                    if len(parts) >= 2:
+                        name = parts[0].strip()
+                        amount = parts[1].strip()
+                    else:
+                        name = line_clean
+                        amount = None
+                    if name:
+                        # Clean name of trailing dots/spaces
+                        name = name.rstrip(".").strip()
+                        if amount:
+                            amount = amount.lstrip(".").strip()
+                        ingredients.append({
+                            "name": name,
+                            "amount": amount,
+                            "role": "Thành phần",
+                            "herb_url": None,
+                        })
         drug["herbal_ingredients"] = ingredients
 
         # ── Clinical sections ──────────────────────────────────────────
-        sections: Dict[str, str] = {}
-        # Sections are h2 elements with id="section-N"; content follows until next h2
-        for h2 in soup.find_all("h2", id=re.compile(r"^section-\d+$")):
-            section_id = h2.get("id", "")
-            key = self.SECTION_MAP.get(section_id)
+        # Map of div ID to canonical section key
+        DIV_ID_MAP = {
+            "cong-dung-thuoc": "indication",
+            "cong-dung": "indication",
+            "chi-dinh": "indication",
+            "doi-tuong-su-dung": "indication",
+            "doi-tuong-dung": "indication",
+            "chong-chi-dinh": "contraindication",
+            "khong-dung-cho": "contraindication",
+            "lieu-luong-cach-dung": "dosage",
+            "lieu-luong": "dosage",
+            "lieu-dung": "dosage",
+            "cach-dung": "dosage",
+            "cach-su-dung": "dosage",
+            "huong-dan-su-dung": "dosage",
+            "tac-dung-phu": "side_effects",
+            "tac-dung-khong-mong-muon": "side_effects",
+            "tuong-tac-thuoc": "interactions",
+            "tuong-tac": "interactions",
+            "than-trong": "warnings",
+            "than-trong-luc-dung": "warnings",
+            "than-trong-khi-dung": "warnings",
+            "canh-bao": "warnings",
+            "luu-y": "warnings",
+            "chu-y": "warnings",
+            "luu-y-khi-su-dung": "warnings",
+            "duoc-luc": "pharmacology",
+            "duoc-luc-hoc": "pharmacology",
+            "tac-dung": "pharmacology",
+            "tinh-vi": "pharmacology",
+            "quy-kinh": "pharmacology",
+            "duoc-dong-hoc": "pharmacokinetics",
+            "hap-thu": "pharmacokinetics",
+        }
+
+        def classify_section_by_text(title: str) -> Optional[str]:
+            t_lower = title.lower()
+            if any(k in t_lower for k in ["chỉ định", "chi dinh", "công dụng", "cong dung", "đối tượng sử dụng", "doi tuong su dung", "đối tượng dùng", "khuyên dùng"]):
+                return "indication"
+            if any(k in t_lower for k in ["chống chỉ định", "chong chi dinh", "không dùng", "khong dung"]):
+                return "contraindication"
+            if any(k in t_lower for k in ["liều dùng", "lieu dung", "liều lượng", "lieu luong", "cách dùng", "cach dung", "cách sử dụng", "cach su dung", "hướng dẫn sử dụng"]):
+                return "dosage"
+            if any(k in t_lower for k in ["tác dụng phụ", "tac dung phu", "tác dụng không mong muốn", "khong mong muon", "tác dụng ngoại ý"]):
+                return "side_effects"
+            if any(k in t_lower for k in ["tương tác", "tuong tac"]):
+                return "interactions"
+            if any(k in t_lower for k in ["cảnh báo", "canh bao", "thận trọng", "than trong", "lưu ý", "luu y", "chú ý", "chu y"]):
+                return "warnings"
+            if any(k in t_lower for k in ["dược lực", "duoc luc", "tác dụng", "tac dung", "tính vị", "quy kinh"]):
+                return "pharmacology"
+            if any(k in t_lower for k in ["dược động", "duoc dong"]):
+                return "pharmacokinetics"
+            return None
+
+        # Identify all potential section elements in the document
+        clinical_elements = []
+        
+        # 1. Divs with specific IDs
+        for div_id in DIV_ID_MAP.keys():
+            for div in soup.find_all("div", id=div_id):
+                if div not in clinical_elements:
+                    clinical_elements.append(div)
+                    
+        # 2. Elements with id="section-N"
+        for el in soup.find_all(id=re.compile(r"^section-\d+$")):
+            if el not in clinical_elements:
+                clinical_elements.append(el)
+                
+        # 3. Heading tags matching clinical keywords
+        for tag_name in ["h2", "h3"]:
+            for el in soup.find_all(tag_name):
+                text = el.get_text(strip=True)
+                if classify_section_by_text(text) and el not in clinical_elements:
+                    clinical_elements.append(el)
+
+        # Get DOM positions to sort them and partition drug vs ingredient info
+        all_tags = soup.find_all(True)
+        tag_positions = {tag: idx for idx, tag in enumerate(all_tags)}
+        
+        hoat_chat_div = soup.find(id="thong-tin-hoat-chat")
+        hoat_chat_pos = tag_positions.get(hoat_chat_div, 999999) if hoat_chat_div else 999999
+        
+        # Determine main active ingredient name for labeling
+        ingredient_name = ""
+        if hoat_chat_div:
+            h2_hc = hoat_chat_div.find("h2")
+            if h2_hc:
+                hc_text = h2_hc.get_text(strip=True)
+                if "hoạt chất:" in hc_text.lower():
+                    ingredient_name = hc_text.split("hoạt chất:")[-1].strip()
+                    
+        # Sort by DOM order (filter out items that might have been detached)
+        clinical_elements = sorted([el for el in clinical_elements if el in tag_positions], key=lambda x: tag_positions[x])
+        
+        drug_clinical: Dict[str, List[str]] = {k: [] for k in self.SECTION_MAP.values()}
+        ingredient_clinical: Dict[str, List[str]] = {k: [] for k in self.SECTION_MAP.values()}
+        
+        for el in clinical_elements:
+            el_id = el.get("id", "")
+            title_text = el.get_text(strip=True) if el.name in ["h1", "h2", "h3", "h4", "strong"] else ""
+            
+            # Determine canonical key
+            key = None
+            if el_id in DIV_ID_MAP:
+                key = DIV_ID_MAP[el_id]
+            else:
+                key = classify_section_by_text(title_text)
+                if not key and el_id.startswith("section-"):
+                    key = self.SECTION_MAP.get(el_id)
+            
             if not key:
                 continue
-            content_parts = []
-            for sib in h2.next_siblings:
-                if sib.name == "h2":
-                    break
-                text = self._text(sib)
-                if text:
-                    content_parts.append(text)
-            if content_parts:
-                sections[key] = " ".join(content_parts)
+                
+            # Extract content
+            content = ""
+            if el.name == "div" and el_id in DIV_ID_MAP:
+                prose = el.find("div", class_="prose")
+                if prose:
+                    content = self._text(prose)
+                else:
+                    title_el = el.find(["h1", "h2", "h3", "h4"])
+                    t_text = self._text(title_el)
+                    full_text = self._text(el)
+                    if t_text and full_text.startswith(t_text):
+                        content = full_text[len(t_text):].strip()
+                    else:
+                        content = full_text
+            else:
+                content_parts = []
+                for sib in el.next_siblings:
+                    if sib in clinical_elements:
+                        break
+                    if sib.name in ["h1", "h2", "h3", "h4"] or (sib.name == "div" and sib.get("id") in DIV_ID_MAP):
+                        break
+                    text = self._text(sib)
+                    if text:
+                        content_parts.append(text)
+                content = " ".join(content_parts)
+                
+            content = content.strip()
+            if not content:
+                continue
+                
+            # Partition by position relative to ingredient boundary
+            pos = tag_positions.get(el, 0)
+            if pos < hoat_chat_pos:
+                drug_clinical[key].append(content)
+            else:
+                ingredient_clinical[key].append(content)
+                
+        # Merge sections
+        sections: Dict[str, str] = {}
+        for key in self.SECTION_MAP.values():
+            parts = []
+            if drug_clinical[key]:
+                parts.append(" ".join(drug_clinical[key]))
+            if ingredient_clinical[key]:
+                ingr_label = f"[Thông tin hoạt chất {ingredient_name}]" if ingredient_name else "[Thông tin hoạt chất]"
+                parts.append(f"{ingr_label} " + " ".join(ingredient_clinical[key]))
+            if parts:
+                sections[key] = " \n".join(parts)
+                
         drug["sections"] = sections
 
         return drug

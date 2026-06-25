@@ -1,23 +1,29 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-10340/phong-thap-hoan.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Phong thấp hoàn",
-  "registration_number": "VNA-3663-00",
+  "name": "Phong thấp hoàn Phước Sanh",
+  "registration_number": "V101-H12-13",
   "dosage_form": "Hoàn cứng",
-  "manufacturer": "Công ty cổ phần Dược DANAPHA",
+  "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Phòng phong Chính",
-      "amount": "4g",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2461/phong-phong.aspx"
-    },
-    {
-      "name": "Bạch Linh",
+      "name": "Khương hoạt",
       "amount": "-",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2543/khuong-hoat.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Xích thược",
+      "amount": "-",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2536/xich-thuoc.aspx"
     },
     {
       "name": "Cam thảo",
@@ -26,29 +32,22 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
     },
     {
-      "name": "Ngưu tất",
+      "name": "Khương hoàng",
       "amount": "-",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2367/nguu-tat.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2548/khuong-hoang.aspx"
     },
     {
-      "name": "Xuyên khung",
+      "name": "Hoàng kỳ",
       "amount": "-",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
-    },
-    {
-      "name": "Tế tân",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2541/te-tan.aspx"
-    },
-    {
-      "name": "Bạch thược",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2415/bach-thuoc.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Khương hoạt] Trị phong thấp đau nhức, cảm phong hàn.",
+    "contraindication": "[Thông tin hoạt chất Khương hoạt] Huyết hư không có phong hàn thực tà, không nên dùng.",
+    "dosage": "[Thông tin hoạt chất Khương hoạt] Liều dùng: 4-12g /ngày. Bài thuốc có Khương hoạt: 1. Trị cảm mạo phong hàn: Đầu mình đau, không ra mồ hôi, mạch phù khẩn: cửu vị khương hoạt thang gồm Khương hoạt 6 g, Phòng phong 6g, Bạch chỉ 4g, Sinh địa hoàng 4g, Thương truật 6g, Hoàng cầm 4g, Tế tân 2g, Cam thảo 4g, Xuyên khung 4g, sắc nước uống. 2. Trị phong thấp: chủ yếu là hàn thấp, cơ, khớp lưng vai đau. + Khương hoạt thắng thấp thang (Nội ngoại thương biện cảm luận) gồm: Khương hoạt, Độc hoạt, Phòng phong, Cảo bản mỗi thứ 8g, Mạn kinh tử 12g, Xuyên khung 4g, Cam thảo  4g, sắc nước uống trị đau khớp vai cấp có kết quả. + Khương hoạt 12g, Kê huyết đằng 16g, Tần giao 20g, Uy linh tiên 12g, Đương quy 12g, sắc nước uống trị thấp khớp cấp. 3. Chữa phụ nữ có thai bị phù thũng: Khương hoạt, La bạc tử hai vị sao tán nhỏ, mỗi lần uống 6 -8g, uống 3 ngày, ngày thứ nhất 1 lần, ngày thứ hai 2 lần, ngày thứ ba 3 lần. Dùng rượu hâm nóng chiêu thuốc. 4. Chữa câm nói ngọng, chân tay co quắp, tê dại mất tiếng: Khương hoạt tán nhỏ, mỗi lần uống 8 -12g, dùng rượu chiêu thuốc. 5. Chữa bán thân bất toại, nói không rõ, đi lại khó khăn, tay cầm không vững: Khương hoạt 12g, Độc hoạt 9g, Ngũ gia bì 9g, Uy linh tiên 9g, Hương phụ (chế giấm) 12g, Đương quy 12g, Chỉ xác 9g, Nhũ hương 9g, Ô dược 9g, Xuyên sơn giáp 6g, Phòng phong 9g, Cam thảo  6g. Sắc nước uống (Sơ phong hoạt huyết thuận khí thang. Trung y nghiệm phương hội tuyển). 6. Trị câm, nói ngọng, chân tay co quắp: Khương hoạt, tán nhỏ. Mỗi lần uống 8-12g với rượu (Dược Liệu Việt Nam).",
+    "pharmacology": "[Thông tin hoạt chất Khương hoạt] Khương hoạt là cây thảo sống lâu năm, cao khoảng 0,5-1m, toàn cây có mùi thơm, không phân nhánh, phái dưới thân hơi có mầu tím. Lá mọc so le kép lông chim, phiến lá chia thùy, mép có răng cưa. Mặt trên mầu tím nhạt, mặt dưới mầu xanh nhạt, phía dưới cuống lá phát triển thành bẹ ôm lấy thân. Hoa rất nhỏ, mầu trắng, họp thành hình tán kép. Quả bế đôi, hình thoi dẹt, màu nâu đen, hai mép và lưng phát triển thành rìa. Thân rễ to, thô, có đốt. Cây thuốc Khương hoạt Thu hái, chế biến: Thu hoạch vào mùa xuân, mùa thu, đào lấy rễ hoặc thân rễ, loại bỏ rễ con và đất, phơi hoặc sấy khô. Bộ phận dùng: Thân rễ và rễ (Rhizoma Notoptergyii);. Rễ có đầu mấu cứng như đầu con tằm, to, khô, thịt nâu đậm, xốp nhẹ. Bào chế: Thấm nước cho mềm đều, thái phiến mỏng, phơi khô (Đông Dược Học Thiết Yếu). Bảo quản: Tránh nóng, để nơi khô mát. Mô tả Dược liệu: Vị thuốc Khương hoạt là phần thân rễ hình trụ, hơi cong queo, dài 4-13 cm, đường kính 0,6-2,5cm, đầu thân rễ có sẹo gốc thân khí sinh. Mặt ngoài màu nâu đến nâu đen. Nơi bị tróc vỏ ngoài màu vàng, khoảng giữa các đốt ngắn, có vòng mấu nhỏ, gần liền nhau, tựa như hình con tằm (quen gọi là Tàm khương), hoặc khoảng giữa có các đốt kéo dài dạng đốt tre (gọi là Trúc tiết khương). Trên đốt có nhiều sẹo rễ con, dạng điểm hoặc dạng bướu và vẩy, màu nâu. Thể nhẹ, chất giòn xốp, dễ bẻ gẫy. Mặt bẻ không phẳng, có nhiều kẽ nứt. Vỏ màu từ vàng nâu đến nâu tối, có chất dầu, có điểm chấm dầu, mầu nâu. Gỗ màu trắng vàng, tia ruột xếp theo hướng xuyên tâm rõ. Lõi (ruột) màu vàng đến vàng nâu. Mùi thơm, vị hơi đắng và cay. Vị thuốc Khương hoạt Tác dụng của Khương hoạt: - Tán hàn giải biểu, khu phong thắng thấp, giảm đau. - Cảm mạo phong hàn nhức đầu, sốt mồ hôi không ra được, phong thấp, tê đau vai, đau nhức mình mẩy, đau đầu, lưng đau mỏi, ung nhọt. Tính vị: + Vị cay, đắng, tính ôn, mùi thơm hắc, không độc (Trung Quốc Dược Học Đại Tự Điển). + Vị cay, đắng, the, tính ôn (Trung Dược Học). + Vị cay, đắng, tính ôn (Đông Dược Học Thiết Yếu). Quy kinh: + Vào kinh Bàng quang, Thận (Trung Dược Học). + Vào kinh Bàng quang, Can, Thận (Đông Dược Học Thiết Yếu). Độc tính: Dùng quá liều có thể gây chóng mặt, buồn nôn"
+  }
 }

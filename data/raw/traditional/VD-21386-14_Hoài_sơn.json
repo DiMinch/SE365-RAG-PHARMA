@@ -6,6 +6,13 @@
   "dosage_form": "Dược liệu sấy khô",
   "manufacturer": "Công ty cổ phần Dược phẩm Trường Thọ",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Củ hoài sơn sấy khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

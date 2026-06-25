@@ -1,36 +1,41 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-32061/dau-gio-xanh-thao-tien.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Dầu gió xanh Thảo tiên",
-  "registration_number": "V478-H12-10",
-  "dosage_form": "",
-  "manufacturer": "Công ty TNHH Dương Phong",
-  "manufacturer_country": "VIETNAM",
+  "name": "Dầu gió xanh Thảo Tiên",
+  "registration_number": "V120-H12-18",
+  "dosage_form": "Dung dịch dầu",
+  "manufacturer": null,
+  "manufacturer_country": null,
   "herbal_ingredients": [
     {
       "name": "menthol Chính",
-      "amount": "-",
+      "amount": "3ml 6ml 12ml",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
     },
     {
       "name": "Tinh dầu tràm",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2333/tinh-dau-tram.aspx"
     },
     {
       "name": "Camphor",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2369/camphor.aspx"
     },
     {
       "name": "methyl salicylate",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2370/methyl-salicylate.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Nhức đầu, chóng mặt, cảm cúm, sổ mũi, đau bụng, say tàu xe, bị muõi và các côn trùng khác chích đốt. Không dùng cho trẻ em duới 2 tuổi, không xoa lên vết thuơng hở, vùng mắt, vùng vú khi cho con bú. Nhức đầu, chóng mặt, cảm cúm, sổ mũi, đau bụng, say tàu xe, bị muõi và các côn trùng khác chích đốt. \n[Thông tin hoạt chất menthol] Dạng thuốc kem menthol được sử dụng để làm giảm những cơn đau nhẹ cho các bệnh như viêm khớp, viêm bao hoạt dịch, viêm gân, bong gân, đau lưng, bầm tím và chuột rút. Thuốc cũng có thể được sử dụng cho các bệnh khác theo chỉ định của bác sĩ. Dạng dung dịch dùng đê hit giúp Giảm nhanh các chứng nghẹt mũi, sổ mũi do cảm cúm gây ra, giúp thông mũi và dễ thở.",
+    "dosage": "- Xoa bóp ngoài da tại chỗ đau. - Bôi dầu gió “Loan” vào thái duơng, mũi, gáy, để chữa nhức đầu, chóng mặt, cảm cúm, say tàu xe. - Bôi vào chỗ bị muỗi và các côn trùng khác đốt. \n[Thông tin hoạt chất menthol] Liều dùng thông thường cho người lớn bệnh ho: Dạng thuốc dùng ngoài da – viên ngậm: Nếu bạn đau họng, ngậm đến hòa tan 1 giọt trong miệng mỗi 2 giờ khi cần thiết. Nếu bạn ho, ngậm đến hòa tan 1 giọt trong miệng mỗi giờ khi cần thiết. Liều dùng thông thường cho người lớn bị đau nhức: Đối với dạng thuốc gel bôi ngoài da 2%, 2,5%, miếng dán ngoài da 5%, 1,4% và 1,25%, gel dùng ngoài da 7%, bạn bôi tại chỗ lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày. Đối với dạng phun tại chỗ 6% và 10%, bạn phun tại chỗ lên vùng da bị ảnh hưởng khi cần thiết nhưng không quá 4 lần một ngày. Người lớn bị ngứa: Dạng kem dưỡng ẩm 0,15% hoặc 0,5%, bạn bôi lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày. Trẻ em trị ho: Trẻ từ 4 tuổi trở lên: Dạng thuốc dùng ngoài da – viên ngậm: Nếu trẻ đau họng, cho trẻ ngậm đến hòa tan 1 giọt trong miệng mỗi 2 giờ khi cần thiết. Nếu trẻ ho, cho trẻ ngậm đến hòa tan 1 giọt trong miệng mỗi giờ khi cần thiết. Liều dùng thông thường cho trẻ em bị đau nhức: Miếng dán ngoài da 1,4%, 1,25%, và gel bôi ngoài da 7% dùng cho trẻ 12 tuổi trở lên bôi tại chỗ lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày. Miếng dán 5% dùng cho trẻ 10 tuổi trở lên bôi tại chỗ lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày. Dạng phun tại chỗ 6% dùng cho trẻ 13 tuổi trở lên phun tại chỗ lên khu vực bị ảnh hưởng khi cần thiết nhưng không quá 4 lần một ngày. Gel dùng ngoài da 2% dùng cho trẻ 2 tuổi trở lênbôi tại chỗ lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày. Gel dùng ngoài da 2,5% dùng cho trẻ 12 tuổi trở lên bôi tại chỗ lên vùng da bị ảnh hưởng không nhiều hơn 4 lần mỗi ngày. Trẻ em bị ngứa: Kem dưỡng ẩm menthol 0,15% hoặc 0,5% dùng cho trẻ 12 tuổi trở lên bôi tại chỗ lên vùng da bị ảnh hưởng 3-4 lần mỗi ngày.",
+    "side_effects": "[Thông tin hoạt chất menthol] Buồn nôn\nÓi mửa\nMất điều hòa\nĐau bụng\nBuồn ngủ\nViêm da tiếp xúc\nĐIều kiện chuyển động mắt không tự nguyện\nRối loạn giấc ngủ",
+    "pharmacology": "[Thông tin hoạt chất menthol] Menthol là một hợp chất hữu cơ làm tổng hợp hoặc thu được từ các loại dầu của bạc hà, . Nó là một chất sáp, tinh thể , màu trong hoặc trắng, rắn ở nhiệt độ phòng và tan chảy ở trên một chút. Menthol có chất gây tê và phản tác dụng tại chỗ ,được sử dụng rộng rãi để làm giảm kích ứng họng,mũi."
+  }
 }

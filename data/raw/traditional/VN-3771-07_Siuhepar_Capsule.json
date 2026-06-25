@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang-150mg Silymarin",
   "manufacturer": "Siu Guan Chem Ind Co., Ltd",
   "manufacturer_country": "Taiwan",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Exsicated Fructus Cardui Mariae ext",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

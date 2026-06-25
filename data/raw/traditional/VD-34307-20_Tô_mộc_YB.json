@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty cổ phần Dược phẩm Yên Bái",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói 3g cốm chứa",
+      "amount": "Cao khô Tô mộc (tương đương 4,5 g dược liệu Tô mộc) 0,32 g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

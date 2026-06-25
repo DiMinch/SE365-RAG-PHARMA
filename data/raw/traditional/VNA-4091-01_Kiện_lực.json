@@ -6,6 +6,13 @@
   "dosage_form": "Hoàn cứng",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột đậu ván trắng, Bột ý dĩ, Bột Hoài sơn, Bột sen, Cao xương",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

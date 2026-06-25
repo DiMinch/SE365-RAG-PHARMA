@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Boram Pharma Co., Ltd",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Titrated extract of Zea Mays L. unsaponifiable fraction",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

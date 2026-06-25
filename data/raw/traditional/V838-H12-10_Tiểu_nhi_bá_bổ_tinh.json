@@ -1,48 +1,53 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-34637/tieu-nhi-ba-bo-tinh.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Tiểu nhi bá bổ tinh",
-  "registration_number": "V838-H12-10",
-  "dosage_form": "",
+  "name": "Tiểu nhi bá bổ Tinh",
+  "registration_number": "VND-0382-02",
+  "dosage_form": "Thuốc nước",
   "manufacturer": "Cơ sở Kim Sơn",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Hậu phác Chính",
-      "amount": "-",
+      "name": "Hậu phác nam Chính",
+      "amount": "50ml",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2413/hau-phac.aspx"
-    },
-    {
-      "name": "Đảng sâm",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2324/dang-sam.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2412/hau-phac-nam.aspx"
     },
     {
       "name": "Hoàng kỳ",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2344/hoang-ky.aspx"
     },
     {
       "name": "Cam thảo",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
     },
     {
       "name": "Bạch truật",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
     },
     {
+      "name": "Ðảng sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
+    },
+    {
       "name": "Bạch Linh",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Hậu phác nam] Công dụng, chỉ định và phối hợp: Thường dùng trị bụng đầy trướng và đau, ăn uống không tiêu, nôn mửa, tả lỵ. Nhân dân cũng dùng làm thuốc kích thích tiêu hoá và bổ dạ dày. Nước sắc rễ dùng sau khi sinh đẻ và khi lên cơn sốt. Dịch lá dùng như thuốc đắp trị thấp khớp. Lá cũng dùng làm bột chế hương thấp.",
+    "contraindication": "[Thông tin hoạt chất Hậu phác nam] Người tỳ vị quá hư, nguyên khí kém, phụ nữ có thai không nên dùng.",
+    "dosage": "[Thông tin hoạt chất Hậu phác nam] Ngày dùng 4-20g dạng thuốc sắc hoặc hoàn tán. Thường phối hợp với các vị thuốc khác. Đơn thuốc: 1. Chữa sốt rét cơn lâu ngày do khí độc của rừng núi, bụng đầy, ăn không tiêu, dày da bụng, báng lách hay viêm gan mạn tính, đau lâm râm ở vùng gan, gan to, mặt bụng chân tay hơi phù: Hậu phác nam, Trần bì, Bán hạ chế, Ngải máu, Nghệ đen, Chỉ xác, Củ rễ quạt, Hạt cau, Vỏ dụt mỗi vị 12g, Thảo quả 6g, sắc uống. Trường hợp bệnh hoãn thì tán bột, uống mỗi lần 10g, ngày uống 2-3 lần. 2. Chữa đau bụng, bí đầy, đại tiện táo kết: Hậu phác nam, Chỉ xác, Đại hoàng hay Chút chít, đều 12g, sắc uống. 3. Bột tiêu thực dùng chữa ăn chậm tiêu, no hơi, sình bụng, ăn ít, ăn không tiêu: Củ Sả 100g, Thuỷ xương bổ 100g, Hậu phác 100g, Cỏ gấu (sao); 100g, vỏ Quýt 100g, Gừng khô 50g, Quế khâu 50g. Các vị hoà chung, tán bột nhuyễn, mỗi lần uống một muỗng cà phê; ngày 2-3 lần sau bữa ăn và tối khi đi ngủ. Ghi chú: Ta thường dùng vỏ của cây nói trên thay vị Hậu phác - Cortex Magnoliae officinalis, do đó mới có tên Hậu phác nam. Ở Trung Quốc, người ta thường dùng vỏ cây Ao diệp hậu phác - Magnolia officinalis Rehd, et Wils var, biloba Rehd, et Wils. Hậu phác thuộc loại cây gỗ lớn cao 7-15m, vỏ thân tím nâu. Lá mọc so le, tập trung ở ngọn các nhánh, phiến hình trứng thuộc dài 15-30cm, rộng 8-17cm, đầu lá lõm xuống chia thành 2 thuỳ, phía gốc hẹp lại, cuống lá 2,4-4cm, không lông. Hoa màu trắng thơm, đường kính 9-12cm, nhị và nhuỵ nhiều. Quả kép gồm nhiều quả đại, hình trứng dài 11-16cm, rộng 5-6,5cm. Cây thường mọc ở những nơi có khí hậu mát ở Phúc Kiến, Chiết Giang, An Huy, Giang Tây và Hồ Nam. Vỏ cây chữa magnolot và honokiol. Hậu phác có vị đắng, cay, tính ôn, không độc, có tác dụng táo thấp tiêu đàm, hạ khí trừ mạn. Thường được dùng trị bệnh đầy bụng, ăn uống không tiêu, đau bụng, nôn mửa, đại tiện bí, táo.",
+    "pharmacology": "[Thông tin hoạt chất Hậu phác nam] Mô tả: Cây to cao 8-10m, tới 20m, cành hình trụ, màu nâu đen. Lá to, thơm, mọc đối hoặc so le, phiến tròn dài, chóp lá tù hay hơi nhọn, mặt dưới lá hơi mốc mốc, ba gân gốc chạy dọc đến gần chóp lá. Hoa trắng thơm mọc thành chuỳ ở nách lá và đầu các cành, gồm 12-14 tán. Quả mọng hình bầu dục dài 12-13mm, trên một chén do bao hoa còn lại. Bộ phận dùng: Vỏ thân - Cortex Cinnamomi Nơi sống và thu hái: Loài phân bố ở Ấn Độ, Mianma, Trung Quốc và Việt Nam. Thông thường ở rừng thưa từ Tuyên Quang, Bắc Thái tới Sông Lô, An Giang. Thu hái vỏ thân của cây có vỏ dày vào mùa khô, phơi khô. Tính vị, tác dụng: Hậu phác nam có vị đắng cay, hơi mát, tính ấm, có tác dụng hạ khí, tiêu đờm, ấm trung tiêu."
+  }
 }

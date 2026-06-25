@@ -6,6 +6,15 @@
   "dosage_form": "Si rô",
   "manufacturer": "JB Chemicals & Pharm., Ltd",
   "manufacturer_country": "India",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Các cao dược liệu Hương nhu, Cam thảo bắc, Nghệ,gừng, Adhatova, Solanum",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Thuốc Zecuf siro được chỉ định điều trị các chứng ho nói chung, ho gà giai đoạn đầu, ho do kích ứng và dị ứng, ho do hút thuốc, ho do viêm thanh quản, ho do viêm họng, ho do viêm amidan và ho theo mùa."
+  }
 }

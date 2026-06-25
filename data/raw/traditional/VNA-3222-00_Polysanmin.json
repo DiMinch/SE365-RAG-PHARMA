@@ -6,6 +6,13 @@
   "dosage_form": "Kem bôi da",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Chitosan, Nghệ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

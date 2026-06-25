@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén hòa tan",
   "manufacturer": "Yunnan Phytopharmaceuticals Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Panax notoginseng saponins",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

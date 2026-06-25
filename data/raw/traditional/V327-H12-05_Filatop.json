@@ -6,6 +6,13 @@
   "dosage_form": "Si rô",
   "manufacturer": "Công ty Dược Vật tư Y tế Tiền Giang",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Gan lợn",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

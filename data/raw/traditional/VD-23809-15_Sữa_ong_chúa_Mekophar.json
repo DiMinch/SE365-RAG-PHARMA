@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén ngậm",
   "manufacturer": "Công ty cổ phần Hóa - Dược phẩm Mekophar",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Sữa ong chúa",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần Dược Ninh Bình",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Nhân trần",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

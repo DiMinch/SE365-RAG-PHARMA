@@ -6,6 +6,25 @@
   "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Hoàng kỳ",
+      "amount": "1gam",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "0.65gam",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Phòng phong",
+      "amount": "0.35gam",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

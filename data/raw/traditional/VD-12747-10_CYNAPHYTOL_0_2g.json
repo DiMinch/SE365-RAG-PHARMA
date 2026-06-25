@@ -14,5 +14,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2419/actiso.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Giải độc gan, thông mật, lợi tiểu, nhuận tràng. Dùng trong các bệnh suy gan thận, viêm thận cấp và mạn. Giải độc gan, thông mật, lợi tiểu, nhuận tràng. Dùng trong các bệnh suy gan thận, viêm thận cấp và mạn.",
+    "contraindication": "Tắc ống dẫn mật, tiêu chảy, dị ứng với bất cứ thành phần nào của thuốc.",
+    "dosage": "Uống trước bữa ăn, uống liên tục 10 – 20 ngày/tháng - Người lớn: 2 – 3 viên/ lần, ngày 3 lần. - Trẻ em : 2 – 6 viên/ngày, tùy theo tuổi",
+    "side_effects": "Nhuận tràng nhẹ."
+  }
 }

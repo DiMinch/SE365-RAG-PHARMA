@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén ngậm",
   "manufacturer": "Công ty TNHH thuốc và công cụ Y tế 204",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dịch ép gừng tươi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,17 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao ích mẫu (tương ứng 4,2g ích mẫu) 0,4g; Cao hương phụ (tương ứng 1,312g hương phụ) 125mg; Cao ngải cứu (tương ứng 1,050g ngải cứu) 100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Trị kinh nguyệt không đều, đau bụng kinh. Làm giảm sự khó chịu, nhức đầu, hoa mắt trong khi hành kính. Hồi phục tử cung sau khi sinh. Chữa rối loạn kinh nguyệt ở thời kỳ mới có kinh và thời kỳ tiền mãn kinh. Dùng đều đặn mỗi ngày làm lưu thông khí huyết. - Kinh nguyệt không đều, đau bụng khi hành kinh, khí hư bạch đới, rối loạn kinh nguyệt. \n- Phục hồi tử cung sau khi sinh, giúp lưu thông khí huyết, da dẻ mịn màng, tươi mát.",
+    "contraindication": "Phụ nữ có thai.",
+    "dosage": "Uống 1-2 viên/lần, 3 lần/ngày Bệnh nặng dùng liều gấp đôi."
+  }
 }

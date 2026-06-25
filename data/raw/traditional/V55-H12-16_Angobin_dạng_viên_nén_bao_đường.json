@@ -6,6 +6,18 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Viện Dược liệu",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Đương quy, Bột Đương quy, Tinh dầu lá Đương quy",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Đặc tính dược lực : Angobin có tác dụng ức chế đông máu, ức chế quá trình tạo huyết khối, ức chế ngưng tập tiểu cầu, chống co thắt, giãn mạch ngoại biên, làm giảm độ nhớt của máu, tăng cường lưu lượng máu lên não. Dược lý cận lâm sàng : Sau 1 tháng điểu trị cho bệnh nhân thiểu năng tuần hoàn não, trên điện não đồ, lưu huyết não đồ nhận thấy Angobin làm tăng cường hoạt hóa thần kinh vỏ não, tăng cường lưu lượng máu qua não. Xét nghiệm huyết học nhận thấy Angobin ức chế ngưng tập tiểu cầu, kéo dài thời gian đông máu, làm cho máu lưu thông tốt hơn. Chỉ định : Phòng và điều trị tắc nghẽn mạch máu não mãn tính, đặc biệt dùng tốt cho người già và phụ nữ có các triệu chứng như : đau đầu vùng thái dương, chẩm gáy, chóng mặt, rối loạn tiền đình, ù tai, nặng đầu, giảm trí nhớ, mất ngủ, mệt mỏi toàn thân. Chữa các chừng rối loạn kinh nguyệt, thống kinh. Đặc tính dược lực : Angobin có tác dụng ức chế đông máu, ức chế quá trình tạo huyết khối, ức chế ngưng tập tiểu cầu, chống co thắt, giãn mạch ngoại biên, làm giảm độ nhớt của máu, tăng cường lưu lượng máu lên não.\n\nDược lý cận lâm sàng : Sau 1 tháng điểu trị cho bệnh nhân thiểu năng tuần hoàn não, trên điện não đồ, lưu huyết não đồ nhận thấy Angobin làm tăng cường hoạt hóa thần kinh vỏ não, tăng cường lưu lượng máu qua não. Xét nghiệm huyết học nhận thấy Angobin ức chế ngưng tập tiểu cầu, kéo dài thời gian đông máu, làm cho máu lưu thông tốt hơn.\n\nChỉ định : Phòng và điều trị tắc nghẽn mạch máu não mãn tính, đặc biệt dùng tốt cho người già và phụ nữ có các triệu chứng như : đau đầu vùng thái dương, chẩm gáy, chóng mặt, rối loạn tiền đình, ù tai, nặng đầu, giảm trí nhớ, mất ngủ, mệt mỏi toàn thân. Chữa các chừng rối loạn kinh nguyệt, thống kinh.",
+    "contraindication": "không dùng cho người mẫn cảm với bất cứ thành phần nào của thuốc",
+    "dosage": "Ngày uống 3 lần (sau các bữa ăn), mỗi lần 3-5 viên.",
+    "side_effects": "Chưa có báo cáo."
+  }
 }

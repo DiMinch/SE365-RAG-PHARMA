@@ -6,6 +6,13 @@
   "dosage_form": "Bột uống",
   "manufacturer": "Laboratoires Opodex Industrie",
   "manufacturer_country": "FRANCE",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Vỏ nhầy tán mịn từ hạt Parapsyllium, parafin (vỉ nang)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

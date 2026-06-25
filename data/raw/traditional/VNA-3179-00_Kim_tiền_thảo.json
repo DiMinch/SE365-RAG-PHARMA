@@ -1,11 +1,22 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-4790/kim-tien-thao.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Kim tiền thảo",
-  "registration_number": "VNA-3179-00",
-  "dosage_form": "Thuốc nước",
+  "name": "Kim tiền thảo OPC",
+  "registration_number": "VD-26203-17",
+  "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty cổ phần Dược phẩm OPC",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Kim tiền thảo Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2426/kim-tien-thao.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị sỏi đường tiết niệu: sỏi thận, sỏi bàng quang, sỏi niệu quản và sỏi mật. Có tác dụng thanh nhiệt lợi tiểu, chữa phù thũng, chữa đi tiểu đau. Phối hợp điều trị viêm bể thận, viêm túi mật.",
+    "contraindication": "Không dùng cho người đái tháo đường, đái tháo nhạt, người thiếu máu, người thể hư hàn.",
+    "dosage": "Người lớn: uống 5 viên (120 mg) x 3 lần/ ngày, uống thuốc sau khi ăn với nhiều nước. Hoặc theo chỉ dẫn của Thầy thuốc."
+  }
 }

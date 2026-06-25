@@ -6,6 +6,19 @@
   "dosage_form": "Viên nang-500mg",
   "manufacturer": "Glenmark Pharm., Ltd",
   "manufacturer_country": "India",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột nhân sâm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Suy nhược cơ thể do thể chất hay tâm lý. Mệt mỏi, stress (căng thẳng). Hồi phục sau dưỡng bệnh. Suy nhược cơ thể do thể chất hay tâm lý. Mệt mỏi, stress (căng thẳng). Hồi phục sau dưỡng bệnh.",
+    "contraindication": "Tăng huyết áp. Bệnh tim mạch. Xuất huyết nhiều do hành kinh. Ðái tháo đường. Phụ nữ có thai. Ðang dùng thuốc kháng đông như warfarin, phenelzine sulfate, estrogen hoặc corticosteroid.",
+    "dosage": "1 viên/ngày dùng cùng với bữa ăn sáng.",
+    "side_effects": "Hiếm: mất ngủ, xuất huyết sau mãn kinh, đau cơ, đau đầu, run giật, thay đổi cảm xúc (khi dùng chung với phenelzine), tiểu đường thai kỳ, tăng trương lực cơ, tiêu chảy, lo âu.",
+    "interactions": "Thuốc kháng đông warfarin, phenelzine, thuốc uống ngừa thai."
+  }
 }

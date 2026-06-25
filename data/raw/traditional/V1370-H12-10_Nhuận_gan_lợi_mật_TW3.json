@@ -6,6 +6,16 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso, Cao Biển súc, Bột bìm bìm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Dùng cho bệnh nhân bị mụn nhọt, nổi mề đay, ban ngứa, vàng da, táo bón. Tác dụng Actiso: Có tác dụng thông tiểu tiện, thông mật, dùng trong các bệnh yếu gan, thận, viêm thận cấp tính và kinh niên, sưng khớp xương... Rau đắng đất: Có tác dụng lợi tiêu hóa, khai vị lợi tiểu, nhuận gan, hạ nhiệt. Bìm bìm: Có tác dụng nhuận tràng, thông tiểu tiện, thông mật, sát trùng. Sự kết hợp các dược liệu trên có tác dụng: Thanh nhiệt, giải độc, tăng cường chức năng gan.",
+    "interactions": "Isotretinoin làm giảm thị lực buổi tối và giảm độ dung nạp với kính mắt. Bệnh nhân viêm ruột có thể tăng triệu chứng. Nồng độ triglycerid trong máu có thể tăng.\n\nViêm gan hiếm khi xảy ra ở bệnh nhân dùng isotretinoin, cần xét nghiệm máu định kỳ để kiểm tra các dấu hiệu viêm gan.\n\nIsotretinoin có liên quan mật thiết với Vitamin A. Để tránh ngộ độc, bệnh nhân dùng isotretinoin không nên dùng bổ sung Vitamin A."
+  }
 }

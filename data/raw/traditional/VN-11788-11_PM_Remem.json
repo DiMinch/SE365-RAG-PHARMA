@@ -6,6 +6,19 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "PharmaMetics Products",
   "manufacturer_country": "AUSTRALIA",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Ginkgo biloba leaf ext. dry conc. (50",
+      "amount": "1) 120mg Tương đương với Ginkgo biloba dry 6g (6000mg)",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Suy tuần hoàn não và các biểu hiện chức năng: chóng mặt, nhức đầu, giảm trí nhớ, giảm khả năng nhận thức, rối loạn vận động, rối loạn cảm xúc và nhân cách. Di chứng tai biến mạch máu não và chấn thương sọ não Rối loạn thần kinh cảm giác, tuần hoàn ở mắt, tai mũi họng. Hội chứng Raynaud, tê lạnh và tím tái đầu chi. Phòng ngừa và làm chậm quá trình tiến triển của bệnh Alzheimer’s (bệnh sa sút trí tuệ ở người có tuổi). Tăng cường sức khỏe tình dục. Suy tuần hoàn não và các biểu hiện chức năng: chóng mặt, nhức đầu, giảm trí nhớ, giảm khả năng nhận thức, rối loạn vận động, rối loạn cảm xúc và nhân cách. Di chứng tai biến mạch máu não và chấn thương sọ não Rối loạn thần kinh cảm giác, tuần hoàn ở mắt, tai mũi họng. Hội chứng Raynaud, tê lạnh và tím tái đầu chi. Phòng ngừa và làm chậm quá trình tiến triển của bệnh Alzheimer’s (bệnh sa sút trí tuệ ở người có tuổi). Tăng cường sức khỏe tình dục.",
+    "contraindication": "Phụ nữ có thai, rối loạn đông máu.\n\nPhẫu thuật: Ngừng sử dụng ít nhất 2 tuần trước khi phẫu thuật. Gingko biloba có thể tăng nguy cơ chảy máu khi dùng trong phẫu thuật.\n\nMẫn cảm với bất cứ thành phần nào của thuốc.",
+    "dosage": "Người lớn: 1 viên nén/Íần x 2 - 3 lần/ngày cùng với bữa ăn, hoặc theo chỉ dẫn của bác sĩ. Trẻ em (từ 12 tuổi trở xuống): Theo chỉ dẫn của bác sĩ.",
+    "side_effects": "Có thể gây ra rối loạn tiêu hóa nhẹ, đau đầu và chóng mặt\n\nThông báo cho bác sĩ những tác dụng phụ gặp phải trong quá trình sử dụng thuốc\n\nNếu cần thêm thông tin xin hỏi ý kiến bác sĩ.",
+    "interactions": "Các thuốc, thảo dược và sản phẩm bổ sung kháng đông/kháng tiểu cầu: nếu sử dụng đồng thời với Ginkgo, về mặt lý thuyết có thể làm tăng nguy cơ chảy máu vì tác dụng của ginkgo lên sự kết khối tiểu cầu. Nên tránh sự kết hợp này hoặc tham khảo ý kiến bác sĩ trươc khi dùng."
+  }
 }

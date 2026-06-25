@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty TNHH Dược phẩm Fito Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi viên chứa",
+      "amount": "Cao khô gừng 160mg tương ứng gừng tươi 1800mg; Bột mịn gừng khô (can khương) 200mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Hộp 1 lọ nhôm 12g; hộp 1 lọ chất dẻo 35g",
   "manufacturer": "Rohto Pharm Co., Ltd",
   "manufacturer_country": "Japan",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "DL-Camphor, L-Menthol",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

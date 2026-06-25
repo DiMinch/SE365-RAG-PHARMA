@@ -2,47 +2,76 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-14232/sam-nhung-kien-luc.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Sâm nhung kiện lực",
-  "registration_number": "VNB-0732-03",
-  "dosage_form": "Thuốc nước",
-  "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
+  "registration_number": "V1392-H12-10",
+  "dosage_form": null,
+  "manufacturer": "Công ty cổ phần Dược phẩm Thống Nhất",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
       "name": "Lộc nhung Chính",
-      "amount": "150ml",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2511/loc-nhung.aspx"
     },
     {
-      "name": "Ba kích",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
-    },
-    {
-      "name": "Xuyên khung",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
-    },
-    {
-      "name": "Táo nhân",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2446/tao-nhan.aspx"
-    },
-    {
-      "name": "Ðương quy",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2475/duong-quy.aspx"
-    },
-    {
       "name": "Thục địa",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
+    },
+    {
+      "name": "Hà thủ ô đỏ",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
+    },
+    {
+      "name": "Bạch Linh",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
+    },
+    {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
+      "name": "Hoài sơn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2382/hoai-son.aspx"
+    },
+    {
+      "name": "Mạch môn",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
+    },
+    {
+      "name": "Câu kỷ tử",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
+    },
+    {
+      "name": "Đương qui",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2557/duong-qui.aspx"
+    },
+    {
+      "name": "Nhân sâm",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2323/nhan-sam.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Lộc nhung] * Tác dụng chủ trị: + Ích khí, cường khí, sinh xỉ, bất lão, Chủ lậu hạ ác huyết, hàn nhiệt kinh giản (Bản kinh). + Dưỡng cốt, an thai, uống lâu kéo dài tuổi thọ.Trị hư lao, sốt rét, gầy ốm, tay chân đau, lưng và thắt lưng đau, tiết tinh, huyết suy, bụng có bướu máu, tán sỏi đường tiểu, ung nhọt, nóng trong xương (Danh Y Biệt Lục). + Bổ cho nam giới bị lưng lạnh, chân và gối không có sức, mộng tinh, tiết tinh, phụ nữ bị băng trung lậu huyết *nướng lên uống với rượu, lúc đói + (Dược Tính Luận). +Bổ hư, tráng gân cốt, phá ứ huyết, an thai, hạ khí *nướng với dấm để dùng] (Nhật Hoa Tử Bản Thảo). + Sinh tinh, bổ tủy, dưỡng huyết, ích dương, làm mạnh gân xương. Trị hư tổn, tai ù, mắt mờ, chóng mặt, hư lỵ… Toàn thân con hươu đều bổ dưỡng cho con người (Bản Thảo Cương Mục). + Trị trẻ nhỏ bị đậu trắng nhạt, nước đậu không vỡ, tiêu chảy, người gìa Tz Vị hư hàn, mệnh môn không có hỏa hoặc ăn uống thất thường (Bản Thảo Sơ Yếu). + Tráng nguyên dương, bổ khí huyết, ích tinh tủy, cường gân cốt. Trị hư lao, gầy ốm, tinh thần mê muội, chóng mặt, tai ù, mắt mờ, lưng gối đau, liệt dương, hoạt tinh, tử cung hư lạnh, băng lậu, đái hạ (Trung Dược Đại Từ Điển).",
+    "contraindication": "[Thông tin hoạt chất Lộc nhung] + Bỗng nhiên bị tê dại, không dùng (Bản Thảo Kinh Tập Chú). + Thận hư có hỏa: không nên dùng. Thượng tiêu có đờm nhiệt hoặc Vị (dạ dầy) có hỏa: không dùng. Phàm thổ huyết, hạ huyết, âm hư hỏa tích: không dùng (Bản Thảo Kinh Sơ). + Người âm hư hỏa vượng: không dùng (Trung Dược Đại Từ Điển). + Trong người có thực nhiệt: không dùng (Lâm Sàng Thường Dụng Trung Dược Thủ Sách).",
+    "dosage": "[Thông tin hoạt chất Lộc nhung] Lộc nhung không cho vào thuốc sắc, chỉ tán nhỏ, hòa uống riêng từ 1,2 – 4g. Đơn thuốc: + Trị tinh huyết suy kiệt, sắc mặt đen sạm, tai ù, mắt hoa, miệng khô, khát, lưng đau, gối mỏi, tiểu đục, trên táo dưới hàn: Lộc nhung, Đương quy (đều tẩy rượu). Lượng bằng nhau, tán bột. Dùng thịt Ô mai nấu thành cao, trộn thuốc bột làm hoàn. Ngày uống 8-12g lúc đói với nước cơm (Hắc Hoàn – Tế Sinh Phương). + Trị tinh huyết đều khô, doanh vệ hao tổn, sốt về chiều, tự ra mồ hôi, hồi hộp, lo sợ, chân tay mỏi, các loại hư yếu: Lộc nhung (chưng rượu), Phụ tử (bào) đều 40g. Tán bột. Chia làm 4 phần. Thêm Sinh khương 10 lát, sắc uống ấm(Nhung Phụ Thang – Thế Y Đắc Hiệu Phương). + Trị hư yếu, liệt dương, da mặt không tươi, tiểu nhiều, không muốn ăn uống: Lộc nhung 20-40g. Ngâm rượu 7 ngày, uống dần (Lộc Nhung Tửu – Phổ Tế Phương). + Trị Thận dương bất túc, tinh khí hao tổn gây nên liệt dương, di tinh, hoạt tinh, tiết tinh, lưng đau, gối mỏi, đầu váng, tai ù: Lộc nhung, Nhân sâm, Thục địa, Câu kỷ tử, Phụ tử. Làm thành hoàn, uống (Sâm Nhung Vệ Sinh Hoàn – Trung Dược Ứng Dụng Lâm Sàng). + Trị phụ nữ bị băng lậu, vô sinh do dương hỏa suy: Lộc nhung 40g, Thục địa 80g, Nhục thung dung 40g, Ô tặc cốt 40g. Tán bột. Ngày uống 8-12g. (Lộc Nhung Tán Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị phụ nữ bị băng lậu: Lộc nhung 1g, A giao, Đương quy đều 12g, Ô tặc cốt 20g, Bồ hoàng 6g. tán bột. Ngày uống 2 lần, mỗi lần 4g với rượu ấm (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị liệt dương, tiểu nhiều: Lộc nhung, sao rượu, tán bột. Mỗi lần uống 0,8g-1,2g với nước sắc 20g Dâm dương hoắc (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị tủy hư yếu, chân tay mềm, xương mềm, trẻ nhỏ phát dục kém, châm mọc răng, chậm biết đi: Lộc nhung 1g, Ngü gia bì, Sơn thù, Phục linh, Đơn bì, Trạch tả đều 12g, Thục địa 16g, Xạ hương 0,1g. tán bột. Trộn với mật làm viên. Ngày uống 2 lần, mỗi lần 4-12g (Địa hoàng Hoàn Gia Vị – Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Trị tiêu chảy do Thận hư: Trương Quế Bảo dùng dung dịch Lộc Nhung Tinh tiêm bắp, mỗi ngày hoặc cách nhật tiêm liền 2 lần. Trị 16 trường hợp, có kết quả: 03, khỏi: 12, không khỏi: 01 ( Tạp Chí Trung Y Dược Cát Lâm 1985, 2:22). + Trị liệt dương: Từ Khả Phúc dùng Lộc Nhung Tinh thủy châm các huyệt Khí hải, Quan nguyên, Trung cực, Khúc cốt, Túc tam lý, mỗi huyệt 0,5ml, huyệt Mệnh môn 1ml, cách 1 ngày tiêm 1 lần. Mỗi liệu trình 15 lần (Có kết hợp uống thêm Trung dược theo biện chứng). Điều trị 42 trường hợp, có kết quả tốt (Tạp Chí Trung Y Triết Giang 1983, 11:498). + Trị rốí loạn dẫn truyền nhĩ thất: Thái Tố Nhân dùng Lộc nhung tinh tiêm bắp mỗi ngày 2ml, một liệu trình là 25-30 ngày. Trị 20 ca, có kết quả 85% (Tạp Chí Y Học Triết Giang 1988, l: 22).",
+    "pharmacology": "[Thông tin hoạt chất Lộc nhung] Lộc nhung là nhung (sừng non); của hươu đực (Lộc) `Cervus Nippon Temminck` hoặc con nai (Mê) *Cervus Unicolor Cuv.+ được chế biến thành. Hai loại hươu và nai đều thuộc ngành động vật có xương sống (Vertebrata), lớp có vú (Mamalia), bộ Quốc chẵn (Arliodactyla), họ Hươu (Cervidae). Sừng non khi mới mọc dài 5-10cm, rất mềm. Mặt ngoài phủ đầy lông tơ mầu nâu nhạt, trong chứa rất nhiều mạch máu. Sừng non mềm và sờ mịn như nhung (vì vậy gọi là Lộc nhung). Thu hái: Chỉ có hươu đực mới có sừng. Từ 2 tuổi trở đi, hươu nai đực bắt đầu có sừng nhưng phải từ 3 tuổi trở đi sừng hoặc nhung mới tốt và mới thu hoạch được . Hàng năm vào cuối mùa hạ, sừng hươu nai cü sẽ rụng đi và vào mùa xuân năm sau sẽ mọc lại sừng khác. * Có loại hươu nai cho 2 lần nhung 1 năm. Lần cắt nhung thứ nhất tiến hành 40 – 50 ngày sau tiết thanh minh (khoảng tháng 2-3 âm lịch). Lần thứ 2 khoảng 50 – 60 ngày sau lần cắt thứ nhất ( trước hoặc sau ngày lập thu – tháng 5-6). Phần dùng làm thuốc: Lộc non của sừng. Bào chế: + Dùng dây trói hươu, treo cao khỏi mặt đất. Dùng cưa, cưa thật nhanh vào gần sát đế sừng. Nhặt bỏ các chất bẩn bao quanh nhung đi, sau đó, lấy dây buộc chặt phần đầu cưa lại. Cho đầu nhung cắt vào nồi nước sôi 3-4 lần , mỗi lần 15-20 phút, đến khi có bọt ở miệng cắt và nhung có mùi lòng đỏ trứng gà luộc chín thì thôi. Thường khoảng 2-3 giờ. Sau đó phơi hoặc sấy khô. Ngày hôm sau lại làm như vậy. Sấy ở nhiệt độ 70-80oC trong vòng 2-3 giờ rồi lấy ra. Làm như vậy 2-3 lần cho thật khô là được (Trung Dược Đại Từ Điển). + Đốt cháy lông tơ, lấy mảnh thủy tinh cạo sạch rồi tẩm rượu nóng cho mềm, thái thành từng phiến, phơi khô để dùng (Đông Dược Học Thiết Yếu). + Cưa lấy nhung từ chỗ cách đế nhung 3cm. Nhung cắt được cần chế biến ngay vì với máu và chất thịt để lâu có thể bị thối rữa và có giòi bọ. Đem cặp nhung ngâm vào rượu 1 đêm. Khi ngâm chú { để chỗ cắt lên trên cho chất tốt trong nhung không ra hết vào rượu. Hôm sau, rang cát cho vừa, đổ vào 1 cái ống, ở giữa để cặp nhung (để chỗ cắt lên phía trên). Khi cát nguội lại đổ ra thay cát mới rang vào. Mỗi lần thay cát lại nhúng nhung vào rượu cho rượu thấm vào. Làm như vậy cho đến khi sừng khô. Cất đi để dùng. Hoặc chỉ tẩm rượu vào nhung rồi sấy khô. Khô rồi lại tẩm rượu và lại sấy khô cho đến khi nhung khô kiệt là được. Việc chế biến đòi hỏi khoảng 2-3 ngày. Một cặp nhung nặng 800g khi khô chỉ còn chừng 250g. Tuy nhiên khi chế biến nếu không cẩn thận nhung có thể bị nứt, máu chảy ra hết, giá trị làm thuốc sẽ giảm (Những Cây Thuốc Và Vị Thuốc Việt Nam). Thành phần hóa học: Trong Lộc nhung có đến 25 loại Acid Amin, Calci Phosphat, Calci Carborat, chất keo, Oestrogen, Testosteron và 26 loại nguyên tố vi lượng như Cu, Fe, Zn, Mg, Cr, Br, Coban, Kiềm… (Những Cây Thuốc Và Vị Thuốc Việt Nam). + Pavelenco (Liên xô) lấy từ nhung các loại hươu nai ở Xiberi 1 số chất nội tiết gọi là ‘Lộc Nhung Tinh’ (Pantocrin), rồi chế thành thuốc uống hoặc tiêm mang tên Pantocrin (Những Cây Thuốc Và Vị Thuốc Việt Nam). + Glycine, Lysine, Arginine, Aspartic acid, Glutamic acid, Proline, Alanine, Leucine (Phạm Ngọc Lâm, Trung Thảo Dược Thông Báo 1979, (8): 4). + Cholesteryl myristate, Cholesteryl oleate, Cholesteryl palmitate, Cholesteryl stearate, p-Hydroxybenzaldehyde, Cholesterol, Cholest-5-en-3b-ol-7-one Tác dụng dược lý: + Báo Y Học Liên Xô tháng 2-1954, Rexetnikova A.D giới thiệu tác dụng của Lộc nhung như sau: . Lộc nhung có tác dụng tốt đối với toàn thân, nâng cao năng lượng công tác, giúp ăn ngủ ngon, bớt mệt mỏi, làm nhanh lành các vết thương, tăng sức lợi niệu, tăng nhu động ruột và bao tử, ảnh hưởng tốt đến việc chuyển hóa các chất Protid và Glucid. . Liều lượng khác nhau của Lộc nhung có tác dụng khác nhau đối với mạch máu tim: liều cao gây hạ huyết áp, biên độ co bóp của tim tăng, tim đập nhanh, lượng huyết do tim phát ra cüng tăng lên . 1- Tác Dụng Đối Với Tim Mạch: Theo loại nhung của Tây bá lợi á, lấy ra chất ‘Lộc Nhung Tinh’ (pantocrinum), dùng liều cao có thể làm hạ huyết áp, tăng lưu lượng máu động mạch vành của tim chuột lớn cô lập, tim co bóp mạnh hơn, nhịp tim chậm lại, làm cường tim. Trên thực nghiệm còn thấy có tác dụng phòng trị nhịp tim không đều, tăng nhanh sự hồi phục huyết áp thấp do mất máu cấp (Trung Dược Đại Từ Điển). 2- Tác Dụng Cường Tráng: Lộc nhung tinh có tác dụng như kích thích tố sinh dục, làm tăng nhanh thể trọng và chiều cao của chuột bạch thí nghiệm và tử cung của chuột cái phát triển, tăng nhanh sự hồi phục của xương và làm vết thương chóng lành (Trung Dược Đại Từ Điển). 3- Tác Dụng Chống Loét: Chất Polysacaride của Lộc nhung có tác dụng chống loét rõ đối với mô hình gây loét bằng Acid Acetic hoặc thắt môn vị (Trung Dược Đại Từ Điển). 4- Tác Dụng Tổng Thể: Lộc nhung tinh có tác dụng cường tráng, chống mỏi mệt, nâng cao hiệu quả công tác, cải thiện giấc ngủ, kích thích tiêu hóa, cải thiện trạng thái suy dinh dưỡng và rối lọan chuyển hóa đạm, cải thiện trạng thái chuyển hóa năng lượng thấp, làm cho chuột chịu đựng tốt hơn ở môi trường nhiệt độ cao hoặc nhạt độ thấp. Nâng cao tính miễn dịch của cơ thể, làm tăng hồng cầu, huyết sắc tố và sự tăng sinh của tế bào lưới hồng cầu, tăng bạch cầu (Trung Dược Học). Độc Tính: + Thuốc không độc. Bơm đến 40g/kg thuốc vào dạ dầy chuột vẫn không gây chết (Trung Dược Dược Lý Dữ Lâm Sàng). + Không đo được liều độc cấp LD50. Tác dụng phụ thường gặp là rối loạn tiêu hóa, da ửng đỏ, ngứa, chu kz kinh nguyệt k o dài (Trung Dược Dược Lý Dữ Lâm Sàng). Tính vị: + Vị ngọt, tính ôn (Bản Kinh). + Vị chua, tính hơi ôn, không độc (Danh Y Biệt Lục). + Vị ngọt, mặn, tính ôn, không độc (Bản Thảo Mông Thuyên). + Vị ngọt, tính ôn (Trung Dược Học). + Vị ngọt, mặn, tính ôn (Đông Dược Học Thiết Yếu). + Vị ngọt, tính ôn (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). Quy kinh: + Vào kinh Thận (Lôi Công Bào Chế Dược Tính Giải). + Vào kinh thủ quyết âm (Tâm bào), Thủ thiếu âm (Tâm), Túc thiếu âm (Thận), Túc quyết âm `Can` (Bản Thảo Kinh Sơ). + Vào kinh Thận, Can, Tâm và Tâm Bào (Đông Dược Học Thiết Yếu). + Vào kinh Can, Thận (Trung Dược Đại Từ Điển). + Vào kinh Can, Thân, Tâm, Tâm bào (Lâm Sàng Thường Dụng Trung Dược Thủ Sách)."
+  }
 }

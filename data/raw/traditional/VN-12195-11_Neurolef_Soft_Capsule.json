@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Korea Core Pharma Co., Ltd.",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô chiết xuất từ lá cây Crataegus oxyacathane, cao khô chiết xuất từ lá cây Melissa folium, cao khô chiết xuất từ lá cây Bạch quả, tinh dầu tỏi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

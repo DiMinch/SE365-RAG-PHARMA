@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Shineway Pharmaceuticals Co., Ltd.",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Rễ đại thanh 800mg; Kim ngõn hoa  240mg; Bột trõn chõu mẫu 200mg; Sơn chi tử 100mg; Thủy ngưu  100mg; Baicalin 20mg; Hyodeoxycholic acid 15mg; Cholic acid 13mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

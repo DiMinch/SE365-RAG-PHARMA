@@ -62,5 +62,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2379/chi-thuc.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Được chỉ định trong các trường hợp sau : Trị sỏi thận - tiết niệu, sỏi mật, viêm túi mật. Phòng ngừa tái phát, đặc biệt là sau khi tán sỏi hoặc mổ lấy sỏi. Được chỉ định trong các trường hợp sau : Trị sỏi thận - tiết niệu, sỏi mật, viêm túi mật. Phòng ngừa tái phát, đặc biệt là sau khi tán sỏi hoặc mổ lấy sỏi.",
+    "contraindication": "Người mẫn cảm với bất cứ thành phần nào của thuốc. Phụ nữ có thai và đang cho con bú.",
+    "dosage": "Uống với nhiều nước, trước bữa ăn: Để tống sỏi : Ngày 3 lần, mỗi lần 3 viên Để điều trị viêm, phòng ngừa tái phát : Ngày 2 lần, mỗi lần 3 viên",
+    "side_effects": "Thỉnh thoảng gặp rối loạn tiêu hoá như đau bụng, tiêu chảy nhẹ"
+  }
 }

@@ -6,6 +6,18 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược phẩm Yên Bái",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột xuyên khung, Bột Bạch chỉ, Bột Hương phụ, Bột Quế, Bột Gừng, Bột Cam thảo bắc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị các trường hợp cảm cúm, nhức đầu, hắt  hơi, sổ mũi do hàn. Điều trị các trường hợp cảm cúm, nhức đầu, hắt  hơi, sổ mũi do hàn.",
+    "contraindication": "Phụ nữ có thai, người cao huyết áp, ở trạng thái nhiệt, táo bón do nhiệt.",
+    "dosage": "+ Người lớn: Mỗi lần uống 2 - 3 viên, ngày 3 lần. + Trẻ em: Mỗi lần uống 1 - 2 viên, ngày 3 lần. Nên uống với nước ấm.",
+    "side_effects": "Chưa có tài liệu báo cáo."
+  }
 }

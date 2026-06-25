@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Tô mộc (tương đương với 1883 mg Tô mộc) 160 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

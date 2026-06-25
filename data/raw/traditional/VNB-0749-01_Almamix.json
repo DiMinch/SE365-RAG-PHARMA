@@ -26,5 +26,13 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Magnesium] Ðiều trị các triệu chứng gây ra do tình trạng giảm Mg máu, bổ sung Mg trong phục hồi cân bằng nước điện giải, điều trị sản giật.",
+    "contraindication": "[Thông tin hoạt chất Magnesium] Suy thận nặng với độ thanh thải của creatinine dưới 30 ml/phút.",
+    "dosage": "[Thông tin hoạt chất Magnesium] Tiêm truyền tĩnh mạch sau khi pha loãng.",
+    "side_effects": "[Thông tin hoạt chất Magnesium] Ðau tại chỗ tiêm, giãn mạch máu với cảm giác nóng. Tăng Mg máu.",
+    "interactions": "[Thông tin hoạt chất Magnesium] Quinidin, các thuốc nhóm cura.\nTránh dùng magnesium kết hợp với các chế phẩm có chứa phosphate và muối calcium là các chất ức chế quá trình hấp thu magnesium tại ruột non.\nTrong trường hợp phải điều trị kết hợp với tetracycline đường uống, thì phải uống hai loại thuốc cách khoảng nhau ít nhất 3 giờ.",
+    "pharmacology": "[Thông tin hoạt chất Magnesium] Về phương diện sinh lý, magnesium là một cation có nhiều trong nội bào. Magnesium làm giảm tính kích thích của neurone và sự dẫn truyền neurone-cơ. Magnesium tham gia vào nhiều phản ứng men. Khi uống Magnesium sulfate có tác dụng gây nhuận tràng do 2 nguyên nhân: do không hấp thu khi uống nên hút nước vào trong lòng ruột để cân bằng thẩm thấu, kích thích giải phóng cholescystokinin - pancreozymin nên gây tích tụ các chất điện giải và chất lỏng vào trong ruột non, làm tăng thể tích và tăng kích thích sự vận động của ruột.\nKhi tiêm có tác dụng chống co giật trong nhiễm độc máu ở phụ nữ có thai, điều trị đẻ non, giảm magnesium máu.",
+    "pharmacokinetics": "[Thông tin hoạt chất Magnesium] - Hấp thu: không hấp thu qua đường tiêu hoá.\n- Chuyển hoá: thuốc không chuyển hoá trong cơ thể.\n- Thải trừ: thuốc thải trừ chủ yếu qua nước tiểu."
+  }
 }

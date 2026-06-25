@@ -6,6 +6,13 @@
   "dosage_form": "Thùng 1 túi",
   "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô rau má",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

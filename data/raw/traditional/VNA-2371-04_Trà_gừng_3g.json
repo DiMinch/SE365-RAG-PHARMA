@@ -6,6 +6,17 @@
   "dosage_form": "Cốm",
   "manufacturer": "Công ty cổ phần Dược phẩm Hải Phòng",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột gừng khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp cảm lạnh, nhiễm lạnh, nhức đầu, nôn oẹ có đờm, ho mất tiếng, ho do lạnh, chân tay lạnh, thân thể đau mỏi. \n- Đau bụng lạnh, đầy trướng, rối loạn tiêu hoá, nôn mửa. - Các trường hợp cảm lạnh, nhiễm lạnh, nhức đầu, nôn oẹ có đờm, ho mất tiếng, ho do lạnh, chân tay lạnh, thân thể đau mỏi. \n- Đau bụng lạnh, đầy trướng, rối loạn tiêu hoá, nôn mửa.",
+    "contraindication": "Trường hợp ra mồ hôi nhiều hoặc mất máu.",
+    "dosage": "Mỗi lần 1 gói hoà trong tách nước nóng. Ngày 2-3 lần."
+  }
 }

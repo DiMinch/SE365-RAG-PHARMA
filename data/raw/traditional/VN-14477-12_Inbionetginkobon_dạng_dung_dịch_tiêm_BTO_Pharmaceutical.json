@@ -6,6 +6,15 @@
   "dosage_form": "Dung dịch tiêm",
   "manufacturer": "BTO Pharmaceutical Co., Ltd",
   "manufacturer_country": "Korea",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết lá Bạch qủa",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Giảm trí nhớ. - Rối loạn vận mạch chi dưới, hội chứng Raynaud. - Rối loạn thị giác và thính giác do thiếu máu cục bộ."
+  }
 }

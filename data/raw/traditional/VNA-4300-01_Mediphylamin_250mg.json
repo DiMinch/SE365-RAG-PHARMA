@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột bèo hoa dâu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Mediphylamin được chỉ định cho các trường hợp sau: 1. Dùng cho người lớn: người mới ốm dậy, người bệnh, bệnh nhân sau phẫu thuật, các trường hợp mệt mỏi, chán ăn, suy nhược cơ thể do tuổi tác, lao động, học tập, thể thao gắng sức, phụ nữ cho con bú, người cao tuổi. 2. Dùng cho trẻ nhỏ: trẻ biếng ăn, chậm lớn, trẻ bị suy dinh dưỡng, suy nhược cơ thể, trẻ sau khi ốm dậy, trẻ bị rối loạn sự hấp thu hoặc tăng nhu cầu về các acid amin, khoáng chất. 3. Dùng cho bệnh nhân đang điều trị ung thư: giúp làm giảm thiểu tác hại của tia xạ và hóa trị liệu, làm chậm sự phát triển khối u, kéo dài thời gian sống ở bệnh nhân ung thư. Tính chất Mediphylamin được chiết xuất từ thực vật Azolla microphylla, là hỗn hợp các acid amin, vitamin, nguyên tố vi lượng, các Flavonoid, Phytosteroid, Carotenoid, thu được bằng phương pháp chiết suất theo công nghệ đặc biệt, có tác dụng: 1.Bổ xung dưỡng chất, tăng cường sinh lực, thể lực - Cung cấp các acid amin, vitamin, các nguyên tố vi lượng làm thúc đẩy hoạt động của tế bào, giúp cơ thể khỏe mạnh, nâng cao trí lực, phục hồi sức khỏe, chống suy nhược, mệt mỏi. - Tăng Potein máu toàn phần, tăng hemoglobin máu - Tăng lymphocyte trong máu ngoại vi, tăng cường hệ miễn dịch. - Giúp hạ cholesterol máu, hạ triglyceride máu. 2. Tăng cường hệ miễn dịch, Hỗ trợ điều trị ung thư - Hạn chế cơn đau của bệnh nhân ung thư, giảm số lượng dùng thuốc giảm đau. - Giúp bệnh nhân khỏe hơn, giảm sút cân ít, hồi phục sức khỏe nhanh hơn sau quá trình tia xạ, hóa trị - Giảm các tác hại của tia xạ trong điều trị ung thư bằng xạ trị và hóa trị. - Tăng khả năng chịu được tia xạ trong thời gian điều trị. - Làm chậm sự phát triển của các khối u, giảm di căn, kéo dài thời gian sống ở bệnh nhân ung thư."
+  }
 }

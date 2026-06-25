@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH dược phẩm BV Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 1g cao tương đương 8,33g quả cây chi tử",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

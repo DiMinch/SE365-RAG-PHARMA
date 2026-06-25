@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Korea Arlico Pharm Co., Ltd",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao crataegi, Cao Lá melisae, Cao ginkgo biloba, Tính dầu tỏI",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

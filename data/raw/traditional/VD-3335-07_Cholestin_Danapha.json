@@ -20,5 +20,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2471/hoa-hoe.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "- Điều trị Cholesterol máu cao. - Phòng ngừa xơ vữa động mạch, cao huyết áp. - Điều trị hỗ trợ chống bệnh béo phì. - Điều trị Cholesterol máu cao. \n- Phòng ngừa xơ vữa động mạch, cao huyết áp. \n- Điều trị hỗ trợ chống bệnh béo phì.",
+    "contraindication": "Phụ nữ có thai không được dùng.",
+    "dosage": "Uống 30 phút trước bữa ăn.\nNgười lớn:\n- Liều khởi đầu: mỗi lần 4 viên, ngày 3 lần.\n- Liều duy trì: mỗi lần 2 viên, ngày 3 lần.\nTrẻ em dùng nửa liều người lớn."
+  }
 }

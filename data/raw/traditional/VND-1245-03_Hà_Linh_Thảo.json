@@ -2,10 +2,17 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-15928/ha-linh-thao.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Hà Linh Thảo",
-  "registration_number": "VND-1245-03",
+  "registration_number": "VD-10214-10",
   "dosage_form": "Cồn thuốc",
-  "manufacturer": "Cơ sở sản xuất kinh doanh thuốc Y học Cổ truyền Phúc Long",
+  "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mù u, vỏ cây sắn thuyền, cành non và lá sim, cành non và lá ổi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

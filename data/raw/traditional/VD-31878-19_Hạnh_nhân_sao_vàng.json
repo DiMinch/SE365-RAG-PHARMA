@@ -6,6 +6,18 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Khổ hạnh nhân",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "[Thông tin hoạt chất Hạnh nhân] - Ho do tác nhân phong ngoại sinh và nhiệt: dùng phối hợp với tang diệp, cúc hoa dưới dạng tang cúc ẩm. - Ho do loạn chức năng phổi do khô và nhiệt: dùng phối hợp với tang diệp, xuyên bối mẫu và sa sâm dưới dạng tang hạnh thang. - Ho và hen do tích nhiệt ở phổi: dùng phối hợp với thạch cao và ma hoàng dưới dạng ma hạnh thạch cam thang. - Táo bón do khô ruột: dùng phối hợp với hoạt ma nhân và đương quy dưới dạng nhuận tràng hoàn.",
+    "contraindication": "[Thông tin hoạt chất Hạnh nhân] Dược liệu này hơi độc vì vậy cần tránh quá liều. Thận trọng khi dùng cho trẻ em dưới 1 tuổi.\nKiêng kỵ: Không dùng cho ho do tạng phủ hư nhược, Phế có nhiệt đờm mà không có suyễn.",
+    "dosage": "[Thông tin hoạt chất Hạnh nhân] Liều dùng: 3-10g Bài thuốc: + Chữa ho, hen suyễn, cảm mạo do lạnh (phong hàn): Khổ hạnh nhân, tô diệp, cát cánh, chỉ xác, quất bì, gừng sống, pháp bán hạ, đại táo mỗi vị 8g; phục linh, tiền hồ mỗi vị 12g. Sắc uống. + Chữa táo bón ở người già và phụ nữ sau đẻ: Hạnh nhân, bá tử nhân, hỏa ma nhân mỗi vị 12g. Sắc uống.",
+    "pharmacology": "[Thông tin hoạt chất Hạnh nhân] Hạnh nhân tức là hạt khô của quả của cây Mơ, cao khoảng 5-10m. Hoa màu hồng nhạt gồm 5 cánh. Hoa thường nở rộ vào mùa xuân, rất đẹp.Quả hạnh nhân khi chín được thu hái vào, sau đó bỏ vỏ và thịt quả lấy hạt phơi khô. Hạnh nhân có hai loại: khổ hạnh nhân (nhân hạt mơ đắng); hay được dùng và cam hạnh nhân (nhân hạt mơ ngọt). Địa lý: Mọc hoang và được trồng nhiều ở nước ta, nhiều nhất là các tỉnh Hà sơn bình (Mỹ đức), Hà nam ninh (huyện Kim bảng), Thanh hóa, Nghệ an, Hà tỉnh, Trung quốc, Armenia, Nhật bản cũng có cây Mơ. Bộ phận dùng: Hạt. Tính vị: Vị đắng, hơi ấm và hơi độc. Thu hái, sơ chế: Hạt được thu hái sau khi hạnh nhân chín vào mùa hè, phơi khô và được nghiền thành các mảnh. Nơi tác dụng: Phổi và đại tràng. Tác dụng của Hạnh nhân: Trị ho, giảm hen, và nhuận tràng."
+  }
 }

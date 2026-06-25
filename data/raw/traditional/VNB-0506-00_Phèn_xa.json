@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc bột",
   "manufacturer": "Công ty TNHH Dược phẩm Hà Thành",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bằng sa, Bạch phàn, hoạt thạch",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

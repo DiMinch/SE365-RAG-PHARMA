@@ -6,6 +6,17 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty Dược & trang thiết bị Y tế Bình Định BIDIPHAR",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao actiso (tương đương 2,5g lá Actiso) 100 mg; Cao khô rau đắng đất (tương đương 0,525g rau đắng đất) 75mg; Cao khô hạt bìm bìm biếc (tương đương 75mg bột hạt bìm bìm biếc) 5,245mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng cho những người thiểu năng gan, viêm gan gây mệt mỏi, khó tiêu, vàng da, mụn nhọt lở ngứa, bí đại tiểu tiện, táo bón. - Giải độc, chống dị ứng. Đặc biệt người suy giảm chức năng gan do dùng nhiều bia rượu. - Hỗ trợ xơ vữa động mạch, mỡ trong máu cao. - Dùng cho những người thiểu năng gan, viêm gan gây mệt mỏi, khó tiêu, vàng da, mụn nhọt lở ngứa, bí đại tiểu tiện, táo bón. - Giải độc, chống dị ứng. Đặc biệt người suy giảm chức năng gan do dùng nhiều bia rượu. - Hỗ trợ xơ vữa động mạch, mỡ trong máu cao.",
+    "contraindication": "- Mẫn cảm với các thành phần của thuốc.\n- Thai phụ",
+    "dosage": "- Người lớn: uống 1 - 2 viên/lần x 3 lần/ngày. - Trẻ em trên 8 tuổi: uống 1 viên/lần x 3 lần/ngày."
+  }
 }

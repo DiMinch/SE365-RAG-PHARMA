@@ -6,6 +6,13 @@
   "dosage_form": "hộp nhựa 2kg, 4kg, hộp sắt 5kg bột bó",
   "manufacturer": "Công ty cổ phần LD dược phẩm Medipharco-Tenamyd BR s.r.l",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Calci sulfat khô (dùng dưới dạng đá thạch cao)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

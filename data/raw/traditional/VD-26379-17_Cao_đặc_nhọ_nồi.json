@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty cổ phần hóa Dược Việt Nam",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc nhọ nồi (tương đương 50 kg nhọ nồi) 5kg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

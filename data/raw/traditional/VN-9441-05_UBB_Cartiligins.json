@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Baxco Pharmaceutical., Inc",
   "manufacturer_country": "USA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột sụn cá mập",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

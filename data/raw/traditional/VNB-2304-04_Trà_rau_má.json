@@ -6,6 +6,13 @@
   "dosage_form": "Trà hòa tan",
   "manufacturer": "Công ty cổ phần Dược phẩm TW3  Foripharm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao rau má",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

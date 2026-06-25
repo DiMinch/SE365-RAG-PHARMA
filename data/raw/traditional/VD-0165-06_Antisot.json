@@ -6,6 +6,17 @@
   "dosage_form": "Trà tan",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao cỏ nhọ nồi, cao cam thảo, cao cối xay, cao mã đề",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Sốt xuất huyết độ 1, độ 2.\n- Hạ sốt trong các trường hợp cảm cúm, sốt dịch.",
+    "contraindication": "Không dùng cho bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc. Không dùng cho người tỳ vị hư hàn, ỉa chảy",
+    "dosage": "Trẻ em <6 tuổi: 5 ml/lần x 3 - 4 lần/ngày. Trẻ em còn bú mẹ có thể cho mẹ uống thuốc, qua sữa mẹ điều trị cho con. Trẻ em từ 6 - 13 tuổi: 10 ml/lần x 3 - 4 lần/ngày.\nNgười lớn: 20 ml/lần x 3 - 4 lần/ngày. Có thể uống trực tiếp hoặc pha loãng với nước chín để có vị ngọt thích hợp."
+  }
 }

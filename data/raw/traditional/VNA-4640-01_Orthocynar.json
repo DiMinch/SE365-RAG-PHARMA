@@ -6,6 +6,13 @@
   "dosage_form": "Trà hòa tan",
   "manufacturer": "Công ty cổ phần dược phẩm TW25",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Artichaut, Cao Râu ngô, Cao Râu mèo",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

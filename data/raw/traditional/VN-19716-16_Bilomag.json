@@ -6,6 +6,21 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Natur Produkt Sp. Z o.o",
   "manufacturer_country": "Poland",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá bạch quả đã chuẩn hóa",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "`Girtkgonis extractum siccum raffinatum et quantificatum` (39,6",
+      "amount": "49,5",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Thuốc được chỉ định chủ yếu trong điều trị rối loạn tuần hoàn máu não và ngoại biên Suy tuần hoàn não cấp và mãn tính, giảm chú ý tập trung, giảm trí nhớ, mất trí do xơ cứng mạch máu não. Rối loạn tuần hoàn máu và thần kinh ở tai: ù tai, chóng mặt. Rối loạn tuần hoàn máu và thần kinh ở mắt: bệnh võng mạc do tiểu đường, thoái hóa hoàng điểm ở tuổi già. Rối loạn tuần hoàn máu ngoại biên và thần kinh: các bệnh tắc nghẽn động mạch ngoại biên, khập khiễng cách hồi, tê cóng chân tay. Bệnh Raynaud"
+  }
 }

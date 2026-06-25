@@ -6,6 +6,16 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Bình Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Dầu gấc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "pharmacology": "[Thông tin hoạt chất Dầu Gấc] Dầu gấc được chiết xuất từ màng đỏ quả Gấc , giàu beta-caroten, lycopen, vitamin E, acid béo không no và nhiều hoạt chất chống oxy hóa. Các tác dụng chính gồm: Chống oxy hóa mạnh: Beta-caroten và lycopen giúp trung hòa gốc tự do, bảo vệ tế bào khỏi tổn thương oxy hóa. Bổ sung tiền vitamin A: Beta-caroten chuyển hóa thành vitamin A trong cơ thể, hỗ trợ thị lực, da và niêm mạc. Tăng cường miễn dịch: Vitamin A và E góp phần duy trì chức năng miễn dịch bình thường. Bảo vệ tim mạch: Acid béo không no có thể hỗ trợ chuyển hóa lipid, tốt cho hệ tim mạch. Hỗ trợ làm đẹp da: Giúp duy trì độ ẩm, hỗ trợ tái tạo da và giảm lão hóa sớm.",
+    "pharmacokinetics": "[Thông tin hoạt chất Dầu Gấc] Do là sản phẩm tự nhiên chứa nhiều vitamin tan trong dầu, dược động học của dầu gấc chủ yếu dựa trên đặc tính hấp thu của các thành phần: Hấp thu: Hấp thu tốt qua đường tiêu hóa khi dùng cùng bữa ăn có chất béo. Beta-caroten, lycopen và vitamin E hấp thu tại ruột non. Phân bố: Các hoạt chất được vận chuyển qua hệ bạch huyết và máu, tích lũy chủ yếu ở gan, mô mỡ, da và các mô khác. Chuyển hóa: Beta-caroten chuyển một phần thành vitamin A tại gan và niêm mạc ruột. Acid béo được chuyển hóa theo con đường lipid thông thường. Thải trừ: Chủ yếu qua mật và phân; một phần sản phẩm chuyển hóa đào thải qua nước tiểu."
+  }
 }

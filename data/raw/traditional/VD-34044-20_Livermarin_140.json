@@ -14,5 +14,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-680/silymarin.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Điều trị hỗ trợ trong các trường hợp: Suy gan, gan nhiễm mỡ, nhiễm độc gan, viêm gan. Xơ gan, ung thư gan. Rối loạn chức năng gan. Bảo vệ và phục hồi chức năng gan, tế bào gan. Điều trị hỗ trợ trong các trường hợp: Suy gan, gan nhiễm mỡ, nhiễm độc gan, viêm gan. Xơ gan, ung thư gan. Rối loạn chức năng gan. Bảo vệ và phục hồi chức năng gan, tế bào gan.",
+    "contraindication": "Không dùng cho người có mẫn cảm với bất kì thành phần nào của thuốc.\n\nKhông dùng cho trẻ dưới 12 tuổi.",
+    "dosage": "Uống 1viên (140mg) x 2 - 3 lần/ngày. Hoặc theo hướng dẫn của Bác sĩ.",
+    "side_effects": "Hiếm gặp: Viêm dạ dày ruột. Bệnh tiêu chảy. Đau đầu. Các triệu chứng da liễu (nổi mề đay, phát ban, ngứa)."
+  }
 }

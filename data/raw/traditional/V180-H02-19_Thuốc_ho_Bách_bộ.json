@@ -6,6 +6,13 @@
   "dosage_form": "Cao lỏng",
   "manufacturer": "Cơ sở sản xuất thuốc Y học cổ truyền Bảo Phương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 120 ml cao lỏng chứa các dịch chiết từ dược liệu Bách bộ 60 g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

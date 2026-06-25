@@ -2,47 +2,64 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-21131/sam-quy-van-tho-tinh.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Sâm quy vạn Thọ Tinh",
-  "registration_number": "VNB-3084-05",
-  "dosage_form": "Thuốc nước",
-  "manufacturer": "Công ty cổ phần Dược phẩm Dược liệu Chợ Lớn CHOPHARCO",
+  "registration_number": "VNB-0523-00",
+  "dosage_form": "Dung dịch",
+  "manufacturer": "Công ty xuất nhập khẩu và đầu tư Chợ lớn CHOLIMEX",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Thục địa Chính",
+      "name": "Thỏ ty tử Chính",
       "amount": "300ml",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
+    },
+    {
+      "name": "Thục địa",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
     },
     {
       "name": "Hà thủ ô đỏ",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
     },
     {
+      "name": "Bạch truật",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
+    },
+    {
       "name": "Đương quy",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2385/duong-quy.aspx"
     },
     {
+      "name": "Xuyên khung",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+    },
+    {
       "name": "Đỗ trọng",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2387/do-trong.aspx"
     },
     {
-      "name": "Câu kỷ tử",
-      "amount": "-",
+      "name": "Ðảng sâm",
+      "amount": "null",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
-    },
-    {
-      "name": "Xuyên khung",
-      "amount": "-",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2386/xuyen-khung.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2474/dang-sam.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Thỏ ty tử] + Trị lưng đau, gối mỏi, di tinh, tiết tinh (Đông Dược Học Thiết Yếu). + Trị Thận dương hư, lưng đau, tiểu nhiều, tiêu chảy lâu ngày do Thận hư, mắt mờ do Can Thận suy (Lâm Sàng Thường Dụng Trung Dược Thủ Sách).",
+    "contraindication": "[Thông tin hoạt chất Thỏ ty tử] + Thỏ ty tử kỵ thịt thỏ (Thiên Kim phương).\n+ Người mà Thận có hỏa, cường dương không liệt dương: không dùng. Táo bón kiêng dùng (Bản Thảo Kinh Sơ).\n+ Phụ nữ có thai, băng huyết, cường dương, táo bón, Thận có hỏa, âm hư hỏa vượng: cấm dùng (Đắc Phối Bản Thảo).\n+ Thận hư, hỏa vượng, táo bón: cẩn thận khi dùng (Đông Dược Học Thiết Yếu).\n+ Táo bón: không dùng (Lâm Sàng Thường Dụng Trung Dược Thủ Sách).",
+    "dosage": "[Thông tin hoạt chất Thỏ ty tử] Bài thuốc: + Trị thận hư, liệt dương, di tinh, lưng đau, đi tiểu nhiều: dùng thỏ ty tử 40g, ngũ vị tử 40g, tế tân 40g, trạch tả 40g, sung uý tử 80g, thục địa 80g, hoài sơn 60g, nghiền thành bột rồi hoàn mật, ngày uống 2 lần, mỗi lần 8g với nước ấm. + Trị tâm khí bất túc suy tư quá độ, thần kinh hư tổn, chân dương không vững, nước tiểu đục, ngủ hay mơ, di tinh: dùng thỏ ty tử 200g, bạch phục linh 120g, thạch liên tử bỏ vỏ 80g, trộn bột với rượu, dùng mật hoàn viên. Mỗi lần uống 8-10g ngày 3 lần, uống lúc đói với nước muối nhạt. + Để bổ thận khí tráng dương đạo, trợ tinh thần, giảm đau lưng, mỏi gối: dùng thỏ ty tử 320g, phụ tử chế 80g, tán bột trộn với ít rưọu, hồ, hoàn viên bằng hạt ngô, mỗi lần uống 50 viên, ngày 2-3 lần.",
+    "pharmacology": "[Thông tin hoạt chất Thỏ ty tử] Thỏ ty tử là dây ký sinh, mọc leo và cuốn trên các cây khác. Thân hình sợi màu vàng hay đỏ nâu nhạt, lá biến thành vẩy. Có rễ mút để hút thức ăn ở cây chủ. Hoa hình cầu màu trắng nhạt, gần như không cuống, tụ lại 10-30 hoa. Quả gần như hình trứng có kẽ nứt, trong chứa 2-4 hạt hình trứng, đỉnh dẹt, hạt dài chừng 2mm. Địa lý: Mọc hoang khắp nơi, hay gặp trên cây Cúc tần (Pluchea indica) loại họ Cúc (Asteraceae). Thu hoạch: Mùa thu, khi hạt chín, cắt dây Tơ hồng về, phơi khô, đập lấy hột. Phần dùng làm thuốc: Hạt (Semen Cuscutae Chinensis). Loại hạt chắc, mập là tốt. Mô tả Dược liệu: Vị thuốc Thỏ ty tử hình tròn, đường kính nhỏ dưới 0,1cm. Vỏ ngoài mầu nâu đỏ hoặc vàng nâu, hơi xù xì, dùng kính lúp soi, có thể thấy những nếp vân nhăn nhỏ, một đầu có chấm nhỏ mầu trắng. Chắc, nấu với nước sôi thì dễ vỡ tách, để lộ nhân hình tròn mầu trắng. Không mùi, vị nhạt (Dược Tài Học). Bào chế: + Rửa sạch, phơi khô, tẩm nước muối sao để dùng hoặc đun vơi nước làm thành bánh `thỏ ty bính` (Đông Dược Học Thiết Yếu). + Thỏ ty tử bính: Lấy Thỏ ty tử sạch, cho vào nước đun cho đến khi nở hoa và đặc như cháo hoa, mầu xám nâu, giã nát ra làm thành bánh (bính). Hoặc lại cho rượu nếp với bột mì vào làm bánh, cắt thành miếng, phơi khô là được (Dược Tài Học). Tác dụng dược lý: + Trên thực nghiệm thuốc có tác dụng tăng lực co bóp của tim Cóc cô lập, làm hạ huyết áp Cóc đã gây mê, hưng phấn cổ tử cung (Trung Dược Học). + Tăng công năng miễn dịch: Chích dịch chiết Thỏ ty tử vào ổ bụng thỏ, thấy tăng tác dụng thực bào, hoạt tính E – Mai côi hoá hình thành hợp với kháng thể tạo nên (Lý Liên Quá, Trung Quốc Dược Lý Thông Báo 1984, (3-4) : 73). + Cho thỏ uống dung dịch Thỏ ty tử với lượng 1g/kg, mỗi tuần 3 lần, liên tục 36 tuần, cho thấy thuốc có tác dụng ức chế sự phát triển tế bào ung thư da đầu vú (Nisa M và cộng sự J Ethnopharmacol 1986, 18 (1) : 21). + Nước sắc Thỏ ty tử có tác dụng phòng trị tứ khí hóa than dẫn đến tổn thương Glucose gan ở chuột (Nisa M và cộng sự J Ethnopharmacol 1985, 102 : 143164s). + Nước sắc Thỏ ty tử có tác dụng tốt đối với chứng mắt có màng do đục thủy tinh thể (Dương Thọ, Bắc Kinh Y Khoa Đại Học Học Báo 1991, 23 (2) : 97). Thỏ ty tử là hạt khô cây dây tơ hồng Tính vị: + Vị cay, tính bình (Bản Kinh). + Vị ngọt, không độc (Biệt Lục). + Vị ngọt, cay, tính hơi ôn (Cảnh Nhạc Toàn Thư). + Vị ngọt, tính bình, không độc (Trung Quốc Dược Học Đại Từ Điển). + Vị ngọt, cay, tính hơi ấm (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). Quy kinh: + Vào kinh Tỳ, Thận, Can (Bản Thảo Kinh Thư). + Vào kinh Tâm, Can, Thận (Bản Thảo Tân Biên). + Vào kinh Can, Thận (Lâm Sàng Thường Dụng Trung Dược Thủ Sách). + Bổ dương, ích âm, cố tinh, súc niệu, minh mục, chỉ tả (Trung Dược Học).\n+ Bổ bất túc, ích khí, uống lâu ngày sẽ sáng mắt, tăng tuổi thọ (Bản Kinh).\n+ Dưỡng cơ, cường âm, kiện cốt (Biệt Lục).\n+ Ôn thận, tráng dương, bổ Can, minh mục (Lâm Sàng Thường Dụng Trung Dược Thủ Sách)."
+  }
 }

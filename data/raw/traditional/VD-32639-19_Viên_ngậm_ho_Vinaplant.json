@@ -6,6 +6,13 @@
   "dosage_form": "Viên ngậm",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc dược liệu 100 mg tương đương với",
+      "amount": "Ma hoàng 160 mg; Chích cam thảo 120 mg; Khổ hạnh nhân 240 mg; Thạch cao 480 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

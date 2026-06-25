@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty Dược & trang thiết bị Y tế Bình Định BIDIPHAR",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Gừng khô, Vỏ quế khô",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

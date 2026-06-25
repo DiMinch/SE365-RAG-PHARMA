@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Pharmazeutische Fabrik Montavit Ges.m.b.H.",
   "manufacturer_country": "AUSTRIA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô lá Actiso 4-6",
+      "amount": "1 55mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

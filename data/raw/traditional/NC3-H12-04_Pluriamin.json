@@ -2,10 +2,40 @@
   "source_url": "https://thuocbietduoc.com.vn/thuoc-16500/pluriamin.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
   "name": "Pluriamin",
-  "registration_number": "NC3-H12-04",
-  "dosage_form": "Bột nguyên liệu",
-  "manufacturer": "Viện Công Nghệ Sinh Học",
+  "registration_number": "VD-15762-11",
+  "dosage_form": "Viên nén tròn bao phim",
+  "manufacturer": "Công ty cổ phần Dược phẩm Tipharco Tiền Giang",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Pluriamin Chính",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-1071/pluriamin.aspx"
+    },
+    {
+      "name": "Vitamin B2",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
+    },
+    {
+      "name": "Vitamin B6",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-907/vitamin-b6.aspx"
+    },
+    {
+      "name": "Vitamin B1",
+      "amount": "null",
+      "role": "Thành phần",
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-689/vitamin-b1.aspx"
+    }
+  ],
+  "sections": {
+    "indication": "- Các bệnh nhân sau mổ, người thiếu máu, mất máu. - Phụ nữ sau khi sinh, cơ thể suy nhược. - Trẻ em suy dinh dưỡng, người già kém ăn, kém ngủ. - Lao động nặng, hoạt động thể thao cường độ cao cần hồi phục nhanh thể lực. - Phối hợp các thuốc trong điều trị viêm gan, xơ gan, loét dạ dày, tá tràng, suy thận, suy tim, lao phổi. Không dùng cho bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc. - Các bệnh nhân sau mổ, người thiếu máu, mất máu. - Phụ nữ sau khi sinh, cơ thể suy nhược. - Trẻ em suy dinh dưỡng, người già kém ăn, kém ngủ. - Lao động nặng, hoạt động thể thao cường độ cao cần hồi phục nhanh thể lực. - Phối hợp các thuốc trong điều trị viêm gan, xơ gan, loét dạ dày, tá tràng, suy thận, suy tim, lao phổi.",
+    "dosage": "- Người lớn: 1 viên/lần x 2 - 3 lần/ngày. - Trẻ em: 1 - 2 viên/ngày.",
+    "interactions": "Không nên dùng vitamin B6 chung với levodopa, trừ khi chất này có phối hợp với một chất ức chế enzyme dopadecarboxylase.",
+    "pharmacology": "[Thông tin hoạt chất Pluriamin] Acid amin từ nhộng tằm giúp bổ sung các loại acid amin thiết yếu, bổ sung dinh dưỡng cũng như tăng cường sức đề kháng cho cơ thể. Pluriamin cung cấp acid amin cần thiết cho cơ thể, giúp tăng cường thể trạng. Gía trị dinh dưỡng của protein được quyết định bởi mối quan hệ về số lượng và chất lượng của các acid amin khác nhau trong protein đó các acid amin có đặc tính thúc đẩy phát triển của cơ thể như : argynin, tryptophan, acid glutamic, prolin, cystein, serin, tysosin.\n\n- 8 acid amin thiết yếu đối với cơ thể là: Methionin, lysin, tryptophan, phenylalanin, leucin, isoleucin, threonin, valin. Đối với trẻ em arginin và histidin cũng là acid amin thiết yếu. Thiếu một trong các acid amin cần thiết dẫn tới rối loạn cân bằng nito và rối loạn sử dụng tất cả các acid amin khác. Protein thực vật nói chung giá trị kém hơn protein động vật do thiếu hay hoàn thoàn không có một số acid amin cần thiết\n\n- Các acid amin là thành phần chính của phân tử protein. Kết hợp với nhau trong liên kết khác nhau, chúng tạo thành các phân tử protein khác nhau về thành phần và tính chất."
+  }
 }

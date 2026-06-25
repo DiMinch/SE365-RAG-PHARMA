@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột rau má tan",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Giải độc, giải nhiệt, thông tiểu, lợi sữa, nhuận gan. Làm lành da, tác dụng lên mô liên kết, giúp cho các mô tái tạo nhanh chóng."
+  }
 }

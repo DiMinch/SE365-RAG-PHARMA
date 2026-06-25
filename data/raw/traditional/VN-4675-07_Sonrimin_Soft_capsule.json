@@ -44,5 +44,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Fursultiamine] Fursultiamine được dùng trong việc điều trị: Thiếu thiamin",
+    "pharmacology": "[Thông tin hoạt chất Fursultiamine] Fursultiamine (TTFD); : là một dẫn xuất của thiamine, có những ưu điểm hơn thiamine chlorhydrate thông thường :\n- Có ái lực cao với mô.\n- Chuyển đổi nhanh sang dạng hoạt động của thiamine là cocarboxylase.\n- Ngoài ra, hoạt chất này cũng có khả năng hấp thu tốt hơn qua đường tiêu hóa, có nồng độ cao trong máu và tác động kéo dài, không bị phân hủy do Aneurinase, độc tính rất thấp và tác dụng phụ hiếm.\n- Về mặt dươc lý hoc, TTFD còn có tác dụng giảm đau, hiệp lực với các thuốc giảm đau khác, tác động chống liệt ruột và rối loạn bàng quang do nguyên nhân thần kinh. Với thiamine, những tác động này không có hay rất yếu.",
+    "pharmacokinetics": "[Thông tin hoạt chất Fursultiamine] Fursultiamine: Hấp thu tốt qua đường tiêu hóa, có nồng độ cao trong máu và tác động kéo dài, không bị phân hủy da Aneurinase, độc tính rất thấp và tác dụng phụ hiếm."
+  }
 }

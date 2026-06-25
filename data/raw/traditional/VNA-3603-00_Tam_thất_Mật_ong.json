@@ -20,5 +20,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2425/mat-ong.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Dùng trong các trường hợp: Thổ huyết, khạc huyết, phụ nữ sau khi sinh máu hôi không sạch, ngoại thương chảy máu, ngực bụng đau nhói, sưng đau do sang chấn. Dùng trong các trường hợp: Thổ huyết, khạc huyết, phụ nữ sau khi sinh máu hôi không sạch, ngoại thương chảy máu, ngực bụng đau nhói, sưng đau do sang chấn.",
+    "contraindication": "Phụ nữ đang mang thai.",
+    "dosage": "Mỗi lần nhai 2-3 viên, ngày 3-4 lần"
+  }
 }

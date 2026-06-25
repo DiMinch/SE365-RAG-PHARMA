@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Dược - trang thiết bị Y tế Hoà Bình",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột xuyên khung, bột Bạch chỉ, bột hương phụ, bột cam thảo bắc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

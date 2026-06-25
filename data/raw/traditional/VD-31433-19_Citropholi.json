@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Chi nhánh Công ty TNHH Dược phẩm Dược liệu Mộc Hoa Tràm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Vân chi (1",
+      "amount": "4) 250mg (tương đương Nấm vân chi 1.000mg)",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

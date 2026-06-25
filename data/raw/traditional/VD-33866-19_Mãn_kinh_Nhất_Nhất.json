@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 550mg cao khô hỗn hợp dược liệu tương đương với Mẫu đơn bì 99mg; Hà thủ ô đỏ 150mg; Ngũ vị tử 150mg; Trạch tả 150mg; Địa hoàng 150mg; Huyền sâm 150mg; Mạch môn 150mg; Thục địa 150mg; Câu đằng 300mg; Thủ ô đằng 300mg; Phục linh 300mg; Sâm cau 300mg; Từ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

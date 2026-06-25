@@ -6,6 +6,28 @@
   "dosage_form": null,
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Diệp hạ châu đắng",
+      "amount": "90g",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "( tương đương 7.5gam cao )",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Chất phụ vừa đủ 100g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Hỗ trợ điều trị viêm gan do virus, viêm gan vàng da\n- Đặc biệt viêm gan siêu vi B mãn tính\n- Giúp phục hồi chức năng gan, vàng da, mệt mỏi, chán ăn, đầy bụng, tiêu chảy...\n- Bảo vệ và tăng cường chức năng giải độc gan co những người uống nhiều bia, rượu. - Hỗ trợ điều trị viêm gan do virus, viêm gan vàng da\n- Đặc biệt viêm gan siêu vi B mãn tính\n- Giúp phục hồi chức năng gan, vàng da, mệt mỏi, chán ăn, đầy bụng, tiêu chảy...\n- Bảo vệ và tăng cường chức năng giải độc gan co những người uống nhiều bia, rượu.",
+    "dosage": "- Hòa tan 1-2 muỗng (tương đường-4 gam) trà vào ly nước sôi\n- Uống 2-3 lần trong ngày"
+  }
 }

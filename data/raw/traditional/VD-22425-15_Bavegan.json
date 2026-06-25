@@ -6,6 +6,31 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso",
+      "amount": "100 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Cao biển súc",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Bìm bìm",
+      "amount": "75mg",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tá dược v.đ",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

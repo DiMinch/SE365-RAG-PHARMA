@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc cốm",
   "manufacturer": "Công ty cổ phần TM Dược vật tư Y tế Khải Hà",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói thuốc cốm 4g chứa",
+      "amount": "cao khô gừng(tương đương với gừng 2g) 0,2g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,23 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Dược Lâm Đồng - Ladophar",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Vân mộc hương",
+      "amount": "…………",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tá dược vừa đủ………",
+      "amount": "1 viên",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Trị đầy bụng, khó tiêu, nôn và tiêu lỏng. Trị đầy bụng, khó tiêu, nôn và tiêu lỏng.",
+    "dosage": "Cách dùng và liều dùng: Người lớn: Uống 5 viên /lần x 3 lần / ngày. Trẻ em: Dùng ½ liều người lớn. Hoặc theo sự chỉ dẫn của thầy thuốc.",
+    "side_effects": "Chưa phát hiện tác dụng phụ khi dùng thuốc. Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
 }

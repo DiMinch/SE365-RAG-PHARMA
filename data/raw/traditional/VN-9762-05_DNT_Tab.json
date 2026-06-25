@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Unimed Pharm Inc",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Ext, Yohimbehe e cort Sicc Muira Puama e lign",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

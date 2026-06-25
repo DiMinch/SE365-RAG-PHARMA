@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Ðắc Lắc",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Nước chiết Gan",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

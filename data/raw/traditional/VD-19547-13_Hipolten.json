@@ -6,6 +6,16 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Mộc hoa trắng (tương đương 50mg cao đặc 1/10) 500 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "-Dùng trong các trường hợp lỵ Amip: đau quặn bụng, đầy hơi đi ngoài phân không thành khuôn, có dính máu, chất nhầy ở niêm mạc ruột, mót rặn muốn đi ngoài liên tục. \n-Viêm đại tràng cấp tính\n-Viêm đại tràng mãn tính -Dùng trong các trường hợp lỵ Amip: đau quặn bụng, đầy hơi đi ngoài phân không thành khuôn, có dính máu, chất nhầy ở niêm mạc ruột, mót rặn muốn đi ngoài liên tục. \n-Viêm đại tràng cấp tính\n-Viêm đại tràng mãn tính",
+    "dosage": "- Người lớn: uống mỗi lần 2 viên, ngày 2 - 3 lần. Có thể dùng điều trị dài ngày mà không gây ra các tác dụng phụ. \n- Trẻ em : uống mỗi lần 1 viên, ngày 2 - 3 lần.."
+  }
 }

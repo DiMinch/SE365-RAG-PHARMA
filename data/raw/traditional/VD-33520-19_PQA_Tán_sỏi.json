@@ -6,6 +6,13 @@
   "dosage_form": "Viên hoàn cứng",
   "manufacturer": "Công ty cổ phần dược phẩm PQA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói 1,5g hoàn cứng chứa 1 g cao khô tương đương dược liệu",
+      "amount": "Kim tiền thảo 5 g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,15 @@
   "dosage_form": "Dung dịch uống",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Men bia ép tinh chế",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "TÍNH CHẤT Thuốc uống LYZATOP được bào chế từ sinh khối nấm men bia Saccharomyces carlbergenis. Thuốc uống Lyzatop có chứa nhiều acid amin, protein acid amin, protein và các vitamin nhóm B ở dạng thiên nhiên thuần khiết được bào chế bằng công nghệ sinh học với hàm lượng cao nên có tác dụng bồi dưỡng cơ thể. Các acid amin trong LYZATOP không có cholesterol trong đó có nhiều loại thiết yếu cho hoạt động của cơ thể, đặc biệt Lysin có hàm lượng cao giúp tăng trưởng chiều cao ở trẻ em và kích thích tiêu hóa mạnh giúp ăn ngon miệng. Thuốc được bào chế dưới dạng dung dịch, mùi vị dễ chịu, dễ uống, dễ hấp thu. CHỈ ĐỊNH Dùng cho người làm việc nặng nhọc kém ăn, kém ngủ, mệt mỏi, sút cân, cơ thể suy nhược, trẻ em chậm lớn, người mới ốm dậy. Dùng bổ sung đạm thực vật cho người ăn chay."
+  }
 }

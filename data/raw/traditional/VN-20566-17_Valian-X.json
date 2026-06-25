@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Mega Lifesciences., Ltd",
   "manufacturer_country": "Thailand",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô rễ Valerian 445mg (tương đương rễ Valeriana officinalis sấy khô 2000mg)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

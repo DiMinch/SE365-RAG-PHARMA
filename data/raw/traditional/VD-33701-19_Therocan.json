@@ -56,5 +56,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2360/cam-thao.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị ho, tiêu đờm, viêm họng, viêm amidan Trị ho, tiêu đờm, viêm họng, viêm amidan",
+    "contraindication": "Không dùng cho phụ nữ đang mang thai, người tỳ vị hư không nên dùng.",
+    "dosage": "- Người lớn: Uống 3-4 viên/lần, ngày 2-3 lần - Trẻ em: Uống 1-2 viên/lần, ngày 2-3 lần"
+  }
 }

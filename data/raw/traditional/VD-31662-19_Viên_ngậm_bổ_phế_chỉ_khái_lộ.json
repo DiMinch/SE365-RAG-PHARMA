@@ -50,5 +50,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2361/cat-canh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "- Bổ phổi, tiêu đờm, thông hơi thở - Chống viêm nhiễm cơ quan hô hấp - Chữa ho gió, ho khan, ho có đờm, ho do cảm, do dị ứng, do viêm họng – viêm phế quản. Chữa ho tiêu đờm, bổ phổi, sát trùng họng. Chuyên trị ho cảm, ho gió, ho khan, khản tiếng, viêm phế quản.",
+    "contraindication": "Không dùng cho trẻ dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật sốt cao, người tiểu đường.",
+    "dosage": "Người lớn: 4 – 6 viên/ngày. Trẻ em: 2 – 3 viên/ngày. Cách dùng: Ngậm hoặc nhai trước khi nuốt."
+  }
 }

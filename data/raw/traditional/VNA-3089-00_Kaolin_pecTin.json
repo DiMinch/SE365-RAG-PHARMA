@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty dịch vụ Y tế tổng hợp Quận 4",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Kaolin, pectin",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

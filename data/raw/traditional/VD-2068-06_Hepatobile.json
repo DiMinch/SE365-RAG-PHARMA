@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm 3/2 F.T.PHARMA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột Hepato (mật bò + bột nghệ)",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

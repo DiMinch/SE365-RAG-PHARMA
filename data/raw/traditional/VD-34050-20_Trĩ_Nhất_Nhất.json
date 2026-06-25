@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 500mg cao khô hỗn hợp dược liệu tương đương Đảng Sâm 700mg; Hoàng kỳ 700mg; Đương quy 400mg; Bạch truật 400mg; Thăng ma 400mg; Sài hồ 400mg; Trần bì 400mg; Cam thảo 200mg; Liên nhục 400mg; Ý dĩ 400mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

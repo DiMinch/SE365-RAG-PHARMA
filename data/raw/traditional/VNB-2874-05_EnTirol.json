@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty TNHH Dược phẩm Sài Gòn SAGOPHAR",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc chiêu liêu, Bột thảo quả, Bột đại hồi, Bột quế",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "bột xuyên khung, bột bạch chỉ, bột quế nhục, bột gừng, bột hương phụ, bột cam thảo bắc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

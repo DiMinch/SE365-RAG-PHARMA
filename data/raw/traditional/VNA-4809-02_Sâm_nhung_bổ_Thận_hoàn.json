@@ -9,58 +9,62 @@
   "herbal_ingredients": [
     {
       "name": "Thục địa Chính",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2321/thuc-dia.aspx"
     },
     {
       "name": "Bạch Linh",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     },
     {
       "name": "Ba kích",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2345/ba-kich.aspx"
     },
     {
       "name": "Bạch truật",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2378/bach-truat.aspx"
     },
     {
       "name": "Tục đoạn",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2396/tuc-doan.aspx"
     },
     {
       "name": "Viễn chí",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2450/vien-chi.aspx"
     },
     {
       "name": "Thỏ ty tử",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2479/tho-ty-tu.aspx"
     },
     {
       "name": "Câu kỷ tử",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2508/cau-ky-tu.aspx"
     },
     {
       "name": "Hà thủ ô đỏ",
-      "amount": "-",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2326/ha-thu-o-do.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Sâm nhung bổ thận có tác dụng bổ thận, dưỡng tỳ vị, lợi thủy, cố tinh, thuốc được dùng trong các trường hợp: -    Bồi bổ sức khỏe, tăng cường sinh lực chống lại các tác nhân gây bệnh. -    Điều trị bệnh thận hư, yếu sinh lý , rối loạn cương dương, di mộng tinh. -     Đau lưng, mỏi gối, mỏi chân tay, chóng mặt ù tai, rụng tóc , phát dục không tốt. - Kinh nguyệt không đều , khí hư, bạch đới. Sâm nhung bổ thận có tác dụng bổ thận, dưỡng tỳ vị, lợi thủy, cố tinh, thuốc được dùng trong các trường hợp: -    Bồi bổ sức khỏe, tăng cường sinh lực chống lại các tác nhân gây bệnh. -    Điều trị bệnh thận hư, yếu sinh lý , rối loạn cương dương, di mộng tinh. -     Đau lưng, mỏi gối, mỏi chân tay, chóng mặt ù tai, rụng tóc , phát dục không tốt. - Kinh nguyệt không đều , khí hư, bạch đới.",
+    "dosage": "Ngày uống 2 – 3 lần sau bữa ăn, mỗi lần 1 viên. Uống thuốc với nước đun sôi để nguội, nên nhai trước khi nuốt.",
+    "side_effects": "Đến nay chưa thấy có báo cáo hay ghi nhận về tác dụng không mong muốn"
+  }
 }

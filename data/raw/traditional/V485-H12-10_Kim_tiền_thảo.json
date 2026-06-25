@@ -6,6 +6,17 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty TNHH Dược phẩm Hà Thành",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao kim tiền thảo",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Điều trị sỏi đường tiết niệu: sỏi thận, sỏi bàng quang, sỏi niệu quản và sỏi mật. Có tác dụng thanh nhiệt lợi tiểu, chữa phù thũng, chữa đi tiểu đau. Phối hợp điều trị viêm bể thận, viêm túi mật. Điều trị sỏi đường tiết niệu: sỏi thận, sỏi bàng quang, sỏi niệu quản và sỏi mật. Có tác dụng thanh nhiệt lợi tiểu, chữa phù thũng, chữa đi tiểu đau. Phối hợp điều trị viêm bể thận, viêm túi mật.",
+    "contraindication": "Không dùng cho người đái tháo đường, đái tháo nhạt, người thiếu máu, người thể hư hàn.",
+    "dosage": "Người lớn: uống 5 viên (120 mg) x 3 lần/ ngày, uống thuốc sau khi ăn với nhiều nước. Hoặc theo chỉ dẫn của Thầy thuốc."
+  }
 }

@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "CÔNG TY CP DƯỢC PHẨM MEDISUN",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Bìm bìm 5,25 mg; Cao khô Artiso 100 mg; Cao khô Rau đắng đất 75 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Hỗ trợ điều trị các bệnh viêm gan cấp và mạn tính.\n\nSuy giảm chức năng gan, đặc biệt do dùng bia, rượu, thuốc hay hóa chất.\n\nViêm gan gây mệt mỏi, vàng da, khó tiêu, bí tiểu tiện, táo bón, …\n\nCác bệnh dị ứng do bệnh gan gây ra như: Mụn nhọt, lở ngứa, nổi mề đa\n\nTÍNH CHẤT:\n\nArtiso có tác dụng lợi mật, kích thích tiêu hóa, hạ cholesterol huyết và rất hiệu quả đối với các chứng bệnh về gan mật.\n\nBìm Bìm chứa Pharbitin làm tăng sự co bóp của ruột, được dùng rộng rãi trong dân gian làm thuốc nhuận trường, lợi tiểu, thông mật.\n\nRau đắng đất có tác dụng lợi tiêu hóa, nhuận gan, ích mật, thanh nhiệt, lợi tiểu, giải độc, hạ nhiệt."
+  }
 }

@@ -14,5 +14,11 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2204/natri-bicarbonat.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Natri bicarbonat] Nhiễm acid chuyển hoá.",
+    "contraindication": "[Thông tin hoạt chất Natri bicarbonat] Nhiễm kiềm chuyển hoá hay hô hấp, giảm calci huyết, giảm acid hydrocloric dịch vị.",
+    "dosage": "[Thông tin hoạt chất Natri bicarbonat] Nhiễm acid chuyển hoá: người lớn và trẻ em, tiêm tĩnh mạch chậm dung dịch nồng độ cao (tới 8,4%) hoặc truyền liên tục dịch truyền nồng độ thấp (thường là 1,4%), một lượng thuốc phù hợp với tình trạng thiếu hụt base (kiềm) của cơ thể (xem phần trên).",
+    "side_effects": "[Thông tin hoạt chất Natri bicarbonat] Tiêm truyền quá mức có thể gây giảm kali huyết và nhiễm kiềm huyết, đặc biệt trong suy thận; liều cao có thể gây tích luỹ natri và phù.",
+    "warnings": "[Thông tin hoạt chất Natri bicarbonat] Truyền hạn chế trong suy chức năng thận (Phụ lục 4);, suy tim, tăng huyết áp, phù phổi, nhiễm độc thai nghén; cần theo dõi các điện giải và tình trạng acid - base;"
+  }
 }

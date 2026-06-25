@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao hoa hòe 3",
+      "amount": "1 160mg; Cao rễ dừa cạn 6",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

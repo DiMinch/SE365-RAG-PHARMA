@@ -6,6 +6,18 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược phẩm OPC",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Diệp hạ châu đắng 289mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Trị viêm gan, viêm gan virus, viêm gan mãn tính, đặc biệt là viêm gan do siêu vi B. Viêm gan gây nên các triệu chứng mệt mỏi, đau tức vùng hạ sườn phải, khó tiêu, vàng da, bí đại tiểu tiện, táo bón. - Tiêu độc trong các trường hợp đinh râu, mụn nhọt, lở ngứa. - Trị viêm gan, viêm gan virus, viêm gan mãn tính, đặc biệt là viêm gan do siêu vi B. Viêm gan gây nên các triệu chứng mệt mỏi, đau tức vùng hạ sườn phải, khó tiêu, vàng da, bí đại tiểu tiện, táo bón. - Tiêu độc trong các trường hợp đinh râu, mụn nhọt, lở ngứa.",
+    "contraindication": "- Không dùng cho phụ nữ có thai.\n- Không dùng cho bệnh nhân mẫn cảm với bất kỳ thành phần nào của thuốc.",
+    "dosage": "• Liều lượng: - Trẻ em từ 9 -16 tuổi: uống mỗi lần 1- 2 viên, ngày 2 lần. - Người lớn: uống mỗi lần 2 viên, ngày 3 lần. • Cách dùng: - Uống sau bữa ăn với nước ấm. - Liệu trình là 1 tháng, tùy tình trạng bệnh có thể dùng 1 – 3 liệu trình. - Nên kết hợp với thuốc bổ để nâng cao thể trạng",
+    "side_effects": "- Tác dụng phụ có thể gặp như buồn nôn nhẹ, chán ăn, khó chịu vùng thượng vị.\n- Thông báo cho Bác sỹ những tác dụng không mong muốn gặp phải khi sử dụng thuốc."
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần Dược & thiết bị vật tư Y tế Thanh Hóa",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso (tương đương với 1000 mg actiso) 100 mg; Cao diệp hạ châu đắng (tương đương với 500g dược liệu hạ châu đắng) 50mg; Bột bìm bìm biếc 7,5mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

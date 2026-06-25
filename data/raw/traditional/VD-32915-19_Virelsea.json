@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần dược phẩm TW1 Pharbaco",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi viên nang mềm chứa cao đặc hỗn hợp dược liệu (tương đương với Diệp hạ châu 1500 mg; Chua ngút 250 mg; Cỏ nhọnồi 250 mg) 200 mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén ngậm",
   "manufacturer": "Công ty cổ phần LD dược phẩm Medipharco-Tenamyd BR s.r.l",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết gừng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

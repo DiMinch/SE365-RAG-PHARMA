@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần đầu tư phát triển sản phẩm thiên nhiên Việt Nam",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Chè dây, Dạ cẩm, Lá khôi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

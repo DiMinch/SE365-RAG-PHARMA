@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược phẩm An Giang",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao hồ tiêu, cao gừng, cao cà phê, cao đậu xanh",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

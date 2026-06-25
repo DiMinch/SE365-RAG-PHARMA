@@ -6,6 +6,18 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô Devil's Claw (tương đương với 1050-1500 mg rễ cây Devil's Claw) 300mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Được chỉ định để giảm đau lưng, đau khớp hoặc đau cơ, các chứng đau cơ và khớp nói chung. Được chỉ định để giảm đau lưng, đau khớp hoặc đau cơ, các chứng đau cơ và khớp nói chung.",
+    "contraindication": "Mẫn cảm với bất kỳ thành phần nào của thuốc.\n\nPhụ nữ có thai và cho con bú.\n\nNgười bị loét dạ dày tá tràng",
+    "dosage": "Cách dùng: Thuốc dùng đường uống Liều dùng: Người lớn và người cao tuổi: Uống 1 viên/lần, ngày 3 lần. Uống sau khi ăn.",
+    "side_effects": "Rối loạn tiêu hóa, tiêu chảy buồn nôn. Rối loạn hệ thần kinh trung ương: Đau đầu chóng mặt. Thông báo cho Bác sĩ những tác dụng không mong muốn gặp phải khi sử dụng."
+  }
 }

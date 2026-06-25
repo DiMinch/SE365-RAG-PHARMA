@@ -44,5 +44,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2341/menthol.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Nhức đầu, chóng mặt, cảm lạnh, sổ mũi, buồn nôn, đau bụng, bị muỗi và các côn trùng khác đốt. Nhức đầu, chóng mặt, cảm lạnh, sổ mũi, buồn nôn, đau bụng, bị muỗi và các côn trùng khác đốt.",
+    "contraindication": "Người mẫn cảm với một trong các thành phần của thuốc. Trẻ em dưới 30 tháng tuổi, trẻ em có tiền sử động kinh hoặc co giật do sốt cao. Không bôi vào vết thương hở, vùng vú trước khi cho con bú.",
+    "dosage": "Xoa bóp ngoài da tại chỗ đau. Bôi dầu vào thái dương, mũi, gáy để chữa nhức đầu, chóng mặt, cảm lạnh. Bôi vào những chỗ bị muỗi hoặc công trùng khác đốt.",
+    "interactions": "Vắc xin Rotavirus, sống.\n\nViệc sử dụng thuốc này với bất kỳ các loại thuốc sau đây thường không được khuyến cáo, nhưng bác sĩ có thể cho bạn dùng trong một số trường hợp. Nếu cả hai loại thuốc được kê cùng, bác sĩ có thể thay đổi liều lượng hoặc tần suất sử dụng của một hoặc cả hai loại thuốc, bao gồm: Vắc xin Adenovirus tuýp 4, sống; Vắc xin Adenovirus tuýp 7, sống; Vắc xin Bacillus Calmette và Guerin, sống; Didanosine; Vắc xin cúm, sống; Vắc xin sởi, sống; Vắc xin quai bị, sống; Vắc xin Rubella, sống; Vắc xin bệnh đậu mùa; Stavudine; Vắc-xin thương hàn; Vắc xin Varicella; Vắc xin sốt vàng da."
+  }
 }

@@ -26,5 +26,11 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-906/vitamin-b2.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "[Thông tin hoạt chất Vitamin B1] Phòng và điều trị bệnh Beri-beri.\nĐiều trị các trường hợp đau nhức dây thần kinh lưng, hông và dây thần kinh sinh ba( phối hợp với các vitamin B6 và B12);\nCác trường hợp mệt mỏi, kém ăn, suy dinh dưỡng và rối loạn tiêu hoá.",
+    "contraindication": "[Thông tin hoạt chất Vitamin B1] Quá mẫn với thành phần thuốc. Không nên tiêm tĩnh mạch.",
+    "dosage": "[Thông tin hoạt chất Vitamin B1] Người lớn: 4-6 viên/ngày, chia 2 lần/ngày; Trẻ em: 2-4 viên/ngày, chia 2 lần/ngày.",
+    "side_effects": "[Thông tin hoạt chất Vitamin B1] Vitamin B1 dễ dung nạp và không tích luỹ trong cơ thể nên không gây thừa. \nTác dụng không mong muốn dễ gặp là dị ứng, nguy hiểm nhất là shock khi tiêm tĩnh mạch.",
+    "pharmacokinetics": "[Thông tin hoạt chất Vitamin B1] - Hấp thu: vitamin B1 hấp thu dễ dàng qua đường tiêu hoá. Mỗi ngày có khoảng 1mg vitamin B1 được sử dụng.\n- Thải trừ: qua nước tiểu."
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên hoàn cứng",
   "manufacturer": "Công ty cổ phần dược phẩm PQA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi gói 1,4g hoàn cứng chứa 1,0 g cao khô Diệp hạ châu đắng tương đương",
+      "amount": "Diệp hạ châu đắng 10g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

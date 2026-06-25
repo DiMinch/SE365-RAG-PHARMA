@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần Dược Hậu Giang  DHG",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao trái nhàu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Trị các chứng đau nhức, sưng khớp, tiểu đường, cao huyết áp, nhức đầu và mệt mỏi."
+  }
 }

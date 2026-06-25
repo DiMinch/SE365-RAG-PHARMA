@@ -1,11 +1,18 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-35727/ha-linh-thao-cong-ty-dk-co-so-sxkd-thuoc-yhct-phuc-long.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Hà linh thảo (Công ty ĐK: Cơ sở SXKD thuốc YHCT Phúc Long)",
+  "name": "Hà Linh Thảo",
   "registration_number": "VD-10214-10",
-  "dosage_form": "",
+  "dosage_form": "Cồn thuốc",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Tây",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mù u, vỏ cây sắn thuyền, cành non và lá sim, cành non và lá ổi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Xuất Nhập Khẩu Y tế DOMESCO",
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Hà thủ ô đỏ chế (tương đương 2.000mg Hà thủ ô đỏ chế) 154mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Bổ thận, bổ huyết, chữa thận suy, thần kinh suy nhược, ngủ kém, thiếu máu, đau lưng mỏi gối, di mộng tinh. Làm đen râu tóc đối với người bạc tóc sớm, làm giảm khô và giảm rụng."
+  }
 }

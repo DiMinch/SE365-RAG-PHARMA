@@ -6,6 +6,19 @@
   "dosage_form": "Thuốc nước uống",
   "manufacturer": "Công ty cổ phần Dược Hà Tĩnh",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Gan",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "[Thông tin hoạt chất Ganirelix] Ngăn ngừa hormone tạo hoàng thể (LH) dâng cao sớm trên phụ nữ đang được kích thích buồng trứng có kiểm soát trong các kỹ thuật trợ giúp sinh sản.",
+    "contraindication": "[Thông tin hoạt chất Ganirelix] Quá mẫn với thành phầnthuốc. Quá mẫn với GnRH hoặc các chất tương đồng GnRH. Suy thận hoặc suy gan vừa và nặng. Có thai hoặc nuôi con bằng sữa mẹ.",
+    "dosage": "[Thông tin hoạt chất Ganirelix] Tiêm dưới da, tốt nhất là ở đùi. Kích thích buồng trứng có kiểm soát bằng FSH được bắt đầu vào ngày 2-3 của vòng kinh. Nên tiêm Orgalutran ngày 1 lần, thường bắt đầu vào ngày 6 của thời gian tiêm FSH. Nên tiếp tục dùng Orgalutran hằng ngày cho đến khi có đủ số nang có kích thước thỏa đáng.",
+    "side_effects": "[Thông tin hoạt chất Ganirelix] Phản ứng da cục bộ tại chỗ tiêm. Nhức đầu & buồn nôn.",
+    "pharmacology": "[Thông tin hoạt chất Ganirelix] Ganirelix là những chất đối kháng hormon giải phóng gonadotropin (GnRH) tổng hợp được."
+  }
 }

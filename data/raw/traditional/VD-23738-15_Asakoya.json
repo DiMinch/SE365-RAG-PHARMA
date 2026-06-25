@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Saponin toàn phần chiết xuất từ lá tam thất 50mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng – Nuôi dưỡng tinh thần, tâm trí, đẩy mạnh sự lưu thông tuần hoàn máu giúp giảm đau. – Giúp làm dịu thần kinh trong trường hợp bị kích động và cung cấp năng lượng cho cơ thể. Chỉ định Hỗ trợ trong các trường hợp: Hồi hộp, tim đập nhanh, đánh trống ngực do sự thiếu cung ứng máu ở tim"
+  }
 }

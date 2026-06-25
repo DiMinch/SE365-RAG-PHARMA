@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty TNHH sản xuất Thương mại Dược phẩm N.I.C",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá Actiso, cao lá mã đề, cao quả chi tử",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

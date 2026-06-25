@@ -6,6 +6,13 @@
   "dosage_form": "",
   "manufacturer": "Công ty TNHH SX-TM Dược phẩm Thành Nam",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Ginkgo biloba 40mg (tương ứng với flavonoid toàn phần tính theo Quercetin",
+      "amount": "9,6mg)",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

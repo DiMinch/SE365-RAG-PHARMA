@@ -44,5 +44,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Dùng điều trị các trường hợp: ho có đờm, ho mất tiếng, viêm đau họng, viêm khí quản, phế quản, suyễn. Dùng điều trị các trường hợp: ho có đờm, ho mất tiếng, viêm đau họng, viêm khí quản, phế quản, suyễn.",
+    "contraindication": "Chống chỉ định với người bị mẫn cảm với các thành phần của thuốc",
+    "dosage": "Trẻ dưới 2 tuổi: Uống 2,5-5 ml x 3 lần/ngày. Trẻ em từ 2 đến 6 tuổi: Uống 5-10 ml x 3 lần/ngày. Trẻ em trên 6 tuổi: Uống 15 ml x 3 lần/ngày. Hoặc theo chỉ dẫn của Bác sĩ."
+  }
 }

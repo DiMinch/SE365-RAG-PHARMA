@@ -6,6 +6,13 @@
   "dosage_form": "Nguyên liệulàm thuốc",
   "manufacturer": "Công ty cổ phần hóa Dược Việt Nam",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": ",5 kg cao đặc Giảo cổ lam tương ứng với 3,5 kg Giảo cổ lam",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

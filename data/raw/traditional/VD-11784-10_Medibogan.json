@@ -6,6 +6,17 @@
   "dosage_form": "",
   "manufacturer": "Công ty cổ phần Dược TW MEDIPLANTEX",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao actiso 200 mg, Cao biển súc 150mg, Cao bìm bìm biếc 16mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Tăng cường chức năng gan, giải độc gan, mát gan, hỗ trợ các triệu chứng do viêm gan gây ra như: mệt mỏi, vàng da, chán ăn, ăn không tiêu, táo bón, giúp giảm mỡ máu... Tăng cường chức năng gan, giải độc gan, mát gan, hỗ trợ các triệu chứng do viêm gan gây ra như: mệt mỏi, vàng da, chán ăn, ăn không tiêu, táo bón, giúp giảm mỡ máu...",
+    "contraindication": "Bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc",
+    "dosage": "Đối tượng sử dụng Trẻ em từ 8 tuổi trở lên. Người bị suy giảm chức năng gan do uống nhiều bia rượu, do dùng thuốc tây, hóa chất. Người bị dị ứng, mụn nhọt, nổi mề đay do chức năng gan kém, người bị viêm gan. Người bị mỡ máu cao, xơ vữa động mạch. Liều dùng Người lớn: Ngày uống 3 lần, mỗi lần 1 -2 viên. Trẻ em trên 8 tuổi: Ngày uống 2-3 lần, mỗi lần 1 viên."
+  }
 }

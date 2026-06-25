@@ -6,6 +6,13 @@
   "dosage_form": "Trà túi lọc",
   "manufacturer": "Công ty cổ phần Dược phẩm Đông Dược 5",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "ích mẫu tử, lá chè",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

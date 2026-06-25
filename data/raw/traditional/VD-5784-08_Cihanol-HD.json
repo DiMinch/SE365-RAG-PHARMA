@@ -6,6 +6,49 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Hải Dương",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao cardus marianus",
+      "amount": "200mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Thiamin nitrat",
+      "amount": "8mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Pyridoxin HCl",
+      "amount": "8mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Nicotinamid",
+      "amount": "24mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Riboflavin",
+      "amount": "8mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Calci pantothenat",
+      "amount": "16mg.",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tá dược vừa đủ viên",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Zhejiang Conba Pharm., Co., Ltd",
   "manufacturer_country": "China",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Phấn hoa cải dầu (Rape Pollen) 0,5g",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Siro",
   "manufacturer": "Công ty TNHH BRV Healthcare (Cty BRV)",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 100 ml siro được chiết xuất từ các dược liệu",
+      "amount": "Bách bộ 5g; Tỳ bà diệp 2,6g; Bán hạ 1,5g; Tang bạch bì 1,5g; Cát cánh 1,366g; Bạc hà 1,333g; Mơ muối 1,126g; Thiên môn 0,966g; Bạch linh 0,72g; Cam thảo 0,473g; Ma hoàng 0,525g; Phèn chua 0,166g; Tinh dầu",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

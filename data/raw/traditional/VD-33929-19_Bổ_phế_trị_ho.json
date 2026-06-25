@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty TNHH MTV dược phẩm Phước Sanh Pharma",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 350 mg bột dược liệu và 105,5 mg cao dược liệu quy về khô tương đương với",
+      "amount": "Mẫu đơn bì (vỏ rễ) 200 mg; Bạch thược 150 mg; Sinh địa 250 mg; Bối mẫu 200 mg; Cam thảo 100 mg; Huyền sâm 200 mg; Mạch môn 200 mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

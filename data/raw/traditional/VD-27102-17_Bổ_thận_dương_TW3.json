@@ -26,5 +26,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2576/khiem-thuc.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Chủ trị thận dương hư, người mệt mỏi , nhức đầu , chân tay lạnh, kém ăn, đau lưng mỏi gối, đại tiện lỏng, tiểu đêm nhiều lần. Chủ trị thận dương hư, người mệt mỏi , nhức đầu , chân tay lạnh, kém ăn, đau lưng mỏi gối, đại tiện lỏng, tiểu đêm nhiều lần.",
+    "contraindication": "- Không dùng cho người mẫn cảm với thành phần của thuốc\n\n- Không dùng cho phụ nữ có thai và trẻ em dưới 15 tuổi, người thận âm hư\n\n- Người tăng huyết áp, suy tim.",
+    "dosage": "Người lớn ngày uống 2 - 3 lần, mỗi lần 2 - 3 viên."
+  }
 }

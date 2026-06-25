@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Taiko Pharmaceutical Co., Ltd",
   "manufacturer_country": "Japan",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Creosote; Powdered Geranium Herb; Phellodendron bark dry extract",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

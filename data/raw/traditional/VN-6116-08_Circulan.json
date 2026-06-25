@@ -6,6 +6,18 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Dong-A Pharm Co., Ltd",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Crataegus, Cao sả, Cao ginkgo biloba, Tinh dầu tỏi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Các triệu chứng do rối loạn tuần hoàn như suy giảm trí nhớ, giảm tập trung, hoa mắt, mệt mỏi. Hỗ trợ điều trị tăng huyết áp, rối loạn lipid máu, suy tim giai đoạn sớm Phòng ngừa tai biến, bệnh tim mạch ở người cao tuổi Các triệu chứng do rối loạn tuần hoàn như suy giảm trí nhớ, giảm tập trung, hoa mắt, mệt mỏi. Hỗ trợ điều trị tăng huyết áp, rối loạn lipid máu, suy tim giai đoạn sớm Phòng ngừa tai biến, bệnh tim mạch ở người cao tuổi",
+    "contraindication": "Mẫn cảm với bất cứ thành phần nào của thuốc\nPhụ nữ có thai và cho con bú.\nTrẻ < 7 tuổi",
+    "dosage": "Người lớn và trẻ > 7 tuổi: 1-2 viên x 2-3 lần/ngày.",
+    "side_effects": "Buồn nôn, nôn, tiêu chảy, đau đầu, hoa mắt, kích ứng da và ợ nóng"
+  }
 }

@@ -6,6 +6,13 @@
   "dosage_form": null,
   "manufacturer": "Tasly Holding Group Co., Ltd",
   "manufacturer_country": "CHINA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Nấm Linh chi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Hỗn dịch uống",
   "manufacturer": "Standard Chem & Pharm Co., Ltd",
   "manufacturer_country": "Taiwan",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Kaolin, pectin, tragacanth, acid benzoic",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

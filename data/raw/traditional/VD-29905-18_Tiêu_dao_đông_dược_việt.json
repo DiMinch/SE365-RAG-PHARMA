@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược phẩm Việt (Đông Dược Việt)",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 500mg cao đặc toàn phần tương đương 2.100mg hỗn hợp dược liệu gồm",
+      "amount": "Sài hồ 300mg; Đương quy 300mg; Bạch thược 300mg; Bạch truật 300mg; Phục linh 300mg; Cam thảo 240mg; Bạc hà 60mg; Gừng 300mg",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

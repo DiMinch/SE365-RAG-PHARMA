@@ -6,6 +6,13 @@
   "dosage_form": "Dung dịch",
   "manufacturer": "Xí nghiệp Hoá Dược",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao lỏng 10% Morphin",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

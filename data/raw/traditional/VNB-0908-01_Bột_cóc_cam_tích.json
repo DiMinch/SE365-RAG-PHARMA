@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc bột",
   "manufacturer": "Công ty TNHH bào chế Ðông Dược Thiên Ðăng",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột cóc, Bột Hoài sơn, Bột ý dĩ, Bột liên nhục",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

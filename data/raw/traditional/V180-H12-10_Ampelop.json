@@ -6,6 +6,17 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Chè dây",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Diệt trừ  Helicobacter Pylori.\n- Chống viêm, giảm đau.\n- Giảm tiết acid.\n- Liền sẹo vết loét dạ dày-hành tá tràng - Diệt trừ  Helicobacter Pylori.\n- Chống viêm, giảm đau.\n- Giảm tiết acid.\n- Liền sẹo vết loét dạ dày-hành tá tràng",
+    "contraindication": "Quá mẫn với thành phần của thuốc.",
+    "dosage": "- Phác đồ điều trị đơn độc: Uống 2 viên/lần x 3lần/ngày sau bữa ăn. Đợt điều trị 30 ngày liên tục.\n- Phác đồ điều trị phối hợp làm tăng hiệu lực diệt Helicobacter Pylori hạn chế tái phát. Đợt điều trị 30 ngày liên tục:\n + 10 ngày đầu tiên: 2 viên/lần x 3lần/ngày. Uống sau bữa ăn. Amoxycilin: 500 mg/lần x 2 lần/ngày. Metronidazol: 500 mg/lần x 2 lần/ngày. \n + Các ngày tiếp theo: 2 viên/lần x 3 lần/ngày. Uống sau bữa ăn."
+  }
 }

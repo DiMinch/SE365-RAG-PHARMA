@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Sphere Healthcare Pty., Ltd",
   "manufacturer_country": "AUSTRALIA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô quả Việt quất Vaccinium myrtillus fructus extractum 20mg tương đương quả tươi 2g (2000mg); Dầu cá tự nhiên (cá ngừ) 250mg (tương đương Docosahexaenoic acid 65mg và Eicosapentaenoic acid 15mg); Dầu cá tự nhiên 250mg (tương đương Eicosapentaenoic ac",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

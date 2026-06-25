@@ -56,5 +56,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2462/doc-hoat.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống. Trị phong thấp, đau lưng, đau dây thần kinh tọa, đau các khớp, đau cột sống.",
+    "contraindication": "Phụ nữ có thai. Người phong thấp thể hàn.\n\nTrẻ em dưới 12 tuổi.",
+    "dosage": "Uống sau bữa ăn từ 1-2 giờ. Người lớn và trẻ em trên 12 tuổi: Ngày uống 3 lần, mỗi lần 2 viên."
+  }
 }

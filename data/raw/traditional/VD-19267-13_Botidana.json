@@ -6,6 +6,23 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược DANAPHA",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "mg cao đặc tương ứng với",
+      "amount": "432 mg Bạch Linh, 432 mg Bạch truật;",
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "mg cao đặc, tương ứng với",
+      "amount": "250 mg Đảng sâm, 216 mg Bán hạ chế, 173 mg Sa nhân, 151 mg Cam thảo, 173 mg Trần bì, 215 mg Mộc hương",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Viêm loét dạ dày tá tràng, viêm đại tràng Tiêu hóa kém, đầy bụng khó tiêu, ăn uống không ngon miệng, nôn mửa. Viêm loét dạ dày tá tràng, viêm đại tràng Tiêu hóa kém, đầy bụng khó tiêu, ăn uống không ngon miệng, nôn mửa.",
+    "contraindication": "Người nhạy cảm với bất kỳ thành phần nào của thuốc.\nPhụ nữ có thai và cho con bú.",
+    "dosage": "Theo sự chỉ định của thầy thuốc, hoặc liều trung bình là: Người lớn: Viêm loét dạ dày tá tràng, viêm đại tràng: ngày 3 lần x 3 viên / lần. Tiêu hóa kém, đầy bụng khó tiêu, ăn uống không ngon, nôn mửa: ngày 3 lần x 2 viên / lần Trẻ em dùng nửa liều người lớn. Cách dùng: - Uống thuốc sau bữa ăn"
+  }
 }

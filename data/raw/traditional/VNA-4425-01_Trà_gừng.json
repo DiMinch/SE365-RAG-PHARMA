@@ -6,6 +6,18 @@
   "dosage_form": "Trà tan",
   "manufacturer": "Công ty cổ phần Dược phẩm Hà Nội",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Gừng",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Các trường hợp cảm lạnh, nhiễm lạnh, nhức đầu, nôn oẹ có đờm, ho mất tiếng, ho do lạnh, chân tay lạnh, thân thể đau mỏi. \n- Đau bụng lạnh, đầy trướng, rối loạn tiêu hoá, nôn mửa. Tác dụng: Ôn trung, trục hàn, hồi dương, thông mạch. Chỉ định: - Các trường hợp cảm lạnh, chân tay lạnh, ho do lạnh. - Trị đau bụng lạnh, đầy chướng, không tiêu hoặc nôn mửa, rối loạn tiêu hóa do lạnh.",
+    "contraindication": "- Người ra nhiều mồ hôi hoặc mất máu. - Người đái tháo đường, sốt cao.",
+    "dosage": "Hòa mỗi túi vào khoảng 40 ml nước nóng. Uống 1 túi x 2 - 3 lần/ngày. TRÀ GỪNG dùng thích hợp cho: - Người huyết áp thấp. - Người bị cảm lạnh. - Người đau bụng, rối loạn tiêu hóa do lạnh.",
+    "interactions": "Glycosid digitalis : ở những bệnh nhân tăng calci huyết dùng digitalis có thể gây ra loạn nhịp tim. Do đó, bệnh nhân cẩn trọng khi sử dụng đồng thời digitalis với Alfacalcidol.\nBarbiturat, thuốc chống co giật và gây cảm ứng men: những bệnh nhân sử dụng barbiturate hoặc các thuốc chống co giật gây cảm ứng men, cần tăng liều Alfacalcidol để đạt được kết quả mong muốn.\nThuốc ảnh hưởng đến độ hấp thu của ruột: độ hấp thu của Alfacalcidol có thể bị suy giảm khi dùng đồng thời với dầu khoáng ( sử dụng kéo dài);, cholestyramine, colestiopol, sucralfate hoặc một lượng lớn thuốc kháng acid chứa nhôm.\nMagnesi: cẩn thận trọng khi sử sử dụng thuốc kháng acid chứa magnesium hay thuốc nhuận tràng ở những bệnh nhân thẩm phân máu kéo dài đang điều trị với Alfacalcidol. Sự tăng magnesium huyết có thể xuất hiện.\nCalci/Thiazid: Nguy cơ tăng calci huyết thường cao ở những bệnh nhân dùng kết hợp Alfacalcidol với những chế phẩm có chứa calci hay Thiazid.\nVitamin D và các dẫn xuất: Alfacalcidol là dẫn xuất chính của Vitamin D. không nên kết hợp sử dụng Alfacalcidol với vitamin D hoặc các dẫn xuất của nó vì có khả năng làm tăng tác dụng của thuốc dẫn đến nguy cơ tăng calci huyết."
+  }
 }

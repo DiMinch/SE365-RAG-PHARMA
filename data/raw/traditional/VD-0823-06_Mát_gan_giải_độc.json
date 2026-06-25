@@ -62,5 +62,9 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2332/nhan-tran.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trong các trường hợp sốt nóng, phong ngứa, dị ứng, mụn nhọt, rôm, táo bón, tiểu ít, đắng miệng ăn không ngon.",
+    "contraindication": "Không dùng cho trẻ em dưới 3 tuổi.",
+    "dosage": "Trẻ em từ 3 đến 7 tuổi: Mỗi lần uống 10 ml, ngày 3 lần. Từ 7 đến dưới 10 tuổi: Mỗi lần uống 20 ml, ngày 3 lần. Từ 10 tuổi trở lên và người lớn: Mỗi lần uống 40 đến 60 ml, ngày 3 lần. (Một nắp đậy chai tương đương 15ml)."
+  }
 }

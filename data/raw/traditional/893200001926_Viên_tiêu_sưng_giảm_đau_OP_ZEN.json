@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Công ty cổ phần Dược phẩm OPC",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao tô mộc",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Dùng trong các trường hợp tụ máu, sưng đau do chấn thương."
+  }
 }

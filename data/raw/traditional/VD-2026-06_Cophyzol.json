@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty TNHH sản xuất Thương mại Dược phẩm N.I.C",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao lá actiso, cao lá mã đề, cao chi tử",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Điều trị các bệnh về gan, khó tiêu, chướng bụng thượng vị, chậm tiêu, ợ chua, đầy hơi, buồn nôn, mụn nhọt, ban ngứa, mề đay, viêm gan cấp, vàng da, táo bón."
+  }
 }

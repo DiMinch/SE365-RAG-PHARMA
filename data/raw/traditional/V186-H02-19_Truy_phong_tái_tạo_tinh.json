@@ -6,6 +6,13 @@
   "dosage_form": "cao lỏng",
   "manufacturer": "Công ty TNHH Dược phẩm Thế Cường",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 100 ml cao lỏng được chiết xuất từ",
+      "amount": "Nhân sâm 8g; Đương quy 8g; Tần Giao 7g; Mạch Môn 6g; Xuyên Khung 6g; Ngũ vị tử 5g; Bạch chỉ 5g; Ngô thù du 5g",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -26,5 +26,8 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2327/bach-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Trị cảm gió, cảm lạnh. Bệnh cúm. Đầy trướng bụng. Trị cảm gió, cảm lạnh. Bệnh cúm. Đầy trướng bụng.",
+    "contraindication": "Bệnh nhân mẫn cảm với bất cứ thành phần nào của thuốc"
+  }
 }

@@ -6,6 +6,16 @@
   "dosage_form": "Viên nang",
   "manufacturer": null,
   "manufacturer_country": null,
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao địa long",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Làm giảm nhanh cơn ngứa, làm khô vết thương. Tăng khả năng thích nghi của cơ thể trong những điều kiện làm việc gắng sức. Hạ men gan trong viêm gan mạn, viêm gan siêu virus B, gan nhiễm mỡ. Giảm mệt mỏi, chán ăn, ăn kém, rối loạn tiêu hoá. Làm giảm nhanh cơn ngứa, làm khô vết thương. Tăng khả năng thích nghi của cơ thể trong những điều kiện làm việc gắng sức. Hạ men gan trong viêm gan mạn, viêm gan siêu virus B, gan nhiễm mỡ. Giảm mệt mỏi, chán ăn, ăn kém, rối loạn tiêu hoá.",
+    "dosage": "Người lớn: 2 viên/lần x 2-3 lần/ngày. Trẻ em: 1/2 liều người lớn."
+  }
 }

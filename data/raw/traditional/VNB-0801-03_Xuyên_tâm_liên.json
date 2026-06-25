@@ -6,6 +6,16 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Dược vật tư Y tế Nghệ An",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Xuyên tâm liên",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Công năng: Thanh nhiệt, giải độc, tiêu thũng, giảm đau. Chỉ định: Cảm mạo, phát sốt, ho, viêm họng,  viêm amydal, viêm phổi, viêm ruột và dạ dày, tiêu chảy, kiết lỵ, tiểu gắt, sưng viêm do nhiệt độc. Công năng: Thanh nhiệt, giải độc, tiêu thũng, giảm đau. Chỉ định: Cảm mạo, phát sốt, ho, viêm họng,  viêm amydal, viêm phổi, viêm ruột và dạ dày, tiêu chảy, kiết lỵ, tiểu gắt, sưng viêm do nhiệt độc.",
+    "dosage": "Liều dùng: 2-3 viên x 3 lần."
+  }
 }

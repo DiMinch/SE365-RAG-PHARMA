@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén bao đường",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao đặc rễ hà thủ ô đỏ (tương đương 1,5g rễ hà thủ ô đỏ) 300mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Bổ thận, bổ huyết, chữa thận suy, thần kinh suy nhược, ngủ kém, thiếu máu, đau lưng mỏi gối, di mộng tinh. Làm đen râu tóc đối với người bạc tóc sớm, làm giảm khô và giảm rụng."
+  }
 }

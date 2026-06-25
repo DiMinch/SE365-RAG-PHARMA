@@ -6,6 +6,17 @@
   "dosage_form": "Viên nang mềm",
   "manufacturer": "Recipharm Fontaine",
   "manufacturer_country": "FRANCE",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Dịch chiết Pygeum africanum",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Rối loạn đường tiểu do phì đại lành tính tiền liệt tuyến. Di chứng phẫu thuật cắt bỏ tiền liệt tuyến. Rối loạn đường tiểu do phì đại lành tính tiền liệt tuyến. Di chứng phẫu thuật cắt bỏ tiền liệt tuyến.",
+    "contraindication": "Quá mẫn",
+    "dosage": "Liều dùng 100 mg/ngày, chia làm 2 lần; thông thường 6 tuần, có thể  kéo dài đến 8 tuần. Liệu trình này có thể lặp lại nếu cần thiết."
+  }
 }

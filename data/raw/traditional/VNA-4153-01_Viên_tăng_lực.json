@@ -6,6 +6,13 @@
   "dosage_form": "Viên hoàn cứng",
   "manufacturer": "Công ty cổ phần Dược Phú Thọ FUSHICO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột ý dĩ, Bột Hoài sơn, Bột đậu nành, Cao xương, Phòng Ðảng sâm",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

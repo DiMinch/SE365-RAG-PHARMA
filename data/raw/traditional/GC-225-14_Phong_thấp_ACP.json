@@ -20,5 +20,10 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2366/tho-phuc-linh.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Điều trị các chứng phong thấp và đau nhức xương khớp. Điều trị các chứng phong thấp và đau nhức xương khớp.",
+    "contraindication": "Mẫn cảm với các thành phần của thuốc.",
+    "dosage": "Người lớn: 2 – 3 viên/lần. Ngày uống 3 lần. Trẻ em: 1 – 2 viên/lần. Ngày uống 3 lần.",
+    "side_effects": "Có thể gây táo bón, nếu có hiện tượng bất thường khác nên ngừng sử dụng thuốc và hỏi ý kiến của Bác sĩ hoặc Dược sĩ."
+  }
 }

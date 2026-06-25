@@ -6,6 +6,13 @@
   "dosage_form": "Mật ong",
   "manufacturer": "Công ty TNHH Ðông Dược Lan Q",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mật ong nguyên chất",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

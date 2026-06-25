@@ -6,6 +6,13 @@
   "dosage_form": "Nhũ tương tiêm truyền tĩnh mạch",
   "manufacturer": "JW Pharmaceutical Corporation",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Dầu đậu nành tinh khiết 20%",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

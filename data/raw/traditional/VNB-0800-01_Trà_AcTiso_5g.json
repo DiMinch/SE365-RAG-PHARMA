@@ -6,6 +6,13 @@
   "dosage_form": "Trà hòa tan",
   "manufacturer": "Công ty Cổ phần Dược phẩm Thiên Thảo",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Actiso",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

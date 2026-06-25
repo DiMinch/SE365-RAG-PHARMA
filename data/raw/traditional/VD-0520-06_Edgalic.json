@@ -6,6 +6,15 @@
   "dosage_form": "Viên nén",
   "manufacturer": "Công ty cổ phần Dược phẩm Phong Phú PP.PHARCO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao tỏi",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Giúp làm giảm đầy hơi & hỗ trợ tiêu hóa, giúp dễ ợ nóng, giảm nồng độ cholesterol, giúp làm giảm đau khớp, ngăn ngừa & điều trị ho, cảm lạnh tái phát."
+  }
 }

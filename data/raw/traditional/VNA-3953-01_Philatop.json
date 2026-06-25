@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc nước",
   "manufacturer": "Công ty cổ phần Dược & trang thiết bị Y tế Quảng Ninh",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Gan lợn",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

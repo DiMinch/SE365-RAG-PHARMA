@@ -6,6 +6,37 @@
   "dosage_form": "viên nén bao film 400mg.",
   "manufacturer": "Công ty cổ phần Saman",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cratoxylon prunifolium (Ngành ngạnh)                         100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Radix glycyrrhizae   (Cam thảo)                              100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Folium Mori         (Tang diệp)                              100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Aloe sp           (Lô hội)                                   100mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    },
+    {
+      "name": "Tá dược",
+      "amount": "Vđ",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

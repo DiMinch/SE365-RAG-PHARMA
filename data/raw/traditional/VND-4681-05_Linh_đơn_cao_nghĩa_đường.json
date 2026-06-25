@@ -6,6 +6,13 @@
   "dosage_form": "Hoàn cứng",
   "manufacturer": "Cơ sở kinh doanh thuốc Y học Cổ truyền Cao Nghĩa Đường",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Bột gừng, hoạt thạch",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

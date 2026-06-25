@@ -6,6 +6,13 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "New Gene Pharm Co. Inc",
   "manufacturer_country": "KOREA",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cardus maranus extract",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

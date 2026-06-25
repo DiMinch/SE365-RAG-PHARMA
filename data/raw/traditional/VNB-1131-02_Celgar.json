@@ -6,6 +6,15 @@
   "dosage_form": "Viên bao phim",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột nghệ tinh chế",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Dùng chống oxy hoá, tăng cường miễn dịch, hỗ trợ điều trị ung thư và các bệnh suy giảm miễn dịch nói chung. \n- Làm lành vết loét niêm mạc dạ dày tá tràng, đại tràng."
+  }
 }

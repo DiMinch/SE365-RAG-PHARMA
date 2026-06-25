@@ -6,6 +6,17 @@
   "dosage_form": "Nguyên liệu làm thuốc",
   "manufacturer": "Công ty TNHH Thương mại Dược phẩm Thành Phát",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Đinh hương",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "[Thông tin hoạt chất Tinh dầu đinh hương] Theo y học cổ truyền, Tinh Dầu Đinh Hương tác dụng làm ấm tỳ, vị, thận và bổ dương nên được dùng để pha chế dầu massage trị liệu giúp tăng cường sinh lực cho cơ thể, giảm cảm giác ớn lạnh, cảm lạnh, cơ bắp tê, hoặc đau nhức do thấp khớp hoặc viêm khớp. Việc masage trị liệu với tinh dầu đinh hương còn làm giảm chứng đầy hơi, khó tiêu, giúp chống nôn; - Nhỏ vài giọt tinh dầu nụ đinh hương lên miếng bông để trong phòng giúp sát trùng, thanh lọc không khí và khử mùi tanh hôi. - sử dụng trong xông hơi giúp giảm trầm cảm và chóng mặt, làm tăng cường trí nhớ, chống suy nhược. - Có thể pha trộn với: Húng Quế, Vỏ Quế, Oải Hương, Gừng, Đàn Hương và lá xô thơm",
+    "dosage": "[Thông tin hoạt chất Tinh dầu đinh hương] Làm nước súc miệng: + Pha một ít dầu nền (dầu dừa, dầu oliu…);. Dùng bông tăm chấm hỗn hợp vào chỗ răng bị đau, làm vậy từ 2 – 3 lần giúp giảm đau. + Bảo vệ răng miệng bằng cách pha 1 – 2 giọt tinh dầu với nước, súc miệng mỗi buổi sáng. Xông hương: Nhỏ vài giọt tinh dầu vào đèn xông tinh dầu hoặc máy khuếch tán hương thơm sẽ lan tỏa khắp căn phòng giúp khử mùi và giảm stress. Xông hơi giải cảm: Nhỏ vài giọt tinh dầu Đinh Hương, tinh dầu Sả Chanh và tinh dầu vỏ Bưởi (có thể thêm vài giọt tinh dầu Khuynh Diệp, tinh dầu Gừng) vào nước ấm dùng khăn trùm kín mặt và chậu nước để hơi nước xông vào mũi. Pha tinh dầu vào bồn tắm: Cho 5-10 giọt tinh dầu đinh hương vào bồn tắm hoặc phòng xông hơi, ngâm mình 15 – 30 phút, giúp thư giãn tinh thần, giải tỏa căng thẳng mệt mỏi Masage: Pha tinh dầu với một vài tinh dầu khác và dầu nền, dùng hỗn hợp để massage toàn thân giúp điều trị bệnh thấp khớp, giảm đau và căng cơ.",
+    "pharmacology": "[Thông tin hoạt chất Tinh dầu đinh hương] Cây đinh hương thuộc họ Myrtaceae có nguồn gốc từ các nước Đông Nam Á như Indonesia. Cây thương gọi là cây xanh thân gỗ to dài. Người ta thường sử dụng đinh hương làm gia vị cũng như các chất diệt nấm hiệu quả. Tinh dầu nụ đinh hương Clove Pure essential oil có mùi hương cay, ấm, mạnh mẽ, giúp tĩnh tâm và chống trầm cảm.Trong y khoa thường dùng làm thuốc giảm đau;\n\nTinh dầu đinh hương có các tính chất gây tê và kháng vi trùng, và nó đôi khi được dùng để khử mùi hôi của hơi thở hay để cải thiện tình trạng đau răng. Nó hoặc thành phần chính của nó, eugenol, được các nha sĩ sử dụng để làm dịu cơn đau sau khi nhổ răng sâu và nó là mùi đặc trưng trong các phòng mạch nha khoa."
+  }
 }

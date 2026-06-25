@@ -6,6 +6,13 @@
   "dosage_form": "Viên nén bao phim",
   "manufacturer": "Công ty TNHH Dược phẩm Nhất Nhất",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Mỗi 600ng cao hỗn hợp dược liệu tương đương với Huyền sâm 45 Ong; Thương nhĩ tử 450mg; Sinh địa 450mg; Mộc tặc 450mg; cỏ nhọ nồi 420mg; Cam thảo 420mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

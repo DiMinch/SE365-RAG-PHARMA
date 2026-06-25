@@ -6,6 +6,15 @@
   "dosage_form": "Viên nang",
   "manufacturer": "Công ty cổ phần Dược phẩm TW2",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao Diệp hạ châu",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "- Trị viêm gan, viêm gan virus, viêm gan mãn tính. \n- Thiểu năng gan, viêm gan gây mệt mỏi, ăn uống khó tiêu, vàng da, bí đại tiểu tiện, táo bón. Tiêu độc trong các trương hợp đinh râu, mụn nhọt, lở  ngứa."
+  }
 }

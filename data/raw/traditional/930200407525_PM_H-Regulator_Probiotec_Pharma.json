@@ -6,6 +6,19 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Probiotec Pharma Pty., Ltd",
   "manufacturer_country": "Australia",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Cao khô quả Vitex agnus castus (tương đương 200mg quả Vitex agnus castus khô) 20mg; Cao khô hạt đậu nành (có chứa 80mg isoflavon) 20mg",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Tác dụng dược lý: Vitex Agnus-Castus(Chasteberry): Chiết xuất quả cây trinh nữ được sử dụng để làm giảm những bất thường của chu kỳ kinh nguyệt, những khó chịu của giai đoạn tiền kinh nguyệt và cương đau ngực. Chiết xuất quả trinh nữ có tác dụng ức chế đối với sự sản xuất prolactin, do nó có tác dụng hoạt hóa thụ thể Dopamin D2 làm giảm các biểu hiện khó chịu của hội chứng tiền kinh nguyệt và các biểu hiện dễ cáu giận, thay đổi tâm trạng, cảm xúc và đau đầu ở thời kỳ mãn kinh. Chiết xuất quả trinh nữ có khả năng hoạt hóa thụ thể µ-opioid, nhờ vậy có tác dụng giảm đau ở trong hội chứng tiền kinh nguyệt và mãn kinh. Isoflavone đậu nành (Soy Isoflavone) Isoflavone là một loại phytoestrogen (oestrogen thực vật) có thể gắn kết trực tiếp vào thụ cảm thể oestrogen tế bào và hoạt động như là các điều biến thụ cảm thể oestrogen có chọn lọc. Isoflavone có tác dụng làm giảm mức độ nặng và sự xuất hiện của các triệu chứng ở thời kỳ mãn kinh và có tác dụng tốt đối với hệ tim mạch. Isoflavone có thể làm giảm sự mất xương do làm tăng hấp thu Canxi ở ống tiêu hóa giống như oestrogen nội sinh và vì vậy việc bổ sung Isoflavone lâu dài có thể làm giảm tình trạng mất xương ở thời kỳ mãn kinh và sau mãn kinh. Chỉ định: Giảm tần suất và mức độ của các cơn bốc hỏa và toát mồ hôi ở thời kỳ tiền mãn kinh, mãn kinh. Giảm các biểu hiện khó chịu về mặt tâm lý thường gặp trong thời kỳ tiền kinh nguyệt, mãn kinh (do thay đổi hóc môn) như thay đổi tâm trạng, dễ cáu giận, đau đầu. Giảm đau tức ngực. Hỗ trợ điều trị loãng xương. Tác dụng dược lý: Vitex Agnus-Castus(Chasteberry): Chiết xuất quả cây trinh nữ được sử dụng để làm giảm những bất thường của chu kỳ kinh nguyệt, những khó chịu của giai đoạn tiền kinh nguyệt và cương đau ngực. Chiết xuất quả trinh nữ có tác dụng ức chế đối với sự sản xuất prolactin, do nó có tác dụng hoạt hóa thụ thể Dopamin D2 làm giảm các biểu hiện khó chịu của hội chứng tiền kinh nguyệt và các biểu hiện dễ cáu giận, thay đổi tâm trạng, cảm xúc và đau đầu ở thời kỳ mãn kinh. Chiết xuất quả trinh nữ có khả năng hoạt hóa thụ thể µ-opioid, nhờ vậy có tác dụng giảm đau ở trong hội chứng tiền kinh nguyệt và mãn kinh. Isoflavone đậu nành (Soy Isoflavone) Isoflavone là một loại phytoestrogen (oestrogen thực vật) có thể gắn kết trực tiếp vào thụ cảm thể oestrogen tế bào và hoạt động như là các điều biến thụ cảm thể oestrogen có chọn lọc. Isoflavone có tác dụng làm giảm mức độ nặng và sự xuất hiện của các triệu chứng ở thời kỳ mãn kinh và có tác dụng tốt đối với hệ tim mạch. Isoflavone có thể làm giảm sự mất xương do làm tăng hấp thu Canxi ở ống tiêu hóa giống như oestrogen nội sinh và vì vậy việc bổ sung Isoflavone lâu dài có thể làm giảm tình trạng mất xương ở thời kỳ mãn kinh và sau mãn kinh. Chỉ định: Giảm tần suất và mức độ của các cơn bốc hỏa và toát mồ hôi ở thời kỳ tiền mãn kinh, mãn kinh. Giảm các biểu hiện khó chịu về mặt tâm lý thường gặp trong thời kỳ tiền kinh nguyệt, mãn kinh (do thay đổi hóc môn) như thay đổi tâm trạng, dễ cáu giận, đau đầu. Giảm đau tức ngực. Hỗ trợ điều trị loãng xương.",
+    "contraindication": "Bệnh nhân bị dị ứng với bất kỳ thành phần nào của thuốc.",
+    "dosage": "Người lớn : Uống 1 viên mỗi ngày trong bữa ăn hoặc theo sự chỉ dẫn của bác sĩ.",
+    "side_effects": "Rối loạn tiêu hóa, buồn nôn,\nĐau đầu,\nNgứa và mày đay, phát ban.\nHiếm gặp trứng cá, mất ngủ, tăng cân, và chảy máu kinh nguyệt bất thường.\n\nThông báo cho bác sĩ bất kỳ tác dụng phụ nào sẩy ra khi sử dụng thuốc.",
+    "interactions": "Hormone tuyến giáp, bisphosphonates (thuốc điều trị loãng xương), tetracycline hoặc kháng sinh nhóm quinolone: Glycine max có thể làm giảm hấp thu và hiệu quả của các thuốc này. Bệnh nhân uống các thuốc này riêng biệt ít nhất 2 giờ sau khi uống H-Regulator."
+  }
 }

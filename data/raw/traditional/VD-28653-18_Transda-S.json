@@ -20,5 +20,8 @@
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2564/la-vong.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Dùng trong các trường hợp lo âu, căng thẳng do các nguyên nhân khác nhau dẫn đến mất ngủ, hoặc giác ngủ đến chậm, dùng thay thế cho Diazepam khi bệnh nhân bị quen thuốc. Dùng giảm đau trong các trường hợp đau do co thắt ở đường tiêu hoá, tử cung, đau dây thần kinh, đau đầu cao huyết áp và đau cơ - xương - khớp, sốt cao gây co giật.",
+    "contraindication": "Mẫn cảm với các thành phần của thuốc"
+  }
 }

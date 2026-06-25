@@ -6,6 +6,13 @@
   "dosage_form": "Viên nang cứng",
   "manufacturer": "Chi nhánh Công ty TNHH Dược phẩm Dược liệu Mộc Hoa Tràm",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Diệp hạ châu đắng (1",
+      "amount": "4) 250mg (tương đương Diệp hạ châu đắng 1.000mg)",
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

@@ -6,6 +6,13 @@
   "dosage_form": "Thuốc mỡ",
   "manufacturer": "Học viện quân Y-Bộ Quốc phòng",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
+  "herbal_ingredients": [
+    {
+      "name": "Cao Sến toàn phần",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
   "sections": {}
 }

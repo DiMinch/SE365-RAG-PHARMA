@@ -9,40 +9,37 @@
   "herbal_ingredients": [
     {
       "name": "Kim ngân hoa Chính",
-      "amount": "150 mg",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2358/kim-ngan-hoa.aspx"
     },
     {
       "name": "Mẫu đơn bì",
-      "amount": "120 mg",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2364/mau-don-bi.aspx"
     },
     {
       "name": "Huyền sâm",
-      "amount": "120 mg",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2365/huyen-sam.aspx"
     },
     {
-      "name": "Mạch môn",
-      "amount": "120 mg",
+      "name": "Đại hoàng",
+      "amount": "null",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2429/mach-mon.aspx"
-    },
-    {
-      "name": "Địa hoàng",
-      "amount": "150 mg",
-      "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2540/dia-hoang.aspx"
+      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2516/dai-hoang.aspx"
     },
     {
       "name": "Hoàng Cầm",
-      "amount": "120 mg",
+      "amount": "null",
       "role": "Thành phần",
       "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2331/hoang-cam.aspx"
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Viêm xoang, viêm mũi dị ứng, chảy nước mũi, nghẹt mũi, sổ mũi, hắt hơi, nhức đầu, đau nhức vai gáy, cổ, đau vùng xương mặt, vùng trán, ho đàm nhớt, ù tai, nhức mắt. Nasalis thanh phế nhiệt, dưỡng âm, nhuận táo, đồng thời có tính gỉải độc, tiêu độc rất công hiệu. Do đó có thể giúp điều trị tận gốc các chứng viêm mũi, viêm đa xoang ( xoang sàng, xoang hàm, xoang trán...) cấp tính và mạn tính mà không cân phải phẫu thuật. Không gây mệt mỏi khó chịu, không có tác dụng phụ trong khi sử dụng.",
+    "dosage": "Người lớn uống 4-6 viên/lần, trẻ em thì uống giảm một nửa liều của người lớn. Đều dùng ngày 3 lần. Lưu ý Sản phẩm này là thực phẩm chức năng, không có tác dụng thay thế thuốc chữa bệnh."
+  }
 }

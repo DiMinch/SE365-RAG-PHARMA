@@ -6,6 +6,16 @@
   "dosage_form": "Viên bao đường",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
-  "herbal_ingredients": [],
-  "sections": {}
+  "herbal_ingredients": [
+    {
+      "name": "Bột tỏi ổn định",
+      "amount": null,
+      "role": "Thành phần",
+      "herb_url": null
+    }
+  ],
+  "sections": {
+    "indication": "Giúp làm giảm đầy hơi & hỗ trợ tiêu hóa, giúp dễ ợ nóng, giảm nồng độ cholesterol, giúp làm giảm đau khớp, ngăn ngừa & điều trị ho, cảm lạnh tái phát. Giúp làm giảm đầy hơi & hỗ trợ tiêu hóa, giúp dễ ợ nóng, giảm nồng độ cholesterol, giúp làm giảm đau khớp, ngăn ngừa & điều trị ho, cảm lạnh tái phát.",
+    "dosage": "Uống 1-2 viên trước hoặc sau khi ăn."
+  }
 }

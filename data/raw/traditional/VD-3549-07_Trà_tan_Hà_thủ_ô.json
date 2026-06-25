@@ -1,18 +1,21 @@
 {
   "source_url": "https://thuocbietduoc.com.vn/thuoc-4605/tra-tan-ha-thu-o.aspx",
   "drug_type": "TRADITIONAL_MEDICINE",
-  "name": "Trà tan Hà thủ ô",
-  "registration_number": "VD-3549-07",
-  "dosage_form": "Trà tan",
+  "name": "Trà hòa tan Hà thủ ô",
+  "registration_number": "893200188625",
+  "dosage_form": "Cốm trà",
   "manufacturer": "Công ty cổ phần TRAPHACO",
   "manufacturer_country": "VIETNAM",
   "herbal_ingredients": [
     {
-      "name": "Hà thủ ô Chính",
-      "amount": "3g, 100g",
+      "name": "Mỗi 3 g chứa",
+      "amount": "Cao đặc rễ hà thủ ô đỏ (tương đương 3g rễ hà thủ ô đỏ) 0,6g",
       "role": "Thành phần",
-      "herb_url": "https://thuocbietduoc.com.vn/thuoc-goc-2325/ha-thu-o.aspx"
+      "herb_url": null
     }
   ],
-  "sections": {}
+  "sections": {
+    "indication": "Bổ thận, bổ huyết, chữa thận suy, thần kinh suy nhược, ngủ kém, thiếu máu, đau lưng mỏi gối, di mộng tinh. Làm đen râu tóc đối với người bạc tóc sớm, làm giảm khô và giảm rụng. Người đang bị táo bón. Dị ứng với bất kỳ thành phần nào của thuốc Người có huyết áp thấp và đường huyết thấp. Bổ thận, bổ huyết, chữa thận suy, thần kinh suy nhược, ngủ kém, thiếu máu, đau lưng mỏi gối, di mộng tinh. Làm đen râu tóc đối với người bạc tóc sớm, làm giảm khô và giảm rụng.",
+    "dosage": "Trà hòa tan: 1 gói/lần x 2  lần/ngày. Viên bao đường: 2 - 3 viên/lần x  2 lần/ngày."
+  }
 }
